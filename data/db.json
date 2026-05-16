@@ -1,0 +1,1424 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "name": "專題管理員",
+      "email": "health.admin@gmail.com",
+      "role": "admin",
+      "loginProvider": "google",
+      "avatarUrl": "https://ui-avatars.com/api/?name=Admin&background=0b7f79&color=fff"
+    },
+    {
+      "id": "u-student",
+      "name": "一般使用者",
+      "email": "student.demo@gmail.com",
+      "role": "user",
+      "loginProvider": "google",
+      "avatarUrl": "https://ui-avatars.com/api/?name=Student&background=31515a&color=fff"
+    }
+  ],
+  "crawlerSources": [
+    {
+      "id": "src-zhangren",
+      "clinicName": "彰仁外科家醫科診所",
+      "baseUrl": "https://www.zhangrenclinic.com.tw/",
+      "urls": [
+        "https://www.zhangrenclinic.com.tw/zhesuo.html",
+        "https://www.zhangrenclinic.com.tw/",
+        "https://www.zhangrenclinic.com.tw/projects.html"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-cmuh",
+      "clinicName": "中國醫藥大學附設醫院",
+      "baseUrl": "https://www.cmuh.cmu.edu.tw/",
+      "urls": [
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5516",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=7175",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4869"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-ntuh",
+      "clinicName": "台大醫院健康教育中心",
+      "baseUrl": "https://health.ntuh.gov.tw/",
+      "urls": [
+        "https://health.ntuh.gov.tw/health/new/6456.html",
+        "https://health.ntuh.gov.tw/health/new/6487.html",
+        "https://health.ntuh.gov.tw/health/new/6260.html"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-mackay",
+      "clinicName": "馬偕紀念醫院",
+      "baseUrl": "https://www.mmh.org.tw/",
+      "urls": [
+        "https://www.mmh.org.tw/know_health_view.php?docid=133",
+        "https://www.mmh.org.tw/gi/index4_2_2.html",
+        "https://www.mmh.org.tw/know_health_view.php?docid=895",
+        "https://www.mmh.org.tw/child/know_health_view.php?docid=154",
+        "https://www.mmh.org.tw/child/know_health_view.php?docid=50",
+        "https://www.mmh.org.tw/know_health_view.php?docid=1404"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-mercy",
+      "clinicName": "仁慈醫院",
+      "baseUrl": "https://www.mercy.org.tw/",
+      "urls": [
+        "https://www.mercy.org.tw/?aid=521&iid=334&page_name=detail&pid=0"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-stm",
+      "clinicName": "天主教聖馬爾定醫院",
+      "baseUrl": "https://www.stm.org.tw/",
+      "urls": [
+        "https://www.stm.org.tw/diabetes/"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-chimei",
+      "clinicName": "奇美醫院",
+      "baseUrl": "https://www.chimei.org.tw/",
+      "urls": [
+        "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360005.html",
+        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320002.html"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-kmuh",
+      "clinicName": "高雄醫學大學附設中和紀念醫院",
+      "baseUrl": "https://www.kmuh.org.tw/",
+      "urls": [
+        "https://www.kmuh.org.tw/www/kmcj/data/11412/11.htm"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "src-femh",
+      "clinicName": "亞東紀念醫院",
+      "baseUrl": "https://www.femh.org.tw/",
+      "urls": [
+        "https://www.femh.org.tw/magazine/viewmag.aspx?ID=3812",
+        "https://www.femh.org.tw/magazine/viewmag?ID=11185",
+        "https://www.femh.org.tw/magazine/viewmag?ID=10883"
+      ],
+      "enabled": true
+    }
+  ],
+  "crawlRuns": [
+    {
+      "id": "run-seed",
+      "sourceId": "src-zhangren",
+      "mode": "browser",
+      "startedAt": "2026-05-15T13:03:33.112Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T13:03:40.477Z"
+    },
+    {
+      "id": "run-1778856131654",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:42:11.654Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:42:12.213Z"
+    },
+    {
+      "id": "run-1778856132238",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:42:12.238Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:42:12.390Z"
+    },
+    {
+      "id": "run-1778856132394",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:42:12.394Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:42:12.559Z"
+    },
+    {
+      "id": "run-1778856132564",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:42:12.564Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:42:12.747Z"
+    },
+    {
+      "id": "run-1778856190903",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:43:10.903Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:43:11.412Z"
+    },
+    {
+      "id": "run-1778856235494",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:43:55.494Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:43:55.737Z"
+    },
+    {
+      "id": "run-1778856235750",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:43:55.750Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:43:56.378Z"
+    },
+    {
+      "id": "run-1778856236386",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:43:56.386Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:43:56.506Z"
+    },
+    {
+      "id": "run-1778856236513",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:43:56.513Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:43:56.666Z"
+    },
+    {
+      "id": "run-1778856236683",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:43:56.683Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:43:56.849Z"
+    },
+    {
+      "id": "run-1778856564926",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:49:24.926Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:49:25.170Z"
+    },
+    {
+      "id": "run-1778856565184",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:49:25.184Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:49:25.666Z"
+    },
+    {
+      "id": "run-1778856565678",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:49:25.678Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:49:26.125Z"
+    },
+    {
+      "id": "run-1778856566130",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:49:26.130Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:49:26.275Z"
+    },
+    {
+      "id": "run-1778856566293",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:49:26.293Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:49:26.454Z"
+    },
+    {
+      "id": "run-1778857030349",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:57:10.349Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:57:11.424Z"
+    },
+    {
+      "id": "run-1778857031432",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-15T14:57:11.432Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T14:57:12.102Z"
+    },
+    {
+      "id": "run-1778857676076",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:07:56.076Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:07:56.303Z"
+    },
+    {
+      "id": "run-1778857676314",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:07:56.314Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:07:57.003Z"
+    },
+    {
+      "id": "run-1778857677012",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:07:57.012Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:07:57.111Z"
+    },
+    {
+      "id": "run-1778857677129",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:07:57.129Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:07:57.293Z"
+    },
+    {
+      "id": "run-1778857677299",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:07:57.299Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:07:57.483Z"
+    },
+    {
+      "id": "run-1778857680686",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:08:00.686Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:08:01.814Z"
+    },
+    {
+      "id": "run-1778857681823",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:08:01.823Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:08:02.081Z"
+    },
+    {
+      "id": "run-1778858027681",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:13:47.681Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:13:47.869Z"
+    },
+    {
+      "id": "run-1778858027879",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:13:47.879Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:13:48.305Z"
+    },
+    {
+      "id": "run-1778858028315",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:13:48.315Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:13:48.388Z"
+    },
+    {
+      "id": "run-1778858028402",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:13:48.402Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:13:48.556Z"
+    },
+    {
+      "id": "run-1778858028561",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:13:48.561Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:13:48.768Z"
+    },
+    {
+      "id": "run-1778858031727",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:13:51.727Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:13:52.840Z"
+    },
+    {
+      "id": "run-1778858032846",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:13:52.846Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:13:53.110Z"
+    },
+    {
+      "id": "run-1778858378634",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:19:38.634Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:19:38.851Z"
+    },
+    {
+      "id": "run-1778858378865",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:19:38.865Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:19:39.353Z"
+    },
+    {
+      "id": "run-1778858379359",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:19:39.359Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:19:39.460Z"
+    },
+    {
+      "id": "run-1778858379464",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:19:39.464Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:19:39.611Z"
+    },
+    {
+      "id": "run-1778858379615",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:19:39.616Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:19:39.822Z"
+    },
+    {
+      "id": "run-1778858385020",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:19:45.020Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:19:46.123Z"
+    },
+    {
+      "id": "run-1778858386136",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:19:46.136Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:19:46.374Z"
+    },
+    {
+      "id": "run-1778858476688",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:21:16.688Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:21:19.446Z"
+    },
+    {
+      "id": "run-1778858479451",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:21:19.451Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:21:20.020Z"
+    },
+    {
+      "id": "run-1778859590604",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:50.604Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:50.829Z"
+    },
+    {
+      "id": "run-1778859590844",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:50.844Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:51.423Z"
+    },
+    {
+      "id": "run-1778859591428",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:51.428Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:51.882Z"
+    },
+    {
+      "id": "run-1778859591886",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:51.886Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:52.033Z"
+    },
+    {
+      "id": "run-1778859592038",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:52.038Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:52.211Z"
+    },
+    {
+      "id": "run-1778859592218",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:52.218Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:52.698Z"
+    },
+    {
+      "id": "run-1778859592712",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:52.712Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:52.996Z"
+    },
+    {
+      "id": "run-1778859593003",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:53.003Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:53.060Z"
+    },
+    {
+      "id": "run-1778859593066",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:39:53.066Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:39:53.564Z"
+    },
+    {
+      "id": "run-1778859711934",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:51.934Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:52.152Z"
+    },
+    {
+      "id": "run-1778859712163",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:52.163Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:52.835Z"
+    },
+    {
+      "id": "run-1778859712841",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:52.841Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:52.924Z"
+    },
+    {
+      "id": "run-1778859712929",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:52.929Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:53.094Z"
+    },
+    {
+      "id": "run-1778859713099",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:53.099Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:53.269Z"
+    },
+    {
+      "id": "run-1778859713275",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:53.275Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:53.752Z"
+    },
+    {
+      "id": "run-1778859713757",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:53.757Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:54.017Z"
+    },
+    {
+      "id": "run-1778859714031",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:54.031Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:54.086Z"
+    },
+    {
+      "id": "run-1778859714090",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:41:54.090Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:41:54.620Z"
+    },
+    {
+      "id": "run-1778859775509",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:42:55.509Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:42:56.071Z"
+    },
+    {
+      "id": "run-1778859776081",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:42:56.081Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:42:56.355Z"
+    },
+    {
+      "id": "run-1778859776361",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:42:56.361Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:42:56.418Z"
+    },
+    {
+      "id": "run-1778859776423",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:42:56.423Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:42:58.961Z"
+    },
+    {
+      "id": "run-1778859778971",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-15T15:42:58.971Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-15T15:42:59.118Z"
+    },
+    {
+      "id": "run-1778915423537",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:10:23.537Z",
+      "status": "completed",
+      "found": 4,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:10:23.885Z"
+    },
+    {
+      "id": "run-1778915498400",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:11:38.400Z",
+      "status": "completed",
+      "found": 4,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:11:38.768Z"
+    },
+    {
+      "id": "run-1778915587805",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:13:07.805Z",
+      "status": "completed",
+      "found": 5,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:13:08.367Z"
+    },
+    {
+      "id": "run-1778917993108",
+      "sourceId": "src-ntuh",
+      "mode": "browser",
+      "startedAt": "2026-05-16T07:53:13.108Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:53:15.280Z"
+    },
+    {
+      "id": "run-1778918268266",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:48.266Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:48.552Z"
+    },
+    {
+      "id": "run-1778918268558",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:48.558Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:49.156Z"
+    },
+    {
+      "id": "run-1778918269163",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:49.163Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:49.323Z"
+    },
+    {
+      "id": "run-1778918269329",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:49.329Z",
+      "status": "completed",
+      "found": 7,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:49.869Z"
+    },
+    {
+      "id": "run-1778918269874",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:49.874Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:50.089Z"
+    },
+    {
+      "id": "run-1778918270094",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:50.094Z",
+      "status": "failed",
+      "found": 0,
+      "errors": [
+        "https://www.stm.org.tw/diabetes/: 略過非完整衛教文章或列表頁。"
+      ],
+      "finishedAt": "2026-05-16T07:57:50.659Z"
+    },
+    {
+      "id": "run-1778918270667",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:50.667Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:50.957Z"
+    },
+    {
+      "id": "run-1778918270963",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:50.963Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:51.037Z"
+    },
+    {
+      "id": "run-1778918271045",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-16T07:57:51.045Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T07:57:51.771Z"
+    },
+    {
+      "id": "run-1778918430983",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:30.983Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:31.207Z"
+    },
+    {
+      "id": "run-1778918431214",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:31.214Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:31.926Z"
+    },
+    {
+      "id": "run-1778918431940",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:31.940Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:32.057Z"
+    },
+    {
+      "id": "run-1778918432063",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:32.063Z",
+      "status": "completed",
+      "found": 6,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:32.504Z"
+    },
+    {
+      "id": "run-1778918432514",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:32.514Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:32.738Z"
+    },
+    {
+      "id": "run-1778918432746",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:32.746Z",
+      "status": "failed",
+      "found": 0,
+      "errors": [
+        "https://www.stm.org.tw/diabetes/: 略過非完整衛教文章或列表頁。"
+      ],
+      "finishedAt": "2026-05-16T08:00:33.234Z"
+    },
+    {
+      "id": "run-1778918433241",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:33.241Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:33.573Z"
+    },
+    {
+      "id": "run-1778918433580",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:33.580Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:33.649Z"
+    },
+    {
+      "id": "run-1778918433661",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-16T08:00:33.661Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-16T08:00:34.396Z"
+    }
+  ],
+  "articles": [
+    {
+      "id": "crawl-75e34fbe68",
+      "title": "沙鹿糖尿病診所、沙鹿高血壓診所、失眠診所",
+      "clinicName": "彰仁外科家醫科診所",
+      "category": "慢性病",
+      "summary": "慢性病治療診所 慢性病治療為什麼選擇沙鹿彰仁外科家醫科診所? 彰仁外科家醫科診所已在沙鹿服務超過45年，目前診所看診醫師都是國內醫學系畢業，且在大醫院受多年完整訓練的專科醫師，並持續進修各類最新醫學研究與趨勢。彰仁外科家醫科診所使用之藥物皆...",
+      "fullContent": "慢性病治療診所 慢性病治療為什麼選擇沙鹿彰仁外科家醫科診所? 彰仁外科家醫科診所已在沙鹿服務超過45年，目前診所看診醫師都是國內醫學系畢業，且在大醫院受多年完整訓練的專科醫師，並持續進修各類最新醫學研究與趨勢。彰仁外科家醫科診所使用之藥物皆為國內外大藥廠製造，並使用最新全自動包藥機，雖然成本較高但品質絕對有保障！本診所也備有最新的心電圖機、超音波、糖尿病全自動免散瞳眼底攝影儀，能讓醫師早期發現疾病，協助更精確的診斷。因為診所能維持穩定且專業的服務，目前也是國泰、台灣、南山、遠雄等的知名人壽保險公司的特約體檢診所。慢性病包含(三高)高血壓、高血脂、糖尿病、痛風、甲狀腺亢進及低下、貧血、焦慮失眠的照顧，因為患者常合併多種慢性病，更需要有經驗的團隊為每位患者量身定制包含藥物、運動、飲食、生活習慣的慢性病管理計劃。 為什麼糖尿病、高血壓、高血脂(三高)要治療？？ 患者剛診斷三高時，常困惑自己一直都很健康沒有特別不舒服，只是血壓計及抽血報告數字異常，為什麼需要長期吃藥呢？因為糖尿病、高血壓、高血脂這三高會大幅增加腦中風、心肌梗塞、腎臟病、及周邊動脈疾病的機率，國人十大死因中也有六項和三高有關係。早期發現早期治療，能有效延緩動脈硬化及器官衰竭，但糖尿病、高血壓、高血脂除了飲食、運動、生活作息、也和家族遺傳有很大關聯，如何制定周詳的治療計畫，需要醫師的專業及詳細的問診才能找到最適合患者的治療方式。如有健檢報告異常，或是有家族遺傳，彰仁外科家醫科診所可提供完整檢查，並和您討論周全的治療計畫。 困擾現代人的焦慮與失眠 進入AI世代，過量的訊息轟炸及後疫情時代仍餘波盪漾的不安，焦慮與失眠盛行率節節攀高。根據統計，台灣成年人中有25%有失眠經驗，長期失眠者高達10%，其中又以女性和長者占多數，長期失眠的患者不只影響白天工作課業表現，還會對身心造成巨大負荷，降低身體免疫力、造成各種疾病，不可輕忽！因為焦慮或失眠前來求診的患者，表現不盡相同，背後的原因更是天差地別，但都同樣造成患者深深的困擾。 推薦您至彰仁外科家醫科診所，醫師會根據年齡性別評估患者睡眠的習慣，屬於哪一種睡眠障礙，是否有急性壓力源，並找出可能干擾睡眠的環境、藥物因素、或內科疾病，也會根據患者狀況開立合適的藥物輔助睡眠，並衛教藥物使用注意事項。如果已經失眠好一陣子，請不要著急，和醫師討論後改善生活作息，並規律回診慢慢調整藥物，相信失眠的狀況都會慢慢得到緩解。 Q1：血壓怎麼量？多高才算高血壓？ A1：台灣高血壓醫學會建議平常居家測量，依據722原則，「7」連續七天量測、「2」早上起床後、晚上睡覺前各量一次、「2」每次量兩遍，居家血壓值大於130/80 mmHg，即為高血壓。 Q2：醫師說要打胰島素是不是很嚴重，快要洗腎了？ A2：胰島素本身並不會造成洗腎，正常人飯後血糖升高，胰臟本來就會分泌胰島素。會導致洗腎的是長期控制不好的高血糖所造成的腎臟傷害。近年來，新的糖尿病口服藥物問世，除了降血糖外，亦同時有保護腎臟的作用。如有高血糖問題，推薦您來彰仁外科家醫科診所，經過醫師詳細的評估檢查，擬定最適合您的治療計畫。 Q3：吃安眠藥是不是要吃一輩子？會不會加快失智？ A3：正確使用安眠藥，可以改善睡眠品質，配合生活作息的調整，如果情況漸趨穩定，可以嘗試逐步減藥，直到不再需要藥物。 至於擔憂藥物造成失智症的部分，目前的研究尚無定論，但可以確定長期睡眠不足會提高失智及心血管疾病的風險並降低免疫力。安眠藥物若不當使用也有嗜睡、夢遊、成癮等副作用，因此需經過醫師審慎評估，並配合醫師建議調整生活作息，才能達到最佳療效！ 沙鹿彰仁外科家醫科診所還提供疫苗服務包括帶狀皰疹疫苗、B型肝炎疫苗、流感疫苗、9價子宮頸癌疫苗以及13價肺炎鏈球菌疫苗，對於慢性病患者，我們深知糖尿病與高血壓患者對於醫療團隊的依賴性有多高。因此診所聚集了一群經驗豐富的醫療專家，不僅有著專業的知識，更擁有一顆關懷患者的心，相信好的醫療服務不僅是治療身體的疾病更是心靈上的支持。 地址：台中市沙鹿區大同街65號",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "三高",
+        "失眠",
+        "焦慮"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.zhangrenclinic.com.tw/zhesuo.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:31.126Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-b74eedf5cc",
+      "title": "彰仁外科家醫科診所",
+      "clinicName": "彰仁外科家醫科診所",
+      "category": "慢性病",
+      "summary": "*可左右滑動查看門診時間* 週一 週二 週三 週四 週五 週六 週日 上午 08:30-12:00 V V V V V V 休 下午 14:30-18:00 V V V V V V 休 晚上 19:00-21:00 V V V V V V ...",
+      "fullContent": "*可左右滑動查看門診時間* 週一 週二 週三 週四 週五 週六 週日 上午 08:30-12:00 V V V V V V 休 下午 14:30-18:00 V V V V V V 休 晚上 19:00-21:00 V V V V V V 休 ※停診公告請於臉書專頁查詢※ 地址：台中市沙鹿區大同街65號 電話：04-26622902 本網站依據(醫療機構網際網路資訊管理辦法)規定：禁止任何網際網路服務業者轉錄其網路資訊之內容供人點閱。但以網路搜尋或超連結方式，進入醫療機構之網址(域)直接點閱者，不在此限。 沙鹿甲溝炎 · 梧棲外傷換藥、龍井外傷換藥 · 沙鹿糖尿病診所、高血壓診所、失眠診所 · 沙鹿腸胃炎專治 · 沙鹿疼痛治療",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "失眠",
+        "外傷",
+        "換藥",
+        "甲溝炎",
+        "腸胃炎"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.zhangrenclinic.com.tw/",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:31.171Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-b701090f81",
+      "title": "診療項目",
+      "clinicName": "彰仁外科家醫科診所",
+      "category": "綜合診療",
+      "summary": "診 治 項 目 01 外科處置 外傷縫合、甲溝炎、皮脂腺瘤、電燒、局部清瘡 02 慢性病 高血壓、高血脂、糖尿病、痛風、甲狀腺亢進及低下、貧血、慢性肝炎、焦慮失眠 03 急性疾病 感冒、發燒、頭痛、腸胃炎、泌尿道感染 04 皮膚病 青春痘、...",
+      "fullContent": "診 治 項 目 01 外科處置 外傷縫合、甲溝炎、皮脂腺瘤、電燒、局部清瘡 02 慢性病 高血壓、高血脂、糖尿病、痛風、甲狀腺亢進及低下、貧血、慢性肝炎、焦慮失眠 03 急性疾病 感冒、發燒、頭痛、腸胃炎、泌尿道感染 04 皮膚病 青春痘、皮膚炎、帶狀皰疹、灰指甲、雷射除斑、除痣 05 婦女相關疾病 陰道炎、延經、更年期症候群、乳腺炎 *由女醫師診治 06 疼痛治療 下背痛、落枕、頭痛、慢性疼痛、局部止痛注射 07 健康檢查及疫苗 國泰、台灣、南山、遠雄等人壽保險特約體檢診所 帶狀皰疹疫苗，B型肝炎疫苗，流感疫苗，9價子宮頸癌疫苗，13價肺炎鏈球菌疫苗 Dịch vụ y tế Khâu vết thương / Thay băng vết thương Viêm quanh móng(Paronychia) Viêm dạ dày ruột cấp tính Cảm lạnh /Sốt Đau đầu Nhiễm trùng đường tiết niệu Mất ngủ 台北全瓷貼片價格 台中物理治療 胃肉毒減重 乾癬牛皮癬 Medical Services Surgical Suture/Wound care Paronychia/Ingrown toenail Gastroenteritis Common cold/Fever Headache Urinary tract infection Insomnia 地址：台中市沙鹿區大同街65號",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "失眠",
+        "焦慮",
+        "疫苗",
+        "帶狀皰疹",
+        "流感",
+        "外傷",
+        "甲溝炎",
+        "腸胃炎",
+        "感冒",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.zhangrenclinic.com.tw/projects.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:31.207Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-4c6e771b77",
+      "title": "流行性感冒疫苗及接種注意事項",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "疫苗",
+      "summary": "2025/3/4 流行性感冒，是指由流感病毒（Influenza virus）所引起的急性呼吸道感染，流感病毒分為 A、B 及 C 型，主要會引起季節性流行的是 A 型和 B 型，C 型則以輕微的上呼吸道感染為表現。目前主要感染人類的 A ...",
+      "fullContent": "2025/3/4 流行性感冒，是指由流感病毒（Influenza virus）所引起的急性呼吸道感染，流感病毒分為 A、B 及 C 型，主要會引起季節性流行的是 A 型和 B 型，C 型則以輕微的上呼吸道感染為表現。目前主要感染人類的 A 型流感病毒為 H1N1 與 H3N2。 與一般感冒比起來，流感的症狀通常發作較突然且嚴重，其痊癒的時間也比一般感冒長，從一個星期到幾個星期才能完全恢復，有時還會引起肺炎、腦炎、心包膜炎等併發症，甚至導致死亡。流感病毒還有一個重要特點，即非常容易發生突變，且傳染力相當強，當病毒外表的抗原發生變化的時候，會具有侵襲大部分人群的能力，而依其變異程度不同會在短時間內造成規模不等的流行。 接種建議 流感疫苗之保護力因年齡或身體狀況不同而異，對健康的成年人有 70 ％ ∼ 90 ％ 的保護效果，對老年人則可減少 50 ％ ∼ 60 ％，因為罹患流感造成併發症之住院，並可減少 80 ％ 之死亡率。 此外，疫苗保護效果亦需視當年疫苗株與實際流行的病毒株型別是否相符，一般保護力會隨病毒型差異加大而降低。完成流感疫苗接種後，至少約需 2 週，才會產生保護力，接種 4 ∼ 6 個月後疫苗的保護效果即可能下降，保護力一般不超過 1 年，因此建議每年均須接種 1 次。 目前的流感疫苗分成三價與四價的疫苗。每年公費流感疫苗會依世界衛生組織每年對北半球建議更新病毒株組成，包含 2 種 A 型（H1N1/H3N2）、2 種 B 型，除了公費施打對象外，一般民眾也可以考慮自費施打。 因應 B 型流感時常預測失準的防疫漏洞：在台灣 2000 ~ 2016 年 B 型流感預測只有 47 % 的正確率，目前已經上市有涵蓋 2 種 A 型和 2 種 B 型 ( Victoria 系與 Yamagata 系 ) 的自費四價流感疫苗，提供完整預防流感的另一個選擇。四價疫苗中若 B 型流感預測正確，會有 8 成以上的保護力，而預測錯誤就只有 3 ~ 4 成的保護力。 哪些人不適合接種流感疫苗？ 對疫苗的成份有過敏者、過去注射曾經發生嚴重不良反應者，不予接種。 流感疫苗安全嗎？有什麼可能的副作用？ 接種後可能會有注射部位疼痛、紅腫，少數的人會有全身性的輕微反應，如發燒、頭痛、肌肉酸痛、噁心、皮膚搔癢、蕁麻疹或紅疹等，一般會在發生後 1 ~ 2 天內自然恢復。 嚴重的副作用如立即型過敏反應，甚至過敏性休克等不適情況極少發生，若不幸發生，通常於接種後幾分鐘至幾小時內即出現症狀。建議為了能在事件發生後立即進行醫療處置，接種疫苗後應於接種單位或附近稍做休息，並觀察至少 30 分鐘以上，待無不適後再離開。 貼心提醒 完成疫苗接種後，雖可有效降低感染流感病毒的機率，但仍可能罹患其他非流感病毒所引起的呼吸道感染，請注意個人衛生保健及各種預防措施，維護身體健康。 世界衛生組織建議四價流感疫苗對於 B 型流感具有比三價疫苗更廣泛的保護力，本院有提供民眾公費及自費之四價疫苗，若有疑問，請至家庭醫學科諮詢。 參考資料 許玉龍、黃高彬（2020）．接種季節流感疫苗後的保護效力與抗體減退之探討． 感染控制雜誌，30（3），179 -187。 https://doi.org/10.6526/ICJ.202006_30 (3).0003 衛生福利部疾病管制署（2023，9月1日）．疫苗安全及接種篇。https://www.cdc.gov.tw/Category/QAPage/kdRH13t_DqJHL4n3N0RVHg",
+      "keywords": [
+        "疫苗",
+        "流感",
+        "感冒",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5516",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:31.526Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-14f927c8ec",
+      "title": "Adult Immunization Schedule 成人疫苗注射時程你完成了嗎？",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "疫苗",
+      "summary": "2025/3/4 Preventive vaccination is the most economical and effective measure against infectious diseases. Most children ...",
+      "fullContent": "2025/3/4 Preventive vaccination is the most economical and effective measure against infectious diseases. Most children take vaccines, but adult vaccines are often neglected, or the purpose and timing of vaccination for adults are often obscured. Generally speaking, the purposes of adult vaccines are as follows: Those who when being a child were not vaccinated or vaccinated but the antibody disappeared or the antibody was not generated. Routine vaccination for non-infants is necessary for adults or high-risk groups. Special considerations for traveling. While taking care of your baby, don't forget your own health and rights! What vaccines need to be administered? In conjunction with existing vaccines in Taiwan, the following adult vaccines and vaccination schedules recommended by the Taiwan Centers for Disease Control (CDC) are summarized as follows. For details of other vaccines, please refer to the health education leaflet or discuss with your family physician: Live attenuated vaccines: measles, mumps, and rubella (MMR) vaccine, varicella vaccine, Japanese encephalitis vaccine, herpes zoster vaccine. Inactivated vaccines: human papillomavirus vaccine (HPV), hepatitis A vaccine, hepatitis B vaccine, tetanus and diphtheria or tetanus, diphtheria and pertussis (Td or Tdap) vaccine, influenza vaccine, 23-valent pneumococcal polysaccharide vaccine (PPSV23), and 13-valent pneumococcal conjugate vaccine (PCV13). Vaccine suggestions Age Strong suggestions (Those with no relevant medical history, vaccination history or serological immunity evidence in this age group) Special high risk groups Recommendations for additions 16 – 26 3 doses of HPV vaccine (female) (0, 2, 6 months) 3 doses of HPV vaccine (male) (0, 2, 6 months) 19 – 49 1 dose of Td (Tdap) every 10 years 2 doses MMR vaccine 2 doses of varicella vaccine 1 dose of influenza vaccine per year At least 1 dose of hepatitis B vaccine for those with insufficient antibodies 2 doses of hepatitis A vaccine Pneumococcal vaccine (1 dose for 13 valent; 1 or 2 doses for 23 valent) 1 dose of live attenuated Japanese encephalitis vaccine 50 – 64 1 dose of Td (Tdap) every 10 years 2 doses MMR vaccine 2 doses of varicella vaccine or 1 dose of herpes zoster vaccine 3 doses of hepatitis B vaccine 1 dose of influenza vaccine per year 2 doses of hepatitis A vaccine Pneumococcal vaccine (1 dose for 13 valent; 1 or 2 doses for 23 valent) 1 dose of live attenuated Japanese encephalitis vaccine 65 or older 1 dose of Td every 10 years 2 doses MMR vaccine 2 doses of varicella vaccine or 1 dose of herpes zoster vaccine 3 doses of hepatitis B vaccine 1 dose of influenza vaccine per year 2 doses of hepatitis A vaccine Pneumococcal vaccine (1 dose for 13 valent; 1 dose for 23 valent) 1 dose of live attenuated Japanese encephalitis vaccine Pregnant women 1 dose of influenza vaccine 1 dose of Td (Tdap) (the best benefit of vaccination at 28-36 weeks of pregnancy) At least 1 dose of hepatitis B vaccine for those with insufficient antibodies Pneumococcal vaccine (1 dose for 13 valent; 1 or 2 doses for 23 valent) 2 doses of hepatitis A vaccine Tdap: tetanus, diphtheria and pertussis vaccine Td: tetanus and diphtheria vaccine MMR: measles, mumps, and rubella vaccine (The interval between the two doses is at least 4 weeks) Two doses of hepatitis A vaccine (6-12 months apart) Two doses of varicella vaccine (4-8 weeks apart) Reference 台灣家庭醫學醫學會（2023，3月16日）．成人預防接種建議時程表（2023）。https://www.tafm.org.tw/ehc-tafm/s/w/news_news/article/744ee935c2c64f38aeb5e3ccd42e799e",
+      "keywords": [
+        "疫苗"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=7175",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:31.744Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-0f348b3982",
+      "title": "預防針不嫌晚～談成人疫苗",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "疫苗",
+      "summary": "台大北護分院家庭醫學科 李伊真醫師 (2022/06/21) 成人之疫苗接種原則大致可區分為下列幾種：(1)幼兒時接種之常規疫苗，於成年後抗體減少或消失，故須追加接種、(2)幼兒時期未完成基礎接種之常規疫苗、(3)所有成人均建議施打之疫苗、...",
+      "fullContent": "台大北護分院家庭醫學科 李伊真醫師 (2022/06/21) 成人之疫苗接種原則大致可區分為下列幾種：(1)幼兒時接種之常規疫苗，於成年後抗體減少或消失，故須追加接種、(2)幼兒時期未完成基礎接種之常規疫苗、(3)所有成人均建議施打之疫苗、(4)感染疾病之高風險群(如慢性疾病患者、免疫功能不全之患者等)建議接種之疫苗、(5)國際旅遊時必要接種之疫苗。對於一般健康成人之疫苗施打建議，請參考下表。 成人預防接種建議時程表（疾管署109年1月版） I.破傷風、白喉、百日咳相關疫苗（Tdap/Td） A. 疫苗簡介 破傷風、減量白喉混合疫苗（Td）：降低白喉疫苗的劑量以減低副作用，使用在 6 歲以上，做為預防白喉和破傷風的輔助免疫。一般完成DTP/DTaP疫苗接種的小孩，95％可以維持 10年左右的破傷風、白喉預防效果，建議每隔 10年追加一劑Td疫苗。 減量破傷風白喉非細胞性百日咳混合疫苗（Tdap）：利用破傷風和白喉桿菌所分泌出來的外毒素，經減毒製成類毒素，與經過純化的百日咳抗原成份混合製成。 B. 接種建議 對自身疫苗接種史不清楚或是未完成基礎接種者，建議應先完成3劑的破傷風、減量白喉混合疫苗（Td）。前兩劑至少間隔 4 週，第三劑與第二劑至少間隔 6 個月。成人可以Tdap取代其中任 1 劑Td。目前國內外尚無接種第二劑Tdap之建議。 完成基礎接種之成年人，建議每隔 10年追加一劑Td疫苗，其中一劑以Tdap取代Td。高危險群如醫療照護人員、孕前婦女、嬰兒照顧者應優先接種Tdap疫苗。 C. 注意事項 患有進行性痙攣症或神經系統疾病者，宜於醫師判斷病情已經穩定後才注射疫苗。 先前接種含破傷風疫苗後 6週內曾發生過格林─巴利症候群(Guillain-Barre syndrome)者，須請醫師判斷是否合適接種。 曾接種含破傷風類毒素疫苗後，發生Arthus過敏反應者，與次劑含破傷風類毒素疫苗應間隔 10年以上再接種。 II.麻疹腮腺炎德國麻疹混合疫苗(MMR) A. 接種建議 未曾接種、接種史不清楚者或檢驗未具麻疹或德國麻疹抗體者，應完成 2 劑MMR疫苗接種，且間隔至少 4週。 下列對象特別建議完成 2 劑 MMR 疫苗： 醫療照護人員：不具有麻疹或德國麻疹抗體陽性證明者，建議接種 2 劑MMR疫苗。另 1981 年（含）以後出生之醫護人員，未持有抗體陽性證明者，得接種 1 劑 MMR 疫苗。 育齡婦女：無疫苗接種紀錄或是麻疹/德國麻疹抗體陽性證明者，應接種 2 劑。因為孕婦若感染麻疹，易導致胎死腹中或早產。孕婦若感染德國麻疹，胎兒可致先天性德國麻疹症候群，出現多項先天性畸形。 將前往流行地區者，建議至國內國際預防接種合約醫院『旅遊醫學門診』評估接種需求；1981年以後出生的成人，建議自費接種1劑 MMR 疫苗後再行前往。 B. 注意事項 嚴重免疫缺失者（包括嚴重免疫不全的愛滋病毒陽性個案、先天性免疫缺失症與白血病、淋巴癌等惡性腫瘤病人或接受化療、免疫抑制藥物治療及高劑量類固醇者）不可接種。 最近曾輸血或接受其他血液製劑者（如免疫球蛋白），應詢問原診治醫師何時可接種MMR。 孕婦不可接種，而育齡女性接種後4週內應避免懷孕。但疫苗施打後4週內發現懷孕，不應被視為中止懷孕之適應症。 III.季節性流感疫苗 A. 疾病及疫苗簡介 在臺灣，流感病例多自 11月開始逐漸上升，至隔年農曆春節前後達到高峰，3月後逐漸下降。爆發流行時，重症及死亡者多見於老年人，以及患有心、肺、腎臟及代謝性疾病（含糖尿病）或免疫功能不全者。我國使用之四價疫苗為雞胚胎蛋培養疫苗及細胞培養疫苗，係依世界衛生組織每年對北半球建議更新之病毒株組成，包含 2 種A型（H1N1及H3N2）與 2 種B型。 B. 接種建議 所有成人均建議每年接種 1 劑。特別建議施打之族群（不等同於公費疫苗實施對象；公費對象可能因每年預算及疫情變化而調整）包含： 年滿 6個月至 18歲者，尤其未滿 5 歲幼兒為高危險群 50歲以上成人 具慢性肺病（含氣喘）、心血管疾病、腎臟、肝臟、神經、血液或代謝疾病者（含糖尿病） 免疫功能不全者 任何孕期之懷孕婦女 居住於安養、養護等長期照護機構之受照顧者 肥胖者（身體質量指數 body-mass index ≥ 30） 醫療照護者 < 5歲幼兒（尤其 6個月以下嬰兒）、≥ 50 歲成人或其他流感高危險族群之同住者或照顧者 C. 注意事項 每年接種流感疫苗之保護效果於6個月後會逐漸下降，且每年流感疫苗組成病毒株有所差異，為能於新來臨之流感流行期可獲得足夠保護力，建議仍需每年接種一劑流感疫苗。 已知對「蛋」之蛋白質有嚴重過敏者，可在門/住診由熟悉處理過敏症狀之醫事人員提供接種，並於接種後觀察 30分鐘，無不適症狀再離開。 IV. A型肝炎與B型肝炎疫苗 非高風險族群，可諮詢醫師評估接種需求。高風險族群若無A型肝炎抗體或未完成 2劑A型肝炎疫苗接種者，建議依時程完成 2劑疫苗接種： 前往A型肝炎流行地區旅遊或工作者等。 特殊職業如廚師及餐飲食品從業人員、醫療照護者、嬰幼兒保育工作者。 患有慢性肝病、血友病、曾經移植肝臟的病人、靜脈藥癮者、男男間性行為者。 A型肝炎疫苗核准的接種年齡為出生滿 12個月以上，接種劑次無論成人或兒童都是2劑，兩劑間隔 6-12個月。接種1劑後約 95%以上可產生保護抗體，完成2劑後，可提供 20年以上的保護力。A型肝炎疫苗施打於懷孕婦女的安全性尚未被證實，若非必要無須施打。 已依時程完成B型肝炎疫苗接種，B型肝炎表面抗體檢驗陰性者，若為感染高危險群（包括：血液透析病人、器官移植病人、接受血液製劑治療者、免疫不全者、多重性伴侶、注射藥癮者、同住者或性伴侶為帶原者、身心發展遲緩收容機構之住民與工作者、可能接觸血液之醫療衛生等工作者），可自費追加 1劑B型肝炎疫苗，1個月後再抽血檢驗，若表面抗體仍為陰性（< 10 mIU/ml），可以採「0- 1- 6 個月」之時程接續完成。若非高危險群，則無需追加。 V. 肺炎鏈球菌疫苗 肺炎鏈球菌是一種革蘭氏陽性細菌，目前已發現 90種血清型。常潛伏在人類鼻腔內，透過飛沫傳播，一旦感冒或是免疫力降低，快速複製的肺炎鏈球菌可侵入呼吸道或血液中而引發肺炎、菌血症、腦膜炎等嚴重病症，5 歲以下幼童及 65 歲以上老人為高風險族群。其他高危險群包括：(1)脾臟功能缺損或脾臟切除、(2) 先天或後天免疫功能不全(含括愛滋病毒感染者)、(3)人工耳植入者、(4)慢性疾病：慢性腎病變、慢性心臟疾病、慢性肺臟病、糖尿病、慢性肝病與肝硬化患者、酒癮者、菸癮者等、(5)腦脊髓液滲漏者、(6)接受免疫抑制劑或放射治療的惡性腫瘤者或器官移植者。 A. 肺炎鏈球菌疫苗簡介： 13價結合型肺炎鏈球菌疫苗(PCV13)：為不活化疫苗，內含13種血清型(1、3、4、5、6A、6B、7F、9V、14、18C、19A、19F、23F) ，適用於出生滿6週以上幼兒、青少年與成人。 23價肺炎鏈球菌多醣體疫苗(PPV23)：為不活化疫苗，內含23種血清型（1、2、3、4、5、6B、7F、8、9N、9V、10A、11A、12F、14、15B、17F、18C、19F、19A、20、22F、23F、33F），適用於成人與兩歲以上兒童。 B. 臺灣成人公費肺炎鏈球菌疫苗政策： 75 歲以上：未曾接種者，終生可接種一劑疾病管制署提供之公費疫苗(PPV23)，若 65 歲以後已接種過該項疫苗者不予接種。 65-74 歲：尚未被列入疾病管制署公費疫苗施打對象，部分縣市政府提供未曾接種者一劑公費疫苗(PCV13或PPV23)，須至戶籍地之衛生所或合約醫療院所接受接種（因各縣市疫苗接種政策不同，建議先洽詢戶籍地之衛生單位）。 C. 18 歲(含)以上未滿 65 歲高危險群肺炎鏈球疫苗接種建議 過往接種史(劑次) 接續接種建議 從未接種 PCV13→ PPV23→ PPV23 PPV23(1) → PCV13→ PPV23 PPV23(2) → PCV13 PCV13(1) → PPV23→ PPV23 PCV13(1)+ PPV23(1) → PPV23 註：PCV13→PPV23間隔 ≥ 8週、PPV23→PCV13間隔 ≥ 1年、PPV23→PPV23間隔 ≥ 5年 D. 65 歲(含)以上長者肺炎鏈球菌疫苗接種建議： 過往接種史 接續接種建議 備註 從未接種 PCV13 PPV23 PCV13→ PPV23 可擇一接種 65 歲之後曾接種PPV23 → PCV13 65 歲以前曾接種以下疫苗 PPV23 → PPV23 → PCV13 → PCV13→ PPV23 可擇一接種 PCV13 → PPV23 PCV13+PPV23 → PPV23 與 PCV13 至少間隔 1 年且與前一劑PPV23至少間隔 5 年 註：PCV13 與 PPV23 兩劑間隔 ≥ 1年，兩劑 PPV23 應間隔 ≥ 5年。 VI. 日本腦炎疫苗 A. 疾病簡介 日本腦炎是感染日本腦炎病毒所引起的急性腦膜腦炎。在台灣以三斑家蚊、環紋家蚊及白頭家蚊為主要病媒蚊，常孳生於水稻田、池塘及灌溉溝渠等處，吸血高峰為黃昏與黎明時段。臺灣流行季節主要在每年 5至 10月，病例高峰通常出現在 6至 7月。各縣市均曾有確定病例發生，流行地區遍及全臺灣，惟均為散發病例。 成人若居住地或工作場所接近豬舍、其他動物畜舍或病媒蚊孳生地點等高風險地區，建議於流行期前（每年 3-4月）自費接種日本腦炎疫苗，若至流行地區旅遊，可至旅遊醫學門診諮詢，並依醫師之評估建議自費接種疫苗。 B. 疫苗簡介 活性減毒嵌合型疫苗：高風險之成人，若未曾接種疫苗或接種史不明，建議施打 1 劑。 Vero 細胞培養不活化疫苗 (1) 高風險之成人，若未曾接種疫苗或接種史不明，建議施打 3 劑，第 1、2劑間隔 4 週，隔年接種第 3 劑。 (2) 前往感染高風險地區旅遊且無日本腦炎免疫力的民眾可採 0- 28天兩劑時程，第 2劑至少要在旅遊前一週前完成；若有持續暴露風險者，隔年接種第 3 劑。 VII. 人類乳突病毒疫苗 人類乳突病毒(HPV)是一種DNA病毒，會感染人體的表皮與黏膜組織。HPV主要經由性接觸傳染。它有一百多型，可以分為低危險型與高危險型。HPV第16、18型是最常見的高危險人類乳突病毒，與子宮頸癌前病變、子宮頸癌以及男女外生殖器癌的發生有關，子宮頸癌有超過70%是由HPV第 16、18型所引起的；HPV第 6、11型是最常見的低危險人類乳突病毒，感染可能會引起生殖器疣(俗稱菜花)。 台灣現有HPV疫苗包含： (1)「保蓓(二價)Cervarix」，預防HPV第16、18型。 (2)「嘉喜(四價)Gardasil」，預防HPV第6、11、16、18型。 (3)「嘉喜(九價)Gardasil」，預防HPV第6、11、16、18、31、33、45、52和58型。 19-26 歲成人均建議接種HPV疫苗，27-45 歲高感染風險者如免疫功能不全(含括愛滋病毒感染者)及男同性戀亦建議接種，需接種 3劑 ( 2價：於第 0、1、6個月接種，4價及 9價：於第 0、2、6個月接種)。2 價僅適用於女性，4 價及9 價適用於男性及女性，以預防 HPV感染引起之子宮頸癌及其他病變。 VIII. 帶狀疱疹（皮蛇）疫苗 帶狀疱疹是水痘-帶狀疱疹病毒（varicella-zoster virus）再活化的表現。此種病毒初次感染時會引發水痘，之後此病毒會潛伏在背根神經節或腦感覺神經節中，直到再度活化引發帶狀疱疹。帶狀疱疹一般特徵為沿著皮節分布的單側性、疼痛性、水泡性皮疹。 台灣現有之帶狀疱疹疫苗(Zostavax)屬於活性減毒疫苗，可預防成人帶狀疱疹及其併發症。50歲(含)以上未曾接種過帶狀疱疹疫苗者，不論之前是否有水痘或帶狀疱疹病史，建議自費接種一劑。若於接種前24小時內曾接受特定抗病毒藥物者（如：acyclovir、famciclovir或valacyclovir），於接種後間隔 14天以後再重新開始服用這些藥物。而活性減毒疫苗之注意事項則包含： 已知患有嚴重免疫缺失者（包括嚴重免疫不全的愛滋病毒陽性個案、先天性免疫缺失症與白血病、淋巴癌等惡性腫瘤病人或接受化療、免疫抑制藥物治療及高劑量類固醇者）與孕婦均不可接種。 與其他活性減毒疫苗如未同時接種，應間隔至少 28天以上。 女性接種後4週內應避免懷孕。",
+      "keywords": [
+        "疫苗"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/new/6456.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.021Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-fa0e955d45",
+      "title": "一般外科",
+      "clinicName": "馬偕紀念醫院",
+      "category": "一般衛教",
+      "summary": "衛教資訊 更新日期：2020-04-01 1313 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部...",
+      "fullContent": "衛教資訊 更新日期：2020-04-01 1313 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部創傷 腹膜透析 減重手術 常見疾病介紹-(二)乳房外科 乳癌診療之原則與新趨勢 乳癌治療之原則 乳癌診斷之新趨 乳癌治療之新趨勢 如何選擇取得細胞或組織的方法以診斷乳癌 乳癌手術治療 乳癌的理學檢查與工具 荷爾蒙與乳癌 常見疾病介紹-(三)甲狀腺疾病 甲狀腺手術常見問題 甲狀腺疾病的手術治療 甲狀腺機能亢進手術 常見疾病介紹-(四)周邊血管 何謂靜脈區張 雷射手術(LASER)治療",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=133",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.183Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-ff45693097",
+      "title": "馬偕紀念醫院胃腸肝膽科衛教資訊",
+      "clinicName": "馬偕紀念醫院",
+      "category": "一般衛教",
+      "summary": "胃腸肝膽科 >> 衛教資訊 認識C型肝炎 馬偕醫院 胃腸肝膽科 何謂C型肝炎 C型肝炎是一(RNA)病毒，感染宿主後，大於70%會進展成慢性肝炎；其中有20%會進展成肝硬化。慢性C型肝炎之感染和肝細胞癌之形成亦有密切之關聯。 症狀 絕大部分...",
+      "fullContent": "胃腸肝膽科 >> 衛教資訊 認識C型肝炎 馬偕醫院 胃腸肝膽科 何謂C型肝炎 C型肝炎是一(RNA)病毒，感染宿主後，大於70%會進展成慢性肝炎；其中有20%會進展成肝硬化。慢性C型肝炎之感染和肝細胞癌之形成亦有密切之關聯。 症狀 絕大部分的慢性病毒性肝炎患者在未達到 肝硬化晚期前沒有特殊症狀，部份可能出現之症狀如:疲倦、上腹部不適、腹脹、食慾不振或黃疸。由肝炎到肝硬化到肝細胞癌的病程往往沒有明顯自覺症狀，所以常常被患者忽略。 傳染途徑 飲食及日常生活的一般接觸不會互相傳染，主要的傳染途徑是經由體液傳播，特別是血液，其他可能感染的途徑還包括：紋身、穿耳洞、共用指甲刀、牙刷、刮鬍刀、使用不潔的針頭、針灸、多重性伴侶等等。 肝炎追蹤與治療試辦計畫 本院已參加全民健康保險加強慢性B型及C型肝炎追蹤與治療試辦計畫。針對確定為C型肝炎感染之病人(抗體與RNA均為陽性)，有肝功能(ALT)異常或肝切片之發炎程度符合治療試辦計畫之規定，且無肝功能代償不全者，可由胃腸肝膽專科醫師評估後申請使用藥物治療。 藥物治療 目前治療慢性Ｃ型肝炎最常使用之方式，是長效型干擾素注射劑 (peginterferon alfa-2a/alfa 2b)與雷巴威林口服膠囊(ribavirin)的合併治療，治療期為六個月或十二個月，治療成效可達75%。以目前最先進直接抗病毒藥物治療(DAA)可以縮短治療期到3~6個月，可達成95%以上的治療成功率。 治療成功率 近年來在治療C型肝炎已有重大進展，以往用傳統短效干擾素治療Ｃ型肝炎達到長期病毒抑制反應(SVR)之機率不到百分之二十，而併用傳統短效干擾素與雷巴威林後已將治療效果提高至40-50%。目前使用的長效型干擾素併用雷巴威林後，不僅注射更為方便，效果也有明顯增加。",
+      "keywords": [],
+      "imageUrl": "https://www.mmh.org.tw/gi/images/index_01.jpg",
+      "sourceUrl": "https://www.mmh.org.tw/gi/index4_2_2.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.230Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-04a69651cb",
+      "title": "帶狀皰疹疫苗Shingrix（欣剋疹）之簡介",
+      "clinicName": "仁慈醫院",
+      "category": "疫苗",
+      "summary": "✎藥劑科 邱宇嬌 藥師 一、帶狀皰疹病因 帶狀皰疹，俗稱皮蛇或飛蛇，是因為感染水痘帶狀皰疹病毒而引起的疾病。任何年紀的人都可能得到帶狀疱疹，但是此症好發於年紀大及免疫力較差的人，免疫低下情況有：心理壓力大、受重大外傷、發燒、免疫力低下（如惡...",
+      "fullContent": "✎藥劑科 邱宇嬌 藥師 一、帶狀皰疹病因 帶狀皰疹，俗稱皮蛇或飛蛇，是因為感染水痘帶狀皰疹病毒而引起的疾病。任何年紀的人都可能得到帶狀疱疹，但是此症好發於年紀大及免疫力較差的人，免疫低下情況有：心理壓力大、受重大外傷、發燒、免疫力低下（如惡性腫瘤、自體免疫疾病、器官移植患者）、使用影響免疫力的藥物（如：癌症化療、放射線治療、類固醇、免疫抑制劑等）。 二、帶狀皰疹症狀 身上、臉部發癢，起初誤以為只是皮膚過敏，不久後卻開始發紅、持續刺痛與神經痛，表面起顆粒狀水泡，會有痠麻及全身倦怠感。 帶狀疱疹一般特徵為沿著皮節分布的單側性、疼痛性、水泡性皮疹。急性期皮疹及疼痛持續時間約數周。部分病患會併發帶狀疱疹後神經痛，由於神經受損後的恢復期較長，因常有病患會在皮疹完全復原後仍產生疼痛的情形。其他併發症包含眼部帶狀疱疹，嚴重可能導致失明。曾經得過帶狀疱疹者，痊癒後可能亦會再復發。 帶狀皰疹生長的位置可以在身體的各個部位。最常出現的位置是胸部、背部，其次就是臉上三叉神經分佈的區域。 三、建議施打帶狀皰疹疫苗 50歲以上成人、18歲以上免疫不全或免疫功能低下者，不論之前是否有水痘或帶狀疱疹病史，建議接種2劑非活性基因重組蛋白帶狀疱疹疫苗，2劑間隔2-6個月，以預防帶狀疱疹及相關併發症。 預備接受免疫力抑制劑治療、放射線、化學治療的患者。 生活作息不正常或壓力大者：高程度的心理壓力、不規律的生活作息、有睡眠障礙者。 四、接種注意事項 Shingrix帶狀疱疹疫苗是預防帶狀皰疹和帶狀皰疹後神經痛 (PHN) 保護。 目前已知的副作用包括注射部位疼痛、疲勞、肌肉疼痛、頭痛、發燒、噁心和胃痛等。極少數的病人可能出現嚴重過敏反應。 施打疫苗後達7年以上保護效果，可避免帶狀皰疹發作，就算病發，起水泡及神經痛等症狀也會比較輕微，所以原則上建議較年長、平時免疫力較弱的民眾施打，在接種兩劑欣剋疹後預防帶狀皰疹的效力高達9成。",
+      "keywords": [
+        "疫苗",
+        "帶狀皰疹",
+        "外傷",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=334&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.738Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-72518e8fc8",
+      "title": "天主教聖馬爾定醫院 糖尿病保健中心",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "認識我們 衛教時間 衛教園地 病友團體 活動花絮 認識我們 衛教時間 衛教園地 病友團體 活動花絮 DiabetesManagementCenter ‹ › About Us 糖尿病保健推廣中心由醫術精湛的醫師及高品質的護理、營養、社工等專...",
+      "fullContent": "認識我們 衛教時間 衛教園地 病友團體 活動花絮 認識我們 衛教時間 衛教園地 病友團體 活動花絮 DiabetesManagementCenter ‹ › About Us 糖尿病保健推廣中心由醫術精湛的醫師及高品質的護理、營養、社工等專業人才，組成糖尿病照護團隊，並成立「第二型糖尿病病友會」，藉由團體支持功能，促進病友互助，提升照護品質... VIEW MORE Education 衛教園地提供糖尿病保健專刊、認識糖尿病與日常保健之道、糖尿病和運動、糖尿病的足部護理與傷口照護原則、如何自我監測血糖關於糖尿病、糖尿病飲食、糖尿病易引起的眼睛疾病、病友控糖心得…等相關資訊及知識。 保健專刊 關於糖尿病 糖尿病飲食 心靈響宴 Links Menu 認識我們 衛教時間 衛教園地 病友團體 活動花絮 聖馬首頁 Information 天主教聖馬爾定醫院 糖尿病保健中心 服務地點：嘉義市大雅路二段565號2樓電子信箱：sugar@stm.org.tw服務時間：星期一至星期五8：00~17：00、星期六8：00~12：00服務",
+      "keywords": [
+        "糖尿病",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-15",
+      "crawledAt": "2026-05-15T15:41:53.752Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-4c7983946f",
+      "title": "糖尿病病人感染與疫苗注射建議",
+      "clinicName": "奇美醫院",
+      "category": "疫苗",
+      "summary": "糖尿病族群為感染性疾病發生的高風險族群，主要與血糖管理不佳以及高血糖所導致的免疫功能受損相關。預防可避免的感染顯得格外重要，針對糖尿病病人進行常規疫苗接種有下列建議。 疫苗種類 年齡或其他條件 建議 流感疫苗 年齡不限（不含6個月以下的嬰幼...",
+      "fullContent": "糖尿病族群為感染性疾病發生的高風險族群，主要與血糖管理不佳以及高血糖所導致的免疫功能受損相關。預防可避免的感染顯得格外重要，針對糖尿病病人進行常規疫苗接種有下列建議。 疫苗種類 年齡或其他條件 建議 流感疫苗 年齡不限（不含6個月以下的嬰幼兒病人） 每年接種 肺炎鏈球菌疫苗 23價肺炎鏈球菌多醣體疫苗（PPV23） 13價結合型肺炎鏈球菌疫苗（PCV13） 18 歲以上未滿 65 歲 從未接種過，先接種1劑PCV13。 曾接種過1劑PPV23，間隔至少1年再接種1劑PCV13。 大於65歲 從未接種過，接種1劑PPV23或PCV13。 接種過 1 劑（含）以上 PPV23，間隔1年以上可再接種1 劑PCV13。 COVID-19疫苗 49歲以下(含) 至少需要施打三劑。 50 歲以上、長照機構住民 、18歲以上免疫不全及免疫力低下且病情穩定者 施打四劑。 帶狀疱疹疫苗 18歲以上未滿50歲 屬於罹患帶狀疱疹高風險者 ( 如：同時合併慢性腎臟病、器官損傷、大小血管病變等 )，建議接種非活性重組疫苗。 未列於以上疾病之高風險者，應經醫師評估後再進行疫苗接種。 50 歲以上 建議接種非活性重組疫苗。 曾發生過帶狀疱疹者，建議於發病1年後，接種帶狀疱疹疫苗。 百日咳三合一 成人、孕婦 10年打1劑 參考： 2022第2型糖尿病臨床照護指引-感染與疫苗注射建議修訂P.2-8 Comprehensive Medical Evaluation and Assessment of Comorbidities: Standards of Care in Diabetes—2024. Diabetes Care, 2024;47(Suppl. 1):S52–S76",
+      "keywords": [
+        "糖尿病",
+        "疫苗",
+        "流感"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360005.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:33.380Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-6d9a923adc",
+      "title": "冠狀動脈疾病衛教手冊",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "2.認識自己的心臟 心臟就像一個幫浦，為全身的血液循環提供動力。然而，心臟本身也需要能源補給；圍繞在心臟表面的三條冠狀動脈，可以為心臟提供足夠的氧氣以及養分。三條冠狀動脈分別為右冠狀動脈，左冠狀動脈前降枝，左冠狀動脈迴旋枝。 3.血管是怎麼...",
+      "fullContent": "2.認識自己的心臟 心臟就像一個幫浦，為全身的血液循環提供動力。然而，心臟本身也需要能源補給；圍繞在心臟表面的三條冠狀動脈，可以為心臟提供足夠的氧氣以及養分。三條冠狀動脈分別為右冠狀動脈，左冠狀動脈前降枝，左冠狀動脈迴旋枝。 3.血管是怎麼阻塞的！ 年輕時，血液在動脈血管內的流動相對是暢通無阻；然而隨著年齡增長，生活作息以及飲食習慣，高血壓，糖尿病等危險因子的影響，血管內漸漸出現了壞的膽固醇堆積加上發炎細胞形成的斑塊，這個時候血液的流量便會慢慢減少。若血管發生阻塞，但仍有相對足夠的血流量時，並不會出現症狀。但如果冠狀動脈持續粥狀動脈硬化或者斑塊破裂，導致血管狹窄，進一步阻塞，引起心臟肌肉缺血，便會引發心絞痛的症狀；如果出現了心肌缺血壞死，急性心肌梗塞也就發生了。這也是所謂的冠狀動脈心臟病，簡稱冠心病。 ［ 引用自國民健康署冠心病防治學習手冊中第5、6頁］ 4.誰是冠心病發作的高危險群 如果有越多的危險因子，罹患冠心病的機會越高。如能有效改善飲食和生活作息，控制住可預防之危險及助長因子，可望減少其發生機率。 主要危險因子 遺傳 一等親之家族成員有早發性冠心病史（男性在55歲，女性在65歲前猝死，或是確定罹有冠心病） 遺傳 男性＞女性 年齡 男性 ≥ 45 歲；女性 ≥ 55 歲，或停經婦女 可預防之危險因子 高血壓 血壓 ≥ 140/90 mmHg，或正在服用高血壓藥物 高血糖 兩次以上的空腹血糖 ≥ 126 mg/dl 或飯後血糖 ≥ 200 mg/dl，或正在服用糖尿病藥物 血脂異常 總膽固醇，三酸甘油酯或LDL 膽固醇過高，或HDL 膽固醇過低 吸菸 尼古丁及一氧化碳作用下，容易導致粥狀動脈硬化 可預防之助長因子 肥胖 BMI ≥ 24；男性腰圍＞80 cm，女性腰圍＞90 cm 缺乏運動 容易導致血脂異常 飲食型態 攝取過多飽和油脂，反式脂肪酸，膽固醇以及熱量 壓力 易導致血壓上升 5.冠心病發作的警訊及徵兆 冠心病通常好發於季節變換，或者和生氣、壓力、活動有關。典型症狀為：運動中感覺到胸口好像被大石頭壓著，喘不過氣；同時合併下巴，雙肩等痠麻情形。其他非典型症狀還有噁心、頭暈、心悸等。 來自己動手算算命吧！ 用美國心臟學會建議的動脈硬化心血管疾病風險計算工具來算一算自己的風險吧！ASCVD Risk ﹝ 引用自國民健康署健康九九網站海報：護心有道 正確做到！天冷，須嚴防心血管疾病發作﹞ 6.心絞痛了怎麼辦？ 當出現了冠心病發作的警訊或徵兆時，需馬上停止所有活動，並依指示服用硝化甘油舌下錠。若症狀持續超過30分鐘，服用舌下錠或休息並沒有緩解甚至惡化，此時可能已經發生心肌梗塞，或者心肌細胞逐步壞死中。建議記錄下當前時間，發作情境，並且儘速前往醫院急診室就醫治療。 硝化甘油舌下錠服用指示說明：舌下錠即俗稱的『救心』白色小藥丸。 何時使用？當出現胸悶痛等壓迫感，或者與前次冠心病發作情形相同時，應立即服用一顆舌下錠。 如何服用？藥錠需置於舌下約20-30秒，待其自行溶解吸收，切記不可吞食。 服藥後，約1-2分鐘胸部不適可獲緩解；若3-5分鐘仍未緩解，需馬上送往醫院求治；在等待救護車期間，若症狀持續，可每隔5分鐘再服用第2顆及第3顆。 服藥時，需找個安全的地方，採坐或臥姿，避免因頭暈、虛弱而跌倒。 舌下錠服用後，可能會出現臉潮紅、頭脹、頭暈、口腔輕微刺痛麻感等現象，此為藥效發揮之正常反應。 7.日常生活注意事項 好不容易順利出院了，請記得好好保重自己的身體。以下提供若干生活習慣或飲食戒菸、復健等資訊，可以成為您的生活小常識，身體力行，珍重保健。 身體質量指數(BMI)＆腰圍 肥胖為可預防之助長「危險因子」，可參考身體質量指數或是腰圍測量，來確認是否有過重的情形。 ＢＭＩ計算公式 BMI = 體重（公斤）／﹝身高的平方﹞（公尺） 您的體重： a______ 公斤，您的身高：b_______ 公分 = c_______ 公尺 BMI = a ÷ (c x c) = a ÷ c2 = __________ （此即為身體質量指數） 身體質量指數 狀況 ＜18.5 體重過輕 18.5 - 24 正常範圍 24.1 - 27 體重過重 ＞27 肥胖 腰圍 腰圍也是另一個檢視是否體重過重的方式；依性別不同，男性和女性的正常值會有所差異。男性腰圍大於90公分（35.5吋），女性大於80公分（31.5吋），即表示有腹部肥胖的情形。建議加強運動以及飲食控制。 腰圍測量方式：皮尺繞過腰部，調整高度使能通過左右兩側腸骨上緣至肋骨下緣之中間點（ ），同時注意皮尺與地面保持水平，並緊貼而不擠壓皮膚。維持正常呼吸，於吐氣結束時，量取腰圍。 ﹝ 取自國民健康署冠心病自我照護手冊第94頁﹞ 飲食注意事項 每日飲食指南 吃得好不如吃得巧 資料來源：衛生福利部國民健康署 幾個小撇步要告訴您 飲食攝取要均衡，且多樣化，勿暴飲暴食。 遵守三低一高之飲食原則： (1)低鹽 避免高鹽飲食：湯頭製作過程中通常會添加大量調味料及鹽巴以提升風味，此外，若為火鍋等湯鍋料理，湯中更承載了食材中溶出的普林及脂肪等不利健康物質，建議應避免或減少飲用湯品。 避免高鹽飲食：加工產品及烘焙食品等皆添加含鈉添加物，應避免食用，如：各類罐頭、麵線、油麵、麵包、糕餅、甜鹹餅乾、魚肉加工製品（香腸、臘肉、火腿、肉鬆、鹹魚、滷味等）及醃製蔬菜、甜鹹蜜餞等。 每日最多不超過6 克鹽巴（2400 毫克鈉），避免添加過多調味料或口味太重之烹調飲食。 (2)低油、低膽固醇 減少飽和脂肪攝取：飽和脂肪攝取過多易引起三酸甘油酯上升、低密度脂蛋白膽固醇（壞的膽固醇）上升，增加心血管疾病風險。 少吃動物皮、蹄膀、肥肉、奶油、冰淇淋及乳酪等。 (3)減少反式脂肪攝取： 反式脂肪對身體的影響較飽和脂肪嚴重，不僅引起三酸甘油酯上升、低密度脂蛋白膽固醇（壞的膽固醇）上升，亦降低高密度脂蛋白膽固醇（好的膽固醇），對心血管健康的影響不容小覷。 少吃烘焙製品、奶精、油炸、油酥食物。 (4)低糖： 醣類食物宜選擇多醣類，如全穀雜糧類。避免精緻甜食、糕餅、含糖飲料、水果罐頭等加「糖」製品。提供升糖指數食物對照表 食物的GI值會因不同食物來源地、品種、成熟度及烹調加工方式等而有所差異。低GI值食物，對餐後血糖的影響變化較小，但如飲食的總熱量攝取過量，仍會造成血糖上升，因此仍須注意低GI值食物的總攝取量；故建議吃中高GI值食物時可搭配與GI值較低的食物一起食用。 食物種類 低升糖指數（GI值≦55）也要注意攝取份量 中高升糖指數（GI值＞55）減少攝取頻率及注意攝取份量 食物特性 高纖、未加工、較粗糙的食物 低纖、稀爛及切碎、精緻加工的食物 全穀雜糧類 糙米、多穀米、燕麥粒、原片大燕麥、小麥、大麥、薏仁、冬粉、蕎麥麵、全麥麵、雜糧麵包、全麥饅頭、紅豆、烏龍麵、五穀粥、玉米粒、義大利麵、芋頭、山藥、雪蓮子 白米飯、白米稀飯、糯、麻糬、湯圓、白麵條、白土司、法國／甜鹹麵包（如紅豆麵包、熱狗麵包）、米粉、燒餅、快熟燕麥、即食燕麥片、麥片、馬鈴薯、甜玉米、地瓜、南瓜、蠶豆、玉米片、貝果、米漿 水果類 青香蕉（未全熟）、小番茄、蘋、芭樂、柳橙、橘子、金桔、檸檬、木瓜、櫻桃、梨子、李子、葡萄柚、奇異果、草莓、火龍果 黃香蕉（過熟）、芭蕉、香瓜、鳳梨、葡萄、哈密瓜、西瓜、芒果、荔枝、龍眼、水蜜桃、釋迦、酪梨、水果乾、果汁。 (5)高纖：可增加攝取含水溶性纖維之食品，可降低膽固醇，如：水果、豆類、燕麥片、洋菜、木耳、海帶、紫菜、菇類及莢豆類等。 使用清淡低油的烹調方法： 多採用清蒸、水煮、涼拌、燒烤或清燉等方式烹調食物。 炒菜宜選用植物油，或含單元不飽和脂肪酸高者（如：芥花油、苦茶油、花生油、菜籽油、橄欖油等）。 少用飽和脂肪酸高的動物油（如：奶油、牛油、豬油等）及棕櫚油、椰子油，使用回鍋油對健康是一種傷害，應避免使用。 有助於ω-3 脂肪酸之魚類攝取：減少血栓生成，能抑制發炎反應、降低三酸甘油酯等作用，對心—臟血管有益。美國心臟病協會(AHA)建議可選擇富含ω-3脂肪酸之魚類，如：秋刀魚、鮭魚、花鯖魚等。 抗氧化成分／B群維生素： 富含維生素C、E、β-胡蘿蔔素可抗氧化，抑制血中脂質的氧化。如蕃茄、柳丁、柑橘、檸檬、奇異果、芭樂等水果富含維生素C；木瓜、芒果則富含β-胡蘿蔔素；或是地瓜、南瓜等富含維生素E。 B群維生素，如葉酸、維生素B6、維生素B12充足，可降低血中同半胱胺酸濃度及降低血管損傷。飲食中可由蔬菜、水果、乾豆類、肉、魚等來獲得葉酸、維生素B6、維生素B12。 控制飲酒量：男性每日酒精攝取不超過20公克（2個酒精當量），體重較輕者或女性不超過10公克（1個酒精當量），懷孕絕對不飲酒。當攝取1個當量酒精時，油脂用量需減少約1.5茶匙。（=約70大卡熱量。） 酒別 酒精含量（體積比%) 含10g酒精之體積（毫升） 各種啤酒、淡酒、汽泡果汁酒 5%(3~6%) 250 紅葡萄酒（紅酒）、白葡萄酒（白酒）、甜紅葡萄酒、玫瑰紅酒、葡萄蜜酒、荔枝酒 12%(10~14%) 100 紹興酒、陳年紹 17%(16~18%) 75 米酒 22% 60 蔘茸酒 30% 40 白蘭地、威士忌、伏特加、蘭姆酒、琴酒、高梁酒 ～40%(16~18%) 30 竹葉表青酒、玫瑰露酒、雙鹿五加皮酒 45%(44~48%) 30 茅台酒 54.5% 25 （金門）（陳年）高梁酒 58% 20 大麴酒 65% 20 維持理想體重：控制體重對改善血脂肪有所幫助，尤其可明顯降低血液中三酸甘油酯濃度。 ➤營養科諮詢窗口 二五空橋二樓 營養科辦公室（白宮餐廳樓上)",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320002.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:33.573Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-7734ec91ad",
+      "title": "高血壓與腎臟病：血壓沒控好，腎臟受不了",
+      "clinicName": "高雄醫學大學附設中和紀念醫院",
+      "category": "慢性病",
+      "summary": "高醫腎臟內科 鄧人豪 醫師 / 吳秉勳 主治醫師 (114年12月) 高血壓與腎臟：雙向影響的關係 高血壓常被稱為「隱形殺手」，因為它往往沒有明顯症狀，卻能悄悄傷害全身器官。除了心臟病、中風，腎臟也是首當其衝的受害者。根據2023年的台灣腎...",
+      "fullContent": "高醫腎臟內科 鄧人豪 醫師 / 吳秉勳 主治醫師 (114年12月) 高血壓與腎臟：雙向影響的關係 高血壓常被稱為「隱形殺手」，因為它往往沒有明顯症狀，卻能悄悄傷害全身器官。除了心臟病、中風，腎臟也是首當其衝的受害者。根據2023年的台灣腎病年報，台灣超過一半以上的慢性腎臟病患者同時有高血壓，在洗腎病患中此比率甚至高達6成。此外，腎臟病本身也會讓血壓升高，形成「惡性循環」。因此，想要保護腎臟，血壓管理是不可或缺的第一步。 高血壓為什麼會害腎臟？ 腎臟就像一個過濾器，每天幫我們把身體裡的廢物和多餘水分排出去。當血壓長時間過高，就好像水管裡的水壓一直過大，久而久之，腎臟裡細小的血管會變硬、變厚，過濾功能也會一點一滴地下降。因此若就醫的時機過晚，有時即使血壓控制下來，已經累積傷害的腎臟也不一定能完全恢復；這時若再加上血脂異常、糖尿病或抽菸等習慣，腎臟的負擔還會更重。因此對於有危險因子的病人，早期就醫、早期治療，才是保護腎臟的不二法門！ 生活中常見的危險因子 隨著年紀增加，血壓上升是常見的情況，若再加上肥胖、缺乏運動、吃太鹹、喝酒過量，發生高血壓的機率會更高。家族遺傳、睡眠不足、缺乏運動，也都會讓血壓變得不穩定。這些生活中看似小事，其實長久下來就是血壓升高的重要原因。 該怎麼檢查腎臟健康？ 對高血壓患者來說，定期檢查腎臟功能很重要。常見的檢查有： -驗血：看血清肌酐值和腎絲球濾過率 (estimated Glomerular Filtration Rate, eGFR)，了解腎臟過濾能力。 -驗尿：如果尿液裡開始出現蛋白質，這是腎臟「受傷」的警訊，醫師會依照尿中蛋白的變化評估腎臟受傷的程度。 -搭配其他數值：血脂、血糖、尿酸等也會影響腎臟的疾病的狀況。 至於要多久檢查一次腎功能呢？依照個人狀況，醫師建議每個人回診的頻率也會不同，如果是初次診斷高血壓的病人，國際治療指引建議應該於兩個月內回診；如果已經有蛋白尿或腎功能下降，就需要更頻繁追蹤。 保護血壓，也保護腎臟 除了醫師開的藥，生活習慣調整是最重要的基本功。根據台灣2022年的高血壓治療指引，以下建議為控制血壓的重要生活調整措施： -飲食清淡、少鹽、避免過多加工食品 -維持理想體重，避免肥胖 -每週進行規律的中等強度運動，像快走、游泳、騎腳踏車都是不錯的選擇 -戒菸、減少酒精攝取 -睡眠要充足，壓力要適度紓解 這些方法雖然簡單，卻是守護腎臟和血壓最有效的武器。 高血壓與腎臟病是一對「難兄難弟」，彼此互相影響、惡化。唯有早期發現、積極治療、生活調整，才能避免走到腎臟衰竭、需要透析或移植的地步。記住一句話：血壓沒控好，腎臟受不了，讓我們從今天開始守護血壓，也守護腎臟健康！ ※本文章同意非營利行為之轉載，轉載時不得編輯、調整、增刪、加註、改寫或以其他方式變更本文章內容，並註明供稿來源。 ﹝※ 吳秉勳 主治醫師 門診時段/本表僅供參考，若有異動請依診間公告為主﹞ 時段 一 二 三 四 五 六 上午 高醫腎臟內科 下午 高醫腎臟內科 夜診 【回本期目錄】 高雄市三民區自由一路100號(地圖) │ 網頁維護 / 聯絡信箱：kmuj@kmuh.org.tw │資訊安全與隱私權政策 高醫醫訊雜誌社 版權所有 © 2024 KMUH All Rights Reserveda 建議使用Chrome、Edge瀏覽器 最佳解析度為1280x1024",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.kmuh.org.tw/www/kmcj/data/11412/11.htm",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:33.649Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-bb8fcc8318",
+      "title": "高血壓的控制及自我量測血壓的重要性",
+      "clinicName": "亞東紀念醫院",
+      "category": "慢性病",
+      "summary": "心臟血管內科 林俊忠醫師 高血壓是現代人最常見的疾病之一，不但是國人十大死亡原因之一，也常與其他十大死亡原因如：糖尿病、中風、慢性腎衰竭與心血管疾病合併發生，不論是診所或醫院不乏眾多高血壓患者終日在門診就醫與拿藥，根據統計，達到控制目標的患...",
+      "fullContent": "心臟血管內科 林俊忠醫師 高血壓是現代人最常見的疾病之一，不但是國人十大死亡原因之一，也常與其他十大死亡原因如：糖尿病、中風、慢性腎衰竭與心血管疾病合併發生，不論是診所或醫院不乏眾多高血壓患者終日在門診就醫與拿藥，根據統計，達到控制目標的患者恐怕只有三成患者，所以教育高血壓患者正確的控制，是刻不容緩之事。然而在目前的就醫環境下，許多患者在就診時所得到衛教是不夠的，所以在此提出一些高血壓患者必須知道的觀念。 正確的自我測量血壓 幾乎很少人平時有測量血壓的習慣，通常一開始注意到血壓不正常，都是因其他原因於醫療院所就醫時偶發性注意到血壓不正常，或於學校或職場健診時發現，絕大部分患者都是因為已經有些症狀如：頭痛、頭昏或肩頸痠痛才發現血壓偏高，更甚者，是已經中風或心肌梗塞才發現。到底從何時起該規律的測量血壓呢？若從絕大部分的本態性高血壓患者從30到40歲開始發生來看，建議每人在40歲以上就需時常測量血壓。若有合併其他危險因子的人，如：心血管疾病家族史、抽菸、肥胖、糖尿病、工作壓力大…..等，更須提早注意。 患者常會問用水銀血壓計是否較準確，依個人經驗，確實水銀血壓計是較電子式血壓計準確，但考量到一般患者未受過正式訓練反而無法量得正確的血壓，所以還是建議患者購買電子式血壓計即可。但是儘量以手臂式的血壓計為主，並且綁壓帶要夠寬，市售手腕式血壓計固然小巧方便，然而由於所測量的尺動脈屬較末梢血管，且綁壓帶太窄，容易造成測量值變動範圍大與誤差。 一天之內到底何時該量血壓與測量多少次呢？由於血壓本身會隨日夜週期而產生變動，通常在清晨與傍晚二個時刻會有個高峰期，所以建議一般患者早晨睡醒大約10分鐘後，與傍晚下班回家後充分放鬆後再測量血壓。但若有不穩定的情況如血壓忽高忽低，或動則收縮壓超過180毫米汞柱時，則必須一天測量四次，大約六小時測量一次，並適時回醫院與醫師討論病情。血壓固然要量，卻也不必過度頻繁測量，少數焦慮的患者會因為太過頻繁測量而引發血壓更高，甚至造成不必要的給藥而引發血壓忽高忽低。 血壓在我們體內是一個動態的數值，會隨著情緒、活動、氣溫與作息而隨時改變，加上血壓計本身設計的方式，使得我們每一次測量到的血壓絕對不會是一個固定值，所以判斷血壓是否良好只要落在合理範圍即可，不用要求每次都同一數值，通常建議應當充分休息十到十五分鐘後，以輕鬆的態度來量血壓，測量時正常呼吸不要閉氣，血壓計與心臟同高，手臂要自然放鬆。若覺得數值不對或不準，最好在休息5到10分鐘再測量一次。理論上兩側的手臂血壓不會完全相同，若收縮壓差距二十毫米汞柱以內尚屬正常，若超過二十毫米汞柱以上則需小心血壓低之一側可能動脈有狹窄或堵塞。 很多患者在吃了多年藥物，仍不知自己的血壓到底應該控制在何種範。首先必須澄清早期的血壓治療觀念，認為舒張壓對人體的危害比較大，但是這幾年慢慢知道造成器官傷害的應該還是收縮壓的貢獻比較大，所以控制的目標應以收縮壓為主。如果收縮與舒張壓能同時控制在理想範圍則最佳，若不能同時兼顧時，比如收縮壓已經落於目標值而舒張壓卻還高於90毫米汞柱時，要不要繼續加重劑量則沒有定論。 一般的高血壓患者的目標值是收縮壓低於140毫米汞柱，而舒張壓低於90毫米汞柱。糖尿病、中風、心血管疾病患者則須控制收縮壓低於130毫米汞柱，舒張壓85毫米汞柱。血壓目前控制得太低，會不會造成器官的傷害有待進一步的研究，但是一般不建議收縮壓低於110毫米汞柱，舒張壓低於70毫米汞柱。少部分老人家收縮壓很高、舒張壓很低，關於這群患者的血壓該當如何取決則須由醫師依情況而定。甚至少部分理論高齡患者(大於80歲)不須控制到140毫米汞柱，所以一個合理的目標血壓值因人而異。 不少患者反映同樣的血壓藥吃了很久，到底需不需要換藥或調整？事實上高血藥物確實需依病患的病情而適時調藥，比如夏季時通常血壓會較冬季時低，此時若血壓太低便可以適時減量。或者患者改善其生活的危險因子例如：體重、作息或高鹽飲食等，若血壓進步了，藥物選擇也可適時調整。少部分患者因疾病的狀況不同如心肌梗塞導致血壓太低或腎功能惡化等，都必須是適當調藥，所以高血壓患者每三個月的迴診不僅僅是拿藥而已，而需與醫生討論最近的身體狀況，這一切若患者能在家自我測量血壓便能提供醫師調藥重要的依據。 因篇幅所限,無法完整討論每一個問題，在此作一個簡單的結論，健康是必須從個人自身來追求，包含：低鹽少油飲食、戒菸、勤運動、作息正常等。一旦不得已需要吃藥控制，也必須勤量血壓，而不是單純靠醫師的醫術或期待具神效的藥物。希望每位患者能過得更健康，吃少一點的藥並減少健保的負擔。",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "焦慮"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=3812",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:33.958Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-53ba3a4a73",
+      "title": "高齡糖尿病 衛教照護",
+      "clinicName": "亞東紀念醫院",
+      "category": "慢性病",
+      "summary": "新陳代謝科 洪鈴鈺糖尿病衛教師 李伯伯上星期覺得頭暈想睡，這幾個月體重減輕至醫院就診，經過醫師檢查，才知道自己得了糖尿病，醫師向李伯伯解釋，糖尿病是因為胰臟分泌的胰島素不足或者胰島素阻抗，胰臟功能會隨著年紀增長而衰退，但是透過飲食運動和藥物...",
+      "fullContent": "新陳代謝科 洪鈴鈺糖尿病衛教師 李伯伯上星期覺得頭暈想睡，這幾個月體重減輕至醫院就診，經過醫師檢查，才知道自己得了糖尿病，醫師向李伯伯解釋，糖尿病是因為胰臟分泌的胰島素不足或者胰島素阻抗，胰臟功能會隨著年紀增長而衰退，但是透過飲食運動和藥物的配合下，也能將血糖控制好。 高齡者(65歲以上)糖尿病，跟非糖尿病的人有什麼不一樣？* 死亡風險高 65 歲以上新發病糖尿病病人，死亡相對風險高於非糖尿病患者，台灣本土健保資料庫發現高齡者如果有糖尿病，死亡率會增為 1.23-1.27 倍。 * 血管併發症風險高 發生心血管併發症相對風險也高於非糖尿病患者1.54-1.70 倍。 * 低血糖風險高 隨著年齡增加，長者對於低血糖自覺(hypoglycemia awareness) 的閾值 (threshold) 會下降，所以長者一旦發生低血糖，會來不及反應，更容易發生認知功能障礙。高齡糖尿病患者可能因為日漸衰退的肝、腎功能、或腸胃吸收影響到原本代謝降血糖藥物的效果、多重藥物間交互作用、認知功能障礙影響飲食行為模式、或高齡家庭照護上的問題等，使其更容易引發低血糖風險。除了控制好血糖以外，低血糖常造成更大傷害，平時要多注意避免低血糖發生。 * 老年症候群風險增高 高齡糖尿病人常伴有多重藥物使用、日常生活功能下降、認知功能障礙、憂鬱、尿失禁、失眠、視力障礙、衰弱、肌少症、跌倒與骨關節退化，即所謂老年症候群，研究證實高齡糖尿病患者發生老年症候群的機率會增加，而且與其預後與死亡率有關。 * 衰弱症及肌少症 肌肉量隨著年齡的增加會慢慢流失，研究指出糖尿病人具有 3 倍以上的骨骼肌肉質量減少的風險，高齡糖尿病人的衰弱症比率約為32-48％，高於非糖尿病老年人的5-10％，一旦身體的肌肉減少，就會影響肌肉儲存能力和利用葡萄糖的能力，更不容易控制血糖。 高齡糖尿病人，除了血糖之外，血壓和血脂的控制也是很重要 血糖、血壓和血脂控制目標，會隨著健康狀況而有不同，下表提供參考： 健康狀態 糖化血色素目標(%) 空腹血糖(mg/dL) 睡前血糖 (mg/dL) 血壓目標 mmHg 血脂目標 (mg/dL) 健康 Ø 共病少 Ø 認知與功能狀態良好 <7.5 90-130 90-150 <140/90 低密度膽固醇(LDL)建議<100 mg/dL 已有心血管疾病者，建議<70 mg/dL 中等 Ø 多重共病 Ø 輕：中認知/日常功能減退 <8.0 90-150 100-180 <140/90 複雜 Ø 疾病末期 Ø 中：重認知/日常功能依賴 <8.5 100-180 110-200 <150/90規律運動 據美國糖尿病與運動醫學學會指引認為高齡患者與年輕族群無異，但要特別考量安全性，有心血管疾病患者，應先請醫師評估心肺功能，起始選擇低強度的運動，如周邊神經病變或自主神經病變者，須額外注意足部的保護與姿勢性低血壓等風險。 如何安排運動* 有氧運動：每週150分鐘，例如：快走、腳踏車、慢跑、有氧舞蹈…等，慢慢開始進行再逐漸增加運動強度，避免造成低血糖或運動傷害。 * 阻力運動：每週2- ，有助於增加肌耐力和肌肉量，例如：使用寶特瓶、彈力帶…等，簡單的器材來訓練大腿和手臂肌肉。* 伸展和平衡感運動：每週2- ，有助於改善柔軟度、平衡感，也能預防跌倒例如：瑜珈、太極…等。 均衡攝取營養 牙口不好、腸胃吸收功能下降、食慾不佳等問題，都會影響高齡者熱量攝取不足和營養不均衡，有肌少症的長者，除了熱量要攝取足夠之外，每餐也要吃一個手掌心大小的蛋白質，像是蛋、豆製品、魚、雞豬牛肉及牛奶，若是牙口不好可以選擇豆腐、蒸蛋、無糖豆漿、瘦絞肉…等較軟的食物，建議至少每年一次營養師的飲食評估與建議，降低低血糖及肌少症的風險。 結論 隨著全球人口快速老化與糖尿病治療上的進展，日益增多的高齡糖尿病患者，在防治與健康照護上更是重要，照顧高齡糖尿病人除考量減緩併發症進展與延長壽命外，更需同時兼顧長者日常功能的維持與生活品質的提升，讓我們為高齡長輩良好的行動能力和認知能力努力，一起健康老化。 參考資料1.2022第二型糖尿病臨床照護指引2.臺灣糖尿病年鑑 2019 第2型糖尿病3.Old Adults:Standards of Medical Care in Diabetes-2019",
+      "keywords": [
+        "糖尿病",
+        "失眠"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.femh.org.tw/magazine/viewmag?ID=11185",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:34.199Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-08a677d3c8",
+      "title": "高血壓病患健康出遊去",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": "03 八月 2011 15:48 諮詢：台北馬偕醫院家醫科主治醫師 蔡悅琪 國泰醫院汐止分院心臟內科主任 陳逸忠 文：王萱萱 不少很想出國旅遊的高血壓病人一想到要搭長途飛機，擔心會影響病情，便對出國玩變得裹足不前，其實只要在行前做好充足準備...",
+      "fullContent": "03 八月 2011 15:48 諮詢：台北馬偕醫院家醫科主治醫師 蔡悅琪 國泰醫院汐止分院心臟內科主任 陳逸忠 文：王萱萱 不少很想出國旅遊的高血壓病人一想到要搭長途飛機，擔心會影響病情，便對出國玩變得裹足不前，其實只要在行前做好充足準備，避免前往太冷或從事太刺激的行程，旅途中注意飲食保持清淡，高血壓病人也能像正常人一樣，高高興興的出門，平平安安的回家。 台北馬偕醫院家醫科主治醫師蔡悅琪表示，在該院的旅遊門診中可發現有許多慢性病患對出國旅遊不注意，以為只要上網查查哪裡好吃、好玩，找好旅行社，訂好飛機就可出門了，疏忽行前健康諮詢的重要性，其實，旅遊應先詢問醫師能不能出國，需注意哪些事項，藥物的準備是否充足等，做好萬全準備，才有個快樂平安的旅程。 目前正值冬季，蔡悅琪提醒，不建議高血壓病人至溫差太大、氣溫太低或太高的地區旅遊，以免造成血管收縮，導致心血管疾病的發生，當室內室外溫度相差攝氏5度以上時，高血壓患者就要注意保暖，國泰醫院汐止分院心臟內科主任陳逸忠則提醒，有不少年紀較大的高血壓患者要回大陸探親，尤其家住東北地區的患者要注意當地的氣候太冷，可能影響病情，最好等氣候回暖時再回去較好。 高血壓患者需要長期服藥控制病情，蔡悅琪指出，病人若要出國旅遊，可在行前請醫師開立簡單的英文病歷及處方摘要，並開足足夠的藥量，所攜帶的藥量需為平時的兩倍，一份隨身攜帶，一份放於行李內，以防萬一行李不慎遺失時有備份的藥可以服用；另外，血壓升高時緊急使用的降血壓藥物「Adalat」等，最好也隨身攜帶幾顆，以備不時之需；英文病歷摘要除了因應海關對攜帶藥品的詢問之外，當病人在國外發生突發狀況時，可以提供當地醫師診斷時的參考。 出國旅遊大部分會有時差，蔡悅琪說，高血壓患者最好一上飛機就將手錶調整成目的地的時間，若時差未超過6小時的飛行可以不必調整用藥，但若時差太大時則需稍作調整，如本來每天早上吃一顆藥的病人，朝東旅行時，因為時差短少了6~12小時，則出發當日早上只吃半顆藥，12小時後（已經是目的地的早上）開始每天早上吃一顆藥；如往西飛行時，因為時差延長了12小時以上，就調整為出發當日早上照常吃一顆藥，12小時後補吃半顆（已經是目的地的早上），以後繼續依目的地的早上時間吃一顆藥。有些病人易因時差問題造成睡眠品質不佳，行前可請醫師開些調整時差的藥物，以免睡不好導致血壓升高。 量血壓是高血壓患者每天必做的功課，蔡悅琪提醒，高血壓患者出國旅遊最好隨身攜帶血壓計，出國前請醫師幫忙校正，還要留意電池夠不夠，出國期間最好養成早上及晚上各量一次血壓，監測是否突發血壓異常狀況。 蔡悅琪表示，第七屆聯合國際醫學會學術委員會(JNC-7)所公佈的高血壓診斷、治療評估的準則，將正常血壓定義為收縮壓應小於120毫米汞柱(mmHg)並且舒張壓也要小於80毫米汞柱。當收縮壓為120~139毫米汞柱，或舒張壓為80~89毫米汞柱時，稱為高血壓前期；當收縮壓為140~159毫米汞柱，或舒張壓為90~99毫米汞柱時，稱為第一期高血壓；當收縮壓大於等於160毫米汞柱，或舒張壓大於等於100毫米汞柱時，稱為第二期高血壓。高血壓的病人最好應將血壓值控制到收縮壓低於140、舒張壓低於90毫米汞柱；糖尿病及慢性腎病患則血壓應嚴格控制在收縮壓低於130、舒張壓低於80毫米汞柱。 出國旅遊時容易做一些平常很少做的活動，也容易因心情放鬆而大吃大喝，忽略飲食方面的控制，蔡悅琪提醒，高血壓病人出國旅遊時應不要從事高空彈跳、跳傘、坐雲霄飛車等冒險刺激的活動，以免因情緒波動太大、心情過度激動而造成血壓突然升高，引發急性併發症。 飲食方面，出國旅行時仍應秉持清淡的原則，多吃蔬菜及水果，千萬別放縱自己大吃大喝，太油、太鹹的菜餚在吃之前最好都能過水，以減少油脂及鹽份的攝取，每餐飯以八分飽為宜，不宜吃太飽，避免狼吞虎嚥，也不要抽菸喝酒，不可玩得太High甚至熬夜，還要注意未煮熟的食物不要吃，未經煮沸的水分(飲料)不要喝，沒有經過剝皮的水果不要吃，以免引發「旅遊者腹瀉」，影響玩興。 前東吳大學校長章孝慈出訪至大陸時因腦溢血死亡的事件令人印象深刻，顯示高血壓患者出國時血壓控制的重要性，陳逸忠表示，高血壓患者在旅遊途中單純的血壓升高會出現頭暈、、視力模糊等症狀，嚴重時可能導致腦中風、心肌梗塞、心臟衰竭等危及生命的重大疾病，因此做好血壓控制很重要，最怕的是有些罹患高血壓而不自知的年輕人，可能在出國旅遊時突發重大疾病，造成生命危險。 所以，30歲以上民眾若要出國旅遊最好在出發前諮詢一下家醫科醫師，好好測量一次血壓，以判定自己是否有血壓異常的現象，才能避免旅途中血壓突然升高，導致可能危及生命的嚴重疾病發生。 蔡悅琪提醒，旅遊前，高血壓病人如果兩週內曾經發生腦中風、兩週內曾經接受心臟手術(或胸腔手術、腹腔手術)、六週內曾經發生心肌梗塞、六週內曾經有難以控制的嚴重高血壓（收縮壓兩百毫米汞柱以上）、心臟衰竭代償失調、未控制的心律不整等，以及血色素低於每百亳升8.5克的病人皆不適宜搭飛機旅行，以免影響病情。 在旅遊風氣日盛的年代，高血壓病患只要做好充足行前準備，不要選擇太冷的地區旅遊，藥量備足了，每天固定量血壓，注意旅遊時的情緒及飲食，勿從事過度冒險刺激的活動，一樣可像正常人般快樂出遊，玩得盡興。",
+      "keywords": [
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=895",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.314Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-010f98bca6",
+      "title": "年輕化的第 2 型糖尿病",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": "2023-05-17 19916 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然...",
+      "fullContent": "2023-05-17 19916 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然而近年來世界上許多國家的醫師都發現，第 2 型糖尿病的病例有越來越年輕化的趨勢，亞洲地區的發生率更高於歐美。過去一般大眾對糖尿病的刻板印象總覺得是年紀大的人才會得的 病，年輕人不會有這種病。然而隨著生活型態的變化，飲食越來越精緻而豐盛，運動的時間常被看電視、打線上遊戲取代，肥胖的年輕人越來越多，第 2 型糖尿病的發病年齡也越來越年輕，甚至連青少年都有可能發生！近年來在門診看到有些因為學校尿液篩檢有尿糖而來檢查的孩子，他們和第 1 型糖尿病的孩子顯然不太相同，第 1 個不同是體型壯碩肥胖，第 2 個不同是脖子後側的皮膚特別黑且紋路特別深，像一條帶狀一直延伸到脖子兩側，是典型的「黑棘皮症」。「黑棘皮症」常出現在頸部，也會出現在腋下、鼠蹊部，更嚴重的人肘、膝關節彎曲側都有。曾經有位母親還幫孩子使用「去角質」的美容產品，但是還是去不掉。事實上，「黑棘皮症」是體內過多的胰島素刺激局部皮膚的黑色素沉積造成的，並不是洗不乾淨或是曬黑的。為什麼體內會有過多的胰島素呢？那是因為當我們越來越胖，身上的脂肪組織越來越多，就會增高胰島素的阻抗性。初期可以維持血糖在正常值，但是久而久之胰島細胞不勝負荷，血糖就會升高，第 2 型糖尿病就悄悄發生了。 為什麼形容第 2 型糖尿病是「悄悄發生」呢？許多第 2 型糖尿病人在知道自己有糖尿病之 前，已經有一段時間吃完大餐或甜食之後會比較多尿且口渴，但是除此之外沒有任何嚴重的病 痛。過去我們照顧第 1 型糖尿病童的經驗告訴我們，糖尿病五年以上有可能發生微小血管病變， 要開始做視網膜的檢查；但是有些成人的第 2 型糖尿病人卻是在診斷的同時已經有視網膜的病變 了，這暗示了我們第 2 型糖尿病很可能已經悄悄發生很長一段時間了！ 台灣的青少年第 2 型糖尿病人多不多呢？根據 1992 年到 1996 年的全國 6-18 歲學童尿液篩檢 發現，第 2 型糖尿病佔了新診斷的糖尿病的 54.2%，相關因子包括高膽固醇、高血壓和第 2 型糖 尿病家族史。根據這次報告推算學童第 2 型糖尿病發生率是十萬分之 6.5，高於第 1 型糖尿病的發生率(十萬分之 1.5)。這些孩子的症狀不顯著，他們初期空腹血糖正常，飯後會有短暫時間高血 糖，會多尿多渴， 但不容易出現像第 1 型糖尿病童那樣危急的酮酸症，因此很多孩子在做檢查之前完全不知道自己有糖尿病。如前所述，肥胖是這群孩子的共同點。 根據美國糖尿病學會的建議，年齡十歲以上或是已進入青春期，體重過重，加上有兩項高危險因子的孩子應該做血糖檢察。高危險因子有哪些呢？第 2 型糖尿病家族史，種族(美國原住民和亞裔、太平洋島裔和非洲裔)，胰島素的阻抗性症狀(黑棘皮症、高血脂、高血壓、多囊泡卵巢症)。大家可以發現，我們亞洲人就已經有一項危險因子了。 馬偕醫院曾針對 22 位第 2 型糖尿病孩童(平均年齡 11.7 歲)，237 位肥胖孩童(平均年齡 11.6 歲) 以及 42 個對照組健康孩童(平均年齡 12.1 歲)進行身體檢查，研究結果發現第 2 型糖尿病組 18 % 過重，68%肥胖，64%有黑棘皮症。第 2 型糖尿病組比對照組有較高的胰島素阻抗性、較高的血 脂肪。第 2 型糖尿病組和肥胖組的血液生化值除了前者血糖較高，其他項目無差異。由此研究結果可以發現，肥胖對孩子真的不是福。即使血糖尚未達到糖尿病的診斷，肥胖的孩子已經比一般孩子的胰島素阻抗性高、血脂肪高。此外，肥胖兒童容易發生脂肪肝，潛藏了將來發生肝硬化的風險。高尿酸和痛風也不再是成年人的專利，肥胖的青少年也有機會發生。 青少年第 2 型糖尿病如何治療呢？基本原則是飲食、運動和藥物同步進行。有些孩子一開始 就像第 1 型糖尿病一樣發生酮酸中毒，需要注射胰島素。同樣是第 2 型糖尿病，但每個人的體質不同，當孩子使用口服降血糖藥物一段時間效果不彰時，應該開始注射胰島素。積極減重對控制第 2 型糖尿病非常重要，需要家人和同儕一起幫助、鼓勵他們。雖然他們即使血糖很高，仍不容易發生酮酸症，但是這樣表現溫和的疾病特色，反而是最危險的陷阱！最近韓國、澳洲和紐西蘭所發表的長期追蹤報告發現，發病 5-10 年後，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人出 現微小血管病變的比例更高。日本發表的一個報告指出，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人 30 年後發生腎病變的比例更高，其中少數個案在接近 30 歲時已需洗腎。為什麼看似溫 和的第 2 型糖尿病反而對身體傷害更嚴重呢？分析其原因就在於症狀溫和，所以這群孩子容易在治療一段時間之後失去耐性，不再定期追蹤。糖尿病是體質加上環境因素造成的慢性疾病，如果好好治療，仍然可以長壽又健康，值得大家一起來努力。",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/child/know_health_view.php?docid=154",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.366Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-362c4fade0",
+      "title": "兒童體循環高血壓",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 85686 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著...",
+      "fullContent": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 85686 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著國人飲食西化，高油高鹽的食物充斥，有愈來愈多的學童有肥胖問題，因此兒童高血壓的比率也逐年上升。近年各國學齡兒童高血壓之盛行率約為1-3.5％，血壓偏高(舊的說法是高血壓前期盛行率約在2.2-3.5%)。在特定族群：像是早產兒、肥胖的小朋友（obesity 4-14%, over weight 11-23%）、睡眠呼吸中止症候群患者（3.6-14%）、慢性腎臟疾病的病友（50%）和糖尿病童（T1DM 4-16% ; T2DM 12-31%），他們的盛行率也都比較高。 Q2. 兒童高血壓會有哪些症狀呢？ 除非高血壓危象或是危急型高血壓，兒童高血壓多半沒有症狀，常常是學校篩檢，或者到醫院因為某些需要檢測血壓才發現，在較大的兒童比較常聽到可能相關的症狀有頭暈、頭痛、視力模糊、厭食嘔吐等，嚴重時可能造成癲癇發作、腎衰竭、高血壓腦病變及心血管問題。因此，目前美國兒科醫學會的治療指引建議，超過三歲的兒童就醫時建議至少每年量測一次血壓。 Q3. 兒童高血壓的定義？如何診斷？ 兒童沒辦法和成人用統一標準，必須根據性別、年齡和身高做校正。未滿13歲，根據美國兒童醫學會2017年治療準則：兒童時期高血壓的定義，以血壓（收縮壓或舒張壓）位於同年齡層及身高群正常血壓曲線介於90個與95個百分位數之間者，為血壓增加患者，超過95個百分位數時為第一期高血壓，超過（95個百分位數 + 12毫米汞柱）時為第二期高血壓。超過13歲則按照成人標準，收縮壓大於130毫米汞柱或舒張壓大於80毫米汞柱就算第一期高血壓。兒童要診斷高血壓，不能依賴家中血壓測量值，而是要在兒科門診至少有三次不同時間，且心平氣和的狀態下測量到高血壓才能診斷。不過小朋友只要曾經有測到血壓偏高，就有再測量必要，因為血壓偏高的兒童，將來有很大的機會成為真正高血壓患者。 正常的血壓，隨著性別、年齡以及身高(長)不同而有所差異表 1.不同年齡層的正常血壓值 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 新生兒 80 46 7-8 歲 102 56 6 月-1 歲 89 60 8-9 歲 105 57 1 歲 96 66 9-10 歲 107 57 2 歲 99 64 10-11 歲 111 58 3 歲 100 67 11-12 歲 113 59 4 歲 99 65 12-13 歲 115 59 5-6 歲 94 55 13-14 歲 118 60 6-7 歲 100 56 Q4. 如何測量兒童的血壓？ 測量血壓時，要注意測量的方式，尤其是加壓帶（壓脈帶）的大小，需要根據小朋友的體型做挑選，加壓帶充氣及放氣之速率和受測者當時之情緒等狀況，因為這些都會影響到血壓的測量數值。正統的測量血壓以水銀血壓計為主，選擇適合的加壓帶，但較小的嬰幼兒可利用都卜勒超音波或振動描記器等方式，來測量血壓。適合的加壓帶以能覆蓋上臂的2/3為原則。測量前受測者應安靜休息十至廿分鐘；先快速打氣加壓到脈搏消失後，再加壓上升30度，然後以每秒下降2-3度的速度放氣減壓，才可得到一個較標準的測量。如果血壓超過90百分位，應該要改用水銀血壓計合併聽診器的操作來測量。除了前面描述，建議三歲起一年量一次血壓之外，對於高危險族群（肥胖、腎臟疾病、糖尿病、主動脈弓狹窄、長期使用血壓可能增加的藥物患者）每次門診建議都量血壓。如果小於三歲而患有先天性心臟病、反覆泌尿道感染、尿路結構異常、器官移植或骨髓移植患者、癌症病童、神經纖維瘤、結節性硬化症、鐮刀型紅血球等、低體重或＜32週早產兒(曾經放置臍靜脈管路)、顱內壓增高患者，也是建議每次看診都要量血壓。 Q5. 兒童高血壓的成因？ 常因為是心輸出量的增加及周邊血管阻力的上升造成。高血壓可區分為原發性、繼發性。原發性高血壓（又稱作本態性高血壓）常指不明原因（可能相關的因素有很多，包括年齡、肥胖、高血糖症、高尿酸症、遺傳、食鹽、藥物、環境和發育）造成，成人期的高血壓多為原發性高血壓，高血壓的家族史常常很強烈，兒童6歲以下原發性高血壓的機會較低，但6歲以上的兒童青少年，近年因為飲食西化、肥胖的關係，有日益增加的趨勢。而繼發生高血壓的原因則相當多，例如例如腎臟、心臟血管、內分泌等系統出問題。過去教科書都說腎臟疾病相關高血壓在兒童佔七成，心血管佔一成，原發性只有0.5%，但最近根據健保資料庫的分析，台灣18歲以下診斷高血壓的分類看起來，原發性高血壓佔比已經超過繼發性高血壓。以目前資料來看，年紀越輕的高血壓（六歲以下）或是高血壓嚴重程度越大的病童，為次發性的機會比較高，所以如果不到六歲就被發現有血壓問題，醫師端會比較積極的做詳細的檢查。反之如果高血壓年紀較大，肥胖，有很強的家族高血壓病史，原發性的機會大增，除非身體診察有特殊發現，不然需要做一大堆檢查的機會較低。 原發性高血壓：在幼兒少見。常可以依血清中 Renin 的活性來分類。在不同種族間造成因素也可能不同。在黑人中，常因周邊血管阻力上升。而在白人，則是心輸量增加。 繼發性高血壓：在兒童稍為常見。形成的原因隨年齡不同而異。在新生兒方面，常因高位的臍動脈導管及腎動脈阻塞造成。在患有繼發性高血壓的病童中約有 70－80％有腎臟的疾病，另外有 25－50％的病童有泌尿道感染的病史。因此腎臟的疾病常造成病童的高血壓的重要原因之一。 Q6. 評估 目前高血壓病童的評估： ＊All patients: 尿液分析、抽血（電解質、尿素氮、腎功能、空腹或非空腹血脂肪檢查）、小於六歲、腎功能異常、尿液分析異常者安排腎臟超音波 ＊肥胖兒童（BMI > 95百分位）：加驗醣化血色素（HbA1C）、肝功能（AST, ALT）、空腹血脂肪檢測 ＊依照病史調整之檢查項目：空腹血糖、促甲狀腺素（TSH）、藥物毒物篩檢、睡眠檢查（睡眠呼吸中止）、CBC Q7. 高血壓帶來的問題 兒童期高血壓的病童，成年後也容易是高血壓的患者，長期不論是缺血性心臟疾病、心衰竭、腦血管疾病、血管壁硬化、以及長期死亡率都會增加。因此我們需要評估兒童高血壓是否對身體器官已經造成影響，會需要評估是否出現蛋白尿、高血壓視網膜病變、左心室肥大、頸動脈內層中曾增厚以及血管硬化，其中左心室肥大是器官收傷害最明顯的證據，在想要使用藥物的時候就應該做心臟超音波評估左心室的狀況，之後每半年至一年定期複診。 Q8. 治療 兒童高血壓所帶來的身體器官影響，如果好好控制血壓是常常是可逆的。所有的病人一定要做的：治療性的生活習慣改變（包括飲食、規律的有氧運動以及好的睡眠習慣）、以家庭為基礎的介入治療、避免刺激血壓升高的藥物使用 ＊飲食：DASH (dietary approaches to stop hypertension) diet – 大量蔬果、低脂乳製品、全穀類、魚、家禽、豆類、堅果類、瘦肉(紅肉)、少糖、少鹽 ＊限鹽：增加鹽分的攝取會使各年齡層的血壓上升；目前建議：4-8 歲的兒童一天的鈉攝取在每天1.2g (3 克鹽)，超過8歲兒童鈉攝取一天不要超過1.5g (5 克鹽)，如果需要的話可以轉介營養師做飲食指導跟諮詢 ＊減重：肥胖相關的高血壓迫切需要，減重可以使血壓下降，也可以改善血壓對鹽分的敏感性，還可以減少其他心血管疾病風險（如高血脂、胰島素抗性） ＊規律運動：在成人規律運動對於預防甚至治療高血壓有重要腳色，而在兒童身上，建議每週3-5天中至高強度的有氧運動，每次至少要30-60分鐘（持之以恆平均可以讓血壓下降6.6 mmHg），不過任何形式的運動（有氧、無氧、混合都還是對血壓的控制有幫助）。越能控制身材、身形、越能夠減緩血壓的上升． ＊藥物治療：有症狀、次發性高血壓、第二期高血壓、器官已經有損傷、糖尿病、慢性腎臟疾病、生活型態調整超過半年仍沒有效果。 ＊治療目標：希望血壓＜90個百分位 or < 130/80 mmHg（慢性腎臟病、糖尿病之病童）（器官已經出現影響的個案，例如左心室肥大的的情況）（青少年長期還是希望血壓能控制在＜130/80 mmHg） 常見高血壓治療藥物 Drug Mechanism of action Dosage range Route Duration Vasodilator Hydralazine Relax arteriolar smooth muscle 0.4-0.8 mg/kg/dose IV 2-4hr 0.5-2 mg/kg increase to max 200 mg/24 hr PO 6-8hr Diazoxide Relax smooth muscle 2-5 mg/kg/dose，max 100mg IV 6-24hr Nitroprusside Dilatation of arterioles and venules 0.5-0.8 ug/kg/min IV with infusion Minoxidil Arteriolar dilatation 0.2-0.1 mg/kg/24hr， max 50 mg/24 hr PO 12-24 hr Adrenergic Blockade Phentolamine a -Receptor blockade 0.1 mg/kg/dose，max 5mg IV 1hr Phenoxybenzamine a -Receptor blockade 2-5 mg/24 hr PO 6-12hr Prazosin a -Receptor blockade 1 mg initial dose，may increase to 15 mg/24 hr PO 8-12hr Propranolol b -Receptor blockade Reduces renin release 0.025-0.1mg/kg/dose 0.25-1.0 mg/kg/dose IV PO 6-8hr Labetalol a -b blockade titrate 0.2-2 mg/kg/dose (base on adult dose) 100-400 mg (adult) IV PO with infusion 12 hr Sympatholytic agents a -Methyldopa Decrease sympathetic tone 10 mg/kg/24 hr and increase PO 6-8hr Clonidine 2-a Agonist in CNS 3-5 ug/kg/dose PO 6-8hr Renin-angiotensin Captopril Converting enzyme inhibition of angiotensin II synthesis 0.1-0.3 mg/kg/dose increase to max 2 mg/kg/dose PO 8hr Enalaprilat Same as captopril 0.005-0.010 mg/kg/dose IV 8hr Calcium channel Nifedipine Calcium channel blocker 0.2-0.5 mg/kg，max 10-20mg PO repeat Q30-60 min Verapamil Calcium channel blocker 120-240 mg/kg(adult) PO 12-24 hr Diuretic agents Hydrochlorothiazide Diuresis 1-2 mg/kg/24 hr PO 12-24 hr Furosemide Diuresis 1 mg/kg/dose IV 4-6 hr 2 mg/kg/dose PO 4-6 hr 肺心症（Cor pulmonale） 肺實質或血管的變化，造成右心室肥大或心臟衰竭，叫做肺心症，大多生於大人，小孩子較少見。急性肺心症可因亞急性細菌性心內膜的栓塞所引起，亞急性肺心症可因新生兒的玻璃膜症 （hyalinemembrane disease）所引起，慢性肺心症可因上呼呼道阻塞，慢性支氣管炎（chronic bronchitis），支氣管擴張（bronchiectasis），肺結核， 慢性氣喘等慢性肺疾所引起，治療須找出潛在的原因，加以治療。",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/child/know_health_view.php?docid=50",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.435Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-86d806d162",
+      "title": "糖尿病人足部的照護",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2025/4/14 糖尿病人，即使是很小的足部外傷，若沒有適當的治療，可能因而併發感染，進而導致壞死。因此糖尿病人應特別重視足部照護。 糖尿病人之所以易發生足部問題，主要是因為神經病變，使足部感覺鈍化，因此一個小傷口並不會引起特別的注意，最...",
+      "fullContent": "2025/4/14 糖尿病人，即使是很小的足部外傷，若沒有適當的治療，可能因而併發感染，進而導致壞死。因此糖尿病人應特別重視足部照護。 糖尿病人之所以易發生足部問題，主要是因為神經病變，使足部感覺鈍化，因此一個小傷口並不會引起特別的注意，最後常常導致無法收拾的後果。再加上血管病變使足部循環變差，傷口癒合不易。糖尿病人必須好好關注足部及健康，以減少截肢的機率。 保護足部的簡單步驟 控制血糖；良好控制血糖可有效減少糖尿病神經病變發生機率，所以控制血糖是預防足部病變最基本的要求。 每天應檢視足部是否有傷口、撞傷及紅點產生。其他注意事項如下： 洗淨及擦乾足部，包括趾間，皮膚乾燥則使用綿羊油等潤滑劑，防止過度乾裂。 穿著合適的鞋襪，選擇軟皮合腳的鞋子，選擇棉質、厚軟質鬆的襪子。 勿赤腳走路，每次穿鞋前要檢查鞋內有無異物，避免割傷足部。 勿吸菸。 當趾甲需修剪時，應在可看得很清楚的情況下修剪。如果無法看得很清楚，則請家屬幫忙修剪。 修剪指甲時應使用指甲剪，採平剪方式，勿剪入趾甲縫而傷及趾肉。 勿使用剃刀葉片、雞眼貼布、雞眼液或硬皮去除器等，自行去除雞眼或硬皮。 如果腳上有了傷口，請馬上去看醫師。 避免使用熱敷或熱水袋，以免燙傷皮膚。 坐時雙腿勿交叉，以免壓迫血管，阻礙血液循環。 參考資料 社團法人中華民國糖尿病學會（2022）．2022第2型糖尿病臨床照護指引．社團法人中華民國糖尿病學會。 American Diabetes Association.",
+      "keywords": [
+        "糖尿病",
+        "外傷",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4869",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:31.926Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-a6816a7537",
+      "title": "淺談高血壓藥物",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "台大醫院藥劑部藥師 吳佳璇(2023/03/06) 高血壓為心血管疾病、腦中風、糖尿病、腎臟病等重大慢性病的共同危險因子，根據國民健康署健康年報，20歲以上高血壓盛行率達 27.3%，其中 65歲以上病人高達 63.5%，高血壓為慢性病三高...",
+      "fullContent": "台大醫院藥劑部藥師 吳佳璇(2023/03/06) 高血壓為心血管疾病、腦中風、糖尿病、腎臟病等重大慢性病的共同危險因子，根據國民健康署健康年報，20歲以上高血壓盛行率達 27.3%，其中 65歲以上病人高達 63.5%，高血壓為慢性病三高(高血壓、糖尿病與高血脂)中盛行率最高的慢性病。若高血壓病人長期沒有良好地控制血壓，進而罹患腦中風、心臟病、腎臟病等疾病的機率也較一般民眾高出許多。 一.什麼是高血壓？ 血壓為血液對於血管壁所產生的壓力，為血液由心臟送出時在動脈血管內產生的壓力，分別以心臟收縮時的血壓稱為收縮壓、舒張時的血壓稱為舒張壓，受年齡、運動、肥胖與抽菸等因素影響。當病人血壓普遍高於一般值時，經醫師診斷後為高血壓。 二.高血壓的原因 原發性高血壓 : 95％以上的高血壓是罹患原因不明的原發性高血壓，可能與遺傳、環境、飲食有關。另有小於 5％高血壓是患有內分泌、腎病或血管疾病等引起的續發性高血壓。 三.定期量血壓 每年的5月17日為世界高血壓日，世界高血壓聯盟提倡「準確量血壓，控制血壓，延長壽命」(Measure Your Blood Pressure Accurately, Control It, Live Longer)。由於高血壓於初期大多無明顯症狀，容易忽視因此又稱為隱形殺手，需透過量血壓才能發現並提早就診，若疏於觀察與測量易導致延誤就醫與治療，症狀因人而異，偶有頭痛、頭暈、脖子緊、肩頸酸、心悸氣喘、眩暈、起立時頭暈、視力障礙。 病人自行量血壓時，須先了解血壓的表示法。血壓有２種表現法： 收縮壓： 收縮壓又叫心縮壓，是當心臟收縮把血液打到血管所測得的血壓。 舒張壓： 舒張壓又叫心舒壓，是心臟舒張時，血液回流的壓力。 四.診斷 藉由量血壓與醫師的判斷。 高血壓定義(圖表參考自衛生福利部國民健康署網站) 五.藥物治療 高血壓藥物機轉非常多種，醫師會藉由臨床狀況選擇適當的藥物治療 分類 藥名 成分 作用 血管張力素轉換脢抑制劑 Captopril (Ceporin Tablet 25 mg/tab) 血樂平錠 Imidapril(Tanatril 5 mg/tab) 田納滋 Ramipril(Tritace Tablet 10 mg/tab) 心達舒錠 血管收縮素轉化酶抑制劑angiotensin-converting enzyme inhibitors (ACEI) 在腎素一血管張力素一醛固酮系統中，抑制血管張力素轉化酶作用，減少血管收縮，進而達到降血壓的效果。 血管張力素受器阻斷劑 Edarbi Tablet 40 mg/tab易得平® Diovan Film-Coated Tablets得安穩，台大醫院有兩種含量(160 mg/tab與 40 mg/tab) Cozaar F.C. Tablet 50 mg/tab可悅您錠 血管收縮素受體阻斷劑Angiotensin Receptor Blocker (ARB) 同樣作用於 血管張力素一醛固酮系統中，阻斷血管收縮素受體，減少血管收縮。 分類 藥名 作用 鈣離子通道阻斷劑 Norvasc Tablet 5 mg/tab脈優錠 Zanidip F.C. Tablet 10 mg/tab 利壓膜衣錠 Herbesser Tablet 30 mg/tab合必爽錠 Isoptin 40 mg/tab伊抒婷膜衣錠與 240 mg/tab心舒平持續性膜衣錠 作用於鈣離子通道，擴張血管，降低血壓 部分鈣離子通道阻斷劑 (合必爽錠、伊抒婷膜衣錠)，降低心跳，使血壓降低。 利尿劑 (1) Lasix Tablet 40 mg/tab來適泄錠 (2) Aldactone Tablet 25 mg/tab安達通錠 (3) Fluitran Tablet 2 mg/tab服爾伊得安錠 (4) Burinex Tablet 1 mg/tab必瑞錠 (5) Natrilix SR Tablet 1.5 mg/tab鈉催離持續性藥效錠 幫助身體排出水分，減輕肺部與周邊組織水腫，達降血壓效果 不當的使用利尿劑可能造成的不良反應： 脫水現象：疲倦、眩暈、口乾舌燥、皮膚乾燥 電解質不平衡：肌肉無力、四肢發麻、抽筋、嘔吐、意識改變 乙型交感神經阻斷劑(Beta-blocker) Concor Tablet (康肯) 院內有兩種含量 5 mg 與 1.25 mg Betaloc ZOK Tablet (舒壓寧) 有兩種含量 25 mg/tab 與 100 mg/tab Nebilet 5 mg/tab(耐比洛) 當交感神經活躍時血壓也會升高! 這類藥物主要作用在心臟之β腎上腺素受體，抑制交感神經使心跳變慢，並降低血壓。 這類藥物也會使葡萄糖耐受力降低和無法呈現低血糖症狀的問題，糖尿病若服用這類藥，要特別注意 Alpha型-腎上腺素性阻斷劑 Doxaben (可迅) 院內有兩種含量 4 mg/tab與 2 mg/tab Hytrin 2 mg/tab 定脈平錠 抑制Alpha腎上腺素受體 ，使血管擴張，幫助血流順暢，降血壓，同時有助於減少膀胱及輸尿管之排尿阻力 Alpha - beta 阻斷劑 Trandate 200 mg/tab 湍泰低錠 Dilatrend (達利全)院內有兩種含量 25 mg/tab與 6.25 mg/tab 同時作用在Alpha與Beta腎上腺素受體達降血壓 中樞神經交感抑制劑 Catapres (降保適錠) 0.075 mg/tab 作用於延腦，抑制交感神經，活化副交感神經，使得心跳變慢（心輸出量下降） 血管擴張劑 Apresoline阿普利素寧糖衣院內有兩種含量 10 mg/tab, 50 mg/tab 擴張周邊的血管，達到降血壓的作用 六.非藥物治療 高血壓非藥物治療有助於血壓的控制，良好的飲食習慣對於高血壓與其他慢性病預後有益無害。 體重建議控制於理想體重內，身體質量指數（Body Mass Index, BMI）＜25 kg/m2，肥胖病人得高血壓有較高的風險。 適度的有氧運動 限制鹽份攝取（每天6公克以下），避免含高鹽份的飲食 少飲酒 禁煙 避免長期處於高度壓力之下 適當飲食 平衡之電解質(鉀、鈣、鎂)之攝取 膽固醇和飽和脂肪酸的限制 避免過量飲用茶類與咖啡 得舒飲食DASH (Dietary Approaches to Stop Hypertension) 七.得舒飲食 得舒飲食是針對於高血壓病人設計的飲食方式，有助於血壓的控制。飲食部分建議增加蔬果攝取，降低脂肪攝取。以全穀類取代精緻澱粉 每日至少 2/3 主食以全穀類取代精緻澱粉 多攝取膳食纖維、鉀、鎂、維生素B1、維生素E 鉀含量豐富食品包含山藥、馬鈴薯、蓮藕、南瓜、玉米、芋頭 每天攝取 4-5 份蔬菜 與 4-5 份水果 低脂奶 蛋白質、鈣: 預防骨質疏鬆 低脂: 減少心血管疾病的風險 油脂: 優先選擇不飽和脂肪酸的植物油 亞麻籽油、橄欖油與芥花油 以白肉或植物蛋白取代紅肉 八.妊娠高血壓 是指孕婦過去不曾有過高血壓的病史，而此次因為懷孕而引起高血壓症狀。 在妊娠中血壓的收縮壓高於 140mmHg或舒張壓高於 90mmHg，或妊娠後期之血壓比早期收縮壓升高 30mmHg或舒張壓升高 15mmHg即是妊娠高血壓 若發生妊娠高血壓請看醫師尋求適當的高血壓藥物 九.定期量血壓 避免使用血管張力素轉換脢抑制劑與血管張力素受器阻斷劑即使開始使用藥物治療，定期量血壓仍然相當重要，監測血壓與監測頻率建議： 每天測量，至少每周約一到兩次 就醫前三到七天內至少早晚各量測一次 若有使用高血壓藥物，建議於吃藥前量測 十.總結 非藥物治療：適當飲食、限制鹽份攝取、維持理想體重、有氧運動、禁煙、酒的限制。 藥物治療：務必遵照醫囑指示，按時服藥。 監測：定期量血壓，留意身體狀況。",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "三高"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/new/6487.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.040Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-a3786e9cce",
+      "title": "預防腦中風",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "？ 控制腦中風的危險因子 預防中風的藥物使用 腦血管疾病的危險因子 無法改變的危險因子 : 包括年齡、性別、種族與遺傳等 可能可以改變的危險因子 : 高血壓、糖尿病 (高血糖)、血脂異常(高血脂)、抽煙、過量飲酒、頸動脈狹窄、缺乏運動、肥胖...",
+      "fullContent": "？ 控制腦中風的危險因子 預防中風的藥物使用 腦血管疾病的危險因子 無法改變的危險因子 : 包括年齡、性別、種族與遺傳等 可能可以改變的危險因子 : 高血壓、糖尿病 (高血糖)、血脂異常(高血脂)、抽煙、過量飲酒、頸動脈狹窄、缺乏運動、肥胖、心房顫動與其他心臟疾病等 高血壓與腦中風 70% 腦中風患者合併有高血壓，高血壓控制不好則腦中風發生明顯提高，已發生腦中風更要特別注意血壓控制，以免二次中風。 高血壓的影響 (資料來源：衛生署國民健康局) 血壓高者，罹患腦中風的機率增加 7-8 倍 血壓高者，罹患心臟衰竭的機率增加 5-7 倍 血壓高者，罹患冠狀動脈心臟病的機率增加 2.5 - 4 倍 高血壓與許多嚴重的慢性疾病有密切的相關。 積極控制血壓, 遠離中風心肌梗塞 ! 血壓只要下降 2mmHg，就可以大幅降低中風，心肌梗塞及心血管死亡率 ! 降低 2mmHg --- 可降低 6% 中風死亡率！可降低 4% 心血管死亡率！ 降低 5mmHg --- 可降低 14% 中風死亡率！可降低 9% 心血管死亡率！ 高血壓的治療： 規則量血壓並記錄血壓值; 目標值原則上為收縮壓 130-140 mmHg 以下。 降血壓藥物 各種降壓藥物均能有效降低腦中風的發生，常用的降壓藥物包括利尿劑、乙型阻斷劑、鈣離子阻斷劑、血管收縮素轉換酶抑制劑、血管張力素接受器拮抗劑等 持之以恆，與醫師密切配合規律服用降血壓藥改變生活型態 糖尿病的治療 降低血糖可降低糖尿病合併症之發生 -- 眼睛病變：可降低 76%。 腎臟病變：可降低 50%。 神經病變：可降低 60%。 心臟血管疾病：可降低 35%。 血糖控制目標 : 糖化血紅素 (HbA1C)低於 < 7% 高血脂 三酸甘油脂 膽固醇 低密度膽固醇(“壞”膽固醇 ) : < 70 - 100mg/dl 高密度膽固醇(“好”膽固醇) 應小心的食物： 飽和脂肪：豬油、牛油、 肥肉、奶油、 椰油、臘腸 蛋黃 海鮮 內臟 藥物治療 規律適度的運動 以中等程度運動量為準，每週 3 次，每次 30-60 分鐘，最好能全身活動 抽煙和腦中風的關係 抽煙者有 2 倍發生腦中風的機會 強烈建議中風患者，不要再抽煙 一旦開始戒煙，中風的危險性便開始下降 戒煙 5年後，腦中風的機會等同於未抽煙者 戒菸門診 : 台大家醫科 (戒菸門診) 喝酒和中風的關係 過量飲酒 : 增加出血性腦中風及缺血性腦中風之發生率 極少量飲酒 : 可稍降低缺血性腦中風之發生率 避免肥胖 肥胖者易得高血壓、糖尿病、心臟病、高血脂 理想體重 : 男: (身高 – 80) x 0.7 ± 10% 女: (身高 – 70) x 0.6 ± 10% 減重原則 : “少吃 多動” 調整生活習慣 減少鈉鹽的攝取 減少膽固醇的攝取 多攝取高纖維食物 戒菸戒酒 控制體重、避免肥胖 控制糖尿病、少糖飲食 規律運動 保持心情愉快 常用的藥物 動脈硬化造成腦梗塞：抗血小板治劑 心臟病引起的腦梗塞：抗凝血劑 降血壓、降血糖、降血脂藥物腦循環改善劑、 腦代謝改善劑及血球流變改善劑 (療效未明) 藥物得要長期服用 藥物治療的目的主要是為了預防再發，而不是為了治療已經發生的中風 。 對嚴重的內頸動脈狹窄的病人即使規則服藥的情況下，仍然很容易再次中風。以前只有外科手術的方式來治療狹窄的頸動脈。現在可以使用支架來將動脈撐開。 總結 (腦中風的預防) 血壓控制 血糖控制 ; 血脂控制 飲食控制：均衡的營養、控制熱量、低脂低鈉高纖飲食 戒煙 飲酒節制 適度運動 控制體重 定期就醫、規則服藥",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/new/6260.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.057Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-a90c400b07",
+      "title": "流感與流感疫苗簡介",
+      "clinicName": "馬偕紀念醫院",
+      "category": "疫苗",
+      "summary": "2025/09/30 鄭郁柔 藥師 問題一：什麼是流感？ 季節性流感 季節性流感為感染人類流感病毒所引發之急性病毒性呼吸道疾病，多數國家每年均會發生週期性流行，目前季節性流感係指感染H1N1、H3N2之A型流感病毒，及/或B型流感病毒所造成...",
+      "fullContent": "2025/09/30 鄭郁柔 藥師 問題一：什麼是流感？ 季節性流感 季節性流感為感染人類流感病毒所引發之急性病毒性呼吸道疾病，多數國家每年均會發生週期性流行，目前季節性流感係指感染H1N1、H3N2之A型流感病毒，及/或B型流感病毒所造成之流感。 好發季節 臺灣位處於熱帶及亞熱帶地區，雖然一年四季均有病例發生，但仍以秋、冬季較容易發生流行，流行高峰期多自12月至隔年3月。 傳染方式 主要是透過呼吸道的飛沫傳染，尤其在密閉空間中，容易經由感染者咳嗽或打噴嚏產生之飛沫而傳染給其他人；另外，由於流感病毒可短暫存活於物體表面，故亦可經由接觸傳染。 臨床症狀 主要包括發燒、咳嗽、頭痛、肌肉痠痛、疲倦、流鼻水、喉嚨痛等。另外，約有10%感染者有噁心、嘔吐及腹瀉等腸胃道症狀伴隨呼吸道症狀而來。 少數患者可能出現嚴重併發症，常見併發症為肺炎、腦炎、心肌炎及其他嚴重之繼發性感染或神經系統疾病等。高危險族群包括65歲以上長者、嬰幼兒及孕婦、免疫功能不全者，以及罹患氣喘、糖尿病、心血管、肺臟、肝臟、腎臟等慢性疾病或BMI≧30者。 預防保健 加強個人衛生習慣，勤洗手。 注意呼吸道衛生及咳嗽禮節，戴口罩及保持社交距離。 如有出現發燒、咳嗽等類流感症狀，應戴上口罩並及早就醫，以防因感染流感引起嚴重併發症。 如出現呼吸困難、呼吸急促、發紺(缺氧)、血痰或痰液變濃、胸痛、意識改變、低血壓等危險徵兆時，應提高警覺，儘速/轉診至大醫院就醫。 接種流感疫苗：預防流感最好的方法就是施打流感疫苗，65歲以上長者、嬰幼兒等高危險群尤應接受疫苗接種。 問題二：為什麼需要接種流感疫苗？ 流感疫苗是預防流感最有效的方法，數十年的使用歷史已證明其安全性，6個月大以上之民眾，每年均建議接種流感疫苗。研究顯示接種流感疫苗有下列好處： 接種流感疫苗可預防感染流感，或減少感染時的病情嚴重程度。 接種流感疫苗可以降低與流感相關的住院和死亡風險。 對於慢性疾病（如糖尿病、心臟病、慢性阻塞性肺病等）病人來說，感染流感會使原本慢性疾病惡化，因此疫苗是一項重要的預防措施。 孕婦接種流感疫苗除可在懷孕和產後降低感染機率外，亦可在新生兒出生後提供保護力。 接種疫苗可降低同住家人感染的機率，特別是未滿6個月之嬰兒照顧者，因嬰兒尚無法接種流感疫苗，建議照護者均應接種。 一般而言，流感疫苗的保護力約6個月後會逐漸下降，必須每年接種 。完整接種後至少約需2星期的時間可產生保護力。 問題三：我可以接種流感疫苗嗎？ 接種疫苗是預防流感最有效的方法，可減少流感併發重症風險、降低死亡率，因此6個月大以上之民眾每年均建議接種流感疫苗，以維護身體健康。 114年度公費流感疫苗接種計畫 接種禁忌 已知對流感疫苗成分有過敏者，不予接種。 過去注射曾發生嚴重不良反應者，不予接種。 接種注意事項 發燒或正患有急性中重度疾病者，宜待病情穩定後再接種。 出生未滿 6 個月者，因無使用效益及安全性等臨床資料，故不予接種。 先前接種流感疫苗 6 週內曾發生 Guillain-Barré 症候群 （GBS）者，宜請醫師評估。 其他經醫師評估不適合接種者，不予接種 我對雞蛋過敏，可以接種流感疫苗嗎？ 可以。因大部分使用之流感疫苗，其病毒來自於雞胚蛋培養，傳統上認為疫苗中可能含有雞蛋蛋白成分，曾經建議有雞蛋過敏史者，接種疫苗後需觀察一段時間，確定未產生過敏反應。但近期研究顯示，因流感疫苗製程進步，內含的雞蛋蛋白成分已極少，雞蛋過敏者接種雞胚蛋培養之流感疫苗並不會增加過敏反應發生率，因此國際上皆建議雞蛋過敏者可安心照一般流程接種流感疫苗。 有過敏體質的民眾，可以接種流感疫苗嗎？ 接種流感疫苗前，皆須先經醫師評估身體狀況，若為過敏體質，應於施打前告知醫師，由醫師評估是否施打疫苗。 問題四：有哪些流感疫苗？ 114年度公費流感疫苗 114年度本院自費流感疫苗 問題五：流感疫苗有副作用嗎？接種後要注意什麼？ 可能產生之副作用 接種流感疫苗後可能會有注射部位疼痛、紅腫，少數的人會有全身性的輕微反應，如發燒、頭痛、肌肉酸痛、噁心、皮膚搔癢、蕁麻疹或紅疹等，一般會在發生後1至2天內自然恢復。和其他任何藥品一樣，雖然極少發生，但流感疫苗也可能造成嚴重的副作用，如立即型過敏反應，甚至過敏性休克等不適情況（臨床表現包括呼吸困難、聲音沙啞、氣喘、眼睛或嘴唇腫脹、頭昏、心跳加速等），若不幸發生，通常於接種後幾分鐘至幾小時內即出現症狀。 接種後注意事項 為即時處理接種後發生率極低的立即型嚴重過敏反應，接種後應於接種單位或附近稍做休息，並留觀15分鐘，離開後再自我密切觀察15分鐘。 使用抗血小板/抗凝血藥物或凝血功能異常者，施打後於注射部位加壓至少 2分鐘，並觀察是否仍有出血或血腫情形。 接種後如有持續發燒、嚴重過敏反應如呼吸困難、氣喘、 眩暈、心跳加速等不適症狀，應儘速就醫，並以電話通報當地衛生局或衛生福利部疾病管制署。 完成疫苗接種後，雖可降低感染流感的機率，但仍可能罹患流感，民眾還需注重保健與各種防疫措施，以維護身體健康。 接種流感疫苗後48小時內約有1-2%可能有發燒反應，應告知醫師曾接種疫苗，以做為診斷參考。接種48小時後若持續發燒，則可能另有感染或其他發燒原因。 參考資料來源 衛生福利部疾病管制署 藥品仿單 ■以上引用資訊內容僅提供醫事人員評估參考使用，無法提供任何醫療行為與取代醫師當面診斷，服藥若有身體不適或出現類似上述情況發生，請您儘速就醫，回診與醫師討論，以免延誤病情或影響疾病之治療及可能產生更嚴重之併發症。",
+      "keywords": [
+        "糖尿病",
+        "疫苗",
+        "流感",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=1404",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:32.504Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-835a9ad584",
+      "title": "年長者不容忽視的三高危害",
+      "clinicName": "亞東紀念醫院",
+      "category": "慢性病",
+      "summary": "新陳代謝科 賴蕙萍醫師 台灣已進入高齡化社會，65歲以上人口佔總人口比例已於2018年達到14%以上，預計於2025年65歲以上人口佔總人口比例會達到20%以上，進入超高齡社會，加上少子化的現象，進入超高齡社會的時間或許會提前，隨著年齡的增...",
+      "fullContent": "新陳代謝科 賴蕙萍醫師 台灣已進入高齡化社會，65歲以上人口佔總人口比例已於2018年達到14%以上，預計於2025年65歲以上人口佔總人口比例會達到20%以上，進入超高齡社會，加上少子化的現象，進入超高齡社會的時間或許會提前，隨著年齡的增長，三高疾病的發生率也會上升，如何早期預防及控制疾病成為一大課題。 國人最常見的三種慢性疾病包含：高血壓、高血糖、高血脂，統稱為「三高」 。「三高」是一種慢性病，如無次發因素影響或患者年齡較小，一但罹病通常為不可逆狀態。 針對「三高」疾病的介紹* 高血壓：是動脈血壓持續偏高的慢性疾病。血壓高過140/90mmHg就是高血壓，高血壓前期介於120/80-140/90mmHg。> 依據台灣高血壓學會建議§ 血壓建議在家做監測。§ 量血壓的正確姿勢：坐著，壓脈帶和心臟同高、靠背、不翹腳。§ 正確量血壓時間:休息至少5分鐘時再量血壓，同時量 。§ 血壓計選擇：建議選擇臂式血壓計，較為準確。§ 722原則(請量量):一週量7天，每天於2個不同時間測量，同個時間量兩次，依據血壓記錄表做平均值。 * 高血糖(糖尿病)：是血液中血糖偏高的慢性疾病。空腹8小時血糖高於126 mg/dL或糖化血色素高於6.5%為糖尿病。空腹8小時血糖介於100-125 mg/dL兩次或糖化血色素介於5.7-6.4%為糖尿病前期。 * 高血脂：當血液中流通之膽固醇或三酸甘油脂之濃度高於正常值時，稱為高血脂症。膽固醇存有分為好的膽固醇及壞的膽固醇，目前壞的膽固醇(低密度脂蛋白膽固醇，low-density lipoprotein, LDL)，已證實與動脈粥狀硬化形成有關。 如何預防疾病？ 保持規律的作息、健康飲食、規律運動及保持良好體態，可以幫助預防三高疾病。此外，由於三高疾病都是多基因遺傳疾病，會有家族遺傳史，且與年齡的增長有關，定期的健康檢查也是必要的。國健署提供45歲以上成人三年一次免費健檢、65歲以上成人每年一次免費健檢，歡迎大家善加利用。 發現有三高疾病怎麼辦？ 一旦患病建議至慢性病門診就醫，醫師會依據患者目前的情況做飲食運動建議或藥物治療，如有慢性病相關併發症也可早期檢測，如有異常早期治療以免造成嚴重器官損害。由於慢性病的特性，嚴格的控制三高可以有極大的幫助延緩其他器官受到損壞。 如控制不佳會怎麼樣？ 由於這三種慢性病初期不會有急性症狀，讓人忽略掉潛藏的危害。「三高」 與其他器官慢性疾病有因果關係，如長期控制不佳，會增加大血管疾病風險，導致血管狹窄及堵塞，引發腦中風、心臟冠狀動脈疾病等併發症。另外對於小血管疾病部分，也會導致腎病變、視網膜病變、神經病變，造成慢性腎臟病、失明、糖尿病足、自律神經失調等全身性症狀。這些疾病併發症一但發生通常已不可逆轉，病情嚴重可能導致失能、長期臥床、甚至猝死。 結語 近年來因為精準醫療、個人化醫療的提倡，三高疾病的控制目標也開始有了不同的標準，隨著患者的年齡、家族史、不良習慣(如吸菸及喝酒) 、停經與否、過去病史等，每個患者的控制目標會有差異性，醫師會根據病人的狀態做相關衛教及藥物調整。 新冠肺炎疫情在2019年末爆發，隨後在2020年初迅速擴散至全球多國，逐漸變成一場全球性大瘟疫。新冠肺炎改變了人們的生活，衛生習慣以及健康觀念。在台灣，2021年3月及2022年5月隨著共存口號和開放，每日確診人數和死亡人數不斷攀升，詳看那些敵不過新冠肺炎而去世的人們，除了高齡患者外，慢性病患者佔了絕大多數。在疫情時代中想要安心生活及快樂出遊，要從生活中做起，好好儲值自己的健康存摺。 新陳代謝科/賴蕙萍醫師網頁連結介紹專長：糖尿病、甲狀腺疾病、內分泌疾病 https://www.femh.org.tw/section/sectionDetail2?CID=0203&&DoctorID=92403",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "三高"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.femh.org.tw/magazine/viewmag?ID=10883",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-16",
+      "crawledAt": "2026-05-16T08:00:34.396Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    }
+  ]
+}
