@@ -604,7 +604,7 @@ app.post("/api/admin/crawl", authRequired, adminRequired, async (req, res) => {
 
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.join(rootDir, "dist")));
-  app.get("*", (_req, res) => res.sendFile(path.join(rootDir, "dist", "index.html")));
+  app.get(/.*/, (_req, res) => res.sendFile(path.join(rootDir, "dist", "index.html")));
 } else {
   const { createServer } = await import("vite");
   const vite = await createServer({
