@@ -7,8 +7,6 @@ import {
   Bot,
   Building2,
   CalendarDays,
-  CheckCircle2,
-  ChevronRight,
   ExternalLink,
   Filter,
   Image,
@@ -22,27 +20,11 @@ import {
 } from "lucide-react";
 import "./styles.css";
 
-const googleAccounts = [
-  {
-    label: "管理員 Google",
-    email: "health.admin@gmail.com",
-    name: "專題管理員",
-    roleHint: "可使用搜尋與後台爬蟲",
-    avatarUrl: "https://ui-avatars.com/api/?name=Admin&background=0b7f79&color=fff",
-  },
-  {
-    label: "一般 Google",
-    email: "student.demo@gmail.com",
-    name: "一般使用者",
-    roleHint: "可使用衛教搜尋",
-    avatarUrl: "https://ui-avatars.com/api/?name=Student&background=31515a&color=fff",
-  },
-];
-
 function api(path, options = {}) {
   const token = localStorage.getItem("health-search-token");
   return fetch(path, {
     ...options,
+    credentials: "same-origin",
     headers: {
       "content-type": "application/json",
       ...(token ? { authorization: `Bearer ${token}` } : {}),
@@ -55,31 +37,25 @@ function api(path, options = {}) {
   });
 }
 
-function Login({ onLogin }) {
-  const [googleProfile, setGoogleProfile] = useState(googleAccounts[0]);
+function Login() {
   const [error, setError] = useState("");
-  const [loading, setLoading] = useState(false);
 
-  async function loginWithGoogle(profile) {
-    setLoading(true);
-    setError("");
-    try {
-      const data = await api("/api/google-login", {
-        method: "POST",
-        body: JSON.stringify(profile),
-      });
-      localStorage.setItem("health-search-token", data.token);
-      onLogin(data.user);
-    } catch (err) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
-  }
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const authError = params.get("auth");
+    if (!authError) return;
+    const messages = {
+      "missing-google-config": "尚未設定 Google OAuth，請在 Render 加入 GOOGLE_CLIENT_ID 與 GOOGLE_CLIENT_SECRET。",
+      "invalid-state": "登入驗證逾時，請重新登入。",
+      "google-login-failed": "Google 登入失敗，請稍後再試。",
+    };
+    setError(messages[authError] || "Google 登入被取消或未完成。");
+    window.history.replaceState({}, document.title, window.location.pathname);
+  }, []);
 
   async function submit(event) {
     event.preventDefault();
-    await loginWithGoogle(googleProfile);
+    window.location.href = "/api/auth/google";
   }
 
   return (
@@ -136,44 +112,28 @@ function Login({ onLogin }) {
         <div className="panel-title">
           <span className="google-mark">G</span>
           <div>
-            <h2>選擇登入帳號</h2>
-            <small>Google 模擬登入</small>
+            <h2>Google 帳號登入</h2>
+            <small>正式 OAuth 驗證</small>
           </div>
         </div>
         <p className="login-note">
-          選擇專題展示帳號後即可進入系統，正式上線時可替換為 OAuth 驗證。
+          使用 Google 帳號登入系統；管理員權限由後端環境變數指定，不會在前端公開。
         </p>
         <div className="account-preview selected-account">
-          <img src={googleProfile.avatarUrl} alt="" />
+          <span className="google-mark">G</span>
           <div>
-            <strong>{googleProfile.name}</strong>
-            <span>{googleProfile.email}</span>
+            <strong>安全登入</strong>
+            <span>登入後可依帳號自動判斷使用者或管理員。</span>
           </div>
-          <CheckCircle2 size={20} />
         </div>
         {error && <p className="form-error">{error}</p>}
-        <button className="google-btn" disabled={loading}>
+        <button className="google-btn">
           <span className="google-mark">G</span>
-          {loading ? "登入中..." : "以此帳號繼續"}
-          <ChevronRight size={18} />
+          使用 Google 登入
         </button>
-        <div className="account-grid">
-          {googleAccounts.map((account) => (
-            <button
-              type="button"
-              className={googleProfile.email === account.email ? "selected" : ""}
-              key={account.email}
-              onClick={() => setGoogleProfile(account)}
-              disabled={loading}
-            >
-              <img src={account.avatarUrl} alt="" />
-              <span>
-                <strong>{account.label}</strong>
-                <small>{account.roleHint}</small>
-              </span>
-              {googleProfile.email === account.email && <CheckCircle2 size={18} />}
-            </button>
-          ))}
+        <div className="oauth-note">
+          <strong>管理員帳號</strong>
+          <span>管理員信箱由後端環境設定指定，與一般登入帳號分開控管。</span>
         </div>
       </form>
     </main>
@@ -295,11 +255,13 @@ function App() {
   const aiPanelRef = useRef(null);
 
   useEffect(() => {
-    const token = localStorage.getItem("health-search-token");
-    if (!token) {
-      setLoadingUser(false);
-      return;
+    const params = new URLSearchParams(window.location.search);
+    const urlToken = params.get("token");
+    if (urlToken) {
+      localStorage.setItem("health-search-token", urlToken);
+      window.history.replaceState({}, document.title, window.location.pathname);
     }
+
     api("/api/me")
       .then((data) => setUser(data.user))
       .catch(() => localStorage.removeItem("health-search-token"))
@@ -378,6 +340,7 @@ function App() {
   }
 
   function logout() {
+    api("/api/logout", { method: "POST" }).catch(() => {});
     localStorage.removeItem("health-search-token");
     setUser(null);
   }
@@ -470,7 +433,7 @@ function App() {
   );
 
   if (loadingUser) return <div className="loading">系統載入中...</div>;
-  if (!user) return <Login onLogin={setUser} />;
+  if (!user) return <Login />;
 
   return (
     <main className="app-shell">

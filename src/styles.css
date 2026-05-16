@@ -291,6 +291,13 @@ select:focus {
   background: #f8fbfb;
 }
 
+.account-preview > .google-mark {
+  flex: 0 0 auto;
+  width: 42px;
+  height: 42px;
+  color: #ffffff;
+}
+
 .selected-account {
   margin: 20px 0 14px;
   border-color: #b9d9d9;
@@ -320,6 +327,26 @@ select:focus {
 .account-preview svg {
   margin-left: auto;
   color: #0b7f79;
+}
+
+.oauth-note {
+  display: grid;
+  gap: 5px;
+  margin-top: 16px;
+  border: 1px solid #dce7ea;
+  border-radius: 8px;
+  padding: 12px;
+  background: #f7fbfb;
+  color: #31515a;
+  line-height: 1.55;
+}
+
+.oauth-note strong {
+  color: #0b2b3a;
+}
+
+.oauth-note span {
+  color: #60717a;
 }
 
 .primary-btn:disabled,

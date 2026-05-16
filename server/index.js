@@ -13,6 +13,8 @@ const rootDir = path.resolve(__dirname, "..");
 const dbPath = path.join(rootDir, "data", "db.json");
 const port = Number(process.env.PORT || 5173);
 const sessions = new Map();
+const oauthStates = new Map();
+const isProduction = process.env.NODE_ENV === "production";
 
 const knownArticleTitles = {
   "https://www.mmh.org.tw/know_health_view.php?docid=895": "高血壓病患健康出遊去",
@@ -41,6 +43,7 @@ const fallbackImages = {
 };
 
 const app = express();
+app.set("trust proxy", 1);
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
@@ -66,6 +69,83 @@ function publicUser(user) {
 
 function normalizeText(value = "") {
   return value.replace(/\s+/g, " ").trim();
+}
+
+function getBaseUrl(req) {
+  return process.env.APP_BASE_URL || `${req.protocol}://${req.get("host")}`;
+}
+
+function getGoogleCallbackUrl(req) {
+  return process.env.GOOGLE_CALLBACK_URL || `${getBaseUrl(req)}/api/auth/google/callback`;
+}
+
+function getAdminEmails() {
+  if (!process.env.ADMIN_EMAILS && isProduction) return [];
+  return String(process.env.ADMIN_EMAILS || "health.admin@gmail.com")
+    .split(",")
+    .map((email) => email.trim().toLowerCase())
+    .filter(Boolean);
+}
+
+function roleForEmail(email) {
+  return getAdminEmails().includes(String(email).toLowerCase()) ? "admin" : "user";
+}
+
+function createSession(user) {
+  const token = crypto.randomBytes(24).toString("hex");
+  sessions.set(token, publicUser(user));
+  return token;
+}
+
+function getCookie(req, name) {
+  return String(req.headers.cookie || "")
+    .split(";")
+    .map((part) => part.trim())
+    .find((part) => part.startsWith(`${name}=`))
+    ?.slice(name.length + 1);
+}
+
+function sessionCookie(token) {
+  const secure = isProduction ? "; Secure" : "";
+  return `health_search_session=${token}; HttpOnly; SameSite=Lax; Path=/; Max-Age=${60 * 60 * 24 * 7}${secure}`;
+}
+
+function expiredSessionCookie() {
+  const secure = isProduction ? "; Secure" : "";
+  return `health_search_session=; HttpOnly; SameSite=Lax; Path=/; Max-Age=0${secure}`;
+}
+
+function googleOAuthConfigured() {
+  return Boolean(process.env.GOOGLE_CLIENT_ID && process.env.GOOGLE_CLIENT_SECRET);
+}
+
+async function upsertGoogleUser({ email, name, avatarUrl }) {
+  const db = await readDb();
+  const normalizedEmail = normalizeText(email).toLowerCase();
+  let user = db.users.find((item) => item.email.toLowerCase() === normalizedEmail);
+  const role = roleForEmail(normalizedEmail);
+
+  if (!user) {
+    user = {
+      id: `u-${crypto.randomBytes(6).toString("hex")}`,
+      name: name || normalizedEmail.split("@")[0],
+      email: normalizedEmail,
+      role,
+      loginProvider: "google",
+      avatarUrl:
+        avatarUrl ||
+        `https://ui-avatars.com/api/?name=${encodeURIComponent(name || normalizedEmail)}&background=0b7f79&color=fff`,
+    };
+    db.users.push(user);
+  } else {
+    user.name = name || user.name;
+    user.role = role;
+    user.loginProvider = "google";
+    user.avatarUrl = avatarUrl || user.avatarUrl;
+  }
+
+  await writeDb(db);
+  return user;
 }
 
 function escapeRegExp(value) {
@@ -330,7 +410,8 @@ function pickPageImage($, url, category, articleText = "") {
 }
 
 function authRequired(req, res, next) {
-  const token = req.headers.authorization?.replace("Bearer ", "");
+  const bearerToken = req.headers.authorization?.replace(/^Bearer\s+/i, "");
+  const token = bearerToken || getCookie(req, "health_search_session");
   const user = token ? sessions.get(token) : null;
   if (!user) {
     return res.status(401).json({ message: "請先使用 Google 帳號登入。" });
@@ -457,7 +538,82 @@ function aiScoreArticle(article, input, inferredTerms) {
   return score;
 }
 
+app.get("/api/auth/google", (req, res) => {
+  if (!googleOAuthConfigured()) {
+    return res.redirect("/?auth=missing-google-config");
+  }
+
+  const state = crypto.randomBytes(18).toString("hex");
+  oauthStates.set(state, Date.now() + 10 * 60 * 1000);
+
+  const params = new URLSearchParams({
+    client_id: process.env.GOOGLE_CLIENT_ID,
+    redirect_uri: getGoogleCallbackUrl(req),
+    response_type: "code",
+    scope: "openid email profile",
+    state,
+    prompt: "select_account",
+  });
+
+  res.redirect(`https://accounts.google.com/o/oauth2/v2/auth?${params.toString()}`);
+});
+
+app.get("/api/auth/google/callback", async (req, res) => {
+  const { code, state, error } = req.query;
+  if (error) return res.redirect(`/?auth=${encodeURIComponent(String(error))}`);
+
+  const stateExpiresAt = oauthStates.get(String(state || ""));
+  oauthStates.delete(String(state || ""));
+  if (!code || !stateExpiresAt || stateExpiresAt < Date.now()) {
+    return res.redirect("/?auth=invalid-state");
+  }
+
+  try {
+    const tokenResponse = await fetch("https://oauth2.googleapis.com/token", {
+      method: "POST",
+      headers: { "content-type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams({
+        client_id: process.env.GOOGLE_CLIENT_ID,
+        client_secret: process.env.GOOGLE_CLIENT_SECRET,
+        code: String(code),
+        grant_type: "authorization_code",
+        redirect_uri: getGoogleCallbackUrl(req),
+      }),
+    });
+
+    if (!tokenResponse.ok) throw new Error("Google token exchange failed");
+    const tokenData = await tokenResponse.json();
+
+    const profileResponse = await fetch("https://openidconnect.googleapis.com/v1/userinfo", {
+      headers: { authorization: `Bearer ${tokenData.access_token}` },
+    });
+
+    if (!profileResponse.ok) throw new Error("Google profile request failed");
+    const profile = await profileResponse.json();
+
+    if (!profile.email || profile.email_verified === false) {
+      throw new Error("Google email is not verified");
+    }
+
+    const user = await upsertGoogleUser({
+      email: profile.email,
+      name: profile.name,
+      avatarUrl: profile.picture,
+    });
+    const token = createSession(user);
+    res.setHeader("Set-Cookie", sessionCookie(token));
+    res.redirect("/");
+  } catch (err) {
+    console.error(err);
+    res.redirect("/?auth=google-login-failed");
+  }
+});
+
 app.post("/api/google-login", async (req, res) => {
+  if (isProduction) {
+    return res.status(410).json({ message: "正式環境請使用 Google OAuth 登入。" });
+  }
+
   const email = normalizeText(String(req.body.email || "")).toLowerCase();
   const name = normalizeText(String(req.body.name || ""));
   const avatarUrl = normalizeText(String(req.body.avatarUrl || ""));
@@ -466,31 +622,22 @@ app.post("/api/google-login", async (req, res) => {
     return res.status(400).json({ message: "請輸入有效的 Google 電子郵件。" });
   }
 
-  const db = await readDb();
-  let user = db.users.find((item) => item.email.toLowerCase() === email);
-
-  if (!user) {
-    user = {
-      id: `u-${crypto.randomBytes(6).toString("hex")}`,
-      name: name || email.split("@")[0],
-      email,
-      role: "user",
-      loginProvider: "google",
-      avatarUrl:
-        avatarUrl ||
-        `https://ui-avatars.com/api/?name=${encodeURIComponent(name || email)}&background=0b7f79&color=fff`,
-    };
-    db.users.push(user);
-    await writeDb(db);
-  }
-
-  const token = crypto.randomBytes(24).toString("hex");
-  sessions.set(token, publicUser(user));
+  const user = await upsertGoogleUser({ email, name, avatarUrl });
+  const token = createSession(user);
+  res.setHeader("Set-Cookie", sessionCookie(token));
   res.json({ token, user: publicUser(user) });
 });
 
 app.get("/api/me", authRequired, (req, res) => {
   res.json({ user: req.user });
+});
+
+app.post("/api/logout", authRequired, (req, res) => {
+  const bearerToken = req.headers.authorization?.replace(/^Bearer\s+/i, "");
+  const token = bearerToken || getCookie(req, "health_search_session");
+  if (token) sessions.delete(token);
+  res.setHeader("Set-Cookie", expiredSessionCookie());
+  res.json({ ok: true });
 });
 
 app.get("/api/articles", authRequired, async (req, res) => {
