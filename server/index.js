@@ -211,7 +211,7 @@ function pickTitle($, clinicName, url = "") {
 
 function classifyArticle(title, text, url) {
   const buckets = [
-    { category: "慢性病", terms: ["糖尿病", "高血壓", "高血脂", "三高", "痛風", "失眠"] },
+    { category: "慢性病", terms: ["代謝症候群", "糖尿病", "高血壓", "高血脂", "三高", "痛風", "失眠"] },
     { category: "外科", terms: ["外傷", "換藥", "傷口", "縫合", "甲溝炎", "清瘡"] },
     { category: "疫苗", terms: ["疫苗", "流感", "肺炎鏈球菌", "B型肝炎", "帶狀皰疹"] },
     { category: "急性疾病", terms: ["感冒", "發燒", "腸胃炎", "泌尿道感染"] },
@@ -236,6 +236,7 @@ function classifyArticle(title, text, url) {
 
 function keywordize(text) {
   const candidates = [
+    "代謝症候群",
     "糖尿病",
     "高血壓",
     "高血脂",
@@ -252,8 +253,12 @@ function keywordize(text) {
     "腸胃炎",
     "感冒",
     "發燒",
+    "糞便篩檢",
+    "痛風",
+    "減重",
+    "帶狀皰疹",
   ];
-  return candidates.filter((term) => text.includes(term));
+  return [...new Set(candidates.filter((term) => text.includes(term)))];
 }
 
 function createSummary(text) {
@@ -311,6 +316,7 @@ function cleanupArticleText(text, title) {
 
   const cutMarkers = [
     "回上頁",
+    "回上一頁",
     "回瀏覽頁",
     "開啟網站導覽",
     "隱私權聲明",
@@ -387,7 +393,48 @@ function absoluteUrl(value, baseUrl) {
   }
 }
 
-function pickPageImage($, url, category, articleText = "") {
+function isZhangrenListPage(url) {
+  return /zhangrenclinic\.com\.tw\/contents-\d+\.html$/i.test(url);
+}
+
+function isZhangrenArticlePage(url) {
+  return /zhangrenclinic\.com\.tw\/content-\d+\.html$/i.test(url);
+}
+
+function discoverArticleTargets({ html, url }) {
+  if (!isZhangrenListPage(url)) return [{ url }];
+
+  const $ = cheerio.load(html);
+  const targets = new Map();
+
+  $(".news_lists").each((_, card) => {
+    const href = $(card)
+      .find('a[href*="content-"]')
+      .map((__, link) => absoluteUrl($(link).attr("href"), url))
+      .get()
+      .find((item) => isZhangrenArticlePage(item));
+    if (!href) return;
+
+    const imageUrl = absoluteUrl($(card).find("img").first().attr("src"), url);
+    targets.set(href, { url: href, imageUrl });
+  });
+
+  $('a[href*="content-"]').each((_, link) => {
+    const href = absoluteUrl($(link).attr("href"), url);
+    if (isZhangrenArticlePage(href) && !targets.has(href)) {
+      targets.set(href, { url: href });
+    }
+  });
+
+  return [...targets.values()];
+}
+
+function pickPageImage($, url, category, articleText = "", preferredImageUrl = "") {
+  const preferredImage = absoluteUrl(preferredImageUrl, url);
+  if (preferredImage && !/logo|TOP_|call|phone|facebook|line|icon/i.test(preferredImage)) {
+    return preferredImage;
+  }
+
   const topicImage = imageForCategory(category, articleText);
   if (category !== "一般衛教") return topicImage;
 
@@ -453,11 +500,15 @@ async function fetchHtml(url, useBrowser) {
   }
 }
 
-function extractArticle({ html, url, clinicName }) {
+function extractArticle({ html, url, clinicName, imageUrl = "" }) {
   const $ = cheerio.load(html);
   const title = pickTitle($, clinicName, url);
   $("script, style, header, nav, footer, iframe, noscript, svg").remove();
-  const bodyText = normalizeText($("main").text() || $("body").text());
+  const bodyText = normalizeText(
+    isZhangrenArticlePage(url) && $(".newsdetail").length
+      ? $(".newsdetail").text()
+      : $("main").text() || $("body").text(),
+  );
   const content = bodyText
     .replace(/首 頁|診 療 項 目|醫 療 團 隊|衛 教 文 章|聯 絡 我 們/g, " ")
     .replace(/瀏覽人數：?\d*/g, " ");
@@ -477,7 +528,7 @@ function extractArticle({ html, url, clinicName }) {
     summary: createSummary(cleaned),
     fullContent: cleaned,
     keywords,
-    imageUrl: pickPageImage($, url, category, `${title} ${cleaned}`),
+    imageUrl: pickPageImage($, url, category, `${title} ${cleaned}`, imageUrl),
     sourceUrl: url,
     sourceType: "crawled",
     publishedAt: new Date().toISOString().slice(0, 10),
@@ -725,10 +776,39 @@ app.post("/api/admin/crawl", authRequired, adminRequired, async (req, res) => {
   };
 
   const nextArticles = [...db.articles];
+  const crawlTargets = [];
   for (const url of source.urls) {
     try {
       const html = await fetchHtml(url, mode === "browser");
-      const article = extractArticle({ html, url, clinicName: source.clinicName });
+      const discoveredTargets = discoverArticleTargets({ html, url });
+      if (discoveredTargets.length > 1 || discoveredTargets[0]?.url !== url) {
+        crawlTargets.push(...discoveredTargets);
+        continue;
+      }
+      crawlTargets.push({ url, html });
+    } catch (error) {
+      run.errors.push(`${url}: ${error.message}`);
+    }
+  }
+
+  const uniqueTargets = Array.from(
+    crawlTargets
+      .reduce((targets, target) => {
+        if (!targets.has(target.url)) targets.set(target.url, target);
+        return targets;
+      }, new Map())
+      .values(),
+  );
+
+  for (const target of uniqueTargets) {
+    try {
+      const html = target.html || (await fetchHtml(target.url, mode === "browser"));
+      const article = extractArticle({
+        html,
+        url: target.url,
+        clinicName: source.clinicName,
+        imageUrl: target.imageUrl,
+      });
       const existingIndex = nextArticles.findIndex((item) => item.sourceUrl === article.sourceUrl);
       if (existingIndex >= 0) {
         nextArticles[existingIndex] = { ...nextArticles[existingIndex], ...article };
@@ -737,11 +817,11 @@ app.post("/api/admin/crawl", authRequired, adminRequired, async (req, res) => {
       }
       run.found += 1;
     } catch (error) {
-      run.errors.push(`${url}: ${error.message}`);
+      run.errors.push(`${target.url}: ${error.message}`);
     }
   }
 
-  run.status = run.errors.length === source.urls.length ? "failed" : "completed";
+  run.status = run.found === 0 ? "failed" : "completed";
   run.finishedAt = new Date().toISOString();
   db.articles = nextArticles;
   db.crawlRuns.push(run);
