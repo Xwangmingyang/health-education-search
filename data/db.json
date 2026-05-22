@@ -40,7 +40,8 @@
       "urls": [
         "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5516",
         "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=7175",
-        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4869"
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4869",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6218"
       ],
       "enabled": true
     },
@@ -51,7 +52,11 @@
       "urls": [
         "https://health.ntuh.gov.tw/health/new/6456.html",
         "https://health.ntuh.gov.tw/health/new/6487.html",
-        "https://health.ntuh.gov.tw/health/new/6260.html"
+        "https://health.ntuh.gov.tw/health/new/6260.html",
+        "https://health.ntuh.gov.tw/health/new/6469.html",
+        "https://health.ntuh.gov.tw/health/new/5941.html",
+        "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no166/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B9%8B%E6%96%B0%E5%88%86%E9%A1%9E.pdf",
+        "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no170/%E7%B3%96%E5%B0%BF%E7%97%85%E8%97%A5%E7%89%A9%E4%BB%8B%E7%B4%B9.pdf"
       ],
       "enabled": true
     },
@@ -65,7 +70,8 @@
         "https://www.mmh.org.tw/know_health_view.php?docid=895",
         "https://www.mmh.org.tw/child/know_health_view.php?docid=154",
         "https://www.mmh.org.tw/child/know_health_view.php?docid=50",
-        "https://www.mmh.org.tw/know_health_view.php?docid=1404"
+        "https://www.mmh.org.tw/know_health_view.php?docid=1404",
+        "https://www.hc.mmh.org.tw/know_health_view.php?docid=834"
       ],
       "enabled": true
     },
@@ -74,7 +80,14 @@
       "clinicName": "仁慈醫院",
       "baseUrl": "https://www.mercy.org.tw/",
       "urls": [
-        "https://www.mercy.org.tw/?aid=521&iid=334&page_name=detail&pid=0"
+        "https://www.mercy.org.tw/?aid=521&iid=334&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=358&page_name=detail",
+        "https://www.mercy.org.tw/?aid=521&iid=168&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=331&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=4&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=347&page_name=detail",
+        "https://www.mercy.org.tw/?aid=521&iid=298&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=47&page_name=detail&pid=0"
       ],
       "enabled": true
     },
@@ -83,7 +96,12 @@
       "clinicName": "天主教聖馬爾定醫院",
       "baseUrl": "https://www.stm.org.tw/",
       "urls": [
-        "https://www.stm.org.tw/diabetes/"
+        "https://www.stm.org.tw/diabetes/education.aspx?Typeid=3",
+        "https://www.stm.org.tw/diabetes/education.aspx?Typeid=3&page=2",
+        "https://www.stm.org.tw/diabetes/education.aspx?Typeid=4",
+        "https://www.stm.org.tw/diabetes/education.aspx?Typeid=4&page=2",
+        "https://www.stm.org.tw/diabetes/education.aspx?Typeid=5",
+        "https://www.stm.org.tw/diabetes/education.aspx?Typeid=5&page=2"
       ],
       "enabled": true
     },
@@ -93,7 +111,8 @@
       "baseUrl": "https://www.chimei.org.tw/",
       "urls": [
         "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360005.html",
-        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320002.html"
+        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320002.html",
+        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320108.html"
       ],
       "enabled": true
     },
@@ -102,7 +121,8 @@
       "clinicName": "高雄醫學大學附設中和紀念醫院",
       "baseUrl": "https://www.kmuh.org.tw/",
       "urls": [
-        "https://www.kmuh.org.tw/www/kmcj/data/11412/11.htm"
+        "https://www.kmuh.org.tw/www/kmcj/data/11412/11.htm",
+        "https://www.kmuh.org.tw/Web/KMUHDept/Portals/sdm/0100-0160-4%20%2C.pdf"
       ],
       "enabled": true
     },
@@ -113,7 +133,10 @@
       "urls": [
         "https://www.femh.org.tw/magazine/viewmag.aspx?ID=3812",
         "https://www.femh.org.tw/magazine/viewmag?ID=11185",
-        "https://www.femh.org.tw/magazine/viewmag?ID=10883"
+        "https://www.femh.org.tw/magazine/viewmag?ID=10883",
+        "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11810",
+        "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11946",
+        "https://www.femh.org.tw/magazine/viewmag.aspx?ID=7643"
       ],
       "enabled": true
     }
@@ -850,18 +873,6 @@
       "finishedAt": "2026-05-16T07:57:50.089Z"
     },
     {
-      "id": "run-1778918270094",
-      "sourceId": "src-stm",
-      "mode": "http",
-      "startedAt": "2026-05-16T07:57:50.094Z",
-      "status": "failed",
-      "found": 0,
-      "errors": [
-        "https://www.stm.org.tw/diabetes/: 略過非完整衛教文章或列表頁。"
-      ],
-      "finishedAt": "2026-05-16T07:57:50.659Z"
-    },
-    {
       "id": "run-1778918270667",
       "sourceId": "src-chimei",
       "mode": "http",
@@ -942,18 +953,6 @@
       "finishedAt": "2026-05-16T08:00:32.738Z"
     },
     {
-      "id": "run-1778918432746",
-      "sourceId": "src-stm",
-      "mode": "http",
-      "startedAt": "2026-05-16T08:00:32.746Z",
-      "status": "failed",
-      "found": 0,
-      "errors": [
-        "https://www.stm.org.tw/diabetes/: 略過非完整衛教文章或列表頁。"
-      ],
-      "finishedAt": "2026-05-16T08:00:33.234Z"
-    },
-    {
       "id": "run-1778918433241",
       "sourceId": "src-chimei",
       "mode": "http",
@@ -992,6 +991,180 @@
       "found": 29,
       "errors": [],
       "finishedAt": "2026-05-22T07:03:27.282Z"
+    },
+    {
+      "id": "run-1779437519623",
+      "sourceId": "src-zhangren",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:11:59.623Z",
+      "status": "completed",
+      "found": 29,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:12:00.857Z"
+    },
+    {
+      "id": "run-1779437520883",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:12:00.883Z",
+      "status": "completed",
+      "found": 4,
+      "errors": [
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=7785: 略過非完整衛教文章或列表頁。"
+      ],
+      "finishedAt": "2026-05-22T08:12:01.941Z"
+    },
+    {
+      "id": "run-1779437521973",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:12:01.973Z",
+      "status": "completed",
+      "found": 5,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:12:02.171Z"
+    },
+    {
+      "id": "run-1779437522215",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:12:02.215Z",
+      "status": "completed",
+      "found": 7,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:12:02.742Z"
+    },
+    {
+      "id": "run-1779437522753",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:12:02.753Z",
+      "status": "completed",
+      "found": 8,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:12:03.765Z"
+    },
+    {
+      "id": "run-1779437524303",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:12:04.303Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [
+        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320002.html: HTTP 404"
+      ],
+      "finishedAt": "2026-05-22T08:12:04.627Z"
+    },
+    {
+      "id": "run-1779437524641",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:12:04.641Z",
+      "status": "completed",
+      "found": 1,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:12:04.714Z"
+    },
+    {
+      "id": "run-1779437524741",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:12:04.741Z",
+      "status": "completed",
+      "found": 6,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:12:05.980Z"
+    },
+    {
+      "id": "run-1779438001924",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:20:01.924Z",
+      "status": "completed",
+      "found": 4,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:20:03.253Z"
+    },
+    {
+      "id": "run-1779438003276",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:20:03.276Z",
+      "status": "completed",
+      "found": 5,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:20:03.485Z"
+    },
+    {
+      "id": "run-1779438003517",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:20:03.517Z",
+      "status": "completed",
+      "found": 7,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:20:04.095Z"
+    },
+    {
+      "id": "run-1779438004119",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:20:04.119Z",
+      "status": "completed",
+      "found": 8,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:20:06.145Z"
+    },
+    {
+      "id": "run-1779438006162",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:20:06.162Z",
+      "status": "completed",
+      "found": 3,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:20:06.586Z"
+    },
+    {
+      "id": "run-1779438006601",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:20:06.601Z",
+      "status": "completed",
+      "found": 6,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:20:08.152Z"
+    },
+    {
+      "id": "run-1779438690545",
+      "sourceId": "src-stm",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:31:30.545Z",
+      "status": "completed",
+      "found": 42,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:31:38.679Z"
+    },
+    {
+      "id": "run-1779438979529",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:36:19.529Z",
+      "status": "completed",
+      "found": 7,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:36:21.860Z"
+    },
+    {
+      "id": "run-1779438981902",
+      "sourceId": "src-kmuh",
+      "mode": "http",
+      "startedAt": "2026-05-22T08:36:21.902Z",
+      "status": "completed",
+      "found": 2,
+      "errors": [],
+      "finishedAt": "2026-05-22T08:36:22.584Z"
     }
   ],
   "articles": [
@@ -1015,7 +1188,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/zhesuo.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:23.703Z",
+      "crawledAt": "2026-05-22T08:12:00.012Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1038,7 +1211,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:23.741Z",
+      "crawledAt": "2026-05-22T08:12:00.016Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1069,7 +1242,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/projects.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:23.760Z",
+      "crawledAt": "2026-05-22T08:12:00.019Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1088,8 +1261,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5516",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:31.526Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:03.167Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1105,8 +1278,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=7175",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:31.744Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:03.218Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1122,8 +1295,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/6456.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.021Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:21.520Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1131,14 +1304,16 @@
       "title": "一般外科",
       "clinicName": "馬偕紀念醫院",
       "category": "一般衛教",
-      "summary": "衛教資訊 更新日期：2020-04-01 1313 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部...",
-      "fullContent": "衛教資訊 更新日期：2020-04-01 1313 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部創傷 腹膜透析 減重手術 常見疾病介紹-(二)乳房外科 乳癌診療之原則與新趨勢 乳癌治療之原則 乳癌診斷之新趨 乳癌治療之新趨勢 如何選擇取得細胞或組織的方法以診斷乳癌 乳癌手術治療 乳癌的理學檢查與工具 荷爾蒙與乳癌 常見疾病介紹-(三)甲狀腺疾病 甲狀腺手術常見問題 甲狀腺疾病的手術治療 甲狀腺機能亢進手術 常見疾病介紹-(四)周邊血管 何謂靜脈區張 雷射手術(LASER)治療",
-      "keywords": [],
+      "summary": "衛教資訊 更新日期：2020-04-01 1322 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部...",
+      "fullContent": "衛教資訊 更新日期：2020-04-01 1322 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部創傷 腹膜透析 減重手術 常見疾病介紹-(二)乳房外科 乳癌診療之原則與新趨勢 乳癌治療之原則 乳癌診斷之新趨 乳癌治療之新趨勢 如何選擇取得細胞或組織的方法以診斷乳癌 乳癌手術治療 乳癌的理學檢查與工具 荷爾蒙與乳癌 常見疾病介紹-(三)甲狀腺疾病 甲狀腺手術常見問題 甲狀腺疾病的手術治療 甲狀腺機能亢進手術 常見疾病介紹-(四)周邊血管 何謂靜脈區張 雷射手術(LASER)治療",
+      "keywords": [
+        "減重"
+      ],
       "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=133",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.183Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:04.046Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1152,8 +1327,8 @@
       "imageUrl": "https://www.mmh.org.tw/gi/images/index_01.jpg",
       "sourceUrl": "https://www.mmh.org.tw/gi/index4_2_2.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.230Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:04.050Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1172,26 +1347,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=334&page_name=detail&pid=0",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.738Z",
-      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
-    },
-    {
-      "id": "crawl-72518e8fc8",
-      "title": "天主教聖馬爾定醫院 糖尿病保健中心",
-      "clinicName": "天主教聖馬爾定醫院",
-      "category": "慢性病",
-      "summary": "認識我們 衛教時間 衛教園地 病友團體 活動花絮 認識我們 衛教時間 衛教園地 病友團體 活動花絮 DiabetesManagementCenter ‹ › About Us 糖尿病保健推廣中心由醫術精湛的醫師及高品質的護理、營養、社工等專...",
-      "fullContent": "認識我們 衛教時間 衛教園地 病友團體 活動花絮 認識我們 衛教時間 衛教園地 病友團體 活動花絮 DiabetesManagementCenter ‹ › About Us 糖尿病保健推廣中心由醫術精湛的醫師及高品質的護理、營養、社工等專業人才，組成糖尿病照護團隊，並成立「第二型糖尿病病友會」，藉由團體支持功能，促進病友互助，提升照護品質... VIEW MORE Education 衛教園地提供糖尿病保健專刊、認識糖尿病與日常保健之道、糖尿病和運動、糖尿病的足部護理與傷口照護原則、如何自我監測血糖關於糖尿病、糖尿病飲食、糖尿病易引起的眼睛疾病、病友控糖心得…等相關資訊及知識。 保健專刊 關於糖尿病 糖尿病飲食 心靈響宴 Links Menu 認識我們 衛教時間 衛教園地 病友團體 活動花絮 聖馬首頁 Information 天主教聖馬爾定醫院 糖尿病保健中心 服務地點：嘉義市大雅路二段565號2樓電子信箱：sugar@stm.org.tw服務時間：星期一至星期五8：00~17：00、星期六8：00~12：00服務",
-      "keywords": [
-        "糖尿病",
-        "傷口"
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
-      "sourceUrl": "https://www.stm.org.tw/diabetes/",
-      "sourceType": "crawled",
-      "publishedAt": "2026-05-15",
-      "crawledAt": "2026-05-15T15:41:53.752Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.114Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1209,8 +1366,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360005.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:33.380Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.575Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1227,8 +1384,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320002.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:33.573Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.584Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1245,8 +1402,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.kmuh.org.tw/www/kmcj/data/11412/11.htm",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:33.649Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:22.175Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1264,8 +1421,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=3812",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:33.958Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:08.110Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1282,8 +1439,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag?ID=11185",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:34.199Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:08.121Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1299,8 +1456,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=895",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.314Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:04.056Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1308,8 +1465,8 @@
       "title": "年輕化的第 2 型糖尿病",
       "clinicName": "馬偕紀念醫院",
       "category": "慢性病",
-      "summary": "2023-05-17 19916 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然...",
-      "fullContent": "2023-05-17 19916 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然而近年來世界上許多國家的醫師都發現，第 2 型糖尿病的病例有越來越年輕化的趨勢，亞洲地區的發生率更高於歐美。過去一般大眾對糖尿病的刻板印象總覺得是年紀大的人才會得的 病，年輕人不會有這種病。然而隨著生活型態的變化，飲食越來越精緻而豐盛，運動的時間常被看電視、打線上遊戲取代，肥胖的年輕人越來越多，第 2 型糖尿病的發病年齡也越來越年輕，甚至連青少年都有可能發生！近年來在門診看到有些因為學校尿液篩檢有尿糖而來檢查的孩子，他們和第 1 型糖尿病的孩子顯然不太相同，第 1 個不同是體型壯碩肥胖，第 2 個不同是脖子後側的皮膚特別黑且紋路特別深，像一條帶狀一直延伸到脖子兩側，是典型的「黑棘皮症」。「黑棘皮症」常出現在頸部，也會出現在腋下、鼠蹊部，更嚴重的人肘、膝關節彎曲側都有。曾經有位母親還幫孩子使用「去角質」的美容產品，但是還是去不掉。事實上，「黑棘皮症」是體內過多的胰島素刺激局部皮膚的黑色素沉積造成的，並不是洗不乾淨或是曬黑的。為什麼體內會有過多的胰島素呢？那是因為當我們越來越胖，身上的脂肪組織越來越多，就會增高胰島素的阻抗性。初期可以維持血糖在正常值，但是久而久之胰島細胞不勝負荷，血糖就會升高，第 2 型糖尿病就悄悄發生了。 為什麼形容第 2 型糖尿病是「悄悄發生」呢？許多第 2 型糖尿病人在知道自己有糖尿病之 前，已經有一段時間吃完大餐或甜食之後會比較多尿且口渴，但是除此之外沒有任何嚴重的病 痛。過去我們照顧第 1 型糖尿病童的經驗告訴我們，糖尿病五年以上有可能發生微小血管病變， 要開始做視網膜的檢查；但是有些成人的第 2 型糖尿病人卻是在診斷的同時已經有視網膜的病變 了，這暗示了我們第 2 型糖尿病很可能已經悄悄發生很長一段時間了！ 台灣的青少年第 2 型糖尿病人多不多呢？根據 1992 年到 1996 年的全國 6-18 歲學童尿液篩檢 發現，第 2 型糖尿病佔了新診斷的糖尿病的 54.2%，相關因子包括高膽固醇、高血壓和第 2 型糖 尿病家族史。根據這次報告推算學童第 2 型糖尿病發生率是十萬分之 6.5，高於第 1 型糖尿病的發生率(十萬分之 1.5)。這些孩子的症狀不顯著，他們初期空腹血糖正常，飯後會有短暫時間高血 糖，會多尿多渴， 但不容易出現像第 1 型糖尿病童那樣危急的酮酸症，因此很多孩子在做檢查之前完全不知道自己有糖尿病。如前所述，肥胖是這群孩子的共同點。 根據美國糖尿病學會的建議，年齡十歲以上或是已進入青春期，體重過重，加上有兩項高危險因子的孩子應該做血糖檢察。高危險因子有哪些呢？第 2 型糖尿病家族史，種族(美國原住民和亞裔、太平洋島裔和非洲裔)，胰島素的阻抗性症狀(黑棘皮症、高血脂、高血壓、多囊泡卵巢症)。大家可以發現，我們亞洲人就已經有一項危險因子了。 馬偕醫院曾針對 22 位第 2 型糖尿病孩童(平均年齡 11.7 歲)，237 位肥胖孩童(平均年齡 11.6 歲) 以及 42 個對照組健康孩童(平均年齡 12.1 歲)進行身體檢查，研究結果發現第 2 型糖尿病組 18 % 過重，68%肥胖，64%有黑棘皮症。第 2 型糖尿病組比對照組有較高的胰島素阻抗性、較高的血 脂肪。第 2 型糖尿病組和肥胖組的血液生化值除了前者血糖較高，其他項目無差異。由此研究結果可以發現，肥胖對孩子真的不是福。即使血糖尚未達到糖尿病的診斷，肥胖的孩子已經比一般孩子的胰島素阻抗性高、血脂肪高。此外，肥胖兒童容易發生脂肪肝，潛藏了將來發生肝硬化的風險。高尿酸和痛風也不再是成年人的專利，肥胖的青少年也有機會發生。 青少年第 2 型糖尿病如何治療呢？基本原則是飲食、運動和藥物同步進行。有些孩子一開始 就像第 1 型糖尿病一樣發生酮酸中毒，需要注射胰島素。同樣是第 2 型糖尿病，但每個人的體質不同，當孩子使用口服降血糖藥物一段時間效果不彰時，應該開始注射胰島素。積極減重對控制第 2 型糖尿病非常重要，需要家人和同儕一起幫助、鼓勵他們。雖然他們即使血糖很高，仍不容易發生酮酸症，但是這樣表現溫和的疾病特色，反而是最危險的陷阱！最近韓國、澳洲和紐西蘭所發表的長期追蹤報告發現，發病 5-10 年後，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人出 現微小血管病變的比例更高。日本發表的一個報告指出，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人 30 年後發生腎病變的比例更高，其中少數個案在接近 30 歲時已需洗腎。為什麼看似溫 和的第 2 型糖尿病反而對身體傷害更嚴重呢？分析其原因就在於症狀溫和，所以這群孩子容易在治療一段時間之後失去耐性，不再定期追蹤。糖尿病是體質加上環境因素造成的慢性疾病，如果好好治療，仍然可以長壽又健康，值得大家一起來努力。",
+      "summary": "2023-05-17 20026 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然...",
+      "fullContent": "2023-05-17 20026 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然而近年來世界上許多國家的醫師都發現，第 2 型糖尿病的病例有越來越年輕化的趨勢，亞洲地區的發生率更高於歐美。過去一般大眾對糖尿病的刻板印象總覺得是年紀大的人才會得的 病，年輕人不會有這種病。然而隨著生活型態的變化，飲食越來越精緻而豐盛，運動的時間常被看電視、打線上遊戲取代，肥胖的年輕人越來越多，第 2 型糖尿病的發病年齡也越來越年輕，甚至連青少年都有可能發生！近年來在門診看到有些因為學校尿液篩檢有尿糖而來檢查的孩子，他們和第 1 型糖尿病的孩子顯然不太相同，第 1 個不同是體型壯碩肥胖，第 2 個不同是脖子後側的皮膚特別黑且紋路特別深，像一條帶狀一直延伸到脖子兩側，是典型的「黑棘皮症」。「黑棘皮症」常出現在頸部，也會出現在腋下、鼠蹊部，更嚴重的人肘、膝關節彎曲側都有。曾經有位母親還幫孩子使用「去角質」的美容產品，但是還是去不掉。事實上，「黑棘皮症」是體內過多的胰島素刺激局部皮膚的黑色素沉積造成的，並不是洗不乾淨或是曬黑的。為什麼體內會有過多的胰島素呢？那是因為當我們越來越胖，身上的脂肪組織越來越多，就會增高胰島素的阻抗性。初期可以維持血糖在正常值，但是久而久之胰島細胞不勝負荷，血糖就會升高，第 2 型糖尿病就悄悄發生了。 為什麼形容第 2 型糖尿病是「悄悄發生」呢？許多第 2 型糖尿病人在知道自己有糖尿病之 前，已經有一段時間吃完大餐或甜食之後會比較多尿且口渴，但是除此之外沒有任何嚴重的病 痛。過去我們照顧第 1 型糖尿病童的經驗告訴我們，糖尿病五年以上有可能發生微小血管病變， 要開始做視網膜的檢查；但是有些成人的第 2 型糖尿病人卻是在診斷的同時已經有視網膜的病變 了，這暗示了我們第 2 型糖尿病很可能已經悄悄發生很長一段時間了！ 台灣的青少年第 2 型糖尿病人多不多呢？根據 1992 年到 1996 年的全國 6-18 歲學童尿液篩檢 發現，第 2 型糖尿病佔了新診斷的糖尿病的 54.2%，相關因子包括高膽固醇、高血壓和第 2 型糖 尿病家族史。根據這次報告推算學童第 2 型糖尿病發生率是十萬分之 6.5，高於第 1 型糖尿病的發生率(十萬分之 1.5)。這些孩子的症狀不顯著，他們初期空腹血糖正常，飯後會有短暫時間高血 糖，會多尿多渴， 但不容易出現像第 1 型糖尿病童那樣危急的酮酸症，因此很多孩子在做檢查之前完全不知道自己有糖尿病。如前所述，肥胖是這群孩子的共同點。 根據美國糖尿病學會的建議，年齡十歲以上或是已進入青春期，體重過重，加上有兩項高危險因子的孩子應該做血糖檢察。高危險因子有哪些呢？第 2 型糖尿病家族史，種族(美國原住民和亞裔、太平洋島裔和非洲裔)，胰島素的阻抗性症狀(黑棘皮症、高血脂、高血壓、多囊泡卵巢症)。大家可以發現，我們亞洲人就已經有一項危險因子了。 馬偕醫院曾針對 22 位第 2 型糖尿病孩童(平均年齡 11.7 歲)，237 位肥胖孩童(平均年齡 11.6 歲) 以及 42 個對照組健康孩童(平均年齡 12.1 歲)進行身體檢查，研究結果發現第 2 型糖尿病組 18 % 過重，68%肥胖，64%有黑棘皮症。第 2 型糖尿病組比對照組有較高的胰島素阻抗性、較高的血 脂肪。第 2 型糖尿病組和肥胖組的血液生化值除了前者血糖較高，其他項目無差異。由此研究結果可以發現，肥胖對孩子真的不是福。即使血糖尚未達到糖尿病的診斷，肥胖的孩子已經比一般孩子的胰島素阻抗性高、血脂肪高。此外，肥胖兒童容易發生脂肪肝，潛藏了將來發生肝硬化的風險。高尿酸和痛風也不再是成年人的專利，肥胖的青少年也有機會發生。 青少年第 2 型糖尿病如何治療呢？基本原則是飲食、運動和藥物同步進行。有些孩子一開始 就像第 1 型糖尿病一樣發生酮酸中毒，需要注射胰島素。同樣是第 2 型糖尿病，但每個人的體質不同，當孩子使用口服降血糖藥物一段時間效果不彰時，應該開始注射胰島素。積極減重對控制第 2 型糖尿病非常重要，需要家人和同儕一起幫助、鼓勵他們。雖然他們即使血糖很高，仍不容易發生酮酸症，但是這樣表現溫和的疾病特色，反而是最危險的陷阱！最近韓國、澳洲和紐西蘭所發表的長期追蹤報告發現，發病 5-10 年後，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人出 現微小血管病變的比例更高。日本發表的一個報告指出，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人 30 年後發生腎病變的比例更高，其中少數個案在接近 30 歲時已需洗腎。為什麼看似溫 和的第 2 型糖尿病反而對身體傷害更嚴重呢？分析其原因就在於症狀溫和，所以這群孩子容易在治療一段時間之後失去耐性，不再定期追蹤。糖尿病是體質加上環境因素造成的慢性疾病，如果好好治療，仍然可以長壽又健康，值得大家一起來努力。",
       "keywords": [
         "糖尿病",
         "高血壓"
@@ -1317,8 +1474,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/child/know_health_view.php?docid=154",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.366Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:04.068Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1326,8 +1483,8 @@
       "title": "兒童體循環高血壓",
       "clinicName": "馬偕紀念醫院",
       "category": "慢性病",
-      "summary": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 85686 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著...",
-      "fullContent": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 85686 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著國人飲食西化，高油高鹽的食物充斥，有愈來愈多的學童有肥胖問題，因此兒童高血壓的比率也逐年上升。近年各國學齡兒童高血壓之盛行率約為1-3.5％，血壓偏高(舊的說法是高血壓前期盛行率約在2.2-3.5%)。在特定族群：像是早產兒、肥胖的小朋友（obesity 4-14%, over weight 11-23%）、睡眠呼吸中止症候群患者（3.6-14%）、慢性腎臟疾病的病友（50%）和糖尿病童（T1DM 4-16% ; T2DM 12-31%），他們的盛行率也都比較高。 Q2. 兒童高血壓會有哪些症狀呢？ 除非高血壓危象或是危急型高血壓，兒童高血壓多半沒有症狀，常常是學校篩檢，或者到醫院因為某些需要檢測血壓才發現，在較大的兒童比較常聽到可能相關的症狀有頭暈、頭痛、視力模糊、厭食嘔吐等，嚴重時可能造成癲癇發作、腎衰竭、高血壓腦病變及心血管問題。因此，目前美國兒科醫學會的治療指引建議，超過三歲的兒童就醫時建議至少每年量測一次血壓。 Q3. 兒童高血壓的定義？如何診斷？ 兒童沒辦法和成人用統一標準，必須根據性別、年齡和身高做校正。未滿13歲，根據美國兒童醫學會2017年治療準則：兒童時期高血壓的定義，以血壓（收縮壓或舒張壓）位於同年齡層及身高群正常血壓曲線介於90個與95個百分位數之間者，為血壓增加患者，超過95個百分位數時為第一期高血壓，超過（95個百分位數 + 12毫米汞柱）時為第二期高血壓。超過13歲則按照成人標準，收縮壓大於130毫米汞柱或舒張壓大於80毫米汞柱就算第一期高血壓。兒童要診斷高血壓，不能依賴家中血壓測量值，而是要在兒科門診至少有三次不同時間，且心平氣和的狀態下測量到高血壓才能診斷。不過小朋友只要曾經有測到血壓偏高，就有再測量必要，因為血壓偏高的兒童，將來有很大的機會成為真正高血壓患者。 正常的血壓，隨著性別、年齡以及身高(長)不同而有所差異表 1.不同年齡層的正常血壓值 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 新生兒 80 46 7-8 歲 102 56 6 月-1 歲 89 60 8-9 歲 105 57 1 歲 96 66 9-10 歲 107 57 2 歲 99 64 10-11 歲 111 58 3 歲 100 67 11-12 歲 113 59 4 歲 99 65 12-13 歲 115 59 5-6 歲 94 55 13-14 歲 118 60 6-7 歲 100 56 Q4. 如何測量兒童的血壓？ 測量血壓時，要注意測量的方式，尤其是加壓帶（壓脈帶）的大小，需要根據小朋友的體型做挑選，加壓帶充氣及放氣之速率和受測者當時之情緒等狀況，因為這些都會影響到血壓的測量數值。正統的測量血壓以水銀血壓計為主，選擇適合的加壓帶，但較小的嬰幼兒可利用都卜勒超音波或振動描記器等方式，來測量血壓。適合的加壓帶以能覆蓋上臂的2/3為原則。測量前受測者應安靜休息十至廿分鐘；先快速打氣加壓到脈搏消失後，再加壓上升30度，然後以每秒下降2-3度的速度放氣減壓，才可得到一個較標準的測量。如果血壓超過90百分位，應該要改用水銀血壓計合併聽診器的操作來測量。除了前面描述，建議三歲起一年量一次血壓之外，對於高危險族群（肥胖、腎臟疾病、糖尿病、主動脈弓狹窄、長期使用血壓可能增加的藥物患者）每次門診建議都量血壓。如果小於三歲而患有先天性心臟病、反覆泌尿道感染、尿路結構異常、器官移植或骨髓移植患者、癌症病童、神經纖維瘤、結節性硬化症、鐮刀型紅血球等、低體重或＜32週早產兒(曾經放置臍靜脈管路)、顱內壓增高患者，也是建議每次看診都要量血壓。 Q5. 兒童高血壓的成因？ 常因為是心輸出量的增加及周邊血管阻力的上升造成。高血壓可區分為原發性、繼發性。原發性高血壓（又稱作本態性高血壓）常指不明原因（可能相關的因素有很多，包括年齡、肥胖、高血糖症、高尿酸症、遺傳、食鹽、藥物、環境和發育）造成，成人期的高血壓多為原發性高血壓，高血壓的家族史常常很強烈，兒童6歲以下原發性高血壓的機會較低，但6歲以上的兒童青少年，近年因為飲食西化、肥胖的關係，有日益增加的趨勢。而繼發生高血壓的原因則相當多，例如例如腎臟、心臟血管、內分泌等系統出問題。過去教科書都說腎臟疾病相關高血壓在兒童佔七成，心血管佔一成，原發性只有0.5%，但最近根據健保資料庫的分析，台灣18歲以下診斷高血壓的分類看起來，原發性高血壓佔比已經超過繼發性高血壓。以目前資料來看，年紀越輕的高血壓（六歲以下）或是高血壓嚴重程度越大的病童，為次發性的機會比較高，所以如果不到六歲就被發現有血壓問題，醫師端會比較積極的做詳細的檢查。反之如果高血壓年紀較大，肥胖，有很強的家族高血壓病史，原發性的機會大增，除非身體診察有特殊發現，不然需要做一大堆檢查的機會較低。 原發性高血壓：在幼兒少見。常可以依血清中 Renin 的活性來分類。在不同種族間造成因素也可能不同。在黑人中，常因周邊血管阻力上升。而在白人，則是心輸量增加。 繼發性高血壓：在兒童稍為常見。形成的原因隨年齡不同而異。在新生兒方面，常因高位的臍動脈導管及腎動脈阻塞造成。在患有繼發性高血壓的病童中約有 70－80％有腎臟的疾病，另外有 25－50％的病童有泌尿道感染的病史。因此腎臟的疾病常造成病童的高血壓的重要原因之一。 Q6. 評估 目前高血壓病童的評估： ＊All patients: 尿液分析、抽血（電解質、尿素氮、腎功能、空腹或非空腹血脂肪檢查）、小於六歲、腎功能異常、尿液分析異常者安排腎臟超音波 ＊肥胖兒童（BMI > 95百分位）：加驗醣化血色素（HbA1C）、肝功能（AST, ALT）、空腹血脂肪檢測 ＊依照病史調整之檢查項目：空腹血糖、促甲狀腺素（TSH）、藥物毒物篩檢、睡眠檢查（睡眠呼吸中止）、CBC Q7. 高血壓帶來的問題 兒童期高血壓的病童，成年後也容易是高血壓的患者，長期不論是缺血性心臟疾病、心衰竭、腦血管疾病、血管壁硬化、以及長期死亡率都會增加。因此我們需要評估兒童高血壓是否對身體器官已經造成影響，會需要評估是否出現蛋白尿、高血壓視網膜病變、左心室肥大、頸動脈內層中曾增厚以及血管硬化，其中左心室肥大是器官收傷害最明顯的證據，在想要使用藥物的時候就應該做心臟超音波評估左心室的狀況，之後每半年至一年定期複診。 Q8. 治療 兒童高血壓所帶來的身體器官影響，如果好好控制血壓是常常是可逆的。所有的病人一定要做的：治療性的生活習慣改變（包括飲食、規律的有氧運動以及好的睡眠習慣）、以家庭為基礎的介入治療、避免刺激血壓升高的藥物使用 ＊飲食：DASH (dietary approaches to stop hypertension) diet – 大量蔬果、低脂乳製品、全穀類、魚、家禽、豆類、堅果類、瘦肉(紅肉)、少糖、少鹽 ＊限鹽：增加鹽分的攝取會使各年齡層的血壓上升；目前建議：4-8 歲的兒童一天的鈉攝取在每天1.2g (3 克鹽)，超過8歲兒童鈉攝取一天不要超過1.5g (5 克鹽)，如果需要的話可以轉介營養師做飲食指導跟諮詢 ＊減重：肥胖相關的高血壓迫切需要，減重可以使血壓下降，也可以改善血壓對鹽分的敏感性，還可以減少其他心血管疾病風險（如高血脂、胰島素抗性） ＊規律運動：在成人規律運動對於預防甚至治療高血壓有重要腳色，而在兒童身上，建議每週3-5天中至高強度的有氧運動，每次至少要30-60分鐘（持之以恆平均可以讓血壓下降6.6 mmHg），不過任何形式的運動（有氧、無氧、混合都還是對血壓的控制有幫助）。越能控制身材、身形、越能夠減緩血壓的上升． ＊藥物治療：有症狀、次發性高血壓、第二期高血壓、器官已經有損傷、糖尿病、慢性腎臟疾病、生活型態調整超過半年仍沒有效果。 ＊治療目標：希望血壓＜90個百分位 or < 130/80 mmHg（慢性腎臟病、糖尿病之病童）（器官已經出現影響的個案，例如左心室肥大的的情況）（青少年長期還是希望血壓能控制在＜130/80 mmHg） 常見高血壓治療藥物 Drug Mechanism of action Dosage range Route Duration Vasodilator Hydralazine Relax arteriolar smooth muscle 0.4-0.8 mg/kg/dose IV 2-4hr 0.5-2 mg/kg increase to max 200 mg/24 hr PO 6-8hr Diazoxide Relax smooth muscle 2-5 mg/kg/dose，max 100mg IV 6-24hr Nitroprusside Dilatation of arterioles and venules 0.5-0.8 ug/kg/min IV with infusion Minoxidil Arteriolar dilatation 0.2-0.1 mg/kg/24hr， max 50 mg/24 hr PO 12-24 hr Adrenergic Blockade Phentolamine a -Receptor blockade 0.1 mg/kg/dose，max 5mg IV 1hr Phenoxybenzamine a -Receptor blockade 2-5 mg/24 hr PO 6-12hr Prazosin a -Receptor blockade 1 mg initial dose，may increase to 15 mg/24 hr PO 8-12hr Propranolol b -Receptor blockade Reduces renin release 0.025-0.1mg/kg/dose 0.25-1.0 mg/kg/dose IV PO 6-8hr Labetalol a -b blockade titrate 0.2-2 mg/kg/dose (base on adult dose) 100-400 mg (adult) IV PO with infusion 12 hr Sympatholytic agents a -Methyldopa Decrease sympathetic tone 10 mg/kg/24 hr and increase PO 6-8hr Clonidine 2-a Agonist in CNS 3-5 ug/kg/dose PO 6-8hr Renin-angiotensin Captopril Converting enzyme inhibition of angiotensin II synthesis 0.1-0.3 mg/kg/dose increase to max 2 mg/kg/dose PO 8hr Enalaprilat Same as captopril 0.005-0.010 mg/kg/dose IV 8hr Calcium channel Nifedipine Calcium channel blocker 0.2-0.5 mg/kg，max 10-20mg PO repeat Q30-60 min Verapamil Calcium channel blocker 120-240 mg/kg(adult) PO 12-24 hr Diuretic agents Hydrochlorothiazide Diuresis 1-2 mg/kg/24 hr PO 12-24 hr Furosemide Diuresis 1 mg/kg/dose IV 4-6 hr 2 mg/kg/dose PO 4-6 hr 肺心症（Cor pulmonale） 肺實質或血管的變化，造成右心室肥大或心臟衰竭，叫做肺心症，大多生於大人，小孩子較少見。急性肺心症可因亞急性細菌性心內膜的栓塞所引起，亞急性肺心症可因新生兒的玻璃膜症 （hyalinemembrane disease）所引起，慢性肺心症可因上呼呼道阻塞，慢性支氣管炎（chronic bronchitis），支氣管擴張（bronchiectasis），肺結核， 慢性氣喘等慢性肺疾所引起，治療須找出潛在的原因，加以治療。",
+      "summary": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 86172 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著...",
+      "fullContent": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 86172 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著國人飲食西化，高油高鹽的食物充斥，有愈來愈多的學童有肥胖問題，因此兒童高血壓的比率也逐年上升。近年各國學齡兒童高血壓之盛行率約為1-3.5％，血壓偏高(舊的說法是高血壓前期盛行率約在2.2-3.5%)。在特定族群：像是早產兒、肥胖的小朋友（obesity 4-14%, over weight 11-23%）、睡眠呼吸中止症候群患者（3.6-14%）、慢性腎臟疾病的病友（50%）和糖尿病童（T1DM 4-16% ; T2DM 12-31%），他們的盛行率也都比較高。 Q2. 兒童高血壓會有哪些症狀呢？ 除非高血壓危象或是危急型高血壓，兒童高血壓多半沒有症狀，常常是學校篩檢，或者到醫院因為某些需要檢測血壓才發現，在較大的兒童比較常聽到可能相關的症狀有頭暈、頭痛、視力模糊、厭食嘔吐等，嚴重時可能造成癲癇發作、腎衰竭、高血壓腦病變及心血管問題。因此，目前美國兒科醫學會的治療指引建議，超過三歲的兒童就醫時建議至少每年量測一次血壓。 Q3. 兒童高血壓的定義？如何診斷？ 兒童沒辦法和成人用統一標準，必須根據性別、年齡和身高做校正。未滿13歲，根據美國兒童醫學會2017年治療準則：兒童時期高血壓的定義，以血壓（收縮壓或舒張壓）位於同年齡層及身高群正常血壓曲線介於90個與95個百分位數之間者，為血壓增加患者，超過95個百分位數時為第一期高血壓，超過（95個百分位數 + 12毫米汞柱）時為第二期高血壓。超過13歲則按照成人標準，收縮壓大於130毫米汞柱或舒張壓大於80毫米汞柱就算第一期高血壓。兒童要診斷高血壓，不能依賴家中血壓測量值，而是要在兒科門診至少有三次不同時間，且心平氣和的狀態下測量到高血壓才能診斷。不過小朋友只要曾經有測到血壓偏高，就有再測量必要，因為血壓偏高的兒童，將來有很大的機會成為真正高血壓患者。 正常的血壓，隨著性別、年齡以及身高(長)不同而有所差異表 1.不同年齡層的正常血壓值 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 新生兒 80 46 7-8 歲 102 56 6 月-1 歲 89 60 8-9 歲 105 57 1 歲 96 66 9-10 歲 107 57 2 歲 99 64 10-11 歲 111 58 3 歲 100 67 11-12 歲 113 59 4 歲 99 65 12-13 歲 115 59 5-6 歲 94 55 13-14 歲 118 60 6-7 歲 100 56 Q4. 如何測量兒童的血壓？ 測量血壓時，要注意測量的方式，尤其是加壓帶（壓脈帶）的大小，需要根據小朋友的體型做挑選，加壓帶充氣及放氣之速率和受測者當時之情緒等狀況，因為這些都會影響到血壓的測量數值。正統的測量血壓以水銀血壓計為主，選擇適合的加壓帶，但較小的嬰幼兒可利用都卜勒超音波或振動描記器等方式，來測量血壓。適合的加壓帶以能覆蓋上臂的2/3為原則。測量前受測者應安靜休息十至廿分鐘；先快速打氣加壓到脈搏消失後，再加壓上升30度，然後以每秒下降2-3度的速度放氣減壓，才可得到一個較標準的測量。如果血壓超過90百分位，應該要改用水銀血壓計合併聽診器的操作來測量。除了前面描述，建議三歲起一年量一次血壓之外，對於高危險族群（肥胖、腎臟疾病、糖尿病、主動脈弓狹窄、長期使用血壓可能增加的藥物患者）每次門診建議都量血壓。如果小於三歲而患有先天性心臟病、反覆泌尿道感染、尿路結構異常、器官移植或骨髓移植患者、癌症病童、神經纖維瘤、結節性硬化症、鐮刀型紅血球等、低體重或＜32週早產兒(曾經放置臍靜脈管路)、顱內壓增高患者，也是建議每次看診都要量血壓。 Q5. 兒童高血壓的成因？ 常因為是心輸出量的增加及周邊血管阻力的上升造成。高血壓可區分為原發性、繼發性。原發性高血壓（又稱作本態性高血壓）常指不明原因（可能相關的因素有很多，包括年齡、肥胖、高血糖症、高尿酸症、遺傳、食鹽、藥物、環境和發育）造成，成人期的高血壓多為原發性高血壓，高血壓的家族史常常很強烈，兒童6歲以下原發性高血壓的機會較低，但6歲以上的兒童青少年，近年因為飲食西化、肥胖的關係，有日益增加的趨勢。而繼發生高血壓的原因則相當多，例如例如腎臟、心臟血管、內分泌等系統出問題。過去教科書都說腎臟疾病相關高血壓在兒童佔七成，心血管佔一成，原發性只有0.5%，但最近根據健保資料庫的分析，台灣18歲以下診斷高血壓的分類看起來，原發性高血壓佔比已經超過繼發性高血壓。以目前資料來看，年紀越輕的高血壓（六歲以下）或是高血壓嚴重程度越大的病童，為次發性的機會比較高，所以如果不到六歲就被發現有血壓問題，醫師端會比較積極的做詳細的檢查。反之如果高血壓年紀較大，肥胖，有很強的家族高血壓病史，原發性的機會大增，除非身體診察有特殊發現，不然需要做一大堆檢查的機會較低。 原發性高血壓：在幼兒少見。常可以依血清中 Renin 的活性來分類。在不同種族間造成因素也可能不同。在黑人中，常因周邊血管阻力上升。而在白人，則是心輸量增加。 繼發性高血壓：在兒童稍為常見。形成的原因隨年齡不同而異。在新生兒方面，常因高位的臍動脈導管及腎動脈阻塞造成。在患有繼發性高血壓的病童中約有 70－80％有腎臟的疾病，另外有 25－50％的病童有泌尿道感染的病史。因此腎臟的疾病常造成病童的高血壓的重要原因之一。 Q6. 評估 目前高血壓病童的評估： ＊All patients: 尿液分析、抽血（電解質、尿素氮、腎功能、空腹或非空腹血脂肪檢查）、小於六歲、腎功能異常、尿液分析異常者安排腎臟超音波 ＊肥胖兒童（BMI > 95百分位）：加驗醣化血色素（HbA1C）、肝功能（AST, ALT）、空腹血脂肪檢測 ＊依照病史調整之檢查項目：空腹血糖、促甲狀腺素（TSH）、藥物毒物篩檢、睡眠檢查（睡眠呼吸中止）、CBC Q7. 高血壓帶來的問題 兒童期高血壓的病童，成年後也容易是高血壓的患者，長期不論是缺血性心臟疾病、心衰竭、腦血管疾病、血管壁硬化、以及長期死亡率都會增加。因此我們需要評估兒童高血壓是否對身體器官已經造成影響，會需要評估是否出現蛋白尿、高血壓視網膜病變、左心室肥大、頸動脈內層中曾增厚以及血管硬化，其中左心室肥大是器官收傷害最明顯的證據，在想要使用藥物的時候就應該做心臟超音波評估左心室的狀況，之後每半年至一年定期複診。 Q8. 治療 兒童高血壓所帶來的身體器官影響，如果好好控制血壓是常常是可逆的。所有的病人一定要做的：治療性的生活習慣改變（包括飲食、規律的有氧運動以及好的睡眠習慣）、以家庭為基礎的介入治療、避免刺激血壓升高的藥物使用 ＊飲食：DASH (dietary approaches to stop hypertension) diet – 大量蔬果、低脂乳製品、全穀類、魚、家禽、豆類、堅果類、瘦肉(紅肉)、少糖、少鹽 ＊限鹽：增加鹽分的攝取會使各年齡層的血壓上升；目前建議：4-8 歲的兒童一天的鈉攝取在每天1.2g (3 克鹽)，超過8歲兒童鈉攝取一天不要超過1.5g (5 克鹽)，如果需要的話可以轉介營養師做飲食指導跟諮詢 ＊減重：肥胖相關的高血壓迫切需要，減重可以使血壓下降，也可以改善血壓對鹽分的敏感性，還可以減少其他心血管疾病風險（如高血脂、胰島素抗性） ＊規律運動：在成人規律運動對於預防甚至治療高血壓有重要腳色，而在兒童身上，建議每週3-5天中至高強度的有氧運動，每次至少要30-60分鐘（持之以恆平均可以讓血壓下降6.6 mmHg），不過任何形式的運動（有氧、無氧、混合都還是對血壓的控制有幫助）。越能控制身材、身形、越能夠減緩血壓的上升． ＊藥物治療：有症狀、次發性高血壓、第二期高血壓、器官已經有損傷、糖尿病、慢性腎臟疾病、生活型態調整超過半年仍沒有效果。 ＊治療目標：希望血壓＜90個百分位 or < 130/80 mmHg（慢性腎臟病、糖尿病之病童）（器官已經出現影響的個案，例如左心室肥大的的情況）（青少年長期還是希望血壓能控制在＜130/80 mmHg） 常見高血壓治療藥物 Drug Mechanism of action Dosage range Route Duration Vasodilator Hydralazine Relax arteriolar smooth muscle 0.4-0.8 mg/kg/dose IV 2-4hr 0.5-2 mg/kg increase to max 200 mg/24 hr PO 6-8hr Diazoxide Relax smooth muscle 2-5 mg/kg/dose，max 100mg IV 6-24hr Nitroprusside Dilatation of arterioles and venules 0.5-0.8 ug/kg/min IV with infusion Minoxidil Arteriolar dilatation 0.2-0.1 mg/kg/24hr， max 50 mg/24 hr PO 12-24 hr Adrenergic Blockade Phentolamine a -Receptor blockade 0.1 mg/kg/dose，max 5mg IV 1hr Phenoxybenzamine a -Receptor blockade 2-5 mg/24 hr PO 6-12hr Prazosin a -Receptor blockade 1 mg initial dose，may increase to 15 mg/24 hr PO 8-12hr Propranolol b -Receptor blockade Reduces renin release 0.025-0.1mg/kg/dose 0.25-1.0 mg/kg/dose IV PO 6-8hr Labetalol a -b blockade titrate 0.2-2 mg/kg/dose (base on adult dose) 100-400 mg (adult) IV PO with infusion 12 hr Sympatholytic agents a -Methyldopa Decrease sympathetic tone 10 mg/kg/24 hr and increase PO 6-8hr Clonidine 2-a Agonist in CNS 3-5 ug/kg/dose PO 6-8hr Renin-angiotensin Captopril Converting enzyme inhibition of angiotensin II synthesis 0.1-0.3 mg/kg/dose increase to max 2 mg/kg/dose PO 8hr Enalaprilat Same as captopril 0.005-0.010 mg/kg/dose IV 8hr Calcium channel Nifedipine Calcium channel blocker 0.2-0.5 mg/kg，max 10-20mg PO repeat Q30-60 min Verapamil Calcium channel blocker 120-240 mg/kg(adult) PO 12-24 hr Diuretic agents Hydrochlorothiazide Diuresis 1-2 mg/kg/24 hr PO 12-24 hr Furosemide Diuresis 1 mg/kg/dose IV 4-6 hr 2 mg/kg/dose PO 4-6 hr 肺心症（Cor pulmonale） 肺實質或血管的變化，造成右心室肥大或心臟衰竭，叫做肺心症，大多生於大人，小孩子較少見。急性肺心症可因亞急性細菌性心內膜的栓塞所引起，亞急性肺心症可因新生兒的玻璃膜症 （hyalinemembrane disease）所引起，慢性肺心症可因上呼呼道阻塞，慢性支氣管炎（chronic bronchitis），支氣管擴張（bronchiectasis），肺結核， 慢性氣喘等慢性肺疾所引起，治療須找出潛在的原因，加以治療。",
       "keywords": [
         "糖尿病",
         "高血壓"
@@ -1335,8 +1492,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/child/know_health_view.php?docid=50",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.435Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:04.081Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1354,8 +1511,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4869",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:31.926Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:03.235Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1374,8 +1531,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/6487.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.040Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:21.522Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1388,13 +1545,14 @@
       "keywords": [
         "糖尿病",
         "高血壓",
-        "高血脂"
+        "高血脂",
+        "減重"
       ],
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/6260.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.057Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:21.523Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1413,8 +1571,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=1404",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:32.504Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:04.088Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1433,8 +1591,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag?ID=10883",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-16",
-      "crawledAt": "2026-05-16T08:00:34.396Z",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:08.127Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1451,7 +1609,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-34.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:23.827Z",
+      "crawledAt": "2026-05-22T08:12:00.063Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1466,7 +1624,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-22.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:23.883Z",
+      "crawledAt": "2026-05-22T08:12:00.103Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1486,7 +1644,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-21.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:24.219Z",
+      "crawledAt": "2026-05-22T08:12:00.137Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1504,7 +1662,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-19.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:24.305Z",
+      "crawledAt": "2026-05-22T08:12:00.170Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1521,7 +1679,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-18.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:24.363Z",
+      "crawledAt": "2026-05-22T08:12:00.203Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1538,7 +1696,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-15.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:24.416Z",
+      "crawledAt": "2026-05-22T08:12:00.236Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1553,7 +1711,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-3.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:24.803Z",
+      "crawledAt": "2026-05-22T08:12:00.268Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1571,7 +1729,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-1.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.135Z",
+      "crawledAt": "2026-05-22T08:12:00.300Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1588,7 +1746,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-35.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.181Z",
+      "crawledAt": "2026-05-22T08:12:00.330Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1606,7 +1764,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-33.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.231Z",
+      "crawledAt": "2026-05-22T08:12:00.363Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1624,7 +1782,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-32.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.273Z",
+      "crawledAt": "2026-05-22T08:12:00.393Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1643,7 +1801,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-31.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.317Z",
+      "crawledAt": "2026-05-22T08:12:00.425Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1663,7 +1821,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-30.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.587Z",
+      "crawledAt": "2026-05-22T08:12:00.453Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1681,7 +1839,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-29.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.900Z",
+      "crawledAt": "2026-05-22T08:12:00.484Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1701,7 +1859,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-28.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:25.971Z",
+      "crawledAt": "2026-05-22T08:12:00.514Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1719,7 +1877,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-27.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.128Z",
+      "crawledAt": "2026-05-22T08:12:00.544Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1738,7 +1896,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-26.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.179Z",
+      "crawledAt": "2026-05-22T08:12:00.572Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1756,7 +1914,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-25.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.234Z",
+      "crawledAt": "2026-05-22T08:12:00.603Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1774,7 +1932,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-24.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.604Z",
+      "crawledAt": "2026-05-22T08:12:00.634Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1791,7 +1949,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-23.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.650Z",
+      "crawledAt": "2026-05-22T08:12:00.663Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1809,7 +1967,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-2.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.684Z",
+      "crawledAt": "2026-05-22T08:12:00.705Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1827,7 +1985,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-20.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.737Z",
+      "crawledAt": "2026-05-22T08:12:00.735Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1848,7 +2006,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-4.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.802Z",
+      "crawledAt": "2026-05-22T08:12:00.767Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1866,7 +2024,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-36.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:26.869Z",
+      "crawledAt": "2026-05-22T08:12:00.798Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1885,7 +2043,7 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-17.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:27.208Z",
+      "crawledAt": "2026-05-22T08:12:00.828Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1905,8 +2063,1065 @@
       "sourceUrl": "https://www.zhangrenclinic.com.tw/content-5.html",
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T07:03:27.282Z",
+      "crawledAt": "2026-05-22T08:12:00.857Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-17766d4acd",
+      "title": "The prevention and healthcare of Diabetes mellitus 類似消渴症(糖尿病)的預防與保健",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2026/1/13 Diabetes mellitus is the dysfunction of glucose metabolism which can trigger a series of complications like hy...",
+      "fullContent": "2026/1/13 Diabetes mellitus is the dysfunction of glucose metabolism which can trigger a series of complications like hyperlipidemia, cardiovascular disease, chronic renal failure, retinal damage, and nerve damage. Diabetes mellitus treatment aims to decrease blood sugar and lipid level, relief discomfort, improve blood circulation and metabolic dysfunction, lower HbA1c level, and control blood pressure. Lifestyle factors may improve the risk profile of most chronic complications. Drink warm water: patients should drink a large quantity of water to reduce the condensed blood level in them; if patients chronically drink icy-cold water, they will suffer from gastrointestinal dysfunction. Chew food slowly: eating too fast increases gastrointestinal burden and causes dysfunction of insulin secretion which can trigger imbalance of blood sugar level. Avoid barbecued, fried, and over-cooked foods: the aforementioned cooking methods bring lots of burden to your body and it contains high calorie. When glucose metabolism is disturbed, it increases fire qi in your body and it becomes hard to control your blood sugar level. Therefore, stewing, boiling, and steaming your food are highly recommended. Avoid alcohol and starch-rich foods: alcohol will cause liver and pancreas inflammation and interfere the metabolism of glucose; therefore, patients should avoid starch-rich foods that can elevate serum sugar level. Keep a good habit of regular exercise: work on exercises such as jogging and walking 3 times a week and at least 30 minutes per time. If you want to control your blood sugar level and avoid complications, you should have a healthy and balanced life-style with good diet habits; and most importantly, don’t forget to return to the hospital for regular follow-ups. ​ Reference Colditz, G. A. (2022, November). Patient Education: Diet and Health (Beyond the Basics). UpToDate. https://www.uptodate.com/contents/diet-and-health-beyond-the-basics",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6218",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:03.253Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-5cdbf1d27d",
+      "title": "糖尿病新治療",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "台大醫院內科主治醫師 賴瑩純 (2022/10/11) 糖尿病的患者在台灣逐年上升，2013-2015盛行率約占 12%左右，若不好好控制，高血糖會導致糖尿病併發症的發生，如視網膜病變、腎臟病、周邊神經病變、心血管疾病等。若能好好的控制血糖...",
+      "fullContent": "台大醫院內科主治醫師 賴瑩純 (2022/10/11) 糖尿病的患者在台灣逐年上升，2013-2015盛行率約占 12%左右，若不好好控制，高血糖會導致糖尿病併發症的發生，如視網膜病變、腎臟病、周邊神經病變、心血管疾病等。若能好好的控制血糖，臨床證實能有效預防及治療這些病發症。所幸的是，隨著藥物新發展，糖尿病患目前有更多的治療選擇。台灣已經上市，患者可以使用的新治療包括：鈉葡萄糖協同轉運蛋白2抑制劑（Sodium-glucose co-transporter-2 [SGLT2] inhibitors）、升糖素肽-1受體促效劑（glucagon-like peptide-1[GLP-1] receptor agonists）、連續血榶監測、胰島素幫浦。 SGLT2 inhibitors SGLT2 inhibitors經由抑制近端腎小管葡萄糖吸收，達到尿液排糖的效果，此類藥物包括 canagliflozin、dapagliflozin、empagliflozin、及ertugliflozin。除了降血榶的作用以外（HbA1c約可降 0.7%），附加的好處為降低體重、減少心血管事件發生、減少因心臟衰竭住院之風險、及減少糖尿病腎臟病惡化。心腎保護的效果在不同的SGLT2 inhibitors 分別的效果有差異，在衛生福利部食品藥物管理署有不同的適應症核准。使用時要注意會降血壓與增加泌尿道感染的風險，患者應避免脱水，注意泌尿道與生殖器清潔。此外，這類藥物在部分患者會增加酮酸中毒的風險，可自我監測尿酮，及注意是否有相關症狀。 GLP-1 receptor agonists GLP-1為腸泌素的一種，可以增加胰島素的分泌、減少升糖素的分泌，而達到降低血糖的作用。此外，它可以降低食慾、減緩胃的排空、減少飢餓感、增加飽足感，進一步降低體重。可能產生噁心嘔吐等腸胃道的副作用，在流行病學研究顯示可能增加急性胰臟炎的風險，也需注意有甲狀髓質癌風險的患者不能使用。注射型的GLP-1 receptor agonist有liraglutide、dulaglutide、及semaglutdie。這三種藥可降低心血管併發症之風險，避免腎臟病與尿蛋白惡化。 這一類的藥物還有： 複方的GLP-1 receptor agonist有insulin glargine/lixisenatide (2:1固定比例) 口服的GLP-1 receptor agonist有oral semaglutide。 連續血榶監測 連續血糖監測在皮下置入感應針(sensor)，每 5分鐘量測皮下組織液因血糖變化產生的電流反應，再經由矯正可即時反應病人的血糖值，患者可使用連續血榶監測，以了解血糖控制不佳的原因，或疑似有半夜低血糖時可用連續血榶監測發現到，提醒病患處理低血糖，研究顯示可以有效改善HbA1c，減少低血糖發生。台灣健保給付第1型糖尿病患者，新生兒糖尿病，及近全胰臟切除導致糖尿病患者，第 2型糖尿病患者與妊娠糖尿病患者需自費使用。 胰島素幫浦 胰島素幫浦在皮下置入一個小軟針可連續注射胰島素提供穩定的基礎胰島素，也可在餐前注射短效胰島素控制飯後高血糖，傳統上患者仍需使用血糖機多次測量血糖值來做調整，患者需要有醣類計算的知識，能手動計算調整劑量，機器的操作上需要一段時間學習與適應。然而胰島素幫浦隨著時代的進步，配合連續血糖監測，與人工智慧結合，已進展到半人工胰臟的時代，現在的胰島素幫浦，當機器偵測到連續監測血糖下降過快或低血糖，胰島素幫浦可自動調整胰島素輸注量或暫停輸注。不但可減少高低血糖的發生，患者操作上也更方便。臨床研究也證實這樣的方式可減少患者發生低血糖的次數與改善血糖值，病人的生活品質也大幅提昇。患者要一段時間學習，與價格昂貴是最大的缺點。 還有很多有潛力的糖尿病的新藥在研究中，不只是降血糖，未來這類的藥物也會注重在減少糖尿病併發症的治療上，達到個別化醫療的目的。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/new/6469.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:21.524Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-435f5d16cd",
+      "title": "糖尿病急症～高、低血糖的處理",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "摘自 糖尿病衛教小組 徐玉玲護理師演講簡報 護理部 何佩如護理師 修訂(2020年12月) 什麼是糖尿病？ 糖尿病是慢性血糖代謝異常疾病。身體將吃進去的碳水化合物(澱粉類) ，分解及轉變為葡萄糖時， 需要胰臟分泌的胰島素，將葡萄糖帶入細胞內...",
+      "fullContent": "摘自 糖尿病衛教小組 徐玉玲護理師演講簡報 護理部 何佩如護理師 修訂(2020年12月) 什麼是糖尿病？ 糖尿病是慢性血糖代謝異常疾病。身體將吃進去的碳水化合物(澱粉類) ，分解及轉變為葡萄糖時， 需要胰臟分泌的胰島素，將葡萄糖帶入細胞內，供給身體做為能量的來源。當身體無法充分利用吃進去的葡萄糖，使得血液中葡萄糖濃度異常，就會造成血糖代謝異常。 血糖檢查標準 檢查標準 正常(無糖尿病) 糖尿病風險增加(糖尿病前期) 糖尿病 空腹血糖 (mg/dl) ＜100 100 - 125空腹血糖異常(IFG) ≥ 126 兩小時血糖(mg/dl) ＜140 140 - 199葡萄糖耐量異常(IGT) ≥ 200 A1C(%)糖化血色素 6.5% 隨機血糖 ≥ 200 mg/dl，且合併典型症狀者得依照單次檢查確診 典型症狀：三多(尿多、吃多、喝多)、體重減輕 空腹：至少 8 小時未進食含熱量的食物 糖尿病分類 1.第1型糖尿病 通常為胰島素分泌絕對缺乏 自體免疫的啟動，或合併其它自體免疫疾病 任何年齡都可能發病 體型很少是肥胖 2.第2型糖尿病 胰島素阻抗性 胰島細胞功能障礙 胰島素濃度可能是正常、增加或減少 診斷時經常沒有症狀 任何年齡都有可能發生，且青少年人數逐漸增加 3.他特定型糖尿病：遺傳缺損、胰臟炎、甲狀腺亢進、藥物或感染 4.妊娠糖尿病 誰是高危險群？ 一等親有糖尿病 平常很少運動 體重過重 之前體檢血糖不正常 有高血壓，血脂異常，心血管疾病或中風 以前懷孕時有妊娠糖尿病 情緒壓力、疾病 暴飲暴食 血糖控制目標 空腹血糖：70-130 mg/dl 飯後兩小時血糖：小於180 mg/dl 糖化血色素： < 7 %, 最好< 6.5% 糖尿病控制原則 定時定量、規律運動、規則服藥 您有自我監測血糖嗎？ 為什麼要監測血糖？ 一般 2~3 個月抽血一次，但是每天血糖都有變化，抽 1 次不一定能代表整個月的血糖變化 自我監測血糖可以馬上知道吃的東西與血糖變化的關係 每天至少測 1~ ，最好選擇一次飯前加飯後血糖值 (註 : 飯後血糖為進食第一口後 2 小時的血糖值) 影響血糖的因素 飲食、藥物、體活動量、壓力、疾病 糖尿病急症 1.急性高血糖 1-1.糖尿病酮酸中毒 因胰島素嚴重缺乏，多發生在第1型糖尿病。血糖達 250 mg/dL 或更高、變化快速， 導致脫水、酮血症、酸血症、電解質不平衡。 症狀表現 高血糖（多吃、多喝、多尿、體重減輕、視力模糊） 脫水（低血壓、心跳快速、黏膜乾燥、皮膚失去彈性、眼球凹陷） 酸血症、（快速且深的呼吸 ）、酮血症（酮體形成、呼吸有水果味、噁心、嘔吐、腹痛、腹瀉） 常見因素 未用或使用過期的胰島素、主觀的感覺來判斷自己血糖的高低 情緒壓力、飲食過量、其他疾病，如感染、發燒、腹瀉 未察覺或不會辨別血糖上升之症狀 治療目標 給予足夠胰島素、補充足夠液體、修正電解質不足及酸血症 預防低血糖、低血鉀等併發症、需要時給予葡萄糖 生病時血糖及尿中酮體的監測頻率 每四至六小時一次，血糖＞250 mg/dL時，測試酮體 檢查時間：早餐前、午餐前、晚餐前、睡前 1-2.高滲透壓高血糖症 嚴重高血糖，血液葡萄糖 600 mg/dL以上，平均大於 1000 mg/dL，甚至高達 1500 mg/dL，多發生在第 2 型糖尿病。無顯著酮體產生，若有則腸胃道症狀比較輕微，極度的脫水。嗜睡及輕微錯亂是極度脫水導致的結果，單側感覺缺損、半身輕癱、失語症和抽搐，類似腦中風。 常見因素 不知道有糖尿病，初次發病者 未警覺高血糖的症狀，常見於年老糖尿病患、安養院患者 自行停止降血糖藥物 任何使血糖上升或減少水分的因素：感染、腦中風、腸胃道出血、藥物、飲水及液體攝取不足、透析病患 治療目標 給予足夠液體補充水分 矯正電解質缺乏 給予足夠胰島素 預防併發症 如何防止脫水--多喝水 白天清醒時，每小時至少喝不含熱量的水份 240CC，包含開水、清湯、代糖的飲料 若無法自行喝水時，請送醫以靜脈點滴注射補充 如何調整攝取的食物量--依血糖值高低 小於 180 mg/dL : 吃或喝相當於平日飲食中碳水化合物含量的食物或飲料 180-250 mg/dL : 需吃或喝等於15公克碳水化合物的食物 大於 250-300 mg/dL : 需飲用不含熱量的液體食物 1-3.生病時該不該繼續使用降血糖藥物？ 原則上應該繼續服用所有口服降血糖藥物，因為血糖通常會增加，但必須勤加監測血糖 1-4.高血糖的預防 了解高血糖的原因及辨認其症狀、定期監測血糖，早期處理。 勿自行停止使用降血糖藥、生病及壓力時的處理。 2.低血糖 2-1.低血糖 一般指血糖值＜ 70mg/dl。血糖＜ 50 mg/dl,中樞神經葡萄糖缺乏，可能昏迷、抽慉。但是，當血糖急速下降，即使血糖值未偏低，也可能有低血糖症狀的假反應。 低血糖的原因 胰島素注射過量、降血糖藥過量或服了藥卻沒有進食。未進食或醣類吃得太少，或進食時間不適當。 長時間或突然過度運動，卻未補充食物 低血糖症狀 早期警訊：飢餓、發抖、冒冷汗、心跳加快、無力、頭暈、嘴唇麻等 無法專心、說話困難、不協調、不正常的疲倦或嗜睡、視力模糊 低血糖症狀會因人而異，嚴重度也可能隨時間而有所改變 低血糖嚴重度 輕度 ＜70 mg/dL : 15 原則 中度 ＜50 mg/dL : 15克 X 2 重度 ＜45 mg/dL : 應立刻送醫，送醫途中若病人可進食，仍應再給予含快速吸收糖類的飲料；若病人意識改變，無法進食，可將糖膏或蜂蜜塗抹於病人頰內。 低血糖處理--15原則 進食含糖食品 15克：容易吸收的糖，含糖飲料 120-150CC ( 3顆方糖 、一湯匙的蜂蜜或糖漿 ) 不要以巧克力、花生醬等高油食品治療低血糖。 不適當的低血糖處理常造成體重快速增加 等 15 分鐘後再次測量血糖，如果血糖低於 80mg/dl，請再補充一次 15 克糖類。 低血糖處理後重要提醒 15 原則處理後，若未見改善，則應立刻送醫 若症狀改善，但距離正餐大約有一小時，可進食一份 (15克)醣類食品(餅乾、吐司、麵包)；如距離正餐多於一小時，可進食兩份醣類食品。 如何預防低血糖 按醫囑指示劑量規則服藥及用餐 增加額外活動、運動前，先補充 15公克含糖食物。劇烈運動則每半小時補充一次或複雜性醣類 (如一份三明治) 了解、熟記自己低血糖症狀，並提高警覺 處理低血糖後，應檢討原因，預防再發生 外出時應隨身攜帶易吸收的醣類 (如水果軟糖、糖包) 隨身攜帶糖尿病處理及緊急聯絡資料卡",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/new/5941.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:21.527Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-93b264b3f0",
+      "title": "高血壓(Hypertension)",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": "2023-08-25 1067 SHARE TAGS 高血壓是心臟血管疾病最主要的危險因子之一。根據國外的研究報告，血壓愈高，並持續愈久，得到中風、心肌梗塞、心臟衰竭、及腎臟病等的機會愈高。所謂預防勝於治療，患者必須嚴格控制其血壓。 每個人...",
+      "fullContent": "2023-08-25 1067 SHARE TAGS 高血壓是心臟血管疾病最主要的危險因子之一。根據國外的研究報告，血壓愈高，並持續愈久，得到中風、心肌梗塞、心臟衰竭、及腎臟病等的機會愈高。所謂預防勝於治療，患者必須嚴格控制其血壓。 每個人的血壓不盡相同。根據最新的高血壓定義( The seventh report of the joint national committee on prevention, detection, evaluation, and treatment of high blood pressure)，連續二次以上的門診，平均(二次以上)舒張壓大於90mm Hg 或收縮壓(三次以上)大於140mm Hg.，便可診斷為高血壓。但事實上，這種定義是武斷的。有些人的血壓，可能本來就比較高或較低。 依照原因分類，高血壓又可分為原發性(primary)及次發性(secondary)。所謂原發性高血壓，是目前醫學還沒有找到確切引起這類高血壓的原因。百分之九十以上的高血壓，皆為原發性。然而，有一些因子，會使我們的血壓升高。這包括肥胖、大量酒精攝取、高鹽分攝取、老化、慣坐的生活、壓力、低鉀及低鈣攝取等。次發性高血壓主要是由腎臟病、腎臟血管疾病、腫瘤等引起。 治療上，病人應遵照醫師的指示，調整飲食及生活習慣、多運動、保持標準體重、及定期服用藥物等。此外，病患必須同時治療和中風、心肌梗塞等有關的疾病與習慣，如戒煙、控制血糖及血脂肪等。初期目標，血壓須控制在140/90mmHg 以內。糖尿病及腎功能不全患者，則在130/85mmHg 以內。最終目標為120/80mmHg。當然，如果患者沒有辦法忍受太低的血壓，則不能勉強。 在用藥方面，醫師會根據病人的情況，選擇不同的藥物。有些藥物可以同時治療心臟衰竭、攝護腺肥大、或尿蛋白等。服藥期間，醫師再依據病人的血壓及副作用的出現等情況，調整用藥。病人遇到任何問題，可以與醫師討論，應避免擅自停藥。 如果血壓控制得當，合併症出現的機率，便會大大降低。 ~如需轉載本篇文章或有任何疑問，請洽馬偕紀念醫院心臟內科。",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.hc.mmh.org.tw/know_health_view.php?docid=834",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:04.095Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-14560a8414",
+      "title": "猛健樂(MOUNJARO)筆型注射劑之介紹",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "✎藥劑科 陳鈺樺 藥師 一、猛健樂作用？ 猛健樂(MOUNJARO)的成分為Tirzepatide，是GIP受體和GLP-1受體促進劑，可以增加胰島素敏感性、延遲胃排空。適用於： 1.第二型糖尿病成人病人 作為飲食及運動療法之外的輔助治療，...",
+      "fullContent": "✎藥劑科 陳鈺樺 藥師 一、猛健樂作用？ 猛健樂(MOUNJARO)的成分為Tirzepatide，是GIP受體和GLP-1受體促進劑，可以增加胰島素敏感性、延遲胃排空。適用於： 1.第二型糖尿病成人病人 作為飲食及運動療法之外的輔助治療，用於改善第二型糖尿病成人病人之血糖控制。可做為單一療法或與其他糖尿病治療藥物合併使用。 2.肥胖與過重且至少患有一項體重相關共病之成人病人 成人且初始身體質量指數(BMI)為≥ 30 kg/m2(肥胖)，或 ≥ 27 kg/m2至 < 30 kg/m2 (過重)且至少患有一項體重相關共病，例如高血壓、血脂異常、糖尿病前期或第二型糖尿病、阻塞性睡眠呼吸中止或心血管疾病。 適用於具有中度至重度阻塞性睡眠呼吸中止症且身體質量指數(BMI) ≥ 30 kg/m2之成人，改善睡眠呼吸中止的嚴重程度。 二、猛健樂的用法？ 每週皮下注射一次，可在一天當中的任何時間注射，不須考慮進食與否。 每週注射應輪替注射部位。建議注射部位：腹部、大腿或上臂。 本藥須由醫師處方，請遵照醫囑使用。 如果錯過一劑藥物，應於4天(96小時)內盡快給予。如已超過4天，請跳過錯過的劑量並於原本預定的日期給予下一次劑量。 必要時可改變每週注射的日期，但兩次注射之間應至少相隔 3 天 (超過 72 小時)。選定新的注射日之後，應持續每週注射⼀次。 注射液為澄清、無色至淡黃色。若發現微粒狀物質或變色，請勿使用。 藥品應儲放於2-8度的冰箱裡，請勿冷凍。開封後可使用的期限為30天。 三、猛健樂的注意事項？ 個人或是家族有甲狀腺髓質癌病史的病人、第二型多發性內分泌腫瘤綜合症的病人或已知對Tirzepatide或MOUNJARO的任何賦形劑有嚴重過敏反應者禁止使用。 計畫懷孕、已懷孕或哺乳期間，請勿使用此藥。計畫懷孕前至少兩個月應 停用猛健樂注射劑。 有糖尿病視網膜病變病史的病人，使用時應特別謹慎，密切監測視網膜病 變情況是否惡化。 胃腸道副作用，如:噁心、嘔吐。大多在第二劑後腸胃道副作用會逐漸改善。 併用促胰島素分泌劑(如sulfonylurea)或胰島素，請與醫師討論如何調整劑量，以降低低⾎糖的風險，若發生低血糖症狀(飢餓、發抖、心悸、嗜睡、冒冷汗、 視力模糊、眩暈、心跳加快)時，請盡快食用果汁或方糖。嚴重低血糖 可能會昏迷意識不清，則不可進食，應立即送醫。 MOUNJARO會延遲胃排空，可能影響⼝服藥物的吸收，若有使用特殊藥品，建議加強臨床監測。 參考資料：藥品仿單",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=358&page_name=detail",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.119Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-f469f8c59e",
+      "title": "遵行四個原則有效控制高血壓",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "藥劑科 劉珮汶藥師 根據國際上的定義，一般人正常的血壓值要小於 120/80(收縮壓 /舒張壓 )毫米汞柱，若血壓值大於 140/90毫米汞柱，就認為是高血壓，血壓值若是位於120~139/80~89毫米汞柱之間，則稱為高血壓前期。 一般高...",
+      "fullContent": "藥劑科 劉珮汶藥師 根據國際上的定義，一般人正常的血壓值要小於 120/80(收縮壓 /舒張壓 )毫米汞柱，若血壓值大於 140/90毫米汞柱，就認為是高血壓，血壓值若是位於120~139/80~89毫米汞柱之間，則稱為高血壓前期。 一般高血壓的病因可分為原發性及次發性兩種。原發性高血壓發生的機轉不明 ，常在 25~55歲被診斷，通常有家族史，在高血壓中大約佔 95%。另外的 5%則為次發性高血壓。造成次發性高血壓常見的原因有：腎臟病 (腎實質或腎血管疾病 )、內分泌異常 (庫欣症候群、原發性皮質醛酮症、嗜鉻細胞瘤或甲狀腺亢進等 )、主動脈窄縮、阻塞性睡眠終止或藥物 (口服避孕藥、類固醇、非固醇類消炎止痛藥等 )等。 控制高血壓原則之一：飲食控制 一、限制鈉含量的攝取─避免食用下列食品： 1.五榖根莖類：甜鹹餅乾、油麵、速食麵。 2.蛋豆魚肉類：鹹蛋、鹹魚、火腿、香腸、豆腐乳、罐製食品。 3.油脂類：奶油、瑪琪琳、蛋黃醬。 4.蔬菜類：醃製蔬菜、醬菜、蔬菜罐頭。 5.水果類：蜜餞、罐頭水果、加工果汁。 6.其他：雞精、炸洋芋片、運動飲料。 二、飲食原則 1.均衡飲食，維持理想體重。 2.選用新鮮食物，並自行製作。 3.少用刺激性（辣）調味品。 4.烹調用植物油。 5.避免抽煙、喝酒。 三、烹調小訣竅 1.酸味的利用：白醋、檸檬、鳳梨、蕃茄等。 2.利用植物油特殊香味：香油、花生油、麻油等。 3.甘美味的利用：香菜、海帶、九層塔、香菇等。 4.中藥材與香辛料的利用：當歸、枸杞、紅棗、人蔘鬚等。 5.焦味的利用：烤、燻等。 6.低鹽佐料的使用：酒、蒜、薑、蔥、八角、五香等。 ※控制高血壓原則之二：藥物治療 依醫師指示按時服藥，不任意更改藥量及次數，不自行停藥或服用成藥，忘記服藥時，除非已近下次服藥時間，否則須立即補服，服藥後如出現不適，請速返診。 ※控制高血壓原則之三：規律運動 規律的有氧運動可有效降低血壓。建議每週至少運動三次，每次三十分鐘，達到運動後會稍微流汗，可講話但無法一邊運動一邊唱歌的程度即可。 ※控制高血壓原則之四：日常保健 定期測量及記錄血壓，並按時返院追蹤檢查。平日注意保暖，冷天避免外出。保持心情愉快，充分休息與睡眠，攝取足量水分，並維持合宜體重。",
+      "keywords": [
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=168&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.124Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-86bc99a69f",
+      "title": "遠離代謝症候群",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "更新日期：2025-06-26 回瀏覽頁 開啟網站導覽 認識仁慈 醫院介紹 仁慈願景 大事紀要 電子病歷推動 公開資訊 醫療團隊 臨床單位 醫事輔助 社區照護 長照專區 長照2.0據點 失智症照顧服務 居家式長照機構 社區式長照機構 住宿式...",
+      "fullContent": "更新日期：2025-06-26 回瀏覽頁 開啟網站導覽 認識仁慈 醫院介紹 仁慈願景 大事紀要 電子病歷推動 公開資訊 醫療團隊 臨床單位 醫事輔助 社區照護 長照專區 長照2.0據點 失智症照顧服務 居家式長照機構 社區式長照機構 住宿式長照機構 其他長期照護服務 牧靈關懷 訊息公告 認識院牧部 服務項目 活動花絮 心靈加油站 人才招募 教育研究 圖書館 醫學教育委員會 教育學術活動 醫學資源連結 捐款系統 快速連結 醫師介紹 Covid-19專區 數位學習",
+      "keywords": [
+        "代謝症候群"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=331&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.126Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-7e07faec21",
+      "title": "預防糖尿病",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "新陳代謝科 鄭文儀醫師 近年來全世界糖尿病人數一直在快速增加，估計2025年全球的糖尿病人數可達三億。根據國際糖尿病聯盟統計資料顯示，全球每10秒就有1人死於糖尿病。全球包括台灣，糖尿病的人口也逐年增加。由於飲食西化、運動量不足，兒童和青少...",
+      "fullContent": "新陳代謝科 鄭文儀醫師 近年來全世界糖尿病人數一直在快速增加，估計2025年全球的糖尿病人數可達三億。根據國際糖尿病聯盟統計資料顯示，全球每10秒就有1人死於糖尿病。全球包括台灣，糖尿病的人口也逐年增加。由於飲食西化、運動量不足，兒童和青少年肥胖是現代人糖尿病患者愈來愈多的原因。糖尿病會造成許多併發症和死亡。因此對付糖尿病的最好方法就是預防其發生，首先要先認識哪些人是屬於糖尿病的高風險患者呢？ 中華民國糖尿病學會特別設置全民糖尿病觀測站（E-go健康網），透過簡單的問卷答題，在短短幾分鐘內，讓民眾了解罹患糖尿病的風險評估。民眾只要在網頁上輸入相關資料後（年紀、性別、腰圍、是否使用高血壓藥物與糖尿病家族），網站就會自動計算出糖尿病的風險。中華民國糖尿病學會http://www.endo-dm.org.tw。 2010台灣糖尿病臨床照護指引也建議，無症狀但體重過重或肥胖的成年人，具有一個以上糖尿病風險因子者應接受糖尿病和糖尿病前期的篩檢，以下是美國糖尿病學會歸類屬於高風險糖尿病罹患者： ※年齡大於45歲。 ※身體質量指數≧24kg/m 。 ※有糖尿病家族史。 ※妊娠性糖尿病史，或曾生下體重大於4kg的嬰兒。 ※三酸甘油酯過高l。 ※高密度脂蛋白膽固醇過低。 ※高血壓。 ※久坐的生活型態。 一般在罹患第2型糖尿病之前，葡萄糖失耐及胰島素阻抗可持續數年。第2型糖尿病前期時，高風險糖尿病患者，有效的生活型態改變（飲食控制和增加體能活動）能預防或延緩糖尿病的發生（減少第2型糖尿病累積發生率達58%或延緩3.6年產生第2型糖尿病）。目標為減低體重5-10%。如果生活型態改變失敗，藥物治療為另一替代方法。不過並不是所有葡萄糖失耐病人都會演變為糖尿病，藥物治療的長期安全性和經濟效益，目前尚無定論。",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=4&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.133Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-40c670e231",
+      "title": "新型減重藥物介紹",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "✎新陳代謝科 糖尿病衛教師 粘美娜 全球各年齡層過重及肥胖的盛行率逐年上升，肥胖可能導致或加重多種慢性疾病。如第2型糖尿病、代謝症候群、非酒精性脂肪肝、胃食道逆流、心血管疾病、退化性關節炎、睡眠呼吸中止症候群、憂鬱、不孕症、癌症等。 根據現...",
+      "fullContent": "✎新陳代謝科 糖尿病衛教師 粘美娜 全球各年齡層過重及肥胖的盛行率逐年上升，肥胖可能導致或加重多種慢性疾病。如第2型糖尿病、代謝症候群、非酒精性脂肪肝、胃食道逆流、心血管疾病、退化性關節炎、睡眠呼吸中止症候群、憂鬱、不孕症、癌症等。 根據現行治療指引指出飲食控制、 增加運動及行為治療為肥胖的第一線治療。當病人仍無法達到目標體重時，可經醫師評估是否適合接受藥物輔助治療。肥胖病人身體質量指數是BMI ≧ 30kg/m2或BMI ≧ 27 kg/m2且至少有一種體重相關共病症。以藥物維持劑量治療12週後，如果未減輕至少 5%的基期體重或治療過程發生嚴重不良反應，則建議立即停止使用藥物。 現行我國衛生福利部核准使用於體重控制且有長期療效實證的藥物除了有抑制脂肪消化吸收的羅氏鮮 (Xenical )，近三年陸續核可的有康纖芙 (Contrave)、 善纖達 (商品名:Saxenda；成分名: liraglutide - 3 mg)、週纖達 (商品名:Wegovy；成分名: semaglutide)、 猛健樂(商品名: Mounjaro；成分名: Tirzepatide)。 瘦瘦筆泛指昇糖素類似胜肽（GLP-1）的注射製劑，GLP-1為腸泌素的一種，不僅能促進胰島素分泌，也能降低胃排空速度以達到抑制食慾、延緩血糖上升速度的作用，進而控制體重及穩定血糖，常見之副作用為噁心、嘔吐與腸胃不適。需先經過醫師評估及討論後才能使用。 對於有糖尿病且肥胖的患者，GLP-1 RA(glucagon-like peptide-1 receptor agonists，昇糖素類似胜肽受體促效劑)能同時降低血糖和體重是適當的治療藥物。糖尿病減重藥物地位並不只是論斤秤兩，一勞永逸。需專業醫師全面性考量選擇對個案益大於弊之藥物才能達到最佳CP值，個案需同時建立改變良好生活型態、健康飲食、規律運動習慣才能達到最大效益。",
+      "keywords": [
+        "代謝症候群",
+        "糖尿病",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=347&page_name=detail",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.136Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-b45e3e202c",
+      "title": "慢性腎臟病",
+      "clinicName": "仁慈醫院",
+      "category": "一般衛教",
+      "summary": "分期 更新日期：2024-07-31 回瀏覽頁 開啟網站導覽 認識仁慈 醫院介紹 仁慈願景 大事紀要 電子病歷推動 公開資訊 醫療團隊 臨床單位 醫事輔助 社區照護 長照專區 長照2.0據點 失智症照顧服務 居家式長照機構 社區式長照機構 ...",
+      "fullContent": "分期 更新日期：2024-07-31 回瀏覽頁 開啟網站導覽 認識仁慈 醫院介紹 仁慈願景 大事紀要 電子病歷推動 公開資訊 醫療團隊 臨床單位 醫事輔助 社區照護 長照專區 長照2.0據點 失智症照顧服務 居家式長照機構 社區式長照機構 住宿式長照機構 其他長期照護服務 牧靈關懷 訊息公告 認識院牧部 服務項目 活動花絮 心靈加油站 人才招募 教育研究 圖書館 醫學教育委員會 教育學術活動 醫學資源連結 捐款系統 快速連結 醫師介紹 Covid-19專區 數位學習",
+      "keywords": [],
+      "imageUrl": "https://www.mercy.org.tw/images/share_btn/line.png",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=298&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.142Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-4d2e29de34",
+      "title": "糖尿病視網膜病變",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "聽起來十分可怕，但不是每個人都必定如此，最重要是與內科醫師合作，好好控制血糖，每年定期眼科檢查，在早期病變時雷射治療，常常可以控制住惡化以保住視力。本院最近亦斥資百萬引進數位化眼底攝影，加上強大的軟體功能，對於診斷糖尿病視網膜血管變化提供更...",
+      "fullContent": "聽起來十分可怕，但不是每個人都必定如此，最重要是與內科醫師合作，好好控制血糖，每年定期眼科檢查，在早期病變時雷射治療，常常可以控制住惡化以保住視力。本院最近亦斥資百萬引進數位化眼底攝影，加上強大的軟體功能，對於診斷糖尿病視網膜血管變化提供更好更快速的服務。 疾病並不一定都可怕，只要我們有正確的認知及態度，充分與醫生合作，糖尿病患者也可以過正常人的健康生活。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=47&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.145Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-9bb2cccb98",
+      "title": "高血壓手冊",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "❖ 高血壓的危險因子 ❖ 為何要在家自我測量血壓 依據2008年世界高血壓日(5/17)之宣導主題及美國醫學協會期刊研究指出：「居家測量血壓比醫療院所診間測量的結果更具預後準確性，正在接受治療的高血壓患者應該要有系統的在家量血壓」，可以幫助...",
+      "fullContent": "❖ 高血壓的危險因子 ❖ 為何要在家自我測量血壓 依據2008年世界高血壓日(5/17)之宣導主題及美國醫學協會期刊研究指出：「居家測量血壓比醫療院所診間測量的結果更具預後準確性，正在接受治療的高血壓患者應該要有系統的在家量血壓」，可以幫助醫療專業人員瞭解民眾血壓控制情形，也可顯示生活型態改變與高血壓藥物之控制情形。 ❖ 如何正確量血壓 量血壓前需休息10～20分鐘。 電子與水銀計皆可以，但需要定期校正。 以上臂血壓為準，且需每一次量同一手；手腕式血壓計僅供參考。 量血壓時壓脈袋下勿穿著太厚的衣物，壓脈袋要適中，如手臂較胖，請向購買血壓計人員要求加長的壓脈袋。 量血壓前半小時內勿吃東西、運動、行走或聊天，不飲酒、咖啡、可樂和濃茶，並停止吸煙。 在家血壓測量每日早晚各ㄧ次，並紀錄下你的血壓數值。 ❖ 何謂高血壓 對於一個大於十八歲的正常人，如果血壓小於120/80毫米汞柱，每二年檢查一次即可；如果血壓小於140/90毫米汞柱，每一年檢查一次。如果收縮壓在140～160毫米汞柱之間，就必須在兩個月之內請醫師幫你複檢，如果連續兩個星期內有三次以上的靜坐時血壓升高（收縮壓大於或等於140毫米汞柱或舒張壓大於或等於90毫米汞柱），即可診斷為高血壓。。 ❖ 血壓的變化 如果您的舒張壓常會保持在同一水平，而收縮壓則忽高忽低，這通常代表身體對日常生活與壓力的正常反應。 ❖ 正常血壓值 收縮壓(mmHg) 舒張壓(mmHg) 正常血壓 140 或>90 資料來源：陳等﹙2016﹚高血壓治療指引‧台灣高血壓學會‧P6。 ❖ 正常血糖值 飯前血糖 飯後二小時 控制小於100mg/dl 控制小於140mg/dl 資料來源：莊立民(2015)餐後高血糖指引‧中華民國糖尿病學會‧P19。 ❖ 飲食原則(三少二多) ❖ 運動原則 運動時間 沒有運動習慣的人：從運動15分鐘開始，再慢慢增加到30分鐘，運動時間充足才有控制血壓的功用。 有運動習慣的人：至少每次要維持30分鐘。 ❖ 運動頻率 每週至少三次，然後漸漸養成每天都有運動的習慣。 ❖ 下列的運動適合高血壓病人 ★記住，不可以太激烈喔！ ❖ 併發症 高血壓對身體健康的危害很大，會導致許多器官的併發症。 生活型態的改變，對高血壓的控制有很大的功效 電話語音掛號操作方式 諮詢",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320108.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:06.586Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-331bdc3575",
+      "title": "別讓無聲殺手找上門 血糖高 心、腎也遭殃",
+      "clinicName": "亞東紀念醫院",
+      "category": "慢性病",
+      "summary": "新陳代謝科 江珠影主任 🔊 文章語音朗讀 40 歲的王先生是一名科技公司的工程師，平常工作繁忙，三餐不定時，幾乎沒有時間運動。長期以來，他自認身體還算健康，偶爾加班熬夜寫程式，有點感覺疲倦，以為是工作壓力所致。 然而，在最近一次公司的員工...",
+      "fullContent": "新陳代謝科 江珠影主任 🔊 文章語音朗讀 40 歲的王先生是一名科技公司的工程師，平常工作繁忙，三餐不定時，幾乎沒有時間運動。長期以來，他自認身體還算健康，偶爾加班熬夜寫程式，有點感覺疲倦，以為是工作壓力所致。 然而，在最近一次公司的員工健檢中，他的檢驗數據卻讓人震驚：空腹血糖 185 mg/dL，糖化血色素（HbA1c）竟高達 9.2%（正常值應小於 5.7%）。健檢中心也提醒他必須盡快就醫，於是王先生帶著報告來到我的門診，滿臉困惑地問我：「醫師，有糖尿病不是會吃多、喝多、尿多，體重變輕嗎？我都沒有特別不舒服啊，這份報告真的準確嗎？我需要馬上吃藥治療嗎？」 王先生的疑惑，正是許多糖尿病患者的共同盲點。糖尿病最可怕的地方，是這疾病初期不一定會造成明顯不適，但卻在背後開始逐步破壞身體的重要器官。很多人和王先生一樣，以為「沒有不舒服就代表沒事」，卻忽略了高血糖正在默默侵蝕身體各器官。王先生這才驚覺，自己已經站在「無聲殺手」的門口而渾然不知。 為什麼血糖高會「傷心」又「傷腎」 在高血糖狀態下，血液中的葡萄糖像「糖水」般，讓全身器官長期浸泡其中。葡萄糖會與血管壁及蛋白質結合，造成所謂的「糖化作用」，引發血管硬化、慢性發炎與內皮細胞損傷。這些病理變化會使血液循環受阻，長久下來導致心臟與腎臟承受更大壓力。 對心臟的影響 血糖控制不佳會加速動脈粥樣硬化，讓血管變硬、狹窄，增加心絞痛、心肌梗塞、中風等心血管事件的發生率。研究顯示糖尿病患者的心血管疾病死亡率約為一般人的 2 至 4 倍。糖尿病人不僅要面對血糖的挑戰，更要承受心臟隨時「出問題」的風險。 對腎臟的影響 腎臟主要的任務是過濾血液中的廢物並維持體內平衡。然而在長期高血糖環境中，腎絲球的過濾壓力過大，逐漸發生病理性變化，最終導致「糖尿病腎病變」。 初期或許只是尿液中的微量蛋白上升，沒有明顯症狀，但隨著病程惡化，腎功能會逐漸下降，嚴重時甚至需要洗腎。 高風險卻無症狀 糖尿病的危險之處 糖尿病常被稱為「無聲殺手」，因為它在早期往往沒有症狀。許多人直到健檢時才發現血糖偏高，像王先生就是典型例子。在初期，即便血糖已超標，患者仍可能毫無異狀；等到出現口渴、頻尿、體重下降、視力模糊時，往往已代表血糖已長期失控，併發症正在發展。 更棘手的是，心臟與腎臟的損害常常在「無聲」中進行。有些病人心臟血管已經嚴重阻塞，卻完全沒有典型的胸痛警訊；腎功能逐步下降時，病人也可能毫無不適，直到進入腎衰竭階段才驚覺異常。 如何防範無聲殺手 要避免糖尿病帶來的危害，除了依賴醫療治療，更需要日常生活中的全面防護。* 以下五大方向，是守護健康的關鍵* 規律檢測，早期發現 建議 40 歲以上成年人定期接受健康檢查，尤其是有糖尿病家族史、肥胖、高血壓或高血脂的高危險族群。及早發現異常，及早介入，降低併發症風險。* 均衡飲食，避免血糖劇烈波動 少喝含糖飲料、減少精緻澱粉、多攝取高纖維蔬菜與全穀類。學習如何「控制份量」與「搭配均衡」，避免血糖忽高忽低。* 維持理想體重，養成運動習慣 每週至少 150 分鐘的中等強度運動，例如快走、游泳、慢跑或騎腳踏車。運動不僅能幫助減重，還能改善胰島素敏感度，降低糖尿病惡化的速度。* 按時服藥，遵循醫囑 一旦確診糖尿病，千萬不要逃避或僥倖。現代藥物治療已經不只是「降血糖」而已，部分藥物（如 SGLT2 抑制劑、GLP-1 受體促效劑）更被證實能降低心臟衰竭及腎臟惡化的風險。* 戒菸限酒，全面控制三高 糖尿病患者往往同時合併高血壓、高血脂，三者相加將加重心臟與腎臟的負擔。戒菸、限酒，並積極控制血壓與血脂，才能真正降低心血管與腎臟併發症的風險。 別讓無聲殺手得逞 糖尿病的治療，絕不是單純把血糖數字壓下來而已，而是全面性的生活調整。高血糖之所以危險，在於它「無聲卻致命」，往往在毫無警訊中侵蝕心臟與腎臟。唯有早期檢測、持續控制、全面防治，才能避免無聲殺手奪走健康。 王先生的故事，提醒了每一個人，即使沒有症狀，也不能掉以輕心。從今天開始，養成健康生活習慣，定期檢查、積極治療，才能遠離糖尿病的威脅，活得久、更要活得好。 新陳代謝科 江珠影主任網頁連結介紹專長：糖尿病、高血脂症、甲狀腺疾病、副甲狀腺疾病、腎上腺疾病、其他各種內分泌新陳代謝異常",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11810",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:08.137Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-885ab2bbd3",
+      "title": "社區血壓關懷站 守護三高與代謝健康",
+      "clinicName": "亞東紀念醫院",
+      "category": "慢性病",
+      "summary": "社區健康發展中心 林美玲研究助理 🔊 文章語音朗讀 隨著臺灣正式邁入超高齡社會，慢性病已成為影響國人健康與醫療負擔的重要議題，其中高血壓、高血糖、高血脂等「三高」問題與代謝症候群，更是心血管疾病、中風與腎臟病的主要危險因子。為響應政府「健...",
+      "fullContent": "社區健康發展中心 林美玲研究助理 🔊 文章語音朗讀 隨著臺灣正式邁入超高齡社會，慢性病已成為影響國人健康與醫療負擔的重要議題，其中高血壓、高血糖、高血脂等「三高」問題與代謝症候群，更是心血管疾病、中風與腎臟病的主要危險因子。為響應政府「健康台灣」三高防治888計畫，亞東醫院以「社區血壓關懷站」為核心，結合「代謝症候群防治講座」深入社區，從篩檢、追蹤到生活型態改善，建構完整的慢性病預防網絡，打造在地安老、活躍老化的健康支持系統。 本院自2013年起與遠傳電信合作開發「健康+服務」平台，透過雲端量測與數位管理，將血壓監測由醫院延伸至社區。發展歷程分為三階段：首先導入雲端照護與App管理，提升長者自我監測能力；其次結合電話與現場衛教，讓科技兼具人性關懷；近期則透過社區競賽與運動影片評比，強化鄰里互動與健康行為養成。目前於新北市板橋、土城、樹林與新莊設置24處血壓關懷站，形成穩定的在地守護網絡。 在此基礎上，醫院同步推動代謝症候群防治講座，說明腰圍、血壓、血糖、三酸甘油脂與高密度脂蛋白膽固醇五項指標，強調「一項異常是警訊，三項以上為高風險」，並結合飲食示範、運動指導與自我檢核工具，協助長者透過減鹽減糖、規律運動與體重控制逆轉風險。講座與血壓量測同步進行，落實「量測即教育、異常即介入」。 2025年持續維持24站運作，其中12站提供電話衛教、7站導入視訊衛教，並透過新版健康+App強化健康識能與異常追蹤。實際案例顯示，透過視訊介入與醫師藥物調整，個案血壓控制明顯改善，展現早期發現與即時介入成效。 此外，醫院結合社區血壓競賽與運動積點活動，提升參與動機與持續性。活動成果顯示多數參與長者已正確認識三高與代謝症候群風險，並具備基礎自我管理能力。透過前端預防與風險控制，可望降低中風、心臟病與腎衰竭等併發症發生率，減少急診與住院需求。 未來，亞東醫院將持續深化三高與代謝症候群整合照護模式，攜手社區與公益資源，讓長者在「動健康」中找回自信，實踐健康老化與永續醫療的願景。 2025年血壓競賽頒獎【第一名永寧社區】 2025年志工電訪頒獎第一名【延吉社區】 2025年畫眉鳥晚香玉協會運動積分影片QR Code",
+      "keywords": [
+        "代謝症候群",
+        "高血壓",
+        "高血脂",
+        "三高"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11946",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:08.146Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-b237ba8808",
+      "title": "『醫生，我的藥要吃一輩子嗎？』談三高（高血壓、高血糖、高血脂）",
+      "clinicName": "亞東紀念醫院",
+      "category": "慢性病",
+      "summary": "心臟血管內科 葉衍廷醫師 今年48歲的林先生，10年前於公司健檢發現有糖尿病，10年來雖然有在門診拿血糖藥，但是沒有量血糖的習慣，吃藥也常常不固定。5年前醫生為他抽血檢查告知他還有高血脂的問題，但是林先生仍不以為意，也沒有聽從醫生的建議乖乖...",
+      "fullContent": "心臟血管內科 葉衍廷醫師 今年48歲的林先生，10年前於公司健檢發現有糖尿病，10年來雖然有在門診拿血糖藥，但是沒有量血糖的習慣，吃藥也常常不固定。5年前醫生為他抽血檢查告知他還有高血脂的問題，但是林先生仍不以為意，也沒有聽從醫生的建議乖乖吃降血脂藥。最近一個月天氣變化劇烈，早晚溫差大，陳先生常常覺得胸口悶悶的，尤其是快走或提舉重物時更加嚴重，正想說要再回來心臟科的門診拿藥吃，但是一天清晨突然感到胸口劇烈的悶痛，含了在藥房拿的舌下含片也沒有改善，不斷地冒冷汗，根本無法去公司上班，只好來到醫院掛急診。急診醫師為陳先生作了心電圖檢查後，告訴林先生及林太太這是急性心肌梗塞，有很高的致死率，要馬上作心導管檢查，若心臟血管有阻塞就要放支架，否則會有生命危險或可能心臟衰竭。 張女士今年56歲，罹患糖尿病已經很多年，有固定注射胰島素治療，也有量血糖的好習慣。幾年前醫生也是告知她有高血壓，還說壞膽固醇過高，開給她降血脂藥。1年後，張女士聽說鄰居陳太太開始洗腎，又聽別人說藥吃太多不好，可能會傷肝傷腎，所以就自己偷偷停藥，沒有照著醫師的處方吃降血壓藥。有一天吃晚飯後，張女士正要回房休息，突然之間右半身失去力氣跌倒在地上，講話也變的不清不楚，張女士的女兒見狀急忙打電話叫救護車送她去醫院掛急診。神經內科醫師來到急診為張女士作初步的神經學檢查後高度懷疑是急性中風。腦部電腦斷層掃描沒有發現有腦內出血，神經科醫師向張女士及女兒解釋這是缺血性中風，是腦血管阻塞造成的，可能需要進加護病房觀察。許小姐一方面擔心媽媽的病情，一方面又想到中風的後遺症，未來可能會需要長期照顧，家裡經濟狀況不佳，自己的兩個小孩又還小，不知如何負擔得起，不禁悲從中來。 高血壓、高血糖及高血脂，俗稱三高，是許多心血管疾病的風險因子，需要嚴格且積極的控制。然而，在門診往往有具有三高風險因子的患者，尤其是一些剛剛在健康檢查發現有高血壓或高血脂的中壯年病人，常常會問我一個問題：「醫生，我的藥要繼續吃嗎？要吃多久？」或是「醫生，我聽說高血壓的藥一吃就是一輩子，是真的嗎？」面對這些問題，我們要從為什麼要控制三高以及要如何控制三高談起。 為什麼要控制三高 長期處在三高的狀態下，對身體的各主要器官都會產生很多不可逆的傷害，包括：心絞痛（狹心症、冠心症）、心臟衰竭、心肌梗塞、腦中風、失智症、腎衰竭等等。林先生與張女士兩人都是糖尿病患者，本身就是心臟及腦血管疾病的高危險群，而兩個人都同時罹患有高血壓或高血脂症，未來十年之內罹患心臟血管疾病或腦中風的機率會大大上升數倍。根據衛生福利部統計，2014年國人十大死因前三名就包括了心臟疾病和腦血管疾病，僅次於惡性腫瘤，如何降低心臟疾病及腦血管疾病所造成的死亡及失能會是未來非常重要的課題。不同於惡性腫瘤的是心臟血管和腦血管疾病，具有較多明確且可治療的風險因子，其中三高就是非常重要而且可控制好的。我們之所以要積極地治療三高，主要是為了降低未來數年內發生心肌梗塞、腦中風或腎衰竭等等可怕問題的機率。 醫生，我要吃藥嗎？要吃到什麼時候？ 對於高血壓、高血糖和高血脂的治療，可以分為生活型態調整（健康飲食、規律運動、減重及戒菸）和藥物治療，這兩者理應雙管齊下。然而，在臨床上往往會面對到許多現實問題，包括：近年來國人飲食西化又外食族增加難以完全清淡飲食、中壯年族群工作忙碌生活步調快無法規律運動、持續減重以及確實戒菸的困難，往往阻礙理想生活型態的調整，一旦無法做到非常嚴格規範的生活型態標準，這些調整對於三高的控制將大打折扣甚至毫無幫助，而三高對身體的傷害卻是不等人的持續上升。在此時，藥物的治療對於三高有相當確實且高效的控制結果。隨著生化科技的日新月異，控制三高的藥物種類、效果及安全性都非往日能相比，與醫師好好討論用藥的感受、反應需要調整的用藥劑量或細節，以及確實遵從醫囑服藥能為您帶來莫大的好處！ 常有三高的患者問到「藥要吃到什麼時候？」或是「藥一吃是不是就吃一輩子？」這些問題。如前段所說，控制三高是為了降低未來幾年內發生心肌梗塞、腦中風及腎衰竭的機會，所以規律服用藥物如同為身體買個心臟腦血管保險，與一般保險不同。這個保險不是在發生變故後才理賠彌補，而是更進一步在身體發生問題前就從源頭作防範及保養，減少發生變故的機會。這樣的一個保險，您想為身體買多久？答案難道不是一輩子嗎？ 維護心血管的健康，除了醫生的努力，也需要病人的自覺。維持健康的飲食、持之以恆的運動、以及遵從醫囑服藥控制，才能不再讓三高成為健康的殺手！ 三高（高血壓、高血糖與高血脂）對人體幾個主要器官都有很大的危害，包括：腦部、心臟與腎臟。持之以恆控制三高就是在減低這些主要器官發生病變的危機！",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "三高"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=7643",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:20:08.152Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-0812595a40",
+      "title": "糖尿病友要如何配對血糖呢",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "根據配對血糖值的差異，讓您瞭解飲食對血糖的影響， 並提供醫師調整用藥之參考，很重要的喔！！！ 為什麼 建議配對血糖值差異超過60，可攜帶血糖紀錄本至2F糖尿病衛教室諮詢 A 方 法 B 方 法 請掃我 每天選擇同 1 餐測量 早餐 午餐...",
+      "fullContent": "根據配對血糖值的差異，讓您瞭解飲食對血糖的影響， 並提供醫師調整用藥之參考，很重要的喔！！！ 為什麼 建議配對血糖值差異超過60，可攜帶血糖紀錄本至2F糖尿病衛教室諮詢 A 方 法 B 方 法 請掃我 每天選擇同 1 餐測量 早餐 午餐 晚餐 睡前 前 後 前 後 前 後 星期一 98 148 星期二 102 162 星期三 112 162 星期四 102 162 星期五 124 174 1 週選 3 天，每天選 1 餐 早餐 午餐 晚餐 睡前 前 後 前 後 前 後 星期一 102 162 星期二 星期三 124 174 星期四 星期五 112 162 糖尿病友要如何 配對血糖呢? 製作日期/者:108.8.14高培真 進餐前及進餐後2小時，各測量 血糖 如何做 驗血糖的配對時間點，有2種方式 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/4425ac38-30ff-40ef-8205-50cb88111316.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:33.581Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-ddf37dc74f",
+      "title": "你血糖掌握7了嗎-胰島素規律注射4要點",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "控 制 不 佳 尚可 好 好棒 糖 化 血 色 素 (%) 平 均 血 糖 值 7 154 10 9 240 240 6 126 154 212 天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院 糖尿病保健中心 05-2783865 李珈...",
+      "fullContent": "控 制 不 佳 尚可 好 好棒 糖 化 血 色 素 (%) 平 均 血 糖 值 7 154 10 9 240 240 6 126 154 212 天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院 糖尿病保健中心 05-2783865 李珈妮20190815 1 2 3 4 5 7 (mg/dl) 胰島素規律注射4要點 掌握注射胰島素 4要點，幫助你 控糖達標” “ 你血糖掌 握7了嗎? 1.熟練注 射方法 2.回家按照 處方注射 3.每週輪流 注射部位 4.旅遊 生病時 不忘注射 126 6 3 藥 7 血中葡萄糖+紅血球中血色素糖化血色素 紅血球平均壽命為3個月，葡萄糖附在血色 素上， 糖化血色素高反映最近3個月平均 血糖值高，建議目標值7%(154mg/dl)以下 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/8f73c950-71a7-4fd6-9fd5-c3ab73a8d4d0.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:33.863Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-1550b8f325",
+      "title": "糖尿病治療知多少",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "? 目前抗糖尿病藥物有三大類 (一) 口服抗糖尿病藥物 1. 促進胰島素分泌劑 2. 雙胍類 3. 胰島素增敏劑 4. 阿爾發葡萄糖苷酶抑制劑 5. 雙基胜肽酶抑制劑 6.鈉-葡萄糖協同轉運蛋白2抑制劑 (二) 胰島素 1. 速效胰島素 2...",
+      "fullContent": "? 目前抗糖尿病藥物有三大類 (一) 口服抗糖尿病藥物 1. 促進胰島素分泌劑 2. 雙胍類 3. 胰島素增敏劑 4. 阿爾發葡萄糖苷酶抑制劑 5. 雙基胜肽酶抑制劑 6.鈉-葡萄糖協同轉運蛋白2抑制劑 (二) 胰島素 1. 速效胰島素 2. 短效胰島素 3. 中效胰島素 4. 長效胰島素 5. 混合型胰島素 (三) 腸泌素類似物 1.類升糖素肽-1受體促效劑治療 貼心小叮嚀 糖尿病的治療需要飲食、運動、 藥物的配合。當飲食控制與規律 運動無法有效控制血糖時，需使 用抗糖尿病藥物來治療並且依醫 師建議儘早使用胰島素治療。 藥物治療方案依疾病的進展而不 同!不論是口服或注射藥物，目的 都是在控制血糖穩定，避免急性 併發症與延緩慢性合併症的發生! 我糖尿病10年，糖化血色素 6.8%，除了飲食控制與運動， 每天驗血糖!每天服用2種抗糖 尿病藥物及注射一次胰島素。 我是第1型糖尿病患者，我10歲發現糖尿病 我每天三餐飯前及睡前注射胰島素! 我糖尿病23年，一直使用口服糖尿病藥! 前陣子血糖很不穩定!糖化血色素從9.5升到 10.6。現在，我的家人每天早晚飯前幫我注 射胰島素! 血糖也漸漸穩定下來! 衛教諮詢: 請洽-糖尿病衛教師、營養師 資料來源: 衛福部- 糖尿病與我 中華民國糖尿病衛教學會 -糖尿病衛教核心教材 製作: 詹秀娥 專科護理師 2019年08月 認識糖尿病藥物治療 共同討論治療方案 我糖尿病1年，使用一種口服 抗糖尿病藥和注射腸泌素! 經過討論~為了良好 控制血糖! 我選擇了 【胰島素治療】方案! 接受衛教 飲食控制 規律運動 監測血糖 心理調適 自我管理 藥物治療 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/fab9d79b-5934-4a5d-bc6f-ce11d333064d.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.117Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-331b2be764",
+      "title": "妊娠糖尿病",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "的高危險群？ 1.高齡產婦。 2.有糖尿病家族史。 3.以前懷孕時曾發生妊娠性糖尿病者。 4.懷孕中曾出現尿糖或糖尿病症狀者。 5.空腹血糖超過 105 mg/dl 或飯後 2 小時血糖超過 120 mg/dl 者。 6.過度肥胖者。 7....",
+      "fullContent": "的高危險群？ 1.高齡產婦。 2.有糖尿病家族史。 3.以前懷孕時曾發生妊娠性糖尿病者。 4.懷孕中曾出現尿糖或糖尿病症狀者。 5.空腹血糖超過 105 mg/dl 或飯後 2 小時血糖超過 120 mg/dl 者。 6.過度肥胖者。 7.以前懷孕曾發生不明原因的胎死腹中，尤其是在懷孕末期者。 8.此次懷孕中發生羊水過多或胎兒過大者。 六、妊娠糖尿病對孕期的影響： 1.對母親的影響:難產、酮酸中毒、子癲前症、羊水過多、妊娠高血壓..等。 2.對胎兒的影響:死胎、巨嬰症、子宮生長遲滯、胎兒畸形..等。 七、妊娠糖尿病的治療： 1.飲食控制：妊娠糖尿病的治療以【醫療營養治療】為主。 建議照會【營養師】 ，由營養師制定個別化的膳食計畫，調整孕期間的營 養需求、以控制體重與血糖穩定。 2.運動：運動可以改善葡萄糖的耐受性，維持心肺功能。建議低衝擊的體能活動，如: 走路，餐後運動有助於降低餐後血糖，運動時間應不超過 1 小時，勿太疲累。 運動的禁忌：孕期有持續出血、高血壓、過早破水、早產病史等。 注意~血糖值低於 60mg/dl 或高於 200mg/dl 應避免運動。 3.自我監測血糖：於三餐前、睡前點心前監測血糖或餐前餐後配對測試，以了解不同 時間點的血糖控制情形，作為飲食、運動或胰島素劑量的調整依據。 4.胰島素治療：當飲食、運動無法達到穩定的血糖控制，如:空腹血糖≧95 mg/dl 或 飯後 2 小時血糖≧120 mg/dl。建議使用胰島素治療，醫師根據孕婦的 體重、妊娠週數、血糖及熱量攝取，來調整胰島素劑量。在產後，血 糖可能回復正常，不再需要注射胰島素。 參考資料:杜思德（2018）．糖尿病衛教核心教材．台北：中華民國糖尿病衛教學會。 本院糖尿病人保健推廣中心，提供以下服務： 1.糖尿病衛教：個別諮詢。糖尿病防治專線：05-2783865 或 05-2756000，分機 3311 2.營養諮詢：糖尿病飲食諮詢與指導，服務專線：05-2756000 轉 1653 天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院 關心您 2019 年 11 月修訂 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/943b63f0-7ce5-4882-9744-a393ee2b85e5.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.272Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-aacbd0b39a",
+      "title": "糖尿病與高血壓",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "糖尿病 與 高血壓 詹秀娥 專科護理師 糖尿病患，若血糖長期控制不佳,隨之而來的慢性併發症！將影響患者及其家人日 後生活的品質。這些慢性合併症包括：大血管病變、腎臟病變、視網膜病變、神經病 變！ 其中的大血管病變又包含：一、心臟血管疾病:：...",
+      "fullContent": "糖尿病 與 高血壓 詹秀娥 專科護理師 糖尿病患，若血糖長期控制不佳,隨之而來的慢性併發症！將影響患者及其家人日 後生活的品質。這些慢性合併症包括：大血管病變、腎臟病變、視網膜病變、神經病 變！ 其中的大血管病變又包含：一、心臟血管疾病:：缺血性心臟病,心肌梗塞、心肌 病變、高血壓 二、腦血管病變：腦中風 三、 末梢血管疾病：閒歇性跛行、腳冰冷、 腳傷口潰爛、壞死、截肢！根據統計，大約有一半以上的第二型糖尿病患者是因為大血 管病變而死亡。糖尿病友長期血糖控制不良，併有高血壓,、高血脂。若是男性患者再 加上抽煙，那麼血管硬化的程度及速度，將會比同年齡的非糖尿病人還要快。也有研究 指出，糖尿病友合併高血壓的比沒有高血壓的糖尿病友更容易罹患糖尿病的慢性併發 症。而糖尿病患得到高血壓的機會是一般人的兩倍，這足以提醒糖尿病友，血糖與血壓 是息息相關的，平常除了嚴格的控制好血糖也應注意血壓.的變化情形！！ 為什麼糖尿病友容易合併有高血壓呢？ 一、當您的血糖長期控制不佳，會加速腎動脈和全身小動脈硬化，使得週邊阻力增加， 血管壁的彈性消失，致升縮壓上升。 二、高血糖，導致腎臟負荷增加，鈉和水滯留容易引起血壓升高，當血壓過高時，又會 加重糖尿病的併發症，形成一連串的惡性循環。 糖尿病友應如何控制好血壓呢? 1.非藥物治療方面 ※維持正常的生活作息，保持心情愉悅。 ※遵守飲食控制原則，減少食鹽(鈉)的攝取，您應定期請教您的營養師調整 飲食計劃 。 ※規律的運動，如有氧運動(快走、慢跑、游泳、騎腳踏車、韻律操、土風舞等。 可以達到有效的降血壓及降血糖效果，提昇自我的健康狀況。 ※控制體重；資料顯示，對於體重超過理想體重 10%以上的高血壓患者，若減重 5 公斤 就有降血壓的效果。 ※控制血脂肪。 ※戒煙。 ※避免飲酒過量，過量的喝酒，會使血壓升高，且對於高血壓的治療容易發生阻抗性。 -- 1 of 2 -- ※ 遵從醫師指示，服用藥物；不自行調整劑量。 ※ 糖尿病友，除了自我血糖監測，更別忘了也要測量血壓唷！！ 2. 藥物治療,常見的高血壓用藥有以下幾種？ ※利尿劑 ※甲型-阻斷劑 ※昇壓素轉化酵素抑制劑 ※鈣離子拮抗劑 ※末梢血管擴張劑 ※乙型-阻斷劑 ※中樞交感神經作用劑 醫師，會針對您個人的年齡、併存的疾病(許多糖尿病友合併有其他慢性疾病) 及藥物間的交互作用作考量，來選擇適合您使用的降血壓藥物。 控制血壓和血糖一樣，需定期追蹤唷！！ 18 歲以上成人高血壓的定義 (美國國家高血壓防治委員會) 分類 收縮壓 ( mmHg) 舒張壓 ( mmHg) 理想血壓 小於 130 小於 85 理想但偏高的血壓 130~ 139 85-89 高血壓 第一期 ( 輕度 ) 第二期 ( 中度 ) 第三期 ( 重度 ) 第四期 ( 極重度 ) 140 ~ 159 160 ~ 179 180 ~ 209 大於 210 90 ~ 99 100 ~ 109 110 ~ 119 大於 120 轉載自 糖尿病防治手冊 總之，糖尿病和高血壓，這對朋友應讓它們和平共處！！糖尿病友們，平日除了定期監 測血糖值，嚴格控制血糖；更應測量血壓的變化情形，將您的血壓控制在收縮壓 130 毫 米汞柱，舒張壓 85 毫米汞柱，延緩慢性併發症的發生！！！ 天主教聖馬爾定醫院 糖尿病人保健中心 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "傷口",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/67e45c5a-469f-4e22-a986-494f1938eb51.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.358Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-a75cff6b96",
+      "title": "糖尿病對血管疾病及其併發症的影響",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "心臟血管外科主治醫師：呂俊忠醫師 前言 糖尿病的發現可追朔到西元前的時代，古埃及早在西元前五百年前就有關於糖尿病 簡單敘述，其後在希臘羅馬印度等地都可發現先人對糖尿病的記載。在中國較具體正式 的文獻則是在東漢名醫張機，在他的著作『金匱要略』...",
+      "fullContent": "心臟血管外科主治醫師：呂俊忠醫師 前言 糖尿病的發現可追朔到西元前的時代，古埃及早在西元前五百年前就有關於糖尿病 簡單敘述，其後在希臘羅馬印度等地都可發現先人對糖尿病的記載。在中國較具體正式 的文獻則是在東漢名醫張機，在他的著作『金匱要略』中有對糖尿病症狀諸多描述，在 當時已知『消渴症』，在隨朝「古今錄驗方」中，對『消渴症』下一註腳：「渴而飲水 多，小便數……甜症，皆是消渴症也。」 糖尿病在西方稱『Diabetes』，相傳是西元二世紀由土耳其的阿利提斯首度提出 的，它的意思是「排泄多而且甜的尿液」，所以早期的西方醫學家是由尿液中發現這種 疾病的存在。至 1776 年才由多朴生（Dobson）正式由科學實驗中證明尿液中的甜味是 糖份，但至二十世紀初之前都是僅止於糖尿病表層的認識，直到 1920 年，多倫多大學 助教班亭（Banting）才發現糖尿病的真正始作俑者~胰島素，更進一步在 1922 年成功 製造出胰島素，並且由糖尿病患者服用後，成功的控制了糖尿病的惡化，對當時被視為 不治之症的糖尿病人來說，無疑是上天掉下來的奇蹟，從此糖尿病人可以堅強勇敢對抗 疾病。 二十世紀初發現糖尿病患者必然伴隨血管疾病，經過許多學者專家研究，現在大家 都同意糖尿病患者會加速血管疾病的啟始與惡化，據統計 84﹪的糖尿病患者 20 年後有 各種不同程度的血管疾病，75﹪的糖尿病患者，最後是死於是死於血管疾病或血管併發 症，如心肌梗塞及腦中風。 所以不管任何型態的糖尿病患者，對於人體內的大小血管均是有不良的影響且會加 速血管疾病的形成。現在已經有一些大型研究證實高血糖對於大血管有不良影響，有許 多研究也均證實糖尿病是腦中風、心肌梗塞與週邊動脈血管疾病的危險因素。更有一些 研究證實嚴格的控制血糖對改善其血管疾病是有正面幫助的，我們也發現糖尿病患者的 治療目標就是積極的治療控制血糖、血壓、高血脂症。 高血糖對於血管疾病病理生理影響的證據 高血糖與血管疾病的高關鍵性是眾所周知的。 -- 1 of 3 -- 但其關鍵性的理由仍然是推理性的。 今天我們將提出一些理論，這些因素可以說明高血糖對血管會產生不良的病理影響。 在 1976 年,有人發現了糖化血色素（HbA1c）與空腹血糖和過去幾週血糖控制好壞的關 聯性，糖化血色素（HbA1c）是血色素 A 經由葡萄糖轉化而來，很快的，我們知道藉由 改善糖化血色素（HbA1c）可以容易有效的控制血糖。 HbA1c 是一種 nonenzymatic glycosylation reaction（非效素性糖化作用），而這提 供了理論可以解釋葡萄糖與蛋白質或核酸的糖化作用。 Maillard Reaction 在自然界中是普遍的，經由這反應在人類組織中堆積 gLycation 和 AGE（advanced glycation endproducts）而這些東西對於糖尿病患者的腎病變與血管 病變形成有很強的關鍵性。 Coagulation factors 凝固因素 我們已經知道控制不好的糖尿病患者,其血小板功能是較不正常的,當糖尿病患者的 血糖獲得較好的控制,其血小板功能就會進步,高血糖下的血小板顯示當糖化血色素 （HbA1c）大於 10﹪的血漿,其中血小板會自動凝集，並釋放出影響血管的物質，包括 Serotonin、ADP 和 Prostaglandins。纖維蛋白原對於心臟血管內膜細胞，因而引發血 管病變的形成。 Lipids 脂質 高血糖患者常伴隨著高血脂症，糖尿病患者血糖控制得宜，體內三酸甘油脂與膽固 醇也會比較理想，低密度脂蛋白（LDL），經由糖化作用後容易形成血管化型態的脂質 代謝。 胰島素濃度（Insulin levels） 有研究顯示高胰島素血症是心血管疾病的危險因素之一，高胰島素血症常會增加體 內三酸甘油脂，增加低密度脂蛋白（壞的膽固醇），降低高密度脂蛋白（好的膽固 醇），促進血管內膜增生，也可能伴隨著高血壓，而以上這些都會促血管硬化的發展。 結論 當然高血糖對於血管疾病的影響，其病理生理學的因素還有許多，如氧化作用，免 -- 2 of 3 -- 疫學機轉等。而這些結果告訴我們，糖尿病患者有相當大的危險發生血管疾病，控制好 血糖值，是避免或延後發生血管疾病的不二法門。 天主教聖馬爾定醫院 糖尿病人保健中心 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/6f3d8043-347c-433f-815d-1dcda65a87d7.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.470Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-6a7027326d",
+      "title": "糖尿病病患的血管病變",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "神經內科王柯懿主治醫師 前言: 糖尿病, 一種尚未能有效治愈的文明疾病. 直接或間接造成對個人及社會沉重 負擔. 糖尿病性血管病變所導致的症狀複雜且嚴重, 值得所有病友及家屬透徹研究了 解, 以實際有效之行動, 預防治療, 希望能防範於未然...",
+      "fullContent": "神經內科王柯懿主治醫師 前言: 糖尿病, 一種尚未能有效治愈的文明疾病. 直接或間接造成對個人及社會沉重 負擔. 糖尿病性血管病變所導致的症狀複雜且嚴重, 值得所有病友及家屬透徹研究了 解, 以實際有效之行動, 預防治療, 希望能防範於未然, 保持良好生活習慣, 輕鬆自在 與糖尿病共舞一生. 目前已知的糖尿病性血管病變, 有以下數項. 每一項都與所有病友及家屬的生活息 息相關: 1.眼睛微血管瘤出血及視網膜病變, 造成失明. 2.腎臟病變及尿毒症, 造成全身倦怠, 長期洗腎及最惡性高血壓. 3.末梢神經病變, 造成手腳麻木疼痛, 不恰當全身虛汗 4.自律神經病變, 造成陽痿, 姿勢性低血壓易昏倒, 再造成次發性頭部外傷. 5.內臟神經病變, 造成腸胃吸收不良, 經常性絞痛及下痢. 5.周邊血管動脈硬化循環不良, 造成傷口不能收口, 容易感染壞死而截肢. 6.冠狀動脈血管硬化，因而增加冠狀動脈心臟病罹病率, 常常造成心臟衰竭 甚至無預 警暴斃 7.顱內外動脈血管硬化, 增加腦中風罹病率, 常常四十幾歲就手腳癱瘓臥病在床. (以下致病機轉, 如果病友視力欠佳, 可由家屬代勞.) 糖尿病性血管病變早在糖尿病初期就以經開始形成. 根據相關動物實驗及人體血管 研究報告, 早在糖尿病確定診斷之十年前, 顱內外動脈血管及冠狀動脈血管就以經出現 管腔內內皮細胞組織功能失調, 收縮小肌肉不穩定進而造成高血壓. 在糖尿病確定診斷 之時, 動脈血管硬化經常以達到可用肉眼辨識程度. 另外透過醣化等異常作用影響血小 板及紅血球, 造成血球變性而極易破碎. 第三種造成糖尿病性血管病變之原因在於凝血 因子之活化及高血壓共同作用造成組織內部小血管毛玻璃狀病變及小血管阻塞. 糖尿病病友的預後統計資料, 也頗令人錯愕. 高血壓併糖尿病年輕病友( 小於四十 五歲 )發病期平均十五年之族群, 腦中風罹病率為同年齡無高血壓也無糖尿病族群之壹 -- 1 of 3 -- 拾參倍. 糖尿病病友得腦中風後肆拾百分比(40%)終身臥床對照同年齡無糖尿病病患壹 拾伍百分比(15%), 明顯高出不少; 此外急性腦中風處理的指引或共識提出急性腦中風 時血糖太高，會影響腦中風病人的預後,血糖每增加 100 mg/dl 時, 復原機會減少 24%, 出血性腦梗塞的機會也會增加, 且容易引發電解質不平衡及其他的併發症, 所以腦中風 病人血糖在 200 mg/dl 以上時, 可以重覆注射低劑量的 Insulin 將血糖控制在 150 mg/dl 以內. 至於無預警心因性暴斃, 糖尿病截肢, 失明, 尿毒造成長期洗腎比比皆是. 既然如此嚴重, 以非專業的糖尿病病友如何察覺以經存在的危險症狀而加以補救. 古人說過: “ 人無遠慮, 必有近憂 “. 又說” 惟上智及下愚者, 不移 ”. 既然命運 注定與糖尿病共舞一生, 糖尿病病友必須有堅定的意念及不移的毅力與之對抗. 時時警 惕自己糖尿病性血管病變就像您的影子, 以目前科學而言, 是不可能去除. 糖尿病病友 確定診斷的同時, 必須確定有無高血壓, 尿蛋白, 體重過重, 視力減退, 姿勢改變造成 突發性頭暈, 性功能障礙. 每次門診時, 需逐條與新陳代謝之醫師討論. 定期健康檢查 包括血液, 尿液, 心電圖分析, 眼科視網膜螢光攝影或眼底鏡分析, 腦神經定期門診, 頸動脈超音波等等. 目前已經大部分含括在健保糖尿病整合計劃中. 至於糖尿病病友家屬如何幫助自己親人呢? 首先必須有著正確的認知, 親情是無可迴避 的責任與付出. 常聽人感嘆: 子欲養而親不在. 與其等到糖尿病親人到達心臟衰竭, 腦 中風, 視網膜病變失明, 截肢而必須長期臥床時再花費大量精力與金錢, 倒不如從今天 起, 每日陪糖尿病親人作以下功課, 不僅能有效減輕糖尿病性血管病變的後遺症, 並能 增加家庭和穆及生活品質. 首先健康與快樂奠基於每日正常的作息 1.食物注重內涵, 蔬果與肉蛋比率約 9:1, 口味清淡少調味, 多吃蕃茄, 魚類, 不吃油炸食物, 不吃零食, 不抽煙. 2.每日運動至少四十分鐘, 舒緩散步或游泳 (就算退化關潔炎或末梢神經病變手腳麻木疼痛 ) 應該一貫有恆實行. 此外輕鬆拍打揉搓全身肌肉, 依序胸腹頸腰頭, 臉肩手臀足或任何舒緩運動. -- 2 of 3 -- 通常再運用看電視廣告零星時間運動, 累積下來, 也相當可觀. 3.每日幫助或替糖尿病親人以溫水浸泡手腳十分鐘 並檢視有無傷口再加以揉搓手指腳趾間隙. 4.注意糖尿病親人有無經常頭暈, 虛汗, 腹部絞痛及下痢, 異常倦怠, 尿液混濁, 此時需安排腦神經內科及腎臟內科門診. 5.注意可能中風徵兆, 像是手腳無力, 手腳不自主運動, 手腳感覺喪失, 麻木感,尿失禁, 神智不清, 步態不穩, 平衡喪失, 構音困難, 吞嚥困難. 並且立即就醫. 6.保持與主治醫師密切聯繫, 主動蒐集醫藥新知. 經過科學觀察一貫有恆正常的作息是長壽的祕訣, 或許五光十色令人迷惘但一朝回歸自 然與平凡, 寧靜的娛悅是無可取代的. 台灣人俗話說: 人再做, 天在看. 不要蹉?時光, 劍及履及, 一心一貫就能有效避免糖尿病性血管病變. 天主教聖馬爾定醫院 糖尿病人保健中心 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "外傷",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/afd5f443-4100-47e5-a3ac-fd2979469bed.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.545Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-ee3d729d42",
+      "title": "糖尿病的藥物治療-胰島素",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "1 糖尿病的藥物治療 – 胰島素 一、什麼是胰島素? 胰島素是由胰臟貝他細胞所分泌的一種荷爾蒙，胰島素的作用在幫助蛋白質與脂肪的 生合成以及促進葡萄糖進入細胞作為能量的來源，維持血糖穩定。當胰島素分泌不足 時，葡萄糖無法代謝就會造成血糖升高...",
+      "fullContent": "1 糖尿病的藥物治療 – 胰島素 一、什麼是胰島素? 胰島素是由胰臟貝他細胞所分泌的一種荷爾蒙，胰島素的作用在幫助蛋白質與脂肪的 生合成以及促進葡萄糖進入細胞作為能量的來源，維持血糖穩定。當胰島素分泌不足 時，葡萄糖無法代謝就會造成血糖升高。胰島素會被胃酸所破壞無法口服，需要以注射 的方式給藥! 二、哪些人需要胰島素治療? 1.第 1 型糖尿病人：由於胰臟貝他細胞遭受破壞，導致胰島素絕對性的缺乏， 需要終身注射胰島素來控制血糖。 2.第 2 型糖尿病人：當口服抗糖尿病藥物無法達到有效的血糖控制時，應儘 早使用胰島素治療。當遭遇重大生心理壓力時，如：生病、住院、手術、感 染等狀況也可能需要胰島素治療。 3.糖尿病人發生糖尿病酮酸血症或高血糖高滲透壓症時,需要以胰島素治療。 4.肝、腎功能異常的糖尿病人者。 5.妊娠糖尿病人，需要胰島素治療。胰島素是懷孕時血糖控制的首選藥物。 6.住院的糖尿病人。 7.當接受靜脈營養或高熱量補充時，可能需要胰島素治療以控制血糖穩定。 三、胰島素治療注意事項! 1.遵從醫師指示之劑量注射，不要自行調整胰島素劑量。 2.請依醫護人員之教導，正確執行胰島素注射技巧。 3.選擇正確的注射部位、注射部位需輪換 (腹部、大腿、手臂、臀部)。 4.注射前應檢查胰島素外觀，如有出現沉澱物、懸浮物或結霜，則該瓶不要使用。 5.注射胰島素期間，仍應配合糖尿病飲食原則與規律的運動。 6.胰島素的主要不良反應是發生低血糖。低血糖的原因可能是：胰島素劑量過多 、延誤用餐或用餐量減少時、過多的體能活動等。 7.請依各廠牌胰島素建議之保存方法，妥善保存胰島素。 8.學習自我監測血糖並記錄在血糖紀錄本，返診時攜帶血糖紀錄本供醫師參考。 9.外出旅行，請預先準備足夠的胰島素。 10.胰島素治療方式是多樣化的，因個人生活型態、活動量、飲食、工作、情緒等因素 影響，不盡相同。 -- 1 of 3 -- 2 四、本院現有胰島素製劑 胰島素製劑名稱 【本院現有胰島素劑型名稱】 胰島素保存 起始 作用 時間 (小時) 作用 高峰 (小時) 有效 作用 時間 (小時) 最長 作用 時間 (小時) 未 開 封 已開封 使用中 速效 諾和瑞 諾易筆 NovoRapid® 冷藏 2~8℃ 室溫 30°C 下 4 星期 5~15 分鐘 0.5~1.5 小時 3~4 小時 4~6 小時 速效 愛胰達 注射筆 Apidra® 冷藏 2~8℃ 室溫 25°C 下 4 星期 小於 15 分鐘 1.0~1.5 小時 3-5 小時 4~6 小時 短效 愛速 (瓶裝) Actrapid HM® 冷藏 2~8℃ 室溫 30°C 下 4 星期 0.5~1 小時 2~3 小時 3~6 小時 6~8 小時 中效 因速來達 (瓶裝) Insulatard HM® 冷藏 2~8℃ 室溫 30°C 下 4 星期 2~4 小時 6~10 小時 10~16 小時 14~18 小時 超長效 糖徳仕 注射筆 Toujeo® 冷藏 2~8℃ 室溫 25°C 下 4 星期 給藥後 6 小時 無 24 小時 24+ 小時 瑞和密爾注射筆 Levemir® 冷藏 2~8℃ 室溫 30°C 下 6 星期 1~2 小時 無 24 小時 24+ 小時 諾胰保 諾特筆 Tresiba® 冷藏 2~8℃ 室溫 30°C 下 56 天 1 小時 無 42 小時 42 小時 混合型 諾和密斯 30 諾易筆 Novomix® 30/70 冷藏 2~8℃ 室溫 30°C 下 4 星期 小於 15 分鐘 雙重 尖峰 10~16 小時 14~18 小時 優泌樂®注射筆 Humalog® 25/75 冷藏 2~8℃ 室溫 30°C 下 4 星期 小於 15 分鐘 雙重 尖峰 10~16 小時 14~18 小時 優泌樂®注射筆 Humalog® 50/50 冷藏 2~8℃ 室溫 30°C 下 4 星期 小於 15 分鐘 雙重 尖峰 10~16 小時 14~18 小時 混合型 爽胰達®注射筆 Soliqua ® (胰島素+腸泌素) 冷藏 2~8℃ 室溫 25°C 下 28 天 室溫 30°C 下 14 天 2~4 小時 11 小時 ~24 小時 24 小時 -- 2 of 3 -- 3 參考資料: 台灣胰島素注射指引(2018)．台北：中華民國糖尿病衛教學會。 各藥品仿單。 ※糖尿病衛教：胰島素注射技巧指導。電話 05-2783865 或 05-2756000，分機 3311 天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院 關心您 2021 年 10 月校閱 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2021/d4cf6f11-693e-4953-add8-c0ed77cd076d.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.674Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-504ac83119",
+      "title": "糖尿病的傷口護理經驗談",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "外科",
+      "summary": "專科護理師 林郁玲 在臨床上工作的這幾年，對傷口的接觸不少，其中令醫護人員頭痛的就是糖尿病的 傷口了；尤其是下肢、足部，因為末梢血管的病變讓血液循環不良，傷口得不到好的血 液供應，自然就不容易癒合。然而每個傷口的背後，都有一個故事。有一個真...",
+      "fullContent": "專科護理師 林郁玲 在臨床上工作的這幾年，對傷口的接觸不少，其中令醫護人員頭痛的就是糖尿病的 傷口了；尤其是下肢、足部，因為末梢血管的病變讓血液循環不良，傷口得不到好的血 液供應，自然就不容易癒合。然而每個傷口的背後，都有一個故事。有一個真實案例令 我感觸良深，與各位分享- 在市場賣水果的阿發得到糖尿病已經 4、5 年了，是個勤勞古意的中年男性。為了 全家的生計，他不努力工作是不行的，所以從早起去批發水果到市場，甚至到觀光景點 去販賣，忙碌的生活讓阿發常常忘了吃藥，甚至拿起一些要淘汰的水果來果腹，再加上 飲食不正常，血糖的控制當然很不好。第一次見到阿發是他被太太攙扶著走入門診，我 看到一雙瘦黑乾燥的腳，右腳的大拇指與第二指用紗布包著，甚至還有蒼蠅圍繞，他說 前一個禮拜前在市場工作時踢到東西，有個小傷口。以為沒事，就自己回家消毒包紮， 沒想到傷口越來越糟，現在都化膿，還有點發燒...。我打開紗布後，看到熟悉的「糖 尿病族」特有的「糖尿病足」。唉！又是一個需細心照護，利用耐性與它長期抗戰的傷 口......。 故事的主角中，也許是像阿發先生這樣為了生計打拼而忽略嚴重性的，或是擔心傷 口越來越惡化，而不斷試用各種親戚朋友提供的秘方或草藥的，細心探索，其實很多人 都知道嚴重程度，只是太大意或過度焦慮憂心傷口，導致需要更多的時間與精力來照 護。我常常在想：人與生俱來的財產就是身體，不管得到先天或是後天的疾病，有病的 身體也是自己的財產，不會有他人來分享；如果把照顧好自己的身體當作是人世間最基 礎應做好的工作，那麼照顧好有病的身體，也許就是上天用來烒煉自己是否愛護自身財 產的好方法。所以面對糖尿病足並不可怕，可怕的是病患已經喪失了照顧雙腳的信心與 耐性，因為不愛護自己的身體財產，就容易被上天打敗了.... 阿發先生在經由 2 個多禮拜的住院治療中，因為傷口感染情況嚴重，所以截除了右 腳的大拇指與第二指，儘管血糖還無法到達滿意的控制程度，但至少保住了一隻腳；利 用每次換藥時間與他會談，交換他罹患糖尿病後的心路歷程與我照護糖尿病足的心得， 終至發現他的觀念漸漸在轉變。出院前夕，我聽到他對鄰床病友說：人還是要顧本，身 -- 1 of 2 -- 體就是本錢，如果拼命賺錢，到最後躺在床上過日子，那就烏有了......。 可不是嗎？這樣的體認不管您是不是糖尿病友，是大家都應該具備的喔！ 而且\"預防勝於治療\"，定期控制好您的血糖並能確實做好足部照護的工作，就可避免足 部的潰瘍甚至截肢、死亡等情形發生，並可提升您的生活品質。與各位共勉之。 （本文 作者亦曾擔任整形外科專科護理師） 天主教聖馬爾定醫院 糖尿病人保健中心 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病",
+        "焦慮",
+        "換藥",
+        "傷口",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/99fdaeaa-b6b6-4809-ba5c-0a92580682d8.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.760Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-0c36ef2706",
+      "title": "糖尿病與戒煙",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "糖尿病中心：吳梅華衛教師 中風好發在冬天,冬天的氣候變冷會始血管收縮,血壓上升,一般來說腦出血以每年的十 二月至一月為高峰,若合併有其它慢性病如：心臟病、高血脂、加上有吸煙、喝酒的習 慣都會造成心臟血管疾病的病變,所以呢………? 親愛的病友...",
+      "fullContent": "糖尿病中心：吳梅華衛教師 中風好發在冬天,冬天的氣候變冷會始血管收縮,血壓上升,一般來說腦出血以每年的十 二月至一月為高峰,若合併有其它慢性病如：心臟病、高血脂、加上有吸煙、喝酒的習 慣都會造成心臟血管疾病的病變,所以呢………? 親愛的病友們,你吸煙嗎?吸煙真的是慢性自殺,為了您的健康我們一起努力,由糖尿病中 心的醫師、營養師、衛教師、專科護理師、社工師幫助您跨出成功的第一步,戒煙路途 崎嶇難走,但您一定做的到! 為什麼要戒煙 1、吸菸會導致癌症。世界衛生組織證實 30%的癌症和吸菸有關。 2、減低罹患心臟病、中風或癌症的機會 。 3、令你摯愛的配偶及小孩更健康 。 4、吸菸導致肺癌、慢性肺氣腫、慢性支氣管炎。 5、吸菸導致男性失去性機能及生育能力的機會大增。 6、吸菸者易罹患骨骼疏鬆症及更年期提早來臨。 7、孕婦吸菸易導致胎兒早產及體重不足，甚至導致流產機率增高。 您準備好了嗎? 1、吸煙的習慣往往與情緒、事件或地點有關， 例如︰感到不安、習慣邊工作邊吸煙、想獎勵自己、滿足對尼古的渴求等。 數天的吸煙紀錄可幫助你了解自己為何想吸煙 2、把吸菸的壞處一一列出，隨身攜帶，不斷提醒自己 3、飲食清淡、細嚼慢嚥、少量多餐，飯後記得刷牙或漱口 4、充足的睡眠、保持適度的運動，暫時避開吸菸的環境，多和支持自己戒菸的家人或 朋友在一起 5、平日可以手持筆取代持菸的習慣，保持高度的信心，用輕鬆愉快的心情不斷地鼓勵 自己：我一定會成功 6、記下戒煙的理由 7、計劃如何運用原本用來買煙的金錢 。 -- 1 of 3 -- 8、發展新興趣，計畫規律的運動習慣 9、勿以抽煙減壓。應嘗試以其他方式減壓。 10、訂定開始戒煙的日期，並慶祝這個明智決定。 11、尋求支持輔導愈多，戒煙成功的機會愈高。 12、嘗試找同伴一同戒煙 。 如何對抗煙癮 當身體停止攝取尼古丁，就會呈現脫癮症狀。 脫癮症狀包括：煩躁易怒、飢餓、 偶爾頭痛、消化不良、 便秘、作嘔、肚瀉或喉痛。 這些症狀多於兩、三個星期內減退。 嘗試以下克服「 煙癮 」的方法︰ 堅定意志︰ 1、提醒自己，「 我要堅持下去！」 2、拖延︰每次想抽煙時，稍延數分鐘，切勿立即尋找香煙 3、深呼吸︰慢慢深呼吸三次 4、喝水︰喝一小口水，把水含在口中數秒 5、飯後刷牙或散步 6、把口香糖、糖果等香煙代替品放在身邊 7、計劃每天做你喜愛的事 ，轉移注意力 8、想減壓時，洗個熱水澡、做運動或看書 9、研究證實，在藥房有售的尼古丁貼及尼古丁糖 ，能紓緩脫癮症狀，雙倍提高戒煙的 成功率。 應特別小心喔! 大部分的戒煙者可能會在戒煙後的三個月內再次吸煙。 即使如此，你也不必氣餒 。 酒精 － 研究證實，喝酒妨礙戒煙。 酒精及酒裡面其他物質會減低戒煙意志， -- 2 of 3 -- 1.所以最好暫停喝酒數星期 。 2.體重增加時 － 很多人戒煙時體重都會增加，但繼續吸煙比體重稍升危險得多，因此 勿讓體重的上升的戒煙大計！ 3.心情差勁時 － 找其他健康方法改善心情 。 時 時 提 醒 自 己 ： 1、戒煙不容易 。 2、自己戒煙的原因 。 3、戒煙對你和你摯愛家人的好處 。 4、保持積極，重新振作！切勿白費心機 。 5、這是戒煙必經階段。多數人都經歷數次失敗方能成功 戒煙。請從失敗中學習，同時 應記住每次嘗試都表示你愈來愈接近成功。 6、找出煙癮根源，想法子訂定克服煙癮的計劃 。 7、戒菸是世界趨勢，勢在必行。 禁 煙 半 年 恭喜你成為非吸煙者！ 但當你再想抽煙時，要注意︰ 尋找煙癮根源，想法子克服煙癮。 你可以尋求您的醫師、家人或朋友協助。 您成功了嗎? 戒煙成功初期開始可以感受到空氣清新，食物美味，身上不再有菸臭味。 之後你會發現循環系統、呼吸系統疾病減少，皮膚顯得光澤有彈性。 甚至中風及癌症危險性大為降低；減緩老化，讓生活更自在。 天主教聖馬爾定醫院 糖尿病人保健中心 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/19e519e2-a1bb-47fb-a164-b17bed439cd9.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.811Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-a761f23a04",
+      "title": "糖尿病神經病變",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "最重要的是病患與醫師必須充分合作配合，最基本的就是血糖 必須好好控制，才能避免各種併發症的惡化。患者每天應檢查肢體末端有無傷口的存 在，否則，重複的受傷加上癒合的困難，最後難逃被截肢的命運。針對神經病變的控 制，我們可以使用高單位之 B12...",
+      "fullContent": "最重要的是病患與醫師必須充分合作配合，最基本的就是血糖 必須好好控制，才能避免各種併發症的惡化。患者每天應檢查肢體末端有無傷口的存 在，否則，重複的受傷加上癒合的困難，最後難逃被截肢的命運。針對神經病變的控 制，我們可以使用高單位之 B12 及血液循環劑來減輕神經的損傷或促進其修復；目前也 有一些實驗性的藥物。相信不久的將來可以用於臨床病患，針對神經病變的麻痺或燒灼 感，我們也可以使用藥物(如抗癲癇或抗憂鬱藥物)，來減輕病症，使病人的生活品質提 高。 天主教聖馬爾定醫院 糖尿病人保健中心 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/480f59c6-d34f-4b0f-b572-cb15f43f50d7.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.892Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-a895542243",
+      "title": "糖尿病易引起的眼睛疾病",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "糖尿病容易引的眼睛疾病 眼科主任 賴良文醫師 糖尿病是一種引起全身多處疾病的慢性病。除一般大家所知的例如：傷口不易癒 合、末梢血管阻塞、神經病、腎功能減退等等外，對眼睛視力造成的傷害其實非常地 大，甚至造成失明。所以，糖尿病患者對於引起的眼...",
+      "fullContent": "糖尿病容易引的眼睛疾病 眼科主任 賴良文醫師 糖尿病是一種引起全身多處疾病的慢性病。除一般大家所知的例如：傷口不易癒 合、末梢血管阻塞、神經病、腎功能減退等等外，對眼睛視力造成的傷害其實非常地 大，甚至造成失明。所以，糖尿病患者對於引起的眼睛疾病應有所認知。 白內障 是水晶體變為混濁的情形，雖是老人常見的疾病，但長期患有糖尿病的患者，其白內障 會比沒糖尿病者更容易成熟。對於年輕者(55 歲以下)，容易造成後囊混濁性白內障。其 特徵是，視力逐漸模糊，愈見強光愈看不清楚，只要其眼底視網膜沒有太壞的病變，白 內障手術都有不錯的效果。 青光眼 是一種可以導致眼部失明的一種疾病。35 歲以上的成年人，每 50 人中就有一人有罹患 青光眼的可能。有家庭史，高血壓及糖尿病者都是高危險群。只要定期做眼壓檢查，早 期發現，病情都可以獲得控制與改善。 動眼神經麻痺 這種情形非常少見。臨床上主要徵狀是，眼瞼下垂，眼球向外偏移(無法內收)，有複視 現象。通常患者是單眼發生。大部份患者只要嚴格控制血糖，加上內科保守治療，三至 六個月就能獲得改善。 視網膜病變 是成年人致盲的三大原因之一。 患糖尿病愈久，引起此症機率愈高。 患病 15 年以上者，約有 80 %會發生。 而「青年形糖尿病」病患，也較容易產生視網膜病變。 此症可分為基幕性，前增殖性及增殖性視網膜病變。 基幕性視網膜病變，此時的視力仍未受影響，也是病人最容易忽略。但若繼續惡化成前 增殖性視網膜病變，特別是引起黃斑部的水腫，則閱讀將極困難，視力也難以恢復。 若早期不經由雷射治控制，而繼續惡化成增殖性視網膜病變，此時期隨時都可能引起玻 璃體出血，造成視力模糊，此時就必需藉玻璃體切除手術來改善視力，但效果有時無法 令人滿意。 -- 1 of 2 -- 最後如果形成疤瘢組織而造成視網膜剝離，此為視網膜病變的末期，視力恨很難再改 善。 只要發現有糖尿病，應該立即至眼科做詳細的眼睛檢查，每半年至一年做一次視網 膜檢查。 如果視網膜已有病變，建議每三至六個月做一次眼底檢查。 早期發現，早期預防與治療，是維持良好視力的不二法門。 天主教聖馬爾定醫院 糖尿病保健中心 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/544b1d93-6a44-4a03-b0d9-3277dac7f401.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:34.934Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-9305e3672d",
+      "title": "糖尿病人的性問題",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "李淑嬪衛教師 從事糖尿病衛教多年來，在門診常常聽到有不少病人問到有關糖尿病與性功能的問 題，其中又以男性居多，因此，以下就糖尿病患所可能產生的性問題做個簡單的介紹。 根據醫學統計，男性糖尿病患者百分之三十到百分之七十以上都有輕重不一的性功 ...",
+      "fullContent": "李淑嬪衛教師 從事糖尿病衛教多年來，在門診常常聽到有不少病人問到有關糖尿病與性功能的問 題，其中又以男性居多，因此，以下就糖尿病患所可能產生的性問題做個簡單的介紹。 根據醫學統計，男性糖尿病患者百分之三十到百分之七十以上都有輕重不一的性功 能障礙，這是糖尿病重要的併發症之一。甚至，有些人是因為發現有性功能方面的異 常，才意外的知道自己早患有糖尿病。以前以為性功能障礙 90%與心理因素有關，但糖 尿病患者性功能障礙大多與糖尿病本身有關，小部份原因才是心理因素所造成，治療及 控制糖尿病，才可減少糖尿病性功能障礙的發生而且糖尿病所造成的性功能障礙常是不 可逆性，和糖尿病的輕重及病期的長短沒有直接的關係，即使血糖一直控制在理想的範 圍，性功能也不可能完全恢復。 由從事研究糖尿病陽萎問題專家的報告，在五十歲以前已有五分之一到將近一半的 糖尿病人，有欲振乏力之感。雖然糖尿病的女性也有人指出可能發生性的煩惱，但是一 般而言主要的煩惱還是在於男性，男性除了陽萎的問題外，可能出現的問題就是逆行性 射精，所以男性糖尿病人易受到性問題的困擾。 糖尿病患在性功能障礙的臨床症狀有勃起困難，陰莖勃起硬度不足，勃起時快速消 軟表現，也有不少病人出現早洩、性慾減退、及精液稀少等現象，主要是因為糖尿病容 易造成末梢神經血管的損傷，直接影響到陰莖勃起的功能。 從病因學的角度來看，糖尿病患者併發性功能障礙通常有很多因素，包括神經病 變、血管、心理、及荷爾蒙等均可促成不同程度的障礙，但有一點可能與傳統的認知有 差異，就是由荷爾蒙引起的性功能障礙病例非常罕見，少於總人數的 1%。 糖尿病神經病變是指在排除其他因素後糖尿病患者的周邊自主神經或體神經出現機 能失常，其中自主神經病變會影響身體內受其支配的各個器官，包括胃腸道、泌尿生殖 系統統(會引致性功能障礙)及心血管系統，故除了考慮發病率及死亡率外，更應注意其 對患者的生活品質所帶來的嚴重影響。 -- 1 of 3 -- ●神經障礙為糖尿病人陽萎之主兇：與一般正常人一樣，情緒上的問題可能促成糖尿病 人的陽萎，但對較多數的糖尿病人來說，陽萎的發生還是在於勃起神經的障礙，以致於 無法觸發一連串的神經投射，來順利地產生勃起的現象。在這種情形下，一般來說復原 的希望比較渺茫。其他的因素，雖然佔的比例較少，但是也可能造成陽萎的現象，因此 也不容忽視。譬如說糖尿病的控制如果很差的話，會造成身體極端虧損，因而產生陽 萎。 ●逆行性射精：所謂逆行性射精，就是由於自律神經的障礙，造成內膀胱括約肌的關閉 不靈，因此在陰莖肌肉收縮下，本來應該射出體外的精液，反而逆流射入膀胱。這種併 發症的發生率大概只有 1%左右。 ●性慾不是糖尿病人性問題的關鍵 無論是男女性糖尿病人，性問題的關鍵不在於性慾的減退，因為即使為嚴重陽萎所困的 病人，往往還保持正常的性慾。不過如果因為糖尿病控制得很壞，以致於全身感到疲乏 時，則有可能影響到病人行房的興趣。針對這種情形，改善糖尿病的控制，有助於恢復 病人的「性趣 」 。 ●女性糖尿病人是否也有性問題？ 35%有性慾減退、45%行房時敏感性減低、35%有無法達到性高潮之憾。 ●男性病人如何克服陽萎？ 與一般人一樣，糖尿病人的陽萎有可能由情緒、酗酒、服用藥物不當，或生理上的疲乏 促成。過度的酗酒、服用過多鎮靜劑或服用某些高血壓的藥物，都有可能產生陽萎。去 除這些因素，再加上精神上的疏導，陽萎的治療率可說是相當高。加強糖尿病的控制， 彌補病人虧損的體力，或是適當控制容易併發的感染症，以改善生理上的缺憾，也有助 於減少陽萎的發生，或改善已發生的陽萎。對糖尿病來說，臨床上最常見的陽萎起因是 情緒性及器官性，前者治癒的希望比後者大得多，所以必須小心地加以鑑別。情緒性的 陽萎，通常是突然發生，可能問出精神上受到打擊的線索，用人為的因素加以刺激可能 會勃起，以勃起偵測器來紀錄的話，在夜間可看到勃起的跡象。而神經或血管障礙引發 的陽萎，往往慢慢發生，對外在的刺激缺乏反應，夜間亦無勃起的現象。情緒性的陽 萎，需要心理治療，雖然治療方式相當困難，但是有治癒的希望；而器官性的陽萎，對 -- 2 of 3 -- 一般治療往往不會有反應。在這種情形下，就有需要採取非常的手段來幫忙病人。 ●器官性陽萎的治療 首先要使病人夫婦間充分的瞭解，先生的陽萎不是由於他年輕時的縱慾或過度的手淫造 成，而是糖尿病的一種併發症，所以雙方必須面對現實，採取可行的補救辦法。太太方 面不能一味責怪先生，刮盡男性的尊嚴，而引起夫婦反目。有人嘗試補充與神經功能有 關的維生素Ｂ１及Ｂ６，但效果不好。內分泌的治療，就是補充男性荷爾蒙，以圖挽回 病人勃起無力的頹勢。事實上對這種治療有反應病人，可說是鳳毛麟角，有時候反招致 不良的副作用。唯一可以減輕病人的困擾，就是外科方法，以人工方法使得陽萎的病人 產生「勃起」的現象。目前在臨床上最常用的方式有兩種：頭一種是將半硬的矽質棒裝 入陰莖內，使得病人經常保持半僵硬式的勃起，對日常生活可能添加少許的不便；另一 種為可脹可縮控制自如的人工陰莖。這種裝置包括裝在陰莖內的兩個可膨脹的圓柱體， 用管子連在一個幫浦上。這個幫浦放在陰囊內，用手操作，使得在腹部肌肉下一個貯藏 所的液體流入圓柱體內，造成勃起。行房之後，開動一個閥門，使液體流回貯藏所。這 種裝置不能增強或減弱男性達到性高潮的能力，但是由於解除了陽萎的困擾，可以增進 夫婦間性生活的情趣。 有一部份糖尿病人，自從得糖尿病以後儘量減少性生活的頻率，甚至於完全禁絕。事實 上，如果身體情況沒有特別禁忌的話，維持正常的性生活不但對糖尿病的控制沒有壞 處，透過對情緒上紓解，可能還有幫忙。 我們有權利，也應要求自己有正常喜悅的性生活，就如同我們要求自己的眼睛能看，耳 朵會聽，四肢運動自如一樣，性功能障礙表示性機能在某一部份出了問題，也可能是身 體其它器官病變的先兆(如糖尿病、高血壓、可能先由性無能表現 )。它不同於性病， 更不是什麼羞恥見不得人的病，它像高血壓、糖尿病一樣，是可經由診斷治療而獲得改 善。因此，在二十一世紀的今天，醫學日新月異，許多病痛以可以成功的治癒或改善， 所以，因糖尿病而導致的性無能也不例外，奉勸這些病人即早拋棄成見，重建正確的觀 念，勇敢面對自己的問題，重拾生命的第二春。 ※ 資料來源：1.戴東原(2000) ‧糖尿病與性功能‧健康世界 171，11-14。 2.吳季如（1995，6 月）‧糖尿病與性功能障礙‧健康世界。 天主教聖馬爾定醫院 糖尿病保健中心 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/2e08fb83-bfd1-4b8c-8687-2dc54420f8a9.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.005Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-c5c0984f56",
+      "title": "糖尿病人的足部護理與傷口照護原則",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "外科",
+      "summary": "糖尿病人因長期血糖控制不良，導致末稍神經病變與血管病變，尤其是足部對於 冷、熱及疼痛的感覺會較遲鈍，即使受傷也不自覺加上足部血液循環不良，傷口容易感 染且不易癒合而遭受截肢的命運，嚴重者甚至因感染併發敗血症，危及生命!! 一、糖尿病人的足部...",
+      "fullContent": "糖尿病人因長期血糖控制不良，導致末稍神經病變與血管病變，尤其是足部對於 冷、熱及疼痛的感覺會較遲鈍，即使受傷也不自覺加上足部血液循環不良，傷口容易感 染且不易癒合而遭受截肢的命運，嚴重者甚至因感染併發敗血症，危及生命!! 一、糖尿病人的足部護理與注意事項： 1.每天用溫水和中性肥皂清潔足部，皮膚乾燥可使用乳液塗抹，但注意趾縫間不要擦乳 液；保持趾縫間的清潔乾燥。 2.每天檢查足部，尤其趾縫間，看看是否有傷口、膿皰、皮膚紅腫、雞眼、老繭。 3.用指甲剪順著指甲邊緣修剪指甲；指甲太硬，可以先泡溫水軟化或洗澡後再修剪； 視力不佳者，請家屬協助修剪。不要使用小剪刀、不要自行修剪硬皮。 4.可於泡溫水或洗澡後，用浮石輕輕磨除厚皮。 5.不要赤腳走路、不要走健康步道。 6.坐著的時候，不要兩腿交叉或盤坐。 7.足部酸痛、麻刺時，不要泡熱水、不要用熱水袋、避免用電毯或電暖爐以免燙傷。 8.鞋子要選擇軟皮、合腳、透氣的包鞋，不要穿高跟鞋；至少準備兩雙鞋來交換替穿。 9.選擇白色棉質吸汗的襪子，萬一有傷口，才能容易觀察到。 10.穿鞋前，先檢查鞋裡是否有小石子或異物。外出時不要穿拖鞋或涼鞋，避免受傷。 11.糖尿病友應每年至少接受一次足部檢查，由糖尿病衛教師為您做初步的足部檢查。 12.有以下情形時，您應該找醫師檢查治療： 足部出現雞眼、硬繭、指甲向內長、足部有傷口且癒合不佳。 二、糖尿病人的傷口照護原則： 1.遵從醫護人員的指示步驟換藥，換藥前後記得洗手。 2.請勿自行購買未經醫護人員指示的藥草、藥粉或藥膏來塗抹傷口。 3.抬高您的患肢(高於心臟)，以幫助血液循環，避免腫脹。 4.每天觀察傷口的變化情形，如有下列情形應立即就醫，請醫師為您評估： (1) 傷口週圍有紅、腫、熱、痛情形。 (2) 傷口範圍有擴大情形。 (3) 傷口的分泌物增加且有惡臭味及不正常的顏色，如：黃綠色等。 (4)當下肢有傷口，而且末稍腳趾的顏色改變，如：變白、黑、紅等。 -- 1 of 2 -- 2 5.按時返診，由外科醫師評估您的傷口癒合情形以及是否需要更換換藥的方式。 6.若有寒顫、發燒情形應回診就醫。 7.傷口照護需要時間，此時家人需付出更多的愛心和耐心來照顧病人與提供心理支持。 8.良好的控制血糖，有助於傷口癒合；遵從醫囑按時服用降血糖藥物或注射胰島素。 參考資料 杜思德（2015）．糖尿病衛教核心教材．台北：中華民國糖尿病衛教學會 本院糖尿病人保健推廣中心，提供以下服務： ※糖尿病衛教：個別諮詢、糖尿病居家照護指導 糖尿病防治專線：05-2783865 或 05-2756000，分機 3311 ※營養諮詢：糖尿病飲食諮詢與指導，服務專線：05-2756000 轉 1653 天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院 關心您 2018 年 03 月修訂 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病",
+        "換藥",
+        "傷口",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/5f2d5adc-3e83-458f-b6bb-167af633576d.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.200Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-e0f433c5a5",
+      "title": "足部保養",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "謝艷君衛教師 擁有健康的雙腳對於一般人來說是既簡單又自然的事，然而，對於許多糖尿病人來 說卻是這麼的困難、這麼的奢侈。健康的雙腳，讓我們行動自如，悠遊自在。但是這麼 重要的雙腳，您可曾仔細的好好檢查與保養呢？ 也許有人會笑問：「保養？我又不...",
+      "fullContent": "謝艷君衛教師 擁有健康的雙腳對於一般人來說是既簡單又自然的事，然而，對於許多糖尿病人來 說卻是這麼的困難、這麼的奢侈。健康的雙腳，讓我們行動自如，悠遊自在。但是這麼 重要的雙腳，您可曾仔細的好好檢查與保養呢？ 也許有人會笑問：「保養？我又不是女孩子，有什麼好保養的？年紀這麼大了，不 好看也沒關係啊！」是啊！好不好看是其次，保養雙腳或許不是您的生活習慣，但卻是 非常重要的。為什麼我會這麼說呢？您注意過沒有，許多截肢的患者，都是糖尿病友 呢！這難道只是巧合嗎？ 其實很多糖尿病友都知道，糖尿病有許多的慢性併發症。什麼叫慢性併發症？也就 是說在長期血糖控制不好的情況下所產生出來的其他病症。常有病友會抱怨說： 「最近 手腳都整天麻麻的，感覺越來越差了。」這就是糖尿病慢性合併症之一的〝神經病變〞 另外還有〝周邊血管病變〞這些都是造成腳部問題的大元兇喔！因為感覺神經遲鈍了， 所以很多人受了傷也不知道。加上糖尿病人的傷口癒合很差，又容易感染。一但腳有傷 口，這就嚴重了。傷口難照顧，有的拖上好幾個月也沒有癒合，反而越來越糟糕，嚴重 的人就有可能面臨截肢的命運了！ 在和病友談論這個問題的時候，常有病友不相信的說：「我的傷口都不用幾天就好 了啊，沒那麼嚴重啦！」當然，也許您的血糖控制一直很穩定，也許您現在不用擔心這 個問題，但是既然可以簡單又輕鬆的預防，我們又何必冒險呢？我們希望做到的並不是 在您出現傷口後才來擔心煩惱不已，而是希望每個病友都能擁有可以自由行走的雙腳， 一旦真有病友的腳要面臨截肢的命運時，那麼說什麼都晚了，不是嗎？試試看吧！真的 不難的，跟著我做做看！ 首先，從每天的保養開始吧！ 1.低頭仔細的看看您的雙腳，有沒有任何的傷口、水泡、或發紅的地方，連腳趾縫也要 檢查喔！眼睛不好的病友就請家人幫忙吧！ 2.每天洗澡的時候要先用手試試水溫，千萬別燙傷了！選擇中性的沐浴乳或香皂，別把 皮膚的保護油脂都洗掉囉！還有別泡腳，泡腳會使皮膚更乾燥。 3.洗完雙腳後，拿毛巾輕輕的擦乾水份，可不要太用力擦，如果皮膚比較不好的人很容 易破皮的。 4.冬天皮膚比較乾燥，可以擦乳液保護皮膚，避免乾裂。 -- 1 of 2 -- 外出前呢？ 1.出門一定要穿鞋子，不是拖鞋或涼鞋喔！要穿能保護整個腳的鞋子，例如： 柔軟舒適的休閒鞋或皮鞋。這樣才能避免受傷。 2.鞋子的選擇不能太緊或太鬆，都會造成傷害，鞋底別太薄 1~3 公分就好，鞋裡也可以 加上適當的鞋墊，增加舒適。女性病友盡量不要穿高跟鞋。 3.穿鞋子前先檢查一下鞋子壞了沒、鞋裡有沒有小石子等異物，免的保護變成傷害。 4.別忘了穿襪子以增加保護作用，襪子的選擇最好沒有縫邊，別太緊或太鬆，以免影響 血液循環及造成壓力點，還要記得每天更換喔！ 淺色的襪子雖然難洗，可是脫下後可以順便幫助檢查是否有血跡。 5.新的鞋子在穿時要慢慢適應，別穿太久，新鞋總是比較難穿嘛！ 修剪趾甲時： 1.指甲硬的人可先稍微泡一下水，一樣要注意水溫。 2.用指甲剪而不是小剪刀，避免受傷。 3.別把指甲剪太短，修平就好了，可以用銼刀磨平趾甲，另外不要修剪硬皮，以免不慎 受傷。 有傷口或長水泡、雞眼時怎麼辦？ 1.有任何傷口記的給外科醫師檢查與治療，別亂敷草藥，以免更嚴重。 2.傷口保持乾燥、乾淨以促進癒合。 3.有傷口化膿，久未痊癒或發黑等情形時，盡速找醫師處理。 另外還有什麼要注意的呢？ 1.控制好您的血糖。 2.別使用電毯或電暖爐，那可能會使您的雙腿燙傷。 3.別赤腳走路，以免受傷。 4.別走健康石步道，那會造成腳部的壓力，也容易出現問題。 5.戒菸吧！抽菸會讓您的血管變厚，也容易造成血管硬化而阻礙血液循環。 6.平時別採盤膝、翹二郎腿的坐姿，會影響腿的血液循環。 說了這麼多，看起來或許很繁雜，其實都是簡單的小動作、小習慣，我相信很多人平時 也這麼做，我們最大的希望就是每個病友都能健健康康的，而你們的健康，也是我們全 體工作人員的驕傲。所以，下次別讓我們看到您忘了保護您最好的交通工具喔！預防總 是勝於治療嘛！ 天主教聖馬爾定醫院 糖尿病保健中心 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/4f87e814-0037-4c14-a8d9-9170ec324068.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.284Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-95b5fea8a4",
+      "title": "糖尿病與運動保健",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "復建科 郭世勳主任 運動對糖尿病的好處 ※第一型糖尿病患者：改善血糖控制（低血糖病患除外） ，降低罹患心血管疾病、腦血 管疾病的危險，增加身體舒適、柔軟度、肌力、耐力 ※第二型糖尿病患者：改善血糖控制，減少胰島素用量，增加身體舒適、柔軟度、...",
+      "fullContent": "復建科 郭世勳主任 運動對糖尿病的好處 ※第一型糖尿病患者：改善血糖控制（低血糖病患除外） ，降低罹患心血管疾病、腦血 管疾病的危險，增加身體舒適、柔軟度、肌力、耐力 ※第二型糖尿病患者：改善血糖控制，減少胰島素用量，增加身體舒適、柔軟度、肌 力、耐力，保持適當體重 運動前的評估 心血管系統（大於 35 歲或患病超過 15 年者做心電圖） 足部 眼部 血糖 膽固醇 三酸甘油脂 體適能檢查：柔軟度、肌力、耐力 運動處方 種類： 與一般人相同之高反覆低負重有氧運動，如走路、游泳、慢跑、跳舞、騎腳踏車、肥 胖的第二型患者應避免對下肢過度承重之運動、減少足部傷害及退化性關節炎的危險 強度： 60﹪-85﹪最大心跳速率（220-年齡），一般維持 50﹪-70﹪即可 年齡 最高心跳 (220-年齡) 預期心跳範圍 (最高心跳的 70-85%) 年齡 最高心跳 (220-年齡) 預期心跳範圍 (最高心跳的 70-85%) 20 200 140-170 50 170 119-145 25 195 137-166 55 165 116-140 30 190 133-162 60 160 112-136 35 185 130-157 65 155 109-132 40 180 126-153 70 150 105-128 45 175 123-149 75 145 102-123 -- 1 of 3 -- 運動頻率： 第一型： 可由一周三次進展至每天進行，配合規律飲食及調整胰島素劑量來控制血糖 第二型： 一周至少五次，增加卡路里消耗，控制體重 時間： 如無法得知運動前血糖值，採短時間低強度運動 一般持續 20 到 60 分鐘 用餐後 1-2 小時 運動計劃： 5-10 分鐘的伸展操（會使用到的關節）及 暖身運動（預備做的運動，但強度降低） 15-30 分鐘的主要運動（到達預設的最大運動強度） 5-10 分鐘的緩和運動（強度降低的主要運動） 飲食的配合 種類： 高碳水化合物、低脂肪食物，如水果、果汁、方糖、小餅乾、含糖飲料 過胖病人採低卡飲食，以協助體重控制 注意事項： ※運動前、中、後監測血糖，血糖值在 100mg/dl 以下，應補充點心後再運動，例如喝 一杯 240cc 牛奶；100mg/dl 以上，則不需補充點心； ※外出運動必隨身攜帶可快速吸收之糖類食物 ※補充足夠水分，預防脫水 ※運動後不可喝酒 ※長期運動時，可在休息時或運動後攝取食物，以預防饑餓並控制血糖 運動的併發症  低血糖 第一型病患最主要的問題，症狀為流汗、神經質、顫抖、飢餓，嚴重時會意識不 清、行為異常、抽筋，處理方法為攝取易吸收的糖類食物，或於意識不清時採靜脈 注射 50 毫升，50﹪的葡萄糖溶液  酮酸中毒 -- 2 of 3 -- 因病情未控制，運動前胰島素缺乏所引起，血糖值大於 300ml/dl 之病患為高危險 群  視覺方面 因運動時血壓上升或撞傷，使增生的視網膜破裂出血  周邊血管及神經系統：足部潰瘍  自律神經系統：對熱無法及時反應，容易脫水  心肌梗塞  蛋白尿 其他注意事項  運動前減少胰島素劑量（依照醫師處方減少 1-2 單位）  將胰島素注射在非肢體主動運動肌肉（如腹部），或避免在注射完 1 小時內運動， 以免加速藥物作用  避免傍晚運動（以防半夜低血糖發生）  找個運動的同伴，最好是對此疾病有觀念的  注意足部健康，選擇適當的鞋子或保護性鞋墊  避免進行高度負重、會導致憋氣的運動（如舉重） ，以防止血壓過度上升  在極端溫度（高溫、極冷）和天候不良（霧天、雨天）時，不宜做室外運動。 財團法人天主教聖馬爾定醫院 糖尿病保健中心 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/e77eaefe-f094-4448-9a63-ef24839d8111.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.367Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-9553d0065a",
+      "title": "認識糖尿病與日常保健之道",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "一、糖尿病的定義： 糖尿病是一種慢性的代謝異常疾病，由於胰臟功能不良導致胰島素分泌不足或胰島 素在週邊肌肉或組織作用不良，而造成醣類、蛋白質和脂肪等營養素的代謝異常，導致 血中葡萄糖過多。正常空腹血糖值是 70-100 mg/dl；當血糖值...",
+      "fullContent": "一、糖尿病的定義： 糖尿病是一種慢性的代謝異常疾病，由於胰臟功能不良導致胰島素分泌不足或胰島 素在週邊肌肉或組織作用不良，而造成醣類、蛋白質和脂肪等營養素的代謝異常，導致 血中葡萄糖過多。正常空腹血糖值是 70-100 mg/dl；當血糖值高於 180mg/dl 時，尿液 會出現糖份，造成所謂的〝尿糖〞。 二、糖尿病的症狀： 糖尿病初期，大多無明顯症狀；隨著病情進展，血糖逐漸升高才會有明顯症狀。 1.主要症狀：三多一少【多吃、多喝、多尿、體重減輕】 。 2.次要症狀：疲倦、皮膚癢、女性會陰搔癢、視力模糊、傷口不易癒合…等。 三、 易罹患糖尿病的高危險群？ 1.家族遺傳史：家族中有糖尿病者。 2.體重過重(身體質量指數超過 24 kg/m2)。 3.曾有妊娠糖尿病史或曾產下體重超過 4000 公克的嬰兒。 4.長期維持靜態生活習慣者，如：久坐的上班族或缺乏運動者。 5.有高血壓、高血脂、高膽固醇或曾罹患心血管疾病者。 6.有長期服用藥物者，如：類固醇、利尿劑、服用抗精神分裂或憂鬱症藥物。 7.營養失調、情緒壓力、飲酒過量、懷孕及病毒感染也是誘發糖尿病的因素。 四、 糖尿病的診斷標準【2011 年美國糖尿病學會】： 1.糖化血色素高於 6.5%。 2.空腹血漿葡萄糖高於 126 mg/dl 以上【空腹是指至少 8 小時未攝取熱量】 。 3.隨機血漿葡萄糖高於 200 mg/dl，且有高血糖症狀【多尿、頻渴和體重減輕】。 4.口服葡萄糖耐受試驗，第 2 小時血漿葡萄糖高於 200 mg/dl。 五、 糖尿病的分類： 1.第 1 型糖尿病：發生於青少年，與自體免疫有關，因為胰臟貝他細胞遭破壞導致胰 島素絕對性的缺乏，因此，第 1 型糖尿病人者，需終身注射胰島素控制血糖。 2.第 2 型糖尿病：大多發生於中老年人，有明顯家族遺傳史。 3.其它型糖尿病：胰臟外分泌疾病(胰臟炎、胰臟切除、腫瘤、囊性纖維化)、內分泌疾 病(如：甲狀腺亢進)、β細胞功能或胰島素作用的基因缺陷、藥物或化學試劑所誘發、 感染、罕見的免疫性疾病、其它遺傳性症候群相關的糖尿病。 4.妊娠性糖尿病。 -- 1 of 3 -- 2 六、控制糖尿病的三大原則： 飲食控制、規律運動、藥物治療，三者皆須配合。 七、糖尿病的急性併發症： 1.高血糖：血糖過高。 (1)症狀：口渴、多尿、短期體重減輕、視力模糊、噁心、嘔吐、腹痛。 (2)處理：多喝水、多休息、驗血糖、求醫診治。 2.低血糖：血糖低於 70mg/dl。 (1)症狀：頭暈、飢餓、四肢無力、手腳發抖、冒冷汗、心跳加快。 (2)處理： 意識清楚時：吃含糖 15 公克之食物，如:3-5 顆方糖或半杯果汁。 意識不清時：將頭側向一邊以一湯匙的蜂蜜或糖漿擠入或灌入牙縫中，並按摩臉 頰，以利吸收並立刻送醫治療。 八、糖尿病的慢性併發症：當血糖長期控制不良! 1.眼睛病變：視網膜病變、白內障、青光眼、失明。 2.神經病變：末梢神經麻刺痛、感覺遲鈍、便秘、腹瀉、神經性膀胱、性機能障礙。 3.腎臟病變：蛋白尿、水腫、高血壓、腎衰竭、尿毒症，宜定期檢驗蛋白尿。 4.血管病變：血管硬化、高血壓、腦中風、心肌梗塞。 九、糖尿病友居家照護注意事項： 1.依醫護人員指示正確服用抗糖尿病藥物或注射胰島素，勿自行調整藥物劑量或停藥。 註：抗糖尿病藥物種類繁多，請依各藥物使用方式，正確服用。 2.遵守糖尿病飲食原則，低糖、低油、低鹽飲食。 3.三餐定時定量；少吃油炸、油煎的食物及肥肉、豬皮、雞皮、鴨皮等食物。 4.多吃蔬菜及高纖維的食物。少吃含膽固醇高的食物，如內臟及魚卵、蟹黃等。 5.切忌肥胖，維持理想體重。 6.規律的運動，每週 3~5 次，每次至少 30 分鐘，如:快走、慢跑、游泳，騎腳踏車。 7.隨身攜帶糖尿病護照或識別卡，及糖果、食物，以備萬一發生低血糖時急用。低血糖 的症狀有飢餓、心悸、頭暈、出汗、無力等，此時應立即吃含糖 15 公克之食物（如： 3-5 顆方糖或 120~150cc 飲料、果汁）。立即檢測血糖值，當低血糖症狀未改善，請 速就醫。 8.每天做足部護理，預防傷口的發生或感染。 (1)每天檢查與清潔足部、趾縫，保持足部乾淨，選用適合的乳液，預防皮膚乾燥。 (2)選擇合適的鞋子，宜穿白色的襪子；不赤腳走路；不赤腳走健康步道。 (3)使用指甲剪，順著指甲形狀修剪，不要刻意剪的太短。勿用剪刀修剪指甲。 -- 2 of 3 -- 3 (4)若出現傷口紅腫熱痛，請立即就醫；忌用不明藥物或中藥草藥粉塗抹傷口。 9.戒菸、戒酒。 10.生病時宜多休息、多喝開水、多測血糖，如有嘔吐、腹瀉、腹痛、呼吸困難請及早 就醫。 11.若安排長途旅行(出國)，請預先回診準備充足的藥量。 12.糖尿病人至少一年做一次眼底和足部檢查，每半年檢查牙齒一次。 13.糖尿病人至少每 3 至 6 個月抽血檢驗，如：糖化血色素、肝腎功能、膽固醇、 三酸甘油脂…等，以及檢驗尿蛋白。 14.學習居家自我監測血糖、血壓並紀錄與學習自我管理。 15.隨身攜帶糖尿病護照。 16.糖尿病是長期慢性疾病，無法根治。建議您，宜規則的門診追蹤治療！鼓勵多參與 糖尿病衛教課程吸取新知。 參考資料 杜思德（2015）．糖尿病衛教核心教材．台北：中華民國糖尿病衛教學會 本院糖尿病人保健推廣中心，提供以下服務： ※糖尿病衛教：個別諮詢、糖尿病居家照護指導。 糖尿病防治專線：05-2783865 或 05-2756000，分機 3311 ※營養諮詢：糖尿病飲食諮詢與指導，服務專線：05-2756000 轉 1653 天主教中華聖母修女會醫療財團法人天主教聖馬爾定醫院 關心您 2018 年 03 月修訂 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/ddb548a8-a29c-49c2-80a9-d67f66b1369d.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.523Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-e5e7172a72",
+      "title": "糖尿病人如何吃透透",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "徐婉玲營養師 已下定決心要控制血糖及減重的你，是否常會與家人或好友聚餐時，在面對滿桌的 佳餚，總是會禁不住食物的誘惑，且內心掙扎，此時會為自己找理由－\"明天再控制好 了\"？隔日又為自己好不容易控制的血糖及體重又增加了，而懊惱不已，悔不當初，...",
+      "fullContent": "徐婉玲營養師 已下定決心要控制血糖及減重的你，是否常會與家人或好友聚餐時，在面對滿桌的 佳餚，總是會禁不住食物的誘惑，且內心掙扎，此時會為自己找理由－\"明天再控制好 了\"？隔日又為自己好不容易控制的血糖及體重又增加了，而懊惱不已，悔不當初，因 此又常常前功盡棄！心有戚戚焉的你，別氣餒！提供常見外食技巧與你知道，讓你在享 受美食之餘，也不再增加血糖及體重。 一、宴席： 中式外燴宴席大多以十二道菜來宴客，宴客菜的安排大部份是依前菜（冷盤或拼 盤）主菜、湯類、中式點心、西點或水果及甜湯等方式搭配組合。故一餐所攝取的份量 易超過個人所需。建議於參加宴席前，對於外燴餐飲的內容、特色、選菜方式都應詳細 了解，才不致影響血糖。 1、注意進餐前的降血糖藥物使用時間，若無法正確把握用餐時間，可攜帶藥物赴宴， 以方便掌握用藥時機；或赴宴前先用藥，並在家裡先吃點主食類食物，以免血糖降 低。 2、飲料類：含糖飲料儘量不要飲用，最好是以不加糖的茶（烏龍茶、麥茶等）或白開 水取代。 3、前菜類食物： ＊沙拉類冷盤中所使用之沙拉醬屬油脂類食物，應儘量減少沾取食用量。 芥末不含熱量，沾取食用量不需限量。 ＊冷盤菜常會盤飾許多像高麗菜、蕃茄、小黃瓜、紅蘿蔔、白蘿蔔等蔬菜，可選擇 食用。 ＊前菜中常出現的龍蝦、鮑魚等冷盤食材因含油量不高，可適量選擇。 拼盤中涼拌菜如海蜇皮、干貝唇、海菜等、鹹水或醉雞等食物因無用油烹調， 熱量較低是較可選擇的菜式，但烏魚子、內臟類、香腸等菜式所含之膽固醇及 油脂較高，不宜選用。 4、食物類： ＊避免油炸、高糖份 ＊避免勾芡食物，可以筷子夾取食料，不宜喝其湯汁。 ＊油脂高食物，如有些菜式是以清蒸後再淋油之方式，如清蒸石斑魚、鱸魚可儘量 挾取去魚皮之魚肉吃就可。油炸類食物宜去皮後再食用。 -- 1 of 4 -- ＊注意各式菜餚的攝取份量，肉類食物可多選擇帶骨頭之部位食用，一方面可延長 用餐時間，可增加飽足感，並可避免吃過量食物。 ＊多吃蔬菜等清淡食物 5、點心類：宜以新鮮水果取代蛋糕或油酥類食物。 二、中餐： 1、一般中式自助餐或麵食： （1）應記取食用之份數並盡量選用油量較少的蒸、煮、涼拌、滷、燉、烤等食物。 含糖量較高的糖醋茄汁、蜜汁、醋溜類的菜式儘量少用。烹調方式的選擇可以煮 的配炒的、烤的配燴的、清蒸配燴的、炸食以一週不超過一次為宜。 （2）勾芡的食物不宜選用。可以筷子夾取食料，不宜喝其湯汁。 （3）青菜可以清湯或開水浸泡瀝乾後再食用 （4）炒飯及炒麵因油量大，青菜量少，宜少食用。。建議選用湯麵或烏龍麵為宜， 因其油量較少。若湯汁較油膩，不用全喝完。可配合燙青菜食用。 （5）選用自助餐以一道肉類或豆製品當主菜、一道葷素混合的菜、二道青菜為宜。 （6）欲選用油炸之肉類應去皮後食用。 2、常見之中式便當： 常見便當如雞腿飯、豬腳飯、叉燒飯、牛肉飯等。外食便當雖然方便，但其缺點為油 脂、肉類的份數太多，青菜太少，若將一個便當吃完，易超過可攝取的份量。 （1）便當的飯約等於 1.5 碗的飯量，這樣的份量約是重度工作者一餐可食的份數； 一般輕度或無工作可食的份量可吃半個或 2/3 個便當飯量即可。 （2）大多外食便當的油量接近一 日可用之油脂，購買便當可要求商家將飯、菜分開 裝。便當內的炒青菜可以清湯或開水浸泡瀝乾後再食用。 （3）油炸的肉類最好去皮後再食用，便當的肉類大都是超過份數，應節制份數的攝取 ＊素食者亦需注意熱量的攝取。 三、西餐： 一份西餐中牛排、羊排、豬排、魚排、雞排等每份所呈現的份數大都比可食份數來得 多，可選擇與他人共享或吃完後多運動。 1、湯類:清湯比濃湯好，因西餐的濃湯多數由麵粉及牛油調製而成，熱量過高。 2、麵包：大蒜麵包含油較高，可選擇小餐包或法國麵包，但最好不要塗瑪琪琳或果醬 -- 2 of 4 -- 等。 3、沙拉：主要在於調味用的沙拉醬大多是由油、糖、蛋等調製而成，熱量較高，能不 加沙拉醬及即不加，宜選擇低熱量的義大利式沙拉醬。 4、主餐方面：以含油量較少且份量較少的海鮮或雞肉為最佳的選擇。紅色肉類如： 牛排等，最好每週不超過一次。醬汁如黑胡椒或磨菇醬二湯匙的熱量為四份油脂即 180 卡，若可減少醬汁的使用量，就可減少熱量。 5、甜點方面：最好選擇新鮮水果或無糖果凍。 6、餐後咖啡或茶：不宜加熱量相當高的奶精，必要時可選用少許低脂奶，糖以代糖為 佳。 四、日本料理： 一般日本料理大多是生食或水煮、清蒸，用油量是一般料理中最少，熱量也較低。不 過，日本料理中蔬菜較少且醃漬品或湯類中含鈉量過高，仍須注意。 1.避免點選油炸類食物，而油炸物最好是剝去麵皮後再食用，可降低熱量攝取。 可多選擇煮滷 /燒烤 / 蒸煮 / 火鍋等烹調方式或生魚片。 2.主食類可選擇飯、壽司類、烏龍麵等，按照自己可食份量攝取。 3.低油蔬菜類可多吃涼拌、清燙，但須注意沾食用的調料，不要太鹹。 4.飲料部份可選擇茶，至於酒精飲料宜避免。 5.日式甜點的甜度非常高，若想吃應與主食類代換，並淺嘗即可。 6.日式生菜沙拉，大多採取青菜、水果配成，其淋醬部份大都是酸甜性的。 但各家日式料理店中都有各家的特殊風味，淋醬可適當食用，若糖份過高，可稍作稀 釋後再沾食。 五、火鍋： ＊病友可選擇涮涮鍋，較不油膩。建議可點選一人份火鍋。另壽喜 鍋之含糖量較高， 而麻辣鍋及麻油雞鍋含油量較高，建議避免點選。泡菜鍋因選用醃漬過之蔬菜作鍋底 食材，鹽份較高，宜注意攝取量。 ＊火鍋所使用於沾食用的沙茶醬、花生醬、芝麻醬及味道鮮美的火鍋湯，其含油量相當 高，要食用前最好將上面的一層油去掉，且沾食的調味料不宜攝取過多。 ＊火鍋常搭配之食物如：粉絲、玉米、芋頭、米血等材料屬於主食類，一般供應的份量 約至少有一至二份，須減少 1/4 至 1/2 碗飯量。 -- 3 of 4 -- ＊肉丸、魚丸、蛋餃、蝦餃、甜不辣等含有大量看不到的肥肉及澱粉質，最好少選用。 最後提醒各位病友，若血糖控制不佳者，宜減少外食頻率。且在外食時，記得所食用的 份量並運用外食技巧，相信您可不再擔心血糖過高及體重增加，加油喲！！ 資料來源:財團法人糖尿病關懷基金會(2002，3 月)，糖尿病友自由吃，躍昇文化文化出 版公司。 天主教聖馬爾定醫院 糖尿病人保健中心 -- 4 of 4 --",
+      "keywords": [
+        "糖尿病",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/1787341f-55af-40e2-8f69-3b53f919f962.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.601Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-de73293089",
+      "title": "認識食品標示及外食技巧",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "徐婉玲營養師 選用產品時，宜注意食品包裝是否完整，且需注意食品標示，如：保存期限、製造 日期、製造廠商及是否有優良標誌，如：GMP、CAS、吉園圃、健康食品標誌等。並且不 購買來路不明之產品，以確保食的安全。而包裝上的熱量標示及營養成份分析...",
+      "fullContent": "徐婉玲營養師 選用產品時，宜注意食品包裝是否完整，且需注意食品標示，如：保存期限、製造 日期、製造廠商及是否有優良標誌，如：GMP、CAS、吉園圃、健康食品標誌等。並且不 購買來路不明之產品，以確保食的安全。而包裝上的熱量標示及營養成份分析，可了解 所食用之熱量及營養成份，以避免攝取過量，以下附圖表以供參考。 那些食品需要標示 1.凡標有「營養宣稱」之市售包裝食品 2.業者主動標示 營養標示內容 標示項目： （1）「營養標示」之標題。 （2）熱量（大卡） 。 （3）蛋白質（公克）、脂肪(公克）、碳水化合物（公克）。 （4）鈉（毫克） 。 （5）其他出現於營養宣稱中的營養素含量（例如：宣稱「高鈣」即需標示鈣質含量）。 （6）廠商自願標示之其他營養素含量 營養標示 營養標示每 100 公克（或每 100 毫升） 熱量 XX 大卡 蛋白質 XX 公克 脂肪 XX 公克 碳水化合物 XX 公克 鈉 XX 毫克 宣稱之營養成份含量 -- 1 of 4 -- 營養標示 營養標示 每一份量 XX 公克（或毫升）本包裝含 XX 份 每份每 100 公克每人每日建議 或每 100 毫升攝取量百分比 熱量 XX 大卡 XX﹪ 蛋白質 XX 公克 XX﹪ 脂肪 XX 公克 XX﹪ 碳水化合物 XX 公克 XX﹪ 鈉 XX 毫克 XX﹪ 宣稱之營養成份含量 XX﹪ ＊每日營養素見議量基準值：熱量 2000 大卡、蛋白質 60 公克、脂肪 55 公克、碳水化 合物 320 公克、鈉 2400 毫克 實例說明 營 養 標 示 每食份量約 25 公克 本包裝含有食份量約 6 份 營 養 成 份 每百公克產品中約含營養素 每食份產品中約含營養素量 熱量 497Kcal 124Kcal 水份 4.0 克 1.0 克 蛋白質 8.9 克 2.2 克 脂質 24.6 克 6.2 克 碳水化合物 糖質 纖維 59.2 克 1.1 克 14.8 克 0.28 克 灰份 2.2 克 0.55 克 鈉鹽 181 毫克 45 毫克 膽固醇 17 毫克 4.3 毫克 -- 2 of 4 -- 外食技巧 一、宴席： 飲料類：含糖飲料盡量不要飲用，最好是以不加糖的茶或是白開水取代 食物類：＊避免油炸、高糖份 ＊避免勾芡食物 ＊避免油脂高食物 ＊多吃蔬菜等清淡食物 點心類：宜以新鮮水果取代蛋糕或油酥類食物。 二、中餐： 選用原則：＊烹調方法：以蒸、煮、涼拌、滷、烤、燉、醃等用油量較少的食物。 ＊去油方法：油炸的肉類去皮後再食用。 ＊避免高油食物：如肉丸、肉餅等碎肉製品。 ＊避免高糖食物：如糖醋茄汁、蜜汁、醋溜類菜色 ＊選用高纖食物：如青菜類、蒟蒻等蒟 三、日本料理： 除油炸物外，一般日本料理大多是生食或水煮、清蒸，用油量為一般料理中最少者，熱 量也較低。 注意事項：＊油炸物最好剝去麵皮後再食用。 ＊日式料理蔬菜較少且醃漬物或湯品含鈉量過高，宜注意攝取量 四、西餐： 選用原則：＊湯類:清湯比濃湯好。因濃湯多數是由麵粉及牛油調製而成，熱量過高 ＊麵包：小餐包或法國麵包大蒜麵包好。因大蒜麵包含油量較高 ＊沙拉：義大利式沙拉醬比沙拉醬好。 因義大利式沙拉醬是由醋、鹽、胡椒等調製，故熱量較低。 ＊主餐方面：白肉（海鮮或雞肉）比紅色肉類（牛排）好。 因其含油量較低且份量較少。 ＊甜點方面：最好選擇新鮮水果或無糖果凍。 ＊餐後咖啡或茶：不宜添加過多含熱量高的奶精，糖可以代糖取代， -- 3 of 4 -- 五、火鍋： ＊沾食的調味料：如：沙茶醬、花生醬、芝麻醬等含油量高，不宜攝取過多 ＊火鍋湯頭：含油量高，食用前將上層油脂去除。 ＊肉丸、魚丸、蛋餃、蝦餃、甜不辣等含有大量看不到的肥肉及澱粉質，最好少選用。 附表一：常見市售及外食產品之熱量分析 100 卡 200 卡 300 卡 400 卡 薄荷巧克力 四片 蔥油餅 一個 麥當勞蘋果派一個 泡麵 一個 蘇打餅乾 四片 紅豆餅 1.5 個 鍋燒麵 一份 燒餅油條 一個 養樂多 一瓶 珍珠丸子 四個 肉粽 一個 雞肉飯 一個 蜂蜜蛋糕 一片 魷魚羹 一份 蚵仔麵線 一份 廣東粥 一杯 牛角麵包 一個 餛飩湯 一份 筒仔米糕 一個 碗棵 一個 蛋餅 一份 魯肉飯 一份 麥香魚 一份 麥當勞奶昔 一杯 600 卡 700 卡 800 卡 必勝客： 披薩（大）1/8 塊 冰紅茶 一份 肯德雞： 炸雞腿 一份 玉米 一份 比司吉 一份 可樂（小） 肯德雞： 雙層漢堡 一份 薯條（小） 一份 雪碧（小） 一份 炒飯 一份 排骨飯 一份 牛排 一份 天主教聖馬爾定醫院 糖尿病人保健中心 -- 4 of 4 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/972df241-e7f3-4b33-909a-83785fbcca3a.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.723Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-44f51a1ba9",
+      "title": "認識代糖",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "我有糖尿病，以後我都不能吃甜食嗎？？？？ 其實，糖尿病友們，您也可以嘗盡甜頭呢！ 1.首先，為各位介紹日常生活中的糖類有哪些 蔗糖：是由甘蔗提煉而成的，常見的有：砂糖、紅糖、冰糖、方糖、白糖等。 不適合糖尿病友使用。 果糖：果糖存在於水...",
+      "fullContent": "我有糖尿病，以後我都不能吃甜食嗎？？？？ 其實，糖尿病友們，您也可以嘗盡甜頭呢！ 1.首先，為各位介紹日常生活中的糖類有哪些 蔗糖：是由甘蔗提煉而成的，常見的有：砂糖、紅糖、冰糖、方糖、白糖等。 不適合糖尿病友使用。 果糖：果糖存在於水果、蜂蜜……..等天然食物中。甜度是蔗糖的 1.7 倍； 然而，果糖是有熱量的甜味劑（ 1 公克果糖約有 4 卡熱量 ），不適合糖尿病 友食用。 蜂蜜：蜂蜜因含有大量的葡萄糖，不適合糖尿病友食用。 2.糖尿病友可以食用的甜味劑 代糖的種類 種類 熱量 注意事項 阿斯巴甜 Aspartane 低熱量 不可加熱 1.甜度是蔗糖的 180 倍。 2.苯酮尿症患者禁用。 醋磺內酯甲 ACE-K 低熱量 可以加熱 1.甜度是蔗糖的 200 倍 糖精 Saccharin 低熱量 可以加熱 1.甜度是蔗糖的 375 倍 山梨醇 Sorbitol 有熱量 1 公克＝3 大卡 代糖的種類及相關商品繁多，選購時您應注意食品標示或先請教營養師如何購買和每日 食用量，才能吃的健康！市售的飲料，如：健怡可樂、健怡雪碧、低卡百事可樂的甜味 來源就是代糖，每罐只有四大卡的熱量，適合糖尿病友們飲用。 甚至有以代糖為甜味劑的糖果、餅乾、冰淇淋、蛋糕…..。 -- 1 of 2 -- 另外，仙草、愛玉、洋菜凍、山粉圓、決明子、白木耳…等食品， 病友們可加入代糖或檸檬汁調味當點心食用。 代糖的甜度較蔗糖高！ 對於糖尿病友及愛吃甜又怕胖的朋友們，只需少量的代糖， 就能讓您甜在心裡頭， 是不錯的選擇喔！！ 天主教聖馬爾定醫院 糖尿病人保健中心 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/d46be82a-88dd-402d-a911-949b705185d2.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.772Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-29ba991bea",
+      "title": "糖尿病飲食原則",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "糖尿病飲食指導 ※前言： 糖尿病是一種慢性代謝疾病，主要是因身體內的胰島素分泌量不足或無法發揮作 用，使病人對於葡萄糖的使用能力減低，而造成血管內糖份過高，尿中有糖的現象發生。 胰島素除了影響血糖的高低外，亦會影響所攝入的醣類、脂肪及蛋白質...",
+      "fullContent": "糖尿病飲食指導 ※前言： 糖尿病是一種慢性代謝疾病，主要是因身體內的胰島素分泌量不足或無法發揮作 用，使病人對於葡萄糖的使用能力減低，而造成血管內糖份過高，尿中有糖的現象發生。 胰島素除了影響血糖的高低外，亦會影響所攝入的醣類、脂肪及蛋白質等營養素的代 謝，所以，糖尿病飲食即是在均衡飲食之下，強調如何搭配各類食物及用餐次數，以達 到最好的血糖控制。因此飲食控制即是控制糖尿病重要的一環。 ※一般原則： 1.養成定時定量的飲食習慣。 2.維持理想體重。肥胖者如能減輕體重有助於血糖及慢性病控制。 3.少食用油炸、油煎及富含飽和脂肪酸的食物如:肥肉、皮、動物性脂肪、棕櫚油、椰 子油、加工食品(香腸、貢丸、蝦餃、魚餃等以及全脂乳製品)、膽固醇含量高的食物如： 內臟(腦、肝、腰子等)、蟹黃、蝦卵、魚卵、魚頭等、富含反式脂肪酸的食物如:奶油、 瑪琪琳、烤酥油及其製品(糕餅類、小西點)、油炸食品如炸雞、炸薯條、油豆腐、甜甜 圈等。 4.炒菜宜選用不飽和脂肪酸高的油脂(如：大豆油、花生油、玉米油、葵花油、橄欖油、 紅花籽油等)；烹調宜多採用清蒸、水煮、涼拌、烤、燒、燉、滷等方式。 5.宜多選用富含纖維質的食物，如：未加工的豆類、蔬菜、水果及全榖類(如：糙米、 燕麥、全麥麵包等)，可延緩血糖升高的速度。罐裝或盒裝的果汁、加糖的蜜餞、加 糖的罐頭等，儘量避免食用。嗜甜食者，可選用代糖增加甜味，如：糖精、阿斯巴甜 等代替糖來調味。 6.中西式點心如：蟹殼黃、鹹麵包、咖哩餃、雞捲等)及節慶應景食品(如：肉粽、鹹月 餅、草龜粿、年糕等)應按營養師指導食用。 7.注射胰島素或口服降血糖藥物者，應特別注意在延緩用餐時，可事先進食少許點心 (如：一份主食類)或隨身攜帶糖果以防止低血糖的發生；如有頭暈、冒冷汗、發抖、 臉色發白等低血糖症狀時，須立刻食用三顆方糖(15 公克)或含糖飲料半杯(如：汽水 或果汁 120 至 150cc)。 8.儘量少喝酒，尤其含糖高的酒。喝酒不只增加熱量、影響三酸甘油脂，酗酒更會影響 糖尿病的控制；最好先和醫師及營養師討論。 9.建議自我監測血糖，可了解飲食生活狀況對血糖的影響。 -- 1 of 2 -- ※外食的技巧： 1.先熟悉食物的分類和份量且依自己的飲食計畫在家多練習食物代換，以方便在外用餐 時可自行選擇適當的食物種類和份量。 2.用餐時，可多選擇低油和清淡的食物，如：清蒸、水煮、涼拌等菜餚。若無法避免油 炸食物時，可將外皮去除後食用；含油高之食物如：瓜子、冷盤中的核桃、腰果等宜 適量攝取。 3.濃湯、勾芡食物、碎肉製品(如：肉丸、獅子頭、蝦球等)含大量的太白粉及油脂應儘 量少吃；挾菜時，可夾較上層且儘量滴乾湯汁。 4.多選用蔬菜以增加飽足感，但勿將湯汁一起食用以減少油脂的攝取。 5.避免選用加糖的飲料，如：汽水、可樂、果汁等。儘量以茶、白開水或代糖類飲料代 替。可隨身攜帶代糖以增加食物口味(如：西餐廳中的紅茶或咖啡)。 6.避免因延誤用餐以導致低血糖。 7.內容物不清楚或製作方法不明確之食物勿輕易食用，須請教營養師。 參考資料： 章樂綺總校訂(2011) ． 實用膳食療養學 (三版) ．台北：華杏。 台灣營養學會臨床營養委員會主編．臨床營養工作手冊．衛生福利部。 謝明哲、葉松鈴、蔡雅惠(2016) ．膳食療養學實驗(修訂) 台北．台北醫學大學保健營養學系 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/110b5830-c674-4d51-a804-835db609a250.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.882Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-6946dd5e78",
+      "title": "原來這些食物我們都可以吃",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "....... 糖尿病友可隨意使用的點心 冷飲類 蔬菜類 素食品 中藥湯類 飲料類 仙草 愛玉 洋菜 杏仁豆腐 山粉圓 決明子 加代糖使用 大蕃茄 （不沾梅子粉） 滷青菜、 涼拌青菜 蒟蒻 竹笙 猴頭菇 當歸 川芎 枸杞 四物 低卡健怡可樂...",
+      "fullContent": "....... 糖尿病友可隨意使用的點心 冷飲類 蔬菜類 素食品 中藥湯類 飲料類 仙草 愛玉 洋菜 杏仁豆腐 山粉圓 決明子 加代糖使用 大蕃茄 （不沾梅子粉） 滷青菜、 涼拌青菜 蒟蒻 竹笙 猴頭菇 當歸 川芎 枸杞 四物 低卡健怡可樂 無糖烏龍茶 無糖紅茶 無糖綠茶 無糖麥茶 黑豆茶（不加 糖） -- 1 of 1 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/9bf7efeb-801a-436c-8c38-23bafd939331.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:35.946Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-200b4f4094",
+      "title": "糖尿病併高血脂症飲食",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "糖尿病是一相當複雜的全身性代謝疾病，最終會影響全身大小血管，影響到較 大的血管如冠狀動脈造成狹心症、心絞痛甚至心肌梗塞；影響腦血管造成腦中風， 包括腦梗塞、腦出血；影響下肢血管造成循環障礙，下肢疼痛、走路無法久走； 也影響較小的血管如視網膜...",
+      "fullContent": "糖尿病是一相當複雜的全身性代謝疾病，最終會影響全身大小血管，影響到較 大的血管如冠狀動脈造成狹心症、心絞痛甚至心肌梗塞；影響腦血管造成腦中風， 包括腦梗塞、腦出血；影響下肢血管造成循環障礙，下肢疼痛、走路無法久走； 也影響較小的血管如視網膜血管，造成眼底出血、視網膜體出血甚至失明；影響 腎血管腎絲球硬化造成尿蛋白及尿毒症等等。 造成糖尿病的各種大血管病變如冠狀動脈腦血管，下肢血管硬化阻塞等，有關 因素其中高血脂就扮演重要角色。據統計約有一半的糖尿病病患有血脂異常，所 以積極控制糖尿病同時也需嚴格控制高血脂症。 大部份人不知道什麼是血中脂肪，又代表什麼？ 人體血中的脂肪分為二大類：三酸甘油脂與血膽固醇 何謂高血脂症？ 高脂血症是指血液中的膽固醇、三酸甘油酯的其中一種或兩種增加。血脂異常(不 論是高膽固醇血症、高三酸甘油酯血症或二者合併)是動脈硬化的主因，會增加 罹患冠狀動脈心臟疾病的機率。血脂包括膽固醇、三酸甘油酯及磷脂質。這些血 脂必需與血漿蛋白質結合成脂蛋白，才可藉由血液運輸至各器官及組織。 高膽固醇血症、飲食應注意事項： 1.維持理想體重。 2.控制油脂攝取量，少吃油炸、油煎或油酥的食物，及豬皮、雞皮、鴨皮、魚皮 等。 3.炒菜宜選用單元不飽和脂肪酸高者(如：花生油、菜籽油、橄欖油等)；少用飽 和脂肪酸含量高者(如：豬油、牛油、肥肉、奶油等)。烹調宜多採用清蒸、水 煮、涼拌、烤、燒、燉、滷等方式。 4.常選用富含纖維質的食物，如：未加工的豆類，蔬菜、水果及全縠類。 5.儘量少喝酒。 6.適當調整生活型態，例如：戒菸、運動，以及壓力調適。 7.盡量少吃含反式脂肪食品，如：薯條、炸雞、爆米花、鮮奶油蛋糕、鳳梨酥、 酥皮、奶精等。 -- 1 of 3 -- 高三酸甘油脂血症、飲食應注意事項 1.控制體重可明顯降低血液中三酸甘油脂濃度。 2.多採用多醣類食物，如：全穀雜糧類，並避免攝取精製的甜食、含有蔗糖或果 糖的飲料、各式糖果或糕餅、水果罐頭等加糖製品。 3.可多攝取富含ω-3 脂肪酸的魚類，例如：秋刀魚、鮭魚、日本花鯖魚、鰻魚(糯 鰻、白鰻)、白鯧魚、牡蠣等。 4.不宜飲酒。 烹調上如何減少油攝取？ 1.食用任一肉類先將肥肉皮去掉，雞皮、鴨皮、雞翅、鴨翅也含很多油脂避免食 用。 2.避免炸、油酥烹調法，宜採用清燉、紅燒、燻、涼拌、醃方法以減少烹調用油 量。 3.調味品選用檸檬汁、醋、蕃茄汁，以減少因油脂限制所造成食物色香味的不足。 4.可利用微波爐、烤箱、不沾鍋、蒸鍋烹調以減少油的使用。 糖尿病的血脂肪應控制在那個範圍？ 依美國醫學界建議理想的空腹三酸甘油脂最好維持在 150mg/dl 以下， 高密度脂蛋白膽固醇男性大於 40mg/d、女性大於 50mg/dl， 糖尿病病患之低密度脂蛋白膽固醇小於 100mg/dl。 ※血脂肪異常也是糖尿病控制中重要的一個步驟， 糖尿病血脂異常之治療原則上先以飲食控制、持續性運動、 嚴格血糖控制，定期篩檢、早期治療，配合血糖控制， 維持理想體重，可減少各種血管的併發症。 參考資料： 章樂綺總校訂(2015) ．實用膳食療養學(四版) ．台北：華杏。 謝明哲、葉松鈴、蔡雅惠、邱琬淳．膳食療養學實驗 (2016 修訂) ．台北：台北 醫學院保健營養學系。 財團法人天主教聖馬爾定醫院 糖尿病人保健中心 -- 2 of 3 -- -- 3 of 3 --",
+      "keywords": [
+        "糖尿病",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/d1a25278-903f-4a72-967d-e9d3676ef89f.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.026Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-de8fb34d98",
+      "title": "交通號誌食物分類表",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "綠燈 黃燈 紅燈 奶類 低脂奶 養樂多、優酪乳 五穀根莖類 白飯、土司、 饅頭 燒餅油條、紅豆餅、 炒飯、炒麵 泡麵、小西點、薯條、 洋芋片 蛋豆魚肉類 瘦肉、豆腐 炸肉、五花肉 火腿、香腸 蔬菜類 紅蘿蔔、空心菜、 小黃瓜 蔬菜炒太油 醃...",
+      "fullContent": "綠燈 黃燈 紅燈 奶類 低脂奶 養樂多、優酪乳 五穀根莖類 白飯、土司、 饅頭 燒餅油條、紅豆餅、 炒飯、炒麵 泡麵、小西點、薯條、 洋芋片 蛋豆魚肉類 瘦肉、豆腐 炸肉、五花肉 火腿、香腸 蔬菜類 紅蘿蔔、空心菜、 小黃瓜 蔬菜炒太油 醃製蔬菜 水果類 香蕉、西瓜 新鮮果汁 蜜餞 油脂類 蔬菜油 花生、瓜子 奶油 其他（外食） 雞肉飯 炸雞腿飯、炸排骨飯、 披薩、麥當勞 小羊羹、巧克力、 可樂、方塊 備註：交通號誌原則，即……………… 綠燈『行』，紅燈『停』，黃燈要『小心』來分類食物 ◎ 綠燈食物： 含有人體必需的營養素，可促進身體健康，是每天必須選擇的食物。 ◎ 黃燈食物： 含有人體必需的營養素，但糖、油脂或鹽份含量過高，是必須限量的食物。 ◎ 紅燈食物： 只提供熱量、糖、油脂或鹽份，而其他營養素含量很少，是可偶而選擇的食物。 天主教聖馬爾定醫院 糖尿病人保健中心 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/993e4b36-4019-44f2-8388-3c2946b5ddd0.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.095Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-a69805a16f",
+      "title": "糖尿病友飲酒原則",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "一、糖尿病友，血糖控制不穩定，不適合喝酒。 二、小口慢慢飲，切勿乾杯及大量喝。 三、避免喝含糖的酒，如： 烏梅酒、甜葡萄酒、荔枝酒 、常春酒、竹青酒、 蔘茸酒、玫瑰紅酒、雙鹿五加皮等。 四、避免經常性喝酒或空腹前喝酒， 因酒精會抑制糖質新生...",
+      "fullContent": "一、糖尿病友，血糖控制不穩定，不適合喝酒。 二、小口慢慢飲，切勿乾杯及大量喝。 三、避免喝含糖的酒，如： 烏梅酒、甜葡萄酒、荔枝酒 、常春酒、竹青酒、 蔘茸酒、玫瑰紅酒、雙鹿五加皮等。 四、避免經常性喝酒或空腹前喝酒， 因酒精會抑制糖質新生、抑制肝糖分解、減低胰島素抗性而容易發生低血糖 。 每日飲酒男性不超過 2 酒精當量，女性不超過 1 個酒精當量 1 酒精當量＝ 90 大卡 ＝286 cc 台灣啤酒(濃度 4.5%) ＝80 cc 紹興酒(濃度 16%) ＝ 45 cc 鹿茸酒(濃度 28.5%) ＝ 32 cc 萊姆酒、威士忌(濃度 40%) 財團法人天主教聖馬爾定醫院 糖尿病人保健中心 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/339570ed-5b96-47c0-ada8-9b6288b6af06.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.154Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-c005e654da",
+      "title": "六大類食物代換表",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "乳製品 牛奶一杯(240cc) 全榖雜糧類 以下為 1 份主食 乾飯 1/4 碗 稀飯 1/2 碗 麵 1 碗 土司 1 片(30 g) 小餐包 1 個 饅頭(中)1/3 個 蘿蔔糕 1 片(50g) 蘇打餅 3 片 冬粉 1/2 把 玉米...",
+      "fullContent": "乳製品 牛奶一杯(240cc) 全榖雜糧類 以下為 1 份主食 乾飯 1/4 碗 稀飯 1/2 碗 麵 1 碗 土司 1 片(30 g) 小餐包 1 個 饅頭(中)1/3 個 蘿蔔糕 1 片(50g) 蘇打餅 3 片 冬粉 1/2 把 玉米 2/3 根 豆、魚、肉、蛋類 以下為 1 份豆魚蛋肉 魚 1 兩 無糖豆漿 190 cc 嫩豆腐半盒 蛋 1 個 小棒腿 1 隻 五香豆干 2/3 片 蚵仔 8 個 干絲 35 克 大文蛤 6 個 肉鬆 3 湯匙 干絲 35 克 小豆包(濕)1 片 蔬菜類 一份蔬菜=100g -- 1 of 2 -- 水果類 別忘了還可以吃水果喔~ 建議糖尿病友，一天可以攝取 2 份水果，要吃多少呢? 每一份水果等於女生一個拳頭的大小 大蕃茄是屬於蔬菜類，對於肥胖病友或容易餓的病友， 可以拿來當點心食用，增加飽足感！！ 油脂與堅果類 油 1 茶匙 沙拉醬 2 茶匙 花生醬 1 茶匙 腰果 5 粒 開心果 15 粒 花生仁 10 粒 黑(白)芝麻 2 茶匙 杏仁果 5 粒 培根 1 片 葵瓜子 30 粒 核桃仁 2 粒 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/08d91c84-cf7e-46cd-aabc-2fe6cab35b0e.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.278Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-8abf022a0d",
+      "title": "糖尿病人之素素看",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "侯玟伊營養師 糖尿病可以吃素嗎？有什麼好處呢？營養夠嗎？該怎麼吃呢？ ※先談談吃素食對糖尿病人的益處 1. 含較多的纖維質,使排便通暢,減少致癌因子在腸內停留的時間，可預防便秘及 腸癌的發生。 2. 含較多不飽和脂肪酸,有降低血膽固醇的作用...",
+      "fullContent": "侯玟伊營養師 糖尿病可以吃素嗎？有什麼好處呢？營養夠嗎？該怎麼吃呢？ ※先談談吃素食對糖尿病人的益處 1. 含較多的纖維質,使排便通暢,減少致癌因子在腸內停留的時間，可預防便秘及 腸癌的發生。 2. 含較多不飽和脂肪酸,有降低血膽固醇的作用，預防心血管病變。 3. 黃豆及其製品為素食者之主要蛋白質來源，黃豆中之卵磷脂及植物固醇也可以 降低血膽固醇。 4. 第二型糖尿病患者，可經由低油的素食飲食及規律的運動，讓血糖獲得良好的 控制。這是因為植物性飲食中的豆類或全穀類含有的複合醣類，讓人體吸收 的速度較慢，能穩定血糖及讓胰島素工作更有效率，使得糖尿病人可以更容 易的調節血糖。 ※ 要知道素食營養夠不夠？應對素食的分類有所認識；茲簡單介紹如下： 所謂的素食，廣義言之，乃指不食肉類食物。根據國人常見的素食分類有 1. 純素食：指嚴格的吃素，完全不食動物性食品 2. 奶素食：除了食用植物性來源外，尚可食用奶類及奶製品 3. 蛋奶素食：除了植物性食品可食外，還可以喝奶類、奶製品及未受精的蛋 (目 前市售來亨雞所生的白色雞蛋皆是未受精蛋) ※糖尿病友吃素建議的飲食原則為 1.熱量 熱量需要量與一般葷食者相同，即每日熱量需要量以每公斤理想體重 30 卡為 標準。但熱量補充量個別差異大,需評估個別實際需要與活動量增加而調整。 2.蛋白質 蛋白質是人體必需的營養素，可幫助人體修補組織，產生抗體，抵抗疾病。素 食食物中含蛋白質較多的有奶類、蛋、豆類及其製品。長期素食者，若為蛋 奶素比較不容易產生蛋白質缺乏，採用純素食者，則應採食物互補方式(如豆 類+五穀類)，若食物選擇搭配不當，就有可能產生缺乏現象。 -- 1 of 3 -- 3.鐵質 植物性食物含較多的纖維質，這些物質都會影響鐵的吸收。若含鐵多的蔬菜攝 取不夠，比較容易發生鐵缺乏，需適時的補充。 4.維生素 B12 植物性食物不含維生素 B12，所以純素食者易罹患惡性貧血；奶類及蛋類則含 有維生素 B12；因此最好採取蛋奶素或奶素食，才不會有缺乏之虞。維生素 B2 5.牛奶為維生素 B2 的最好來源,深綠色蔬菜也不少,因此純素食者應多攝取。 ※ 糖尿病友如何攝取均衡的素食 對於奶蛋類素食與奶類素食，在生理營養狀況方面與非素食者無大的差異， 若是純素食則不同，須運用一些營養知識，好好計劃，才不致於造成熱量、 蛋白質、維生素的攝取不足。 建議攝取表如下： 六大類食物 每日建議攝取量注意事項 乳製品類：1-2 杯(240cc/杯) 全穀雜糧類：依營養師飲食設計量而定，多選用全穀類 蔬菜類：3-4 碟(100g/碟)，至少 1 碟為深綠色蔬菜 水果類：2 份，每份約女生拳頭大小 蛋、豆、麵筋類：4 份-5 份 1 份 = 蛋 1 個 = 盒裝豆腐半盒 = 五香豆干一又二分之一塊 = 麵腸三分之二條 = 濕豆包 1 塊 烹調不宜油炸、油煎為主 油脂類：2-3 湯匙，部份油脂以堅果類取代 ※健康吃素十大建議 1. 進食各類食物以達成蛋白質的互補作用 2. 選擇全穀類，如糙米、全麥麵包 3. 搭配選擇豆類、核果類及種子類於飲食中 4. 多選擇深綠色蔬菜 5. 奶素者應選擇低脂或脫脂奶製品 6. 避免進食過量甜食和高油食物 -- 2 of 3 -- 7. 兒童及青少年須注意補充鈣質、鐵質、維生素 B2、B12 和維生素 D。如牛奶、 酵母、芝麻、海藻、紫菜、綠色蔬菜、豆類等是富含鈣質、鐵質、維生素 B2 的素食食物，應多選用 8. 孕乳婦須注意補充鐵劑，吃含鈣豐富的食物，多曬陽光以製造維生素 D 來幫 助鈣質的吸收，以及適時補充維生素 B12。 9. 多攝食維生素 C 豐富的水果(如柑橘類、芭樂等)，以利鐵質的吸收 10. 攝取足夠的熱量並維持理想體重 財團法人天主教聖馬爾定醫院 糖尿病人保健中心 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/57b4bef9-c9b3-44f1-af8d-3a5c51f89699.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.364Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-50c6f815cd",
+      "title": "DIY低卡點心食譜大公開",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "DIY 低卡點心食譜大公開 健康春捲（一人份）徐婉玲營養師 材料：春捲皮二張、小蘋果 1/4 個、苜蓿芽 20g、小豆苗 15g、紫色高麗菜 15g、花生粉 半小匙、代糖粉一小匙、低脂沙拉醬一小匙。 作法：將二張春捲皮鋪平後，加入苜蓿芽、切...",
+      "fullContent": "DIY 低卡點心食譜大公開 健康春捲（一人份）徐婉玲營養師 材料：春捲皮二張、小蘋果 1/4 個、苜蓿芽 20g、小豆苗 15g、紫色高麗菜 15g、花生粉 半小匙、代糖粉一小匙、低脂沙拉醬一小匙。 作法：將二張春捲皮鋪平後，加入苜蓿芽、切條狀之蘋果片、小豆苗、紫色高麗菜後， 再加入調味之糖粉（花生粉、代糖粉） 、低脂沙拉醬後捲起再對切即可。 ※營養師的叮嚀 品項 熱量 （大卡） 主食類 （份） 油脂類 （份） 蔬菜類 （份） 水果類 （份） 健康春捲 85 0.5 0.5 0.5 0.25 健康元宵 侯玟伊營養師 紅棗元宵(36 個) 份數 36 顆 材料：熟糯米粉 90 克、紅棗 70 克、奶油 35 克、水 140 克 內餡材料：紅豆 60 克、糖 8 克 作法： 1.紅棗餡製作:將紅棗以開水洗淨後,冷水浸泡 6 分鐘,去子切碎備用 2.將所有材料混勻,搓柔至表面光滑有彈性即可備用 3.紅豆餡製作:選品質優良之紅豆 60 克,泡水 4 小時後,以快鍋煮熟,並以果汁機攪碎,加 入紅糖 8 公克,待涼備用 4.取紅棗餡 8 克包入紅豆餡 4 克備用 5.將 4 料 10 顆以水沾濕,放入置滿乾糯米粉的籮筐中滾圓,再取出沾水,再放入籮筐中滾 圓,重覆 12-15 次即可(每顆重量約 30 公克) 6.放入-18 度 c 的冷凍庫中凍結 2 小時,再分別置放至包裝盒中 ※營養師的叮嚀 每粒熱量 70 大卡 蛋白質 1 克 醣類 15 克 脂肪 1 克 每份換算:※1 份主食 腸胃不佳者,需留意份量及烹調方法,因元宵是糯米製成,黏性大,不易消化。 -- 1 of 4 -- 健康粽 王秋敏營養師 高纖蒟蒻粽 材料：(雜糧米(圓糯米 100 公克、燕麥 50 公克、蕎麥 50 公克、紫米 50 公克、米豆 50 公克、糙米 30 公克、長糯米 30 公克)。 (後腿肉 300 公克、蒟蒻魷魚 100 公克、菜脯 50 公克、竹筍丁 50 公克、鹹蛋 1/2 個、香菇絲 5 公克、蝦米 100 公克、紅蔥頭少許。） 調味料：(醬油 1 大匙、五香粉 1/4 匙、植物油 1 大匙、淮山 3 片、滷包 1 包 ） 熱量：297 卡/個 養生素粽 材料:：(雜糧米：圓糯米 100 公克、燕麥 50 公克、蕎麥 50 公克、紫米 50 公克、米豆 50 公克、糙米 30 公克、長糯米 30 公克)。 (素肉塊 150 公克、豆干丁 150 公克、芡實 30 公克、苻苓 30 公克、菜脯 50 公 克、枸杞 1 錢、栗子 10 個、香菇絲 5 公克） 調味料： (醬油 1 大匙、五香粉 1/4 匙、植物油 1 大匙、滷包) 熱量 298 大卡/個 八寶粽 材料：圓糯米 400 公克、紅豆 100 公克、蓮子 50 公克、薏仁 50 公克、桂圓肉 200 公 克、紅棗 20 個、栗子 10 個、葡萄乾 50 公克 調味料：代糖 10 大匙 熱量：270 大卡/個 ※營養師的叮嚀： 1.粽子是屬於高澱粉及高油的食品，不宜隨意想吃就吃，也不宜當三餐食用，更不可連 續好幾天食用。 2.以粽子為正餐，應再搭配蔬菜類 1 份，水果類 1 份，飲食才算均衡，且多攝取含纖維 質蔬菜（竹筍、菜豆）、水果（蘋果、芭樂）來搭配粽子食用。 3.自行 DIY 製作健康五穀粽 =>=> 以五穀米取代糯米並以降低糯米比例，以提高膳食纖 維攝取量，以部份瘦豬肉取代五花肉，只取用 1/2 個蛋黃，加入竹筍丁或素蒟蒻丁， 炒內餡時減少用油量，也可以滷包調味及放入淮山等食材，達高纖、低油、低膽固 醇、低鹽健康粽。 -- 2 of 4 -- 健康月餅 侯玟伊營養師 高纖芋頭乳酪酥(12 個) 材料： 【皮的材料】每個 14 公克 高筋麵粉 42 克、低筋麵粉 42 克、纖維粉 3 克、薏仁粉 8 克、奶油 33 克、水 38 克 【油酥材料】每個 10 公克 低筋麵粉 86 克、奶油 34 克 【餡的材料】每個 22 克 低糖無油芋頭餡 210 克、乳酪蛋黃 6 個 【其他配料】蛋黃適量(塗刷表面之用)、黑芝麻少許 做法： 1.準備餡部份：將芋頭餡包入切半的乳酪蛋黃,分成 12 個備用 2.油皮製作：將皮的材料均合攪拌成糰後,移至桌面用手來回搓揉麵糰,搓至麵糰表面光 滑富筋性；將麵糰用保鮮膜包起,鬆弛約 10 分鐘待用 3.油酥製作：油酥材料均合拌勻,移至桌面搓揉至麵粉與奶油完全混合,表面光滑不黏手 4.將油皮、油酥分成 12 等分,將油皮包上油酥 5.包好之油酥皮由中間向外搟開,油酥皮由上往下捲起；換另一方向,再重覆一次搟平動 作 6.再將油酥皮由上往下捲起,蓋上保鮮膜,鬆弛約 10 分鐘 7.將包好之油酥皮由中間向外搟開 8.包上餡料,用虎口將油酥皮向內收緊 9.整型後分別置放於烤盤中,均勻的刷上蛋黃,裝飾上芝麻,以 210℃烤培約 18-20 分鐘 ※營養師的叮嚀(每 1 個) 營養成份： 熱量:127 大卡 蛋白質 2.2g 脂肪 5.6 g 醣類 16.9 g 換算:1.2 份主食+1 份油脂+1/4 蔬菜 美膚低卡沙拉（6 人份） 盧雯華營養師 材料：紅酒醋 4 匙、橄欖油 2 匙、 洋香菜少許、 洋蔥 1/4 粒 蒜頭 3 辦、 食鹽及代糖少許、大蕃茄 150g.、小蕃茄 100g. -- 3 of 4 -- 小黃瓜 100g、紫高麗 50g、紅蘿蔔 50g.、包心萵苣 150g 作法： 1.洋蔥切末. 蒜頭去膜切末.將各項蔬菜清洗並以冷開水沖洗過滴乾. 2.將紅酒醋、橄欖油、蒜末、洋蔥末及少許食鹽、代糖放入生菜沙拉盆內拌勻. 3.首先將大蕃茄及小蕃茄切丁.放入沙拉盆內拌一拌. 4.接著將小黃瓜切片放入沙拉盆內拌勻.==> 紫高麗切絲放入沙拉盆內拌勻. ==> 紅蘿 蔔切絲放入沙拉盆內拌勻. ==> 包心萵苣撕小片放入沙拉盆內拌勻. ==> 最後將洋香菜 灑在最上層即可. ※營養師的叮嚀： 1.生菜放入的順序需依照步驟，才能使各種食材入味 2.若買不到紅酒醋可用工研清醋或其他清醋代替但因工研清醋較酸需適度減量. 3.洋香菜在乾貨店可尋獲. 營養成分分析（1 人份）： 品項 蛋白質 脂肪 醣類 熱量（卡） 蔬菜一份 100g 1 --- 5 25 橄欖油 5g --- 5 --- 45 總計 1 5 5 70 卡 天主教聖馬爾定醫院 糖尿病人保健中心 -- 4 of 4 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/ba3ac0d6-0d2e-4d40-8525-cdfa0ba0babb.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.482Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-6ed874aa41",
+      "title": "糖尿病併高血脂症飲食",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "王秋敏 營養師 糖尿病是一相當複雜的全身性代謝疾病，最終會影響全身大小血管，影響到較大的 血管如冠狀動脈造成狹心症、心絞痛甚至心肌梗塞；影響腦血管造成腦中風，包括腦梗 塞、腦出血；影響下肢血管造成循環障礙，下肢疼痛、走路無法久走；也影響較小...",
+      "fullContent": "王秋敏 營養師 糖尿病是一相當複雜的全身性代謝疾病，最終會影響全身大小血管，影響到較大的 血管如冠狀動脈造成狹心症、心絞痛甚至心肌梗塞；影響腦血管造成腦中風，包括腦梗 塞、腦出血；影響下肢血管造成循環障礙，下肢疼痛、走路無法久走；也影響較小的血 管如視網膜血管，造成眼底出血、視網膜體出血甚至失明；影響腎血管腎絲球硬化造成 尿蛋白及尿毒症等等。 造成糖尿病的各種大血管病變如冠狀動脈腦血管，下肢血管硬化阻塞等，有關因素 其中高血脂就扮演重要角色。據統計約有一半的糖尿病病患有血脂異常，所以積極控制 糖尿病同時也需嚴格控制高血脂症。 大部份人不知道什麼是血中脂肪，又代表什麼？ 人體血中的脂肪分為二大類：三酸甘油脂與血膽固醇 什麼是血膽固醇？ 人體可自行產生（由肝臟負責製造身體所需膽固醇）及從食物中攝取而來（由動物 性肉類、全脂牛奶、蛋黃），若食物獲得太多膽固醇則會使血中膽固醇升高。 膽固醇在血液循環中有分兩種： ＊高密度脂蛋白膽固醇： 可將過多膽固醇清除，為血管內好的膽固醇，對血管有保護作用。 ＊低密度脂蛋白膽固醇： 會堆積在血管壁形成血管硬化，造成血管栓塞是不好的膽固醇。 高膽固醇血症、飲食應注意事項： 1.禁食動物性油脂 含飽和脂肪酸酸高的食物，如豬油、奶油、肥肉、雞皮、鴨皮、椰子油。 2.限制膽固醇的攝取量 含膽固醇高的食物（內臟類-腦、心、肝、腎；卵黃類-魚卵、蛋黃、蟹黃） 。 蛋黃每星期以不超過 3 個為原則 3.多選含飽和脂肪酸少食物，如魚、雞、豆類製品，盡量少用豬、牛、羊等（其脂肪含 量高） 。 -- 1 of 4 -- 4.烹調食物多採用清蒸、水煮、涼拌、烤、燒、滷、燉方法以減少油用量。 5.炒菜用油宜選沙拉油、花生油、玉米油、橄欖油、但仍需控制份量。 6.多攝取高纖食物，如竹筍、芹菜、空心菜、及以糙米或胚牙米、全麥麵包來代替精白 米、白麵包等。 什麼是三酸甘油脂？ 當飲食過量時，不論是脂肪、蛋白質、醣類均會轉變成三酸甘油酯，儲存在人體中，肥 胖者，常會合併有三酸高甘油酯過高。 高三酸甘油脂血症、飲食應注意事項 1.依均衡飲食的原則，保持理想體重 理想體重標準： 身體質量指數（BMI）＝體重（公斤）除以身高（公尺）的平方 BMI＝BW（Kg）/ BH（m2） 理想體重範圍 BMI＝22＋10 ﹪ 2.避免攝取過多的醣類，如五穀根莖類、水果類、及油脂類，肝臟會將其轉變成三酸甘 油酯儲存人體中，因此需限制量。 3.避免大量飲酒及含酒精飲料。 4.禁食含糖食物-如糖果、餅乾、汽水、可樂、甜點。 5.多選擇含纖維質高的食物，如全穀類、蔬菜類、水果類。 6.養成運動習慣採低強度長時間運動方式，以逐漸增加運動量來養成固定運動之習慣。 7.宜避免選用經過烘焙食物，如麵包、鬆餅、蛋糕等都含有高量飽和脂肪酸。 -- 2 of 4 -- 以下提供購買指南 食 物 種 類 奶類 肉類 乾豆類、 堅果類、 種子類 五穀 根莖類 油脂 調味品 點心 可 選 擇 脫脂奶 低脂奶 1.豬肉、 里肌肉、 腰內肉 2. 雞肉、 去皮家禽 3.新鮮魚類 1.紅豆、 綠豆、蓮 子 2.豆腐、 豆干、 素雞 米麵、 土司、 饅頭 沙拉油 植物油 五香醋、 鹽、 醬油 、八角 愛玉、 白木耳 湯、 仙草 避 免 選 用 全脂奶 冰淇淋 1.肥肉、 五花肉、 豬腳、 香腸、 中西式火 腿、 熱狗 2.雞屁股、 翅膀 3.肉鬆魚鬆 1.花生、 芝麻、杏 仁、核 桃、腰 果、松子 2.油豆 包、 油豆皮 炒麵、 速食麵、 燒餅、 油條 油麵 動物油 豬油 牛油 沙茶醬、 豆瓣醬、 甜麵醬、 蛋黃醬 八寶粥、 花生湯、 肉圓、 巧克力、 蛋糕 烹調上如何減少油攝取？ 1. 食用任一肉類先將肥肉皮去掉，雞皮、鴨皮、雞翅、鴨翅也含很多油脂避免食用。 2. 避免炸、油酥烹調法，宜採用清燉、紅燒、燻、涼拌、醃方法以減少烹調用油量。 3. 調味品選用檸檬汁、醋、蕃茄汁，以減少因油脂限制所造成食物色香味的不足。 4. 可利用微波爐、烤箱、不沾鍋、蒸鍋烹調以減少油的使用。 糖尿病的血脂肪應控制在那個範圍？ 依美國醫學界建議理想的空腹三酸甘油脂最好維持在 200mg/dl 以下，高密度脂蛋白膽 固醇大於 35mg/dl 且愈高愈好，糖尿病病患之低密度脂蛋白膽固醇皆需低於 100mg/dl。 -- 3 of 4 -- ※血脂肪異常也是糖尿病控制中重要的一個步驟，糖尿病血脂異常之治療原則上先以飲 食控制、持續性運動、嚴格血糖控制，定期篩檢、早期治療，配合血糖控制，維持理想 體重，可減少各種血管的併發症。 天主教聖馬爾定醫院 糖尿病人保健中心 -- 4 of 4 --",
+      "keywords": [
+        "糖尿病",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/9216192f-69d0-49f6-bc56-2bb519bd8a55.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.554Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-4b54441db7",
+      "title": "醫師實證體重控制秘訣-慢食、少糖、多喝水",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "醫師實證體重控制秘訣_慢食、少糖、多喝水 家庭醫學科主任/陳志誠醫師 「醫師，我這次的健康檢查報告怎麼樣？」 「膽固醇跟血糖有高一點，不過還沒到吃藥的程度。」 「那我該怎麼辦呢？」 「建議先從飲食跟運動開始調整，而且因為體重也過重了，如果能...",
+      "fullContent": "醫師實證體重控制秘訣_慢食、少糖、多喝水 家庭醫學科主任/陳志誠醫師 「醫師，我這次的健康檢查報告怎麼樣？」 「膽固醇跟血糖有高一點，不過還沒到吃藥的程度。」 「那我該怎麼辦呢？」 「建議先從飲食跟運動開始調整，而且因為體重也過重了，如果能夠減一些，對健康就會有正面的幫助。」 「可是我喝水都會胖耶！有試著減都減不下來。」 「那我提供一些研究證實有用，日常生活就可以執行的小秘訣給您吧！」 在門診和健檢，常看到代謝相關疾病的患者，不論是所謂三高(高血壓、高血脂或是糖尿病)或是代 謝症候群，如果有體重超標的情形，只要能夠減重 5%~10%，即使沒有降到標準體重，對健康還是有 幫助的。但是說來容易作來難，有些人努力了一陣子，又再復胖；或是用了一些奇怪的方法，也不確定 努力是不是用對方向。所以，提供幾個經過研究證實，而且我自己也親身實行的方法，供大家參考。 一、飯前喝水 500cc 飯前喝水會提高代謝率。在 Boschmann 等人以 14 位健康成年人(7 位男性、7 位女性)所作的實驗 中，當喝完 500cc 的水之後，過了 10 分鐘身體的能量消耗就開始上升，能夠增加約 30%的代謝率(1)。 飯前喝水可以讓那一餐吃的量自然下降。Davy 等人以 24 位過重或肥胖的成年人(55~75 歲)，將他 們分成 2 組，一組在早餐前 30 分鐘先喝 500cc 的水，另一組沒有，提供他們 Buffet 式的早餐自由選 擇 20 分鐘的時間，再記錄他們吃下去食物的量來作研究。有先喝水的這一組所攝取的早餐食物重量及 卡路里有顯著減少(2)。 所以到底每餐飯前喝水真的可以控制體重嗎？Dennis 等人以 48 名過重或肥胖的中老年人(55~75 歲)，分成每餐飯前喝水 500cc 及沒喝水的 2 組，用了 12 週的時間來作研究，並且給予低卡路里飲食(女 性 1200 大卡，男性 1500 大卡) ，以及飲食內容改善的指導，並且建議維持目前的體能活動。經過 12 週後，兩組的體重都有下降，但是飯前喝水的這一組，體重下降的程度比另一組多出 44%，多減了將近 2 公斤，有顯著差異(3)。因此，對減重而言，這是個有效的方式。 陳醫師的親身體驗 從一早起來先喝 500cc 的水，三餐下來一天最少有 1500cc 的水份攝取。我在一開始的時候也有 點不適應，吃飯的時候總覺得肚子還飽飽的，不過這樣也好，很自然的就會避免因為覺得很餓，結果 一下吃了太多的食物。要注意的是，有一些疾病需限制水份攝取，例如心衰竭或腎臟功能不良的人都 不建議，畢竟這些研究所使用的族群，雖然過重但還是健康的一群，有特別考量的話，還是和您的主 治醫師討論比較重要喔！ 二、吃慢一點 現代生活讓我們面對和以前不同的挑戰，不是不夠吃，而是吃太多。便宜又好吃的食物，能量密度 高的食物，街口就在販賣的珍奶和鹽酥雞，都是隨手可得還任君挑選。既然食慾是內建的機制，光靠忍 耐是有限度的，而且忍耐也會消耗我們的意志力，到後面忍不住了可能會一次爆發，然後放棄控制，所 以找些能自然控制食慾的方法會更可行。 吃到飽和吃得快，真的有影響。由 Maruyama 等人在日本的一篇研究，分析 3287 位成年人(年齡 30~69 歲，1122 位男性、2165 位女性)，關於\"吃到飽才停\"和\"吃得快\"這樣的飲食型態對於體重的影 -- 1 of 4 -- 響(以 BMI ≥25 作為評估)。結果發現，造成體重過重的行為中，\"吃到飽才停\"和\"吃得快\"的行為，不論 男女都造成影響，而\"吃到飽才停\"又\"吃得快\"的話，影響又更明顯(4)。 改變吃的快慢，真的會造成飢餓感及飽足感的改變嗎？在 Andrade 等人的研究中，找了 30 位健康 女性，分別請她們吃快一點(平均 8.6±3.1 分吃完)和吃慢一點(平均 29.2±8.9 分吃完)，看在不同的情境 中，計算她們吃下去的卡路里和自覺的飽足感。結果發現，吃得快的時候會吃下更多的卡路里，但是在 吃完的時候，吃得慢的反而飽足感更高。所以吃得慢的時候，可以在吃下更少能量的狀況下，卻得到更 好的飽足感(5)。 陳醫師的親身體驗 我用了兩種方式來放慢吃飯的速度，第一種是 1 口飯咬 30 下以上，最開始練習的時候非常不適 應，要刻意的一直數咬了幾下，大概過了 2 週，習慣了食物要咬到非常細碎的程度才吞下去，後來就 比較沒再數了。 另一種方式，就是喝完水之後，在吃飯前 20~30 分先吃個水果。水果是食物，而且有纖維及甜 感，因此我不是延後進食的時間，而是把開始吃正餐的時間，用吃水果的方式把它提前。而我自己這 樣作的感覺，就是吃完東西後，飽足感的時間可以拉比較長，到下一餐準備開始吃的時候，其實也差 不多要先喝水、吃水果，等要開始吃飯的時候，預估的飯量也就自然減少了。 三、含糖飲料不要喝 只要一天一杯 360cc 的飲料就有影響。Dhingra 等人分析 Framingham Heart Study 的資料，發 現一天喝一杯以上 360cc 含糖飲料的人，他們的代謝症候群發生率和新發生的比率都比較高(6)。 不論成人或學童都有影響。Malik 等人以 15 篇橫斷性、10 篇前瞻性和 5 篇實驗型研究，所作的系 統性回顧分析指出，不論是兒童或成人，喝含糖飲料愈多，體重增加及肥胖的比例是呈現正相關。而一 篇在學校所作的一年期實驗介入則發現，降低學童的飲料攝取，可以顯著降低過重及肥胖的盛行率(7)。 吃水果比喝果汁好。Mattes & Campbell 以 20 位正常體重成人與 20 位肥胖成人(男女各半)，研究 在給予相同 300 大卡熱量的固體(蘋果)、半流質(蘋果醬)和飲料(蘋果汁)，會有什麼影響。結果發現，給 予固體的食物，在降低飢餓感及增加飽足感效果最好，而喝飲料的時候影響最小。所以如果要吃水果， 請直接吃就好，不建議喝果汁，這樣比較容易有飽足感(8)。 陳醫師的親身體驗 所以在門診，我都是建議喝水最好(如果可以，請飯前喝水 500cc)，或是改喝無糖的飲料。另外 請先在每次購買市售包裝食品的時候，就看看包裝後的營養標示，這樣才知道自己吃下了多少糖。 四、準備堅果取代點心 堅果類的食品有很多，常見的包含杏仁、胡桃、核桃、榛果、松子、開心果及花生(花生在文獻中也 當作堅果類一起討論)。堅果類的油脂含量大約佔了重量的 45%~75%，而且大多是不飽合脂肪酸，算 是能量密度很高的食物。吃下這樣的食物會不會變胖呢？ 每週吃堅果次數高的肥胖率較低。Fraser 等人以 The Adventist Health Study，從 31208 個案追 蹤達 6 年的資料作分析。其中對於堅果的部分，問卷的選項分為：每週小於 1 次、每週吃 1~4 次、每 週吃 5 次以上等 3 種選項。結果發現在與體重的關係上，堅果的攝取與肥胖之間有\"顯著的負向關係\"， 反而是每週吃堅果次數高的肥胖率較低(9)。 -- 2 of 4 -- 有吃堅果的人體重增加較少。Bes-Rastrollo 等人使用 Nurses’Health Study II 的資料，分析 51188 名女性(開始的年齡是 20~45 歲)，吃堅果和從 1991 年到 1999 年的體重變化。問卷中的一份堅果是 1 盎司(28.35g)，還分為花生、花生醬及堅果 (tree nuts)。結果可以發現，每週吃 2 次以上的族群和吃不 到 2 次的族群，雖然平均體重過了 8 年都是增加，但吃 2 次以上的體重增加幅度，平均少了 0.51 公斤。 如果再細分吃的內容物，吃堅果的減幅更多達 1.01 公斤，而吃花生醬的沒有顯著差異。所以吃堅果的 人經過多年，體重增加的幅度還比較少(10)。 其實堅果在很多健康相關的議題，是有幫助的。例如 Sabaté等人分析 25 篇介入型實驗就指出，吃 堅果可以改善血脂，特別是對原來 LDL-C 低密度脂蛋白膽固醇(LDL-C)高，或是 BMI 較低的族群(11)。 另外在降低第 2 型糖尿病發生的風險，還有降低心臟冠狀動脈疾病的風險，也都有相關的研究支持。 陳醫師的親身體驗 我自己家中會準備胡桃、核桃、南瓜子、杏仁，除了市售即食 (通常有調味)的產品外，可以在 一些大賣場還有烘焙相關的食品材料行，買到生的食材回家自己準備，用小烤箱或鍋子炒過就可以食 用。取代原本那些精緻類的點心、糖果等等，這樣想吃東西的時候，至少有不錯的食物可以先填補一 下，就不用只是忍耐而已。 這裡提供以上 4 種我自己認同而且親身執行的方式，推薦給大家。建議依照自己的生活方式， 先從可行的方式開始，調整其中一種，建立習慣之後再調整另一種。雖然會花些時間，但是長期而言， 是很值得的。 1.Boschmann, M., Steiniger, J., Hille, U., Tank, J., Adams, F., Sharma, A. M., ... & Jordan, J. (2003). Water-induced thermogenesis. The Journal of Clinical Endocrinology & Metabolism, 88(12), 6015-6019. 2.Davy, B. M., Dennis, E. A., Dengo, A. L., Wilson, K. L., & Davy, K. P. (2008). Water consumption reduces energy intake at a breakfast meal in obese older adults. Journal of the American Dietetic Association, 108(7), 1236-1239. 3.Dennis, E. A., Dengo, A. L., Comber, D. L., Flack, K. D., Savla, J., Davy, K. P., & Davy, B. M. (2010). Water consumption increases weight loss during a hypocaloric diet intervention in middle‐ aged and older adults. Obesity, 18(2), 300-307. 4.Maruyama, K., Sato, S., Ohira, T., Maeda, K., Noda, H., Kubota, Y., ... & Imano, H. (2008). The joint impact on being overweight of self reported behaviours of eating quickly and eating until full: cross sectional survey. Bmj, 337, a2002. 5.Andrade, A. M., Greene, G. W., & Melanson, K. J. (2008). Eating slowly led to decreases in energy intake within meals in healthy women. Journal of the Academy of Nutrition and Dietetics, 108(7), 1186-1191. 6.Dhingra, R., Sullivan, L., Jacques, P. F., Wang, T. J., Fox, C. S., Meigs, J. B., ... & Vasan, R. S. (2007). Soft drink consumption and risk of developing cardiometabolic risk factors and the metabolic syndrome in middle-aged adults in the community. Circulation, 116(5), 480-488. -- 3 of 4 -- 7.Malik, V. S., Schulze, M. B., & Hu, F. B. (2006). Intake of sugar-sweetened beverages and weight gain: a systematic review–. The American journal of clinical nutrition, 84(2), 274-288. 8.Mattes, R. D., & Campbell, W. W. (2009). Effects of food form and timing of ingestion on appetite and energy intake in lean young adults and in young adults with obesity. Journal of the American Dietetic Association, 109(3), 430-437. 9.Fraser, G. E., Sabate, J., Beeson, W. L., & Strahan, T. M. (1992). A possible protective effect of nut consumption on risk of coronary heart disease: the Adventist Health Study. Archives of Internal medicine, 152(7), 1416-1424. 10.Bes-Rastrollo, M., Wedick, N. M., Martinez-Gonzalez, M. A., Li, T. Y., Sampson, L., & Hu, F. B. (2009). Prospective study of nut consumption, long-term weight change, and obesity risk in women–. The American journal of clinical nutrition, 89(6), 1913-1919. 11.Sabaté, J., Oda, K., & Ros, E. (2010). Nut consumption and blood lipid levels: a pooled analysis of 25 intervention trials. Archives of internal medicine, 170(9), 821-827. -- 4 of 4 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "三高",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/1a3085bf-dba5-4a06-bf29-ee7a3e1990de.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.839Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-28af4aecfb",
+      "title": "常用簡餐便當熱量表",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "一般衛教",
+      "summary": "食物名稱(每份) 每份重量 (公克) 每份熱量 (大卡) 食物名稱(每份) 每份重量 (公克) 每份熱量 (大卡) 蔥燒牛肉飯 550 670 牛腩燴飯 700 680 咖哩雞飯 680 688 炸雞腿飯 680 810 炸排骨便當 680...",
+      "fullContent": "食物名稱(每份) 每份重量 (公克) 每份熱量 (大卡) 食物名稱(每份) 每份重量 (公克) 每份熱量 (大卡) 蔥燒牛肉飯 550 670 牛腩燴飯 700 680 咖哩雞飯 680 688 炸雞腿飯 680 810 炸排骨便當 680 925 豬腳飯 610 815 紅燒排骨便當 420 805 控肉飯 660 935 三寶飯 620 960 三鮮燴飯 515 513 滑蛋肉片燴飯 515 513 蝦仁蛋炒飯 410 703 肉絲蛋炒飯 410 718 燒烤鮭魚飯 550 600 蒲鰻魚便當 363 654 資料來源：衛生福利部國民健康署 修訂日：2018/11/05 -- 1 of 1 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/b47be321-6168-432d-a4b0-c04e53cc99d8.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:36.902Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-4374d1c44c",
+      "title": "外食秘笈",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "與你知道，讓你在享受美食之餘，也 不再增加體重。加油喲！！ （一）宴席： 1、飲料類：含糖飲料儘量不要飲用，最好是以不加糖的茶或白開水取代。 2、高熱量食物類：減少熱量方法，如下： ＊油炸物－去除油炸外皮。 ＊減少勾芡食物－以筷子取代湯匙舀...",
+      "fullContent": "與你知道，讓你在享受美食之餘，也 不再增加體重。加油喲！！ （一）宴席： 1、飲料類：含糖飲料儘量不要飲用，最好是以不加糖的茶或白開水取代。 2、高熱量食物類：減少熱量方法，如下： ＊油炸物－去除油炸外皮。 ＊減少勾芡食物－以筷子取代湯匙舀取。 ＊避免油脂高食物－看不見的油脂，如:堅果類。 （懂得換算，通行無阻） ＊多吃蔬菜等清淡食物 3、點心類：宜以新鮮水果取代蛋糕或油酥類食物。 （二）中餐： 1、烹調方式：一般中式自助餐或麵食，盡量選用油量較少的蒸、煮、涼拌、滷、燉、 烤等食物。含糖量較高的糖醋茄汁、蜜汁、醋溜類菜式儘量少用。 2、肉類：油炸的肉類最好去皮後再食用。 3、青菜類：可多選用。能須注意用油量。 ＊素食者亦需注意熱量的攝取。 （三）、西餐： 1、湯類:清湯比濃湯好，因西餐的濃湯多數由麵粉及牛油調製而成，熱量過高。 2、麵包：大蒜麵包含油較高，可選擇小餐包或法國麵包，但最好不要塗瑪琪琳或果醬 等。 3、沙拉：主要在於調味用的沙拉醬大多是由油、糖、蛋等調製而成，熱量較高，能不 加沙拉醬及即不加，宜選擇低熱量的義大利式沙拉醬。 -- 1 of 3 -- 4、主餐方面：以含油量較少且份量較少的海鮮或雞肉為最佳的選擇。紅色肉類如： 牛排等，最好每週不超過一次。 5、甜點方面：最好選擇新鮮水果或無糖果凍。 6、餐後咖啡或茶：不宜加熱量相當高的奶精，必要時可選用少許低脂奶，糖以代糖為 佳。 （四）日本料理： 一般日本料理大多是生食或水煮、清蒸，用油量是一般料理中最少，熱量也較低。不 過，日本料理中蔬菜較少且醃漬品或湯類中含鈉量過高，仍須注意。而油炸物最好是剝 去麵皮後再食用，可降低熱量攝取。 （五）火鍋： 火鍋所使用於沾食用的沙茶醬、花生醬、芝麻醬及味道鮮美的火鍋湯，其含油量相當 高，要食用前最好將上面的一層油去掉，且沾食的調味料不宜攝取過多。 ＊肉丸、魚丸、蛋餃、蝦餃、甜不辣等含有大量看不到的肥肉及澱粉質，最好少選用。 各式火鍋料理一百卡的量 品 名 相當於一百卡的量 蛋餃 3-4 個 魚餃 5-6 個 蝦餃 4 個 蝦丸 7-8 個 花枝丸 2-2.5 個 虱目魚丸 2-3 個 貢丸 2-2.5 個 蟹味棒 6.5-7 個 魚卵捲 9-10 個 甜不辣 5 條或 2-2.5 片 梅花肉片 1-2 片 草蝦 7-8 隻 豆腐 1.5 塊 鵪鶉蛋 7-8 個 -- 2 of 3 -- 雞蛋 1-1.5 個 豬血糕 50 克 芋頭 106 公克 冬粉 3/4 把 玉米 2/5 根 ＊ 份量為常見市售商品之重量，熱量計算仍應以外包裝之食品標示為宜。 天主教聖馬爾定醫院 糖尿病人保健中心 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/b01f8acc-ea3a-4648-b82d-7df3451ee03d.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:37.016Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-e7925b49e6",
+      "title": "認識食品標示及外食技巧",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "徐婉玲營養師 選用產品時，宜注意食品包裝是否完整，且需注意食品標示，如：保存期限、製造 日期、製造廠商及是否有優良標誌，如：GMP、CAS、吉園圃、健康食品標誌等。並且不 購買來路不明之產品，以確保食的安全。而包裝上的熱量標示及營養成份分析...",
+      "fullContent": "徐婉玲營養師 選用產品時，宜注意食品包裝是否完整，且需注意食品標示，如：保存期限、製造 日期、製造廠商及是否有優良標誌，如：GMP、CAS、吉園圃、健康食品標誌等。並且不 購買來路不明之產品，以確保食的安全。而包裝上的熱量標示及營養成份分析，可了解 所食用之熱量及營養成份，以避免攝取過量，以下附圖表以供參考。 那些食品需要標示 1.凡標有「營養宣稱」之市售包裝食品 2.業者主動標示 營養標示內容 標示項目： （1）「營養標示」之標題。 （2）熱量（大卡） 。 （3）蛋白質（公克）、脂肪(公克）、碳水化合物（公克）。 （4）鈉（毫克） 。 （5）其他出現於營養宣稱中的營養素含量（例如：宣稱「高鈣」即需標示鈣質含量）。 （6）廠商自願標示之其他營養素含量 營養標示 營養標示每 100 公克（或每 100 毫升） 熱量 XX 大卡 蛋白質 XX 公克 脂肪 XX 公克 碳水化合物 XX 公克 鈉 XX 毫克 宣稱之營養成份含量 -- 1 of 4 -- 營養標示 營養標示 每一份量 XX 公克（或毫升）本包裝含 XX 份 每份每 100 公克每人每日建議 或每 100 毫升攝取量百分比 熱量 XX 大卡 XX﹪ 蛋白質 XX 公克 XX﹪ 脂肪 XX 公克 XX﹪ 碳水化合物 XX 公克 XX﹪ 鈉 XX 毫克 XX﹪ 宣稱之營養成份含量 XX﹪ ＊每日營養素見議量基準值：熱量 2000 大卡、蛋白質 60 公克、脂肪 55 公克、碳水化 合物 320 公克、鈉 2400 毫克 實例說明 營 養 標 示 每食份量約 25 公克 本包裝含有食份量約 6 份 營 養 成 份 每百公克產品中約含營養素 每食份產品中約含營養素量 熱量 497Kcal 124Kcal 水份 4.0 克 1.0 克 蛋白質 8.9 克 2.2 克 脂質 24.6 克 6.2 克 碳水化合物 糖質 纖維 59.2 克 1.1 克 14.8 克 0.28 克 灰份 2.2 克 0.55 克 鈉鹽 181 毫克 45 毫克 膽固醇 17 毫克 4.3 毫克 -- 2 of 4 -- 外食技巧 一、宴席： 飲料類：含糖飲料盡量不要飲用，最好是以不加糖的茶或是白開水取代 食物類：＊避免油炸、高糖份 ＊避免勾芡食物 ＊避免油脂高食物 ＊多吃蔬菜等清淡食物 點心類：宜以新鮮水果取代蛋糕或油酥類食物。 二、中餐： 選用原則：＊烹調方法：以蒸、煮、涼拌、滷、烤、燉、醃等用油量較少的食物。 ＊去油方法：油炸的肉類去皮後再食用。 ＊避免高油食物：如肉丸、肉餅等碎肉製品。 ＊避免高糖食物：如糖醋茄汁、蜜汁、醋溜類菜色 ＊選用高纖食物：如青菜類、蒟蒻等蒟 三、日本料理： 除油炸物外，一般日本料理大多是生食或水煮、清蒸，用油量為一般料理中最少者，熱 量也較低。 注意事項：＊油炸物最好剝去麵皮後再食用。 ＊日式料理蔬菜較少且醃漬物或湯品含鈉量過高，宜注意攝取量 四、西餐： 選用原則：＊湯類:清湯比濃湯好。因濃湯多數是由麵粉及牛油調製而成，熱量過高 ＊麵包：小餐包或法國麵包大蒜麵包好。因大蒜麵包含油量較高 ＊沙拉：義大利式沙拉醬比沙拉醬好。 因義大利式沙拉醬是由醋、鹽、胡椒等調製，故熱量較低。 ＊主餐方面：白肉（海鮮或雞肉）比紅色肉類（牛排）好。 因其含油量較低且份量較少。 ＊甜點方面：最好選擇新鮮水果或無糖果凍。 ＊餐後咖啡或茶：不宜添加過多含熱量高的奶精，糖可以代糖取代， -- 3 of 4 -- 五、火鍋： ＊沾食的調味料：如：沙茶醬、花生醬、芝麻醬等含油量高，不宜攝取過多 ＊火鍋湯頭：含油量高，食用前將上層油脂去除。 ＊肉丸、魚丸、蛋餃、蝦餃、甜不辣等含有大量看不到的肥肉及澱粉質，最好少選用。 附表一：常見市售及外食產品之熱量分析 100 卡 200 卡 300 卡 400 卡 薄荷巧克力 四片 蔥油餅 一個 麥當勞蘋果派一個 泡麵 一個 蘇打餅乾 四片 紅豆餅 1.5 個 鍋燒麵 一份 燒餅油條 一個 養樂多 一瓶 珍珠丸子 四個 肉粽 一個 雞肉飯 一個 蜂蜜蛋糕 一片 魷魚羹 一份 蚵仔麵線 一份 廣東粥 一杯 牛角麵包 一個 餛飩湯 一份 筒仔米糕 一個 碗棵 一個 蛋餅 一份 魯肉飯 一份 麥香魚 一份 麥當勞奶昔 一杯 600 卡 700 卡 800 卡 必勝客： 披薩（大）1/8 塊 冰紅茶 一份 肯德雞： 炸雞腿 一份 玉米 一份 比司吉 一份 可樂（小） 肯德雞： 雙層漢堡 一份 薯條（小） 一份 雪碧（小） 一份 炒飯 一份 排骨飯 一份 牛排 一份 天主教聖馬爾定醫院 糖尿病人保健中心 -- 4 of 4 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/981be6ab-be80-4700-86d1-11a7aa7a6390.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:37.089Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-55d2d7196e",
+      "title": "食物總動員-抓斤秤兩(六大類食物份量)",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "一般衛教",
+      "summary": "第一類：乳品類 牛奶一杯(240c.c.)=低脂奶粉 3 湯匙[25 公克(g)] 第二類：全穀雜糧類 乾飯 1 碗(160 公克(g))=薏仁 80 公克(g)=綠豆 100 公克(g)=玉米 2.6 根 第三類：豆魚蛋肉類 肉 1 兩=...",
+      "fullContent": "第一類：乳品類 牛奶一杯(240c.c.)=低脂奶粉 3 湯匙[25 公克(g)] 第二類：全穀雜糧類 乾飯 1 碗(160 公克(g))=薏仁 80 公克(g)=綠豆 100 公克(g)=玉米 2.6 根 第三類：豆魚蛋肉類 肉 1 兩=魚 1 兩=雞腿 40 公克(g)(可食重)=文蛤 160 公克(g)(可食重) ＝傳統豆腐 80 公克(g) 第四類：水果類(可食量)(公公克(g)) 柳丁 130 公克(g)=椪柑 150 公克(g)=木瓜 150 公克(g)=紅西瓜 180 公克(g) =土芭樂 155 公克(g) 第五類：蔬菜類 青菜 1 份=蔬菜 100 公克(g)=香菇 100 公克(g) 第六類：油脂類 油 1 茶匙[5 公克(g)]=花生仁 10 粒[13 公克(g)]=腰果 5 粒=開心果 15 粒 ~請記住六大類食物的份量，確實應用在日常生活上！讓你成為抓斤秤兩的高手~ -- 1 of 1 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/170b9225-1b0c-4e35-9fa8-f458dc8caec7.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:37.235Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-1c45980ebb",
+      "title": "運動與體重控制",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "的一些觀念 1、缺乏運動是造成肥胖的主要因素之一 2、運動時可以增加熱量消耗，不但如此在激烈運動後的幾個小時，還可以有較大的代謝率 （Excessive Post-Exercise Oxygen Consumption、EPOC） 3、運動...",
+      "fullContent": "的一些觀念 1、缺乏運動是造成肥胖的主要因素之一 2、運動時可以增加熱量消耗，不但如此在激烈運動後的幾個小時，還可以有較大的代謝率 （Excessive Post-Exercise Oxygen Consumption、EPOC） 3、運動可以促進體內脂肪組織釋出脂肪酸當作燃料降低體脂肪 4、運動可以增加非脂肪組織（主要是肌肉），提高基礎代謝率 5、只靠節食也可以減重但同時也減少了非脂肪組織 6、飲食控制加上適當運動，減重速率每周 0.5-1 公斤是最健康且持久的方式減脂不減肉！ 7、運動會增加食慾嗎？ 8、局部塑身的迷思 二、從事較激烈運動前的注意事項 35 歲以上從沒有參與任何運動者、或 35 歲以下但有吸煙、高血壓、高血脂、糖尿病、心電圖不 正常或其他心肺疾病者，必須先做整體身體檢查、包括運動心電圖測試等，依據體檢結果給予適當的 運動處方。 三、怎樣做運動 運動的種類 有氧運動、重量訓練、伸展操 一般人從事的運動項目常包含此三類，但其中以有氧運動在減重方面最重要，有氧運動的特 色為大肌肉的身體活動，具持續性，有節律性，運動強度可依個人體能調整。最常見的有氧運動 種類有步行、跑步、游泳、騎自行車等。 有氧運動處方的要點 1.運動的強度（運動負荷的大小，如 65﹪~85﹪最心跳率*） 2.運動的持續時間（每次作運動的時間長短，如 15 至 60 分鐘） 3.運動的頻率（每週作運動的次數、如每週三至五次） 4.運動的型式（如慢跑、快走、游泳、自行車、登山等） 5.進度與評估（對以上 1~4 點作定期評估與調整）*最高心跳率：（220－年齡）/分鐘 有氧運動的操作過程 1.熱身運動－5 至 10 分鐘的徒手操、慢步走或跑、關節伸展運動等。 2.主要運動－30 至 60 分鐘的有氧運動、在所定的強度內操作，並採用以上所述的運動型式進行 3.緩和運動－5 至 10 分鐘的慢步行、讓心跳率慢慢降至運動前的水準 擬定運動計劃的通則 1.個別化 2.循序漸進 3.確立合理目標 4.每次作紀錄 5.考慮氣候因素 6.考慮不需要特殊器材的運動 7.找適當的地方運動 8.和別人一起運動 9.避免造成傷害 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/0ada736e-ba0e-4505-8040-b5733ee43ce4.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:37.342Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-05f090c4ab",
+      "title": "低熱量食物選擇與製備",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "一般衛教",
+      "summary": "天主教聖馬爾定醫院 王秋敏 營養師 選擇適當材料 ✿全瘦肉代替肥肉(所有肉品需去皮) ✿豬＞羊＞牛＞蛋＞鴨＞魚＞雞＞豆製品 ✿不吃豬皮、雞皮、鴨皮、魚皮及雞翅、鴨翅 ✿避免使用加工食品如：肉丸、肉餅、香腸、魚丸 ✿植物油代替動物油烹調 ✿多...",
+      "fullContent": "天主教聖馬爾定醫院 王秋敏 營養師 選擇適當材料 ✿全瘦肉代替肥肉(所有肉品需去皮) ✿豬＞羊＞牛＞蛋＞鴨＞魚＞雞＞豆製品 ✿不吃豬皮、雞皮、鴨皮、魚皮及雞翅、鴨翅 ✿避免使用加工食品如：肉丸、肉餅、香腸、魚丸 ✿植物油代替動物油烹調 ✿多選擇脫脂或低脂奶品 ✿避免高熱量食物 甜食－蛋糕、冰淇淋、蜜餞、芋泥、甜湯、果凍 堅果類－花生、瓜子、腰果、松子、核桃 飲料－汽水、蜂蜜、優酪乳 ✿多選擇低熱量食物、以代糖取代蔗糖白糖的甜味 ✿留心市售食品的成份標示及每份熱量的換算 學習製作低熱量的烹調技巧 ✿避免炸、爆、煎、炒、酥。 ✿避免勾芡或加麵糊做成濃湯。太白粉每湯匙 熱量 35 卡，麵粉拌油的麵糊，熱量更多。 ✿避免糖醋、茄汁、蜜汁、醋溜、或加糖烹煮 ✿煮湯用清水或煮好冷卻除去浮油 ✿湯類不加太多料，以蔬菜湯最好 ✿減少調味包-可用檸檬汁、醋、蕃茄醬 ✿進食前喝一碗熱開水或熱清湯 ✿烹調前去外皮肥肉 ✿將肉類切成細條狀或片狀 稱量換算表 1 杯＝240 公克＝16 湯匙，1 湯匙＝3 茶匙 1 公斤＝1000 公克，1 磅＝454 公克，1 台斤＝16 兩＝600 公克，1 兩＝37.5 公克 無油烹調法 ✿涼拌涼拌雞絲、泡泡菜、醃黃瓜。✿烤烤雞烤鴨、燻燻肉、焗蔥焗雞 ✿煮白切肉鹽水蝦、蒸清蒸鱈魚、燙燙茄子、燉燉肉、凍雞肉凍、 滷滷豆干、海帶、涮涮羊肉。 可見的脂肪 ✿肉類：肥肉、培根、雞鴨皮、豬皮、魚皮 ✿脂肪類：奶油、牛豬油、沙拉油、麻油、瑪琪琳、烤酥油 不可見的脂肪 ✿五穀根莖類：酥皮點心、甜甜圈、蛋糕、綠豆糕、沙其瑪、燒餅 ✿魚肉蛋類：香腸、家禽、家畜肉、火腿、熱狗、蛋黃、肉酥、魚卵 ✿豆類：麵黐、麵筋、泡油豆腐、豆腐泡 ✿水果類：酪梨、橄欖、椰子肉 ✿奶類：全脂牛奶、冰淇淋、乳酪、鮮奶油 ✿油脂類：蛋黃醬、奶精、花生醬、芝麻醬、瓜子、腰果、開心果 ✿其他：油炸食品、油條、薯條 低熱量代用品 代糖－人工甜味劑熱量極低，有高甜味。 阿斯巴甜－不適於 90℃高溫烹調、用於冰涼飲料、涼拌菜。 熱量：每 0.8 公克約 3 卡＝2 茶匙砂糖甜度。市售商品：三多甜、金美適甜 -- 1 of 2 -- 糖精－可高溫烹調、有苦澀味。熱量：同上。市售商品：美適甜、思維樂。 果寡糖－會加入蔗糖或果糖，使純度下降熱量變高，多吃會引起腹瀉。 低熱量果醬－每湯匙約 2-2.5 卡 低熱量檸檬茶、無糖汽水、可樂 低熱量水果糖、薄荷糖－1 顆約 10-20 卡 低熱量阿華田、可可粉-每包約 50 卡 天然食物－清茶、黑咖啡、去油清湯、蒟蒻、洋菜、愛玉、仙草、蕃茄、檸檬… 食物熱量分類表 食物類別 低熱量食物 中熱量食物 高熱量食物 五穀 根莖類 米飯、土司、饅頭、麵條、 蘇打餅乾、清蛋糕 起酥麵包、波蘿麵包、奶酥麵包、 夾心餅乾、八寶粥 奶類 脫脂奶 全脂奶、調味奶、優酪乳 奶昔、煉乳、養樂多 魚肉蛋類 海哲皮、海參、 蝦、烏賊 去皮之家禽瘦肉、全蛋 肥肉、三層肉腸子、魚肚、火腿、 熱狗、蛋黃 豆類 豆腐、豆漿、豆干 甜豆花、鹹豆花 油豆腐、炸豆腐、麵黐 蔬菜類 新鮮蔬菜及水果 皇帝豆 炸蠶豆、炸碗豆、炸蔬菜 水果類 新鮮水果 純果汁 果汁飲料、水果罐頭 油脂類 低熱量沙拉醬 奶油、沙拉醬；花生醬 飲料類 開水、礦泉水、 低熱量汽水 果汁、汽水、可樂、沙士、可可 調味沾料 鹽、醬油、白醋、 蒜、五香粉 豆瓣醬、麻婆醬 糖、蕃茄醬、沙茶醬、蜂蜜 甜點 果凍、仙草、愛玉、 粉圓、木耳 糖果、巧克力、冰淇淋、冰棒、 布丁、果醬 零食 牛肉乾、魷魚絲 速食、麵、漢堡、腰果、開心果 速食餐點 飯糰、油炸速食麵 餡餅、水煎包、鍋貼、油飯 中式餐點 豆沙包、銀絲卷、 叉燒包 燒餅、肉粽、鮮肉包 蚵仔煎、鳳梨酥、炸春捲 西式餐點 奶昔 蛋捲、洋芋片、薯塊 炸雞 -- 2 of 2 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/5d943e54-6294-4063-babc-18e28c8245c0.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:37.539Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-3ccd6fa892",
+      "title": "運動如何減少體脂肪",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "天主教聖馬爾定醫院陳幸慧營養師 如果您想藉運動來燃燒體脂肪，先別急著開始，它有一定的程序，先瞭解這個過程，才能 有效的減肥。脂肪是一種頑固的組織，它必須在人體對它持續發出強烈的訊號時，才會釋放出 來轉換為能量。短暫而激烈的運動，只會消耗體內...",
+      "fullContent": "天主教聖馬爾定醫院陳幸慧營養師 如果您想藉運動來燃燒體脂肪，先別急著開始，它有一定的程序，先瞭解這個過程，才能 有效的減肥。脂肪是一種頑固的組織，它必須在人體對它持續發出強烈的訊號時，才會釋放出 來轉換為能量。短暫而激烈的運動，只會消耗體內的的醣類；唯有運動持續一斷時間，體內儲 存的醣類都用完了，運動的肌肉就會對脂肪發出訊號，脂肪釋放產生能量可以讓運動更為持久， 而接下來的運動所需的能量便是透過脂肪燃燒所提供，因此能夠有效地消除您體內的脂肪。 脂肪密度：理想的脂肪密度大約是 22%，若超過 27%就應該注意了。 數字會說話：規律的運動~ 可降低 1.5-2.4 倍得心臟病的機會 可降低 2-4 倍得糖尿病的機會 可降低 2-5 倍得大腸癌的機會 可使心臟病患降低 1/5 的死亡率 你的體能狀況如何-試試看簡單的屈膝仰臥起坐： 仰臥平躺，雙手抱頭，坐起時上半身應與地面垂直，測量一分鐘，算算看做了幾次，看看你是屬 於幾歲的體能狀況。 性別 年輕人 20~29 歲 青壯年 30~49 歲 中年人 50~59 歲 老年人 60 歲以上 男 30 次以上 23 次以上 17 次以上 17 次以下 女 19 次以上 6 次以上 3~4 次 0 次 (資料來源：體適能指導手冊：體適能測試常模，中華民國有氧體能運動協會) 為自己計算運動強度： 理想的運動強度大約是最快心跳速度的 70%至 80%，也就是(220–你的年齡)×70%=你的目標心 跳率。例如你今年 30 歲，你運動時理想心跳速率約(220–30)×70%=133，也就是每分鐘心跳 133 下。 怎樣的運動才適當? 做完運動後有舒服的感覺，不會太喘也不會太累。如果運動後~ 可說話，唱不出歌=運動適量 可說話，可唱歌=運動量不夠 說不出話，唱不出歌=運動超量 運動的方式： 1.心肺耐力運動：快走、游泳、單車、舞蹈、跳繩、球類運動 (不建議跑步，因為對肥胖者膝蓋壓力太大) 2.讓肌肉更有耐力的運動：仰臥起坐、上下樓梯、伏地挺身 3.讓肌肉及關節柔軟度更好的運動：伸展操、體操 呼啦圈適合減肥嗎?呼拉圈有以下的優點，故贏得許多人的喜愛： 價格便宜，一個 400 元。 不需要特別的場地。 可邊搖邊看電視或看書。 缺點： 1.容易受傷：呼拉圈的中心點在腰椎，據復健科的醫師表示若沒有適當的熱身，搖呼拉圈對腰部肌肉 容易發生拉扯，造成肌肉拉傷。嚴重時脊椎會往下壓，造成椎間盤突出。 註：所謂熱身運動不是僅讓身體流汗，而是全身的伸展拉筋的體操，最好做 15 分鐘。 2.搖呼拉圈非有氧運動，無法達到燃燒脂肪的效果： 根據美國印第安那大學巴德蓋秋教授指出脂肪分解，是透過荷爾蒙傳遞訊息至全身細胞，所 以運動特定部位時，肌肉並不會利用它附近的脂肪。事實上，脂肪是全身性並不會局部改變。搖 呼拉圈只是讓腰部肌肉結實一點。 運動可使你更有魅力 根據美國的運動學者泰勒指出運動可使身心產生全面的甦醒，因為運動時腦內會產生一種腦內 啡(endorphins)，這種化學物質的功效有如天然的嗎啡，它可使新陳代謝加速、心跳變快、呼吸加速、 肌肉的緊張降低。運動還可以對抗壓力，也可用來治療憂鬱患者，效果顯著。 每個人為自己訂下一個 333 運動計畫： 每星期運動 3 次。 每次運動 30 分鐘。 每分鐘心跳 130 次左右 -- 1 of 2 -- 解釋名辭 *有氧運動：包括主要肌肉反覆性和最大力的收縮(如游泳、騎腳踏車、疾走)，能持續性耗氧以維持肌 肉力量。有氧運動包括幾個要素： (a) 每一運動課程應持續 20-60 分鐘，運動時間太短(<20 分鐘)不能產生有氧和代謝的好處，運動時 間太長則容易造成肌肉和骨骼的傷害。 (b) 一週維持 3-4 次運動 (c) 開始運動時可從較低心跳強度(如 50%)開始，並有短暫的休息，逐漸進展到最高強度持續性運 動。 (d) 所有運動應包含 5-10 分鐘熱身及舒緩運動，熱身幫助增加身體體溫及避免肌肉受傷，舒緩運動 可以預防血液凝聚在四肢及容易將代謝副產品移除。 消耗各種食物所需之各類運動 體重：60 公斤 活動時間(分) 食物名稱 份量/重量 熱量(卡) 疾走 游泳(隨意) 騎單車 打網球 柔軟體操 起士蛋糕 1 片/55 克 235 39 39 78 26 47 金莎巧克力 2 粒 160 27 27 54 18 32 M&M 花生巧克力 15 個 125 21 21 42 14 25 鱈魚香絲 100 克 305 51 51 102 34 61 奶酥麵包 1 個 450 75 75 150 50 90 起士麵包 1 個 420 70 70 140 47 84 紅豆麵包 1 個 220 37 37 74 25 44 五香牛肉干 100 克 475 80 80 159 53 95 汽水、可樂 1 罐 150 25 25 50 17 30 冰淇淋 100 克 200 34 34 67 23 40 奶昔 1 杯 330 55 55 110 37 66 薯條(大包) 1 份 340 57 57 114 38 68 麥香堡 1 份 560 94 94 187 62 112 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/30d7e4cd-30c2-4dce-b39c-62e51205f655.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:37.697Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-b6ca2fab3a",
+      "title": "西式速食營養成份及熱量表",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "品 名 份 量 熱量 蛋白質 脂肪 醣類 (公克) (大卡) (公克) (公克) (公克) 黑咖啡(1 杯) 180cc 0 0 0 0 蕃茄汁 120cc 25 1 0 5 鮮柳丁汁 120cc 60 1 0 14 可樂(1 罐) 360...",
+      "fullContent": "品 名 份 量 熱量 蛋白質 脂肪 醣類 (公克) (大卡) (公克) (公克) (公克) 黑咖啡(1 杯) 180cc 0 0 0 0 蕃茄汁 120cc 25 1 0 5 鮮柳丁汁 120cc 60 1 0 14 可樂(1 罐) 360cc 160 0 0 40 熱狗(1 條) 80 220 9 14 14 炸雞(1 塊) 85 235 14 14 13 蘋果派 85 250 2 14 29 漢堡 100 260 12 11 28 薯條 85 270 3 14 33 草莓聖代 165 295 7 9 46 洋蔥圈 85 300 4 16 34 比薩(1 片) 120 300 15 9 39 吉事漢堡 110 305 14 15 28 炸雞塊(6 塊) 100 305 17 21 12 香草奶昔 280 325 10 8 53 草莓奶昔 280 325 10 8 53 巧克力奶昔 280 360 10 10 58 火腿吉司三明治 155 370 24 16 32 煎餅(三片加糖漿及奶油) 200 450 7 10 82 魚堡(大) 170 480 18 27 41 吉事漢堡(四兩肉) 195 560 30 31 40 漢堡(大) 265 670 26 37 59 參考資料:行政院衛生署編/糖尿病防治手冊 天主教聖馬爾定醫院 糖尿病人保健中心 -- 1 of 1 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/42884333-fb64-4b56-b99b-0ed70d3ace12.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:37.769Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-2ad4727c05",
+      "title": "食物代換均衡飲食",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "外科",
+      "summary": "天主教聖馬爾定醫院 侯玟伊 營養師 [瘦身]、[塑身]、[減肥]、等，雖然是不同的名詞卻代表著相同的訴求。而在這些訴求的程中，不論 是身心、財力可能都得花下不少的投資。但如果投資不當或者是半途而廢，所得到的可能是人財兩失； 花錢事小，人呢，...",
+      "fullContent": "天主教聖馬爾定醫院 侯玟伊 營養師 [瘦身]、[塑身]、[減肥]、等，雖然是不同的名詞卻代表著相同的訴求。而在這些訴求的程中，不論 是身心、財力可能都得花下不少的投資。但如果投資不當或者是半途而廢，所得到的可能是人財兩失； 花錢事小，人呢，健康受損，甚至危害生命。 營養學上對於肥胖的定義是指身體內的脂肪貯積過多，超過一般人的平均標準，是長時間熱量攝取 及消耗不平衡所產生的結果。體重超過標準體重２０％稱之為肥胖，若超過１０％～２０％是屬過重。 至於標準體重的算法常用下列兩種公式： 1.男性：(身高(公分)-80)×0.7 女性：(身高(公分)-70)×0.6 2.理想體重（公斤）＝22×身高平方(公尺)；即ＢＭＩ（Body Mass Index，身體質量數） 理想的減重方法就是適當的飲食控制及運動。均衡的低熱量飲食是最安全且合理的減重法，通常男 性每天以 1400~1600 大卡，女性以 1200~1400 大卡最適宜，最好不要低於 1000 大卡以下。總熱量的計 算法如下： 工作情形 肥胖者現有體重 每公斤所需熱量 擬減減量（大卡） 所需總熱量 輕度工作者 公斤 ３０大卡 500-1000 中度工作者 公斤 ３５大卡 500-1000 重度工作者 公斤 ４０大卡 500-1000 食物的定義：含有一種以上的營養素，可直接食用或經調配成可食用者，統稱為食物。我們人體所需的 四十餘種營養素即含在我們日常所攝食的食物中。 食物的分類： 依食物所含營養素之特性來分，概可分為下列六大類 五穀類、油脂類、肉魚豆蛋、奶類、蔬菜類、水果類 依食物的功能可概分為下列三大類 1.供應熱能食物-五穀類、油脂類 2.供建造及修補身體組織食物-奶、蛋、豆、魚、肉類等，富含蛋白質之食物。 3.調節生理機能食物-蔬菜類及水果類 分類 功用 食物來源 蛋白質 1.維持人體生長發育，構成及修補細胞、 組織之主要材料。 2.調節生理機能 3.供給熱能 奶類、肉類、蛋類、魚類、內臟類、 豆類及豆製品、全穀類等 脂肪 供給熱能、幫助脂溶性維生素的吸收與利用、 增加食物美味及飽腹感 沙拉油、黃豆油、花生油、豬油、 乳酪、乳油、人造奶油、麻油等 醣類 供給熱能、節省蛋白質的功能、調節生理機能、 幫助脂肪在體內代謝、形成人體內的物質 米、飯、麵條、饅頭、玉米、番薯、馬鈴薯、 芋頭、樹薯粉、甘蔗、蜂蜜、果醬等 礦物質的功用： 營養上之主要礦物質有鈣、磷、鐵、銅、鉀、鈉、氟、碘、氯、硫、鎂、錳、鈷等，這些礦物 質也就是食物燒成灰時的殘餘部分，又稱灰分。其在營養素中所佔的分量雖很少(僅佔 4%，其餘醣類、 脂肪、蛋白質、水和其他物質，佔人體體重 96%)，但其重要性卻很大，礦物質的一般功用如下： -- 1 of 3 -- ✿構成身體細胞的原料：如構成骨骼、牙齒、肌肉、血球、神經之主要成分。 ✿調節生理機能：如維持體液酸鹼平衡，調節滲透壓，心臟肌肉收縮，神經傳導等機能。 類 功用 食物來源 鈣 1.構成骨骼和牙齒的主要成分 2.使血液有凝結力 3.調節心跳及肌肉的收縮 4.活化酵素 5.維持正常神經的感應性 奶類、魚類(連骨進食)、 紅綠色蔬菜、 大豆類及大豆類製品 磷 1.構成骨骼和牙齒的要素 2.促進脂肪與醣類的新陳代謝 3.體內的磷酸鹽具有緩衝作用， 故能維持血液、體液的酸鹼平衡 4.是組織細胞核蛋白質的主要物質 家禽類、魚類、肉類、全穀類、 乾果、牛奶、莢豆類等 鐵 1.組成血紅素的主要元素 2.是體內部分酵素的組成元素 肝及內臟類、蛋黃、牛奶、瘦肉、 貝類、海藻類、豆類、全穀類、 葡萄乾、綠葉蔬菜等 鉀 鈉 氯 1.為細胞內、外液之重要陽離子，可維持體內水分之平衡及體 液之滲透壓 2.保持 PH 值不變，使動物體內之血液、乳液及內分泌等之 PH 值保持常數 3.調節神經與肌肉的刺激感受性 4.鉀、鈉、氯三元素缺乏任何一種時，可使人生長停滯 鉀-瘦肉、內臟、五穀類 鈉及氯-奶類、蛋類、肉類 氟 構成骨骼和牙齒之一種重要成分 海產類、骨質食物、菠菜 碘 甲狀腺球蛋白的主要成分，以調節能量之新陳代謝 海產類、肉類、蛋、奶類、 五穀類、綠葉蔬菜 銅 銅與血紅素之造成有關，可幫助鐵質之運用 肝臟、蚌肉、瘦肉、硬殼果類 鎂 1.構成骨骼之主要成分 2.調節生理機能，並為組成幾種肌肉酵素的成分 五穀類、硬殼果類、瘦肉、奶類、 豆莢、綠葉蔬菜 硫 與蛋白質之代謝作用有關，為構成毛髮、軟骨、肌腱、胰島素 等之必需成分 蛋類、奶類、瘦肉類、豆莢類、 硬殼果類 鈷 是維生素 B12 的一種成分，也是造成紅血球的一種必要營養素 綠葉蔬菜(變化大，視土壤中鈷含 量而定) 錳 對內分泌的活動，酵素的運用及磷酸鈣的新陳代謝有幫助 小麥、糠皮、堅果、豆莢類、萵 苣、鳳梨 維生素 功用 食物來源 維生素 A 1.使眼睛適應光線之變化，維持在黑暗光線下的正常視力 2.保護表皮、黏膜使細菌不易侵害(增加抵抗傳染病的能力) 3.促進牙齒和骨骼的正常生長 肝、蛋黃、牛奶、乳酪、人造奶 油、黃綠色蔬菜、水果、魚肝油 維生素 D 1.協助鈣、磷的吸收與運用 2.幫助骨骼和牙齒的正常發育 2.為神經、肌肉正常生理上所必需 魚肝油、蛋黃、乳酪、魚類、肝、 添加維生素 D 之牛奶 維生素 E 1.減少維生素 A 及多元不飽和脂肪酸的氧化，控制細胞氧化 2.維持動物生殖機能 穀類、米糠油、小麥胚芽油、棉 子油、綠葉蔬菜、蛋黃、堅果類 維生素 K 構成凝血醣元所必需的一種物質，可促進血液在傷口凝固， 以免流血不止 綠葉蔬菜如菠菜、萵苣是最好的 來源，蛋黃、肝臟亦含有少量 維生素 B1 1.促進胃腸蠕動及消化液的分泌 2.增加食慾 3.預防及治療腳氣病、神經炎 4.促進動物生長 5.酸類的氧化作用 胚芽米、麥芽、米糠、肝、瘦肉、 酵母、豆類、蛋黃、魚卵、蔬菜 等 -- 2 of 3 -- 維生素 B2 1.輔助細胞的氧化還原作用 2.防治眼血管充血及嘴角裂痛 酵母、內臟類、牛奶、蛋類、花 生、豆類、綠葉菜、瘦肉等 維生素 B6 1.為一種輔助酵素，幫助胺基酸之合成與分解 2.幫助色胺酸變成鹼酸 肉、魚、蔬菜、酵母、麥芽、肝、 腎、糙米、蛋、牛奶、豆、花生 維生素 B12 1.促進核酸之合成 2.對醣類和脂肪代謝有重要功用，並影響血液中麩基胺硫的 濃度 3.治惡性貧血及惡性貧血神經系統的病症 肝、腎、瘦肉、乳、乾酪、蛋 菸鹼酸 1.構成醣類分解過程中二種輔助酵素的主要成分，此輔助酵 素主要作用為輸送氫 2.使皮膚健康，也有益於神經系統的健康 肝、酵母、糙米、全榖類製品、 瘦肉、蛋、魚類、乾豆類、綠葉 蔬菜、牛奶等 葉酸 1.幫助血液的形成，可防治惡性貧血症 2.促成核酸及核蛋白合成 新鮮的綠色蔬菜、肝、腎、瘦肉 等 維生素 C 1.細胞間質的主要構成物質，使細胞間保持良好狀況 2.加速傷口之癒合 3.增加對傳染病的抵抗力 深綠及黃紅色蔬菜、水果(如青辣 椒、番石榴、柑橘類、番茄、等) 水的功用： 1.組成體素，為生長之基本物質與身體修護之用。 2.促進食物消化和吸收作用 3.調節體溫 4.維持正常循環作用及排泄作用 5.滋潤各組織的表面，可減少器官間的摩擦 6.幫助維持體內電解質的平衡 胖瘦可由人-理想的減肥方法：少吃-攝取減重的均衡低熱量飲食，一日飲食份量計畫 類別/份數/營養素 早餐 午餐 晚餐 合計 蛋白質 脂肪 醣類 熱量 奶類(脫脂) 1 1 8 12 五穀根莖類 3 3 3 9 18 135 蛋豆魚肉類 1 2 2 5 35 25 蔬菜類 1.5 1.5 3 6 15 水果類 1 1 2 20 油脂類 1 1 5 合計 67 30 182 1266 食物的選取，仍應以六大類均衡飲食為主。簡單以 1200 大卡舉例體重控制食譜如下： 餐別 飲 食 內 容 早餐 脫脂牛奶１杯（２４０ｃｃ）、肉片吐司（肉片１兩，吐司 3 片） 早點 奇異果１個 午餐 雞肉麵（麵條 1.5 碗、雞肉 1 兩、綠豆芽４０公克、小白菜４０公克）油 5 公克 小菜：滷豆乾 2 塊，海帶片 3 片 午點 小蘋果１個 晚餐 白飯３／４碗(150 克)、茶碗蒸蛋（蛋１個，金針菇２０公克） 紅燒蒟蒻（80 公克）、燙芥蘭菜 50 公克 晚點 白木耳湯１碗（不加糖或使用代糖） １公斤的體脂肪可產生 7700 大卡的熱量，若每天減少 500 大卡的熱量攝取，則一週可減少 0.5 公斤 的體脂肪；急速以饑餓節食減重者（１公斤以上／週）通常是肌肉組織及體液的流失，且易發生〔憂憂 症〕，所謂憂憂症即是以饑餓節食的方式減重而未持續減重而使體重上上下下，雖減輕一些體重，但不 久又恢復原來的體重甚至增加體重，即減五公斤又胖回七公斤，於是體重愈減愈重，減重者愈來愈灰心。 大家應該認真思考；您想減的只是公斤數還是脂肪？健康嗎？會復胖嗎？ 最後提醒您，肥胖不是一日造成的；請營養師為您設計一套飲食計劃，千萬不可聽信偏方、廣告宣 傳，以免造成健康的危害。 -- 3 of 3 --",
+      "keywords": [
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/7f95797f-93da-414b-a946-a491f0570d8f.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:38.117Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-17165838f0",
+      "title": "常用中式食物熱量及營養成份表",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "一般衛教",
+      "summary": "食物名稱 每份重量 (公克) 每份熱量 (大卡) 每份提拱 蛋白質(公克) 每份提拱 醣類(公克) 每份提拱 脂肪(公克) 脂肪佔 熱量比(%) 原味蛋餅 117 261 11 34 9 31.0 鮪魚蛋餅 167 389 14 45 17...",
+      "fullContent": "食物名稱 每份重量 (公克) 每份熱量 (大卡) 每份提拱 蛋白質(公克) 每份提拱 醣類(公克) 每份提拱 脂肪(公克) 脂肪佔 熱量比(%) 原味蛋餅 117 261 11 34 9 31.0 鮪魚蛋餅 167 389 14 45 17 39.8 起司蛋餅 140 344 16 35 16 10.8 玉米蛋餅 141 291 12 39 10 30.1 火腿蛋餅 141 294 15 37 10 30.0 鮪魚御飯糰 106 226 6 38 5 21.1 紫米飯糰 202 408 14 61 12 26.7 鍋貼(10 個) 246 747 18 90 35 42.1 油條 45 254 5 16 19 67.9 燒餅 80 257 7 41 7 25.2 煎蘿蔔糕(2 片) 115 355 17 46 12 29.4 饅頭 180 449 14 92 2 4.8 小籠包(6 個) 169 374 11 27 24 58.7 高麗菜生煎包 106 257 9 30 11 39.5 肉包 153 477 15 53 23 43.2 菜包 166 362 5 60 12 29.1 豬肉餡餅 100 323 8 27 20 56.4 高麗菜水餃(10 個) 262 484 16 34 31 58.2 肉圓(大) 207 382 5 61 13 31.4 潤餅 221 410 14 40 21 47.0 蔥油餅(2 片) 143 540 8 62 29 48 蚵仔煎 272 457 14 52 22 42.4 營養三明治 117 261 11 34 9 31.0 皮蛋瘦肉粥 390 166 10 22 4 23.3 資料來源：衛生福利部國民健康署 修訂日：2018/11/05 -- 1 of 1 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/9c602c68-5a75-4d03-8a4e-e4942e383442.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:38.246Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-6c5d436f0e",
+      "title": "肥胖的治療",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "慢性病",
+      "summary": "：不是為了美容，而是為了減少肥胖所併發的疾病，及減肥胖對已知疾病的加重。 ✿肥胖是很多因素包括：遺傳、環境、內分泌造成，是一個慢性過程，也牽涉到心理及社會層面，所以 治療比較複雜。減重的人有 2/3，1 年內再胖回來，5 年後全部人都胖回來...",
+      "fullContent": "：不是為了美容，而是為了減少肥胖所併發的疾病，及減肥胖對已知疾病的加重。 ✿肥胖是很多因素包括：遺傳、環境、內分泌造成，是一個慢性過程，也牽涉到心理及社會層面，所以 治療比較複雜。減重的人有 2/3，1 年內再胖回來，5 年後全部人都胖回來。 ✿那些人需要減重？ ※中等肥胖、很肥胖、內臟肥胖。 ※伴隨其他疾病：葡萄糖耐受不良、糖尿病、高血壓、高血脂、心肺血管疾病、精神社會化功能失常。 ✿治療原則 ※評估每個肥胖者：排除內分泌造成的因素、有無肥胖的併發症、藥物史、之前減重方式、 精神狀態及對減重的期望。 ※生活方式的改變：飲食減少、運動、行為改變。 ※預防再胖回來：減重原則上每週減 0.5~1 公斤，初期減掉體重 10%，避免快速減重。 ※快速減重的併發症：姿態性低血壓、腹瀉、噁心、頭痛、肌肉痛、關節痛、下背痛、心率不整、 死亡、頭髮掉落、皮膚乾燥、疲勞、便秘、怕冷、月經週期改變、 性慾降低、膽囊結石、肝功能異常、肌酸酐增加。 ✿治療方式 1.生活方式的改變：飲食、運動、行為改變。 2.藥物及手術。 3.避免其他不正確的方式。 ✿✿飲食療法：是最重要而最有效、持久的方式 ※低脂肪食物：脂肪佔熱量＜25%。 ※原則：少量多餐、高纖維、略高的碳水化合物。 ※LCD(低卡飲食)：800~1200kcal/天，門診可以做。 ※VLCD(極低卡飲食)：400~800kcal/天，須住院，有嚴格標準及病人限制，副作用較多，保留給極肥 胖的病人。一公斤≒7500kcal、100kcal/天，36500kcal/年，5kg/年 ※低於以年齡為根據的最低推薦飲食，沒有更進一步的減重效果。 ✿✿運動 ※並不是最初最重要的方法，但可加強減重效果，最重要的是可以維持已減的體重。 ※運動可以增加熱量的消耗，且可減少挑食-較會吃高碳水化合物，較少吃高脂肪食物。 ※不同的運動方式影響熱量的消耗不同，穿插型的運動方式(高密度運動低密度運動)比連續型的運 動方式（低或中密度運動）更能減輕體重及脂肪。 ✿✿行為改變 ※精神心理不是肥胖的主要的原因，但行為改變(修飾)，可以分析什麼樣的環境會有吃的慾望及吃對肥 胖者有無特殊意義，就可幫助減輕體重。 ※須專家及團體來提供建議及諮詢。 ✿✿肥胖的藥物 ※抑制食慾的藥物（Anorexic Drugs） 擬正交感神經素藥物(Noradrenergic drug)、影響血胺酸代謝的藥物(Serotoninergic drug) 兩者合併使用：共有兩種作用藥物。 Sibutramine：不會有高血壓及心瓣膜異常作用，其他副作用：口乾、便秘、失眠。 ※增加能量消耗的藥物（Thermogenic drug） 麻黃素、咖啡因、β3-adrenergic Drug ※影響食物的吸收及代謝 α-gluco sidese、Metformin、Orlistat（tetreahyurolipstatin） 作用：為胰臟脂肪酵素抑制劑，抑制脂肪的吸收。 副作用：胃腸障礙-脂便、排便次數增加、腹痛賬、軟便、膽結石、 脂溶性維生素的流失（VITA、D、E、K、β-carotene） 禁用：1、孕婦、未滿十八歲 2、BMI≦30，不併有高血脂、糖尿病、高血壓 3、BMI≦27，併有高血脂、糖尿病、高血壓 -- 1 of 3 -- ※好的減肥藥 1.口服有效果 2.極少副作用 3.減少脂肪的效果與劑量成正比. 4.價格合理 5.有長期效果 6.減少內臟脂肪 ※藥物使用原則 1.BMI≧30kg/m2 2.使用 4-8 週，未減 2 公斤以上，視為失敗，單一藥物失敗，改用其他藥或合併使用。 3.體重下降 5-10%，視為有效. ✿✿外科手術 ※適應症： 1.體重超過理想體重 45 公斤或百分之一百。 2.體積質指「Body Mass Index」＞39kg/m2。 3.體積指數 35 以上，合併有體重減輕可以改善的併發症。 4.至少 5 年以上的肥胖，同時有肥胖引起的不適症狀。 5.曾經保守治療失敗。 6.無嗜酒或主要精神障礙。 7.年齡在 14~60 歲之間，無內分泌系統的問題。 ※方法： 1.小腸截斷或繞道手術： 1980 以後不用。 2.胃繞道術（效果 34.2-68%） 3.胃隔間術（效果 22.1~48%） *腹腔鏡手術 *胃隔間帶（Lapa band） ✿✿中藥及針灸 ※病因病機 1.''膏粱之疾''、''肥人多痰''、''肥人多氣虛''。 2.主由肝、脾、胃和腎之功能失調。 ※辨證分型 1.脾虛濕阻（六君子湯）、胃熱濕阻（防風通聖散）、肝郁氣滯（丹梔逍遙散）、 脾腎兩虛（右歸丸）、陰虛內熱（知柏地黃丸）。 2.原桃介（日本）:虛胖、實胖、虛實中間型 ※治療 虛證：防己黃耆湯、五苓散合九味檳榔湯 實證：防風通聖散、大柴胡湯 虛實中間證：胸脅苦滿，心情急躁者，柴胡加龍骨牡蠣湯 針灸的理論：減少食慾、抑制腸胃消化、增進能量代謝、促進脂肪分解。 多採用耳穴或以耳穴為主，輔以體穴。 三焦、肺、內分泌、交感、饑點、口、脾、食道。 胃中積熱：曲池、內庭、上巨虛。肺、饑點 腸燥便結：曲池、天庭、支溝。肺、大腸 濕困脾胃：陰陽泉、中腕、豐隆。脾、三焦 肝陽上亢：曲池、三陰交、太沖。肝、腎 心脾兩虛：心、脾俞、神門、隱白（灸）。心、脾 肺腎氣虛：脾、肺俞、列缺、復溜。肺、腎 氣陰兩虛：膻中、陰谷、照海。腎、內分泌 中藥：決明子、荷葉、澤瀉、茯苓、防己、防風、黃耆、白朮、何首烏、山楂、茶葉、大黃、 丹參、川芎、生地、當歸、 藥茶方：[何首烏、枸杞、菊花]、[金銀花、菊花、山楂]、[大黃、決明、茵陳、柴胡、薏苡仁] ✿✿其他坊間常見減肥方法 安非他命 特點：抑制下視丘「攝食中樞」，以興奮中樞神經，使不想進食，食慾不好，體重自然下降。 效果評估：1.長期或大量服用會上癮、失眠、便秘，產生視幻覺、聽幻覺等症狀。 2.副作用：話多、緊張、失眠、情緒激動、易怒，少數病人還有自殺、暴力傾向， 造成人格方面嚴重變化及慢性精神病的發生。 3.一旦養成對藥物的依賴性後，停藥時還會有抑鬱情形出現。 瀉藥 特點：間歇地發生腹瀉，並使胃酸減少。 效果評估：1.停止服用，則體重增加。 2.如經常服用，會發生貧血及腸胃疾病。 -- 2 of 3 -- 利尿劑 特點：脫水，體重暫時下降。 效果評估：1.並非減少脂肪。 2.副作用：嘔吐、暈眩、虛弱、血壓下降、引發糖尿病、破壞腎功能，甚至會危及生命。 3.停止服用，體重即回升。 甲狀腺素荷爾蒙 特點：促進新陳代謝功能，使消耗較多熱量，而達到減輕體重。 效果評估：1.只適用於甲狀線功能低下。 2.肥胖病人使用可能引發心臟病、骨質疏鬆、甲狀腺功能亢進。 抽脂術 特點：用手術割除（或吸出）腹部、臀部及過於肥胖部份之過多脂肪。 效果評估：手術後再度發胖；脂肪栓塞。 饑餓法（空腹法） 特點：迅速清除多餘脂肪。 效果評估：不能持久，但造成體負氮平衡，水及電解質大量流失。 高蛋白飲食 特點：產生酮酸抑制食慾中樞。 效果評估：對心臟病、高血壓等不宜，會增加腎臟代謝負擔，可能影響腎臟機能， 長期使用可能會造成骨質疏鬆症、抽筋等。 減肥茶或減肥糖 特點：食慾下降，飲食量減少。 效果評估：1.引起營養不良、虛弱、不能持續長久。 2.不服用時體重又恢復原狀。 減肥菜：肺小支氣管阻塞性病變。 三溫暖、鹽液繃帶、低周波電子、蒸汽浴、繃帶纏指、減肥束腰帶、減肥霜、乳液。 結語： 1. 要有對肥胖的正確認識。 2. 是長期的過程。 3. 要有健康的心理狀態。 4. 減重為醫療行為，能在專業人員的指導下進行。 5. 減肥無萬靈丹，也無速成。避免不正確的減肥方法及金錢浪費。 6. 減重不能影響健康。 7. 飲食、運動及行為改變佔最重要地位。藥物、手術放在最後一線。 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "失眠",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/2c0ad393-b1bb-4a88-a402-278ecaa005e2.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:38.533Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-a1ddca7766",
+      "title": "體重控制食譜",
+      "clinicName": "天主教聖馬爾定醫院",
+      "category": "一般衛教",
+      "summary": "(一週)每日提供熱量 1200 大卡 星期一 星期二 星期三 早 餐 菜 單 /材 料 /熱 量 三明治/全麥土司 2 片、蕃茄 2 片、 鮪魚 30 克、油 5 克/240 卡 精力湯/苜蓿芽、高麗菜、萵苣、 海苔 100 克;柳橙、...",
+      "fullContent": "(一週)每日提供熱量 1200 大卡 星期一 星期二 星期三 早 餐 菜 單 /材 料 /熱 量 三明治/全麥土司 2 片、蕃茄 2 片、 鮪魚 30 克、油 5 克/240 卡 精力湯/苜蓿芽、高麗菜、萵苣、 海苔 100 克;柳橙、奇異果 100 克; 核桃 7 克,黑芝麻 1 湯匙/160 卡。 合計:400 卡 鹹稀飯 1 碗(250 克)、蝦仁 45 克、 香菇絲 20 克、紅蘿蔔絲 20 克、油 5 克/325 卡 楊桃 130 克/60 卡。 合計:385 卡 烤土司 2 片、荷包蛋 1 個、油 5 克、 奶油 5 克、小黃瓜 50 克/320 卡 市售低脂優酪乳 1 瓶/80 卡。 合計:400 卡 午 餐 菜 單 /材 料 /熱 量 三角飯糰 2 個/360 卡 小番茄 23 個/60 卡 合計:420 卡 燴飯/飯 150 克、肉片 1/2 兩、蟹肉 1 兩、刈菜心 50 公克、香油 5 克、太 白粉 1 匙/395 卡 橘子 140 克(1 個)/ 60 卡 合計:455 卡 湯麵/麵條(熟)150 克、豬肉絲 52.5 克、綠豆芽 25 克、韭菜 20 克、香油 5 克/320 卡 小蘋果 1 個(100 克)/ 60 卡 合計:380 卡 晚 餐 菜 單 /材 料 /熱 量 炒/小豆苗 100 克,少許枸杞,油 5 克/70 卡 紅燒牛腱 70 克/120 卡 鳳梨 1 片/60 卡 五穀飯/1/2 碗/140 卡。 合計 390 卡 酸辣湯餃/水餃皮 9 張、絞肉 1 兩、 高麗菜 100 克、蛋 1 個、韭菜 20 克/375 卡 合計 375 卡 饅魚飯/飯 150 克、鰻魚 52.5 克/280 卡 炒/枸杞適量、高麗菜 100 克/25 卡 燙芥蘭菜 100 克/35 卡 美濃瓜 165 克/60 卡 合計 400 卡 星期四 星期五 星期六 早 餐 菜 單 /材 料 /熱 量 湯麵/麵 120 克、肉片 30 克、綠花 菜 50 克、筍片 25 克、紅蘿蔔 25 克、 滷蛋 1 個、香油 2.5 克/318 卡 梨 150 克/60 卡 合計:378 卡 涼麵/細麵條 75 克(生重)、小黃瓜 30 克、紅蘿蔔 20 克、蛋絲 20 克、芝 麻醬 5 克/262 卡 脫脂奶 1 杯(240cc)/ 80 卡 合計:342 卡 饅頭半個、荷包蛋 1 個、油 5 克/260 卡 低脂奶 1 杯/120 卡 合計:380 卡 午 餐 菜 單 /材 料 /熱 量 薏仁飯/飯 80 克、薏仁 20 克/140 卡 滷/牛腩 30 克、白蘿蔔 40 克、紅 蘿蔔 10 克/162 卡 炒/青椒 50 克、金針 15 克、肉絲 35 克、油 5 克/112 卡 涼拌茄子 50 克/12.5 卡 合計:427 卡 炒飯/五穀飯 150 克、雞蛋 1 顆、高 麗菜 30 克、紅蘿蔔絲 20 克、油 5 克 /342 卡 涼拌/蒜泥少許、空心菜 100 克/12 卡 西瓜 300 克/60 卡 合計:414 卡 義大利麵/麵條乾 50 克、山文魚 45 克、油 10 克、義大利麵醬適量/340 卡 燙青江菜 80 克、紅蘿蔔 20 克/25 卡 葡萄 13 個/60 卡 合計:425 卡 晚 餐 菜 單 /材 料 /熱 量 白飯 150 克/210 卡 涼拌盒裝豆腐 80 克/75 卡 沙拉/菜豆 50 克、玉米筍 50 克、 苦瓜 50 克、大蕃茄 50 克、沙拉醬 2 茶匙/95 卡 滷/蒟蒻 50 克/0 卡 合計 375 卡 白飯 150 克/210 卡 烤雞腿 35 克/55 卡 炒/青椒 30 克、肉絲 12 克、金針菇 20 克、油 5 克/82 卡 清蒸/澎湖絲瓜 100 克/25 卡 湯/苦瓜 50 克、大骨 1 支/13 卡 芒果 100 克/60 卡 合計 445 卡 壽司/飯 1/2 碗、四季豆 20 克、紅蘿 蔔 20 克、蛋皮 20 克、黑芝麻少許/215 卡 湯/豆腐 80 克、海帶芽 10 克、味噌 10 克/90 卡 秋葵 100 克/25 卡 水蜜桃 1 個/60 卡 合計 390 卡 星期日 早餐-菜單/材料/熱量 午餐-菜單/材料/熱量 晚餐-菜單/材料/熱量 三明治/全麥土司 2 片、蛋 1/2 個、 苜蓿芽 20 克、番茄片 20 克、洋蔥 片 20 克/230 卡 脫脂奶 1 瓶 240cc/80 卡 合計:310 卡 清蒸/白鯧魚 35 克、薑絲少許/55 卡 炒/竹筍 50 克、肉絲 15 克、油 5 克/85 卡 炒/青椒 50 克、油 5 克、蒜頭 3 顆//57.5 卡 湯/冬瓜 30 克/8 卡 木瓜 190 克/60 卡 飯 150 克/210 卡 合計:476 卡 飯 150 克/210 卡 香菇雞/雞肉 30 克/55 卡 拌炒/青江菜 50 克、油 5 克/57.5 卡 涼拌/空心菜 50 克、油 5 克/57.5 卡 芭樂 1 顆/60 卡 合計 440 卡 -- 1 of 1 --",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.stm.org.tw/diabetes/UploadedFiles/2020/4f2db9ff-2510-452f-99ed-424aec950e28.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:31:38.679Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-ae3eb556a2",
+      "title": "糖尿病之新分類",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "7 Health Network 台大醫網 HEALTH NETWORK -- 1 of 2 -- 15,000 GADA BMI 6-15% 9-20% 11-17% 18- 23% 39-47% vol.16620199 8 發燒話題 ...",
+      "fullContent": "7 Health Network 台大醫網 HEALTH NETWORK -- 1 of 2 -- 15,000 GADA BMI 6-15% 9-20% 11-17% 18- 23% 39-47% vol.16620199 8 發燒話題 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no166/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B9%8B%E6%96%B0%E5%88%86%E9%A1%9E.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:21.701Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-66baeeef2c",
+      "title": "糖尿病藥物介紹",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "1. Biguanides metformin HbA1c Metformin B12 2. Sulfonylureas, SU glimepiride gliquidone gliclazide 30 3. Meglitinide rep...",
+      "fullContent": "1. Biguanides metformin HbA1c Metformin B12 2. Sulfonylureas, SU glimepiride gliquidone gliclazide 30 3. Meglitinide repaglinide 15-30 4. -glucosidase inhibitor acarbose 5. thiazolidinediones, TZD pioglitazone HCl 6. 4 dipeptidyl peptidase-4 inhibitor, DPP-4 inhibitor l i n a g l i p t i n s ax a g l i p t i n sitagliptin glucagon like peptide-1 GLP- 1 incretin 13 Health Network 台大醫網 HEALTH NETWORK -- 2 of 3 -- GLP-1 -4 DPP- 4 DPP-4 GLP-1 7. 2 sodium-glucose cotransporter 2 inhibitors, SGLT2 dapagliflozin canagliflozin empagliflozin - 1 glucagon-like peptide 1 receptor agonists GLP1 dulaglutideliraglutide GLP-1 GLP-1 SGLT-2 liraglutide 30 4-6 結語 vol.17020201 14 專題報導 -- 3 of 3 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no170/%E7%B3%96%E5%B0%BF%E7%97%85%E8%97%A5%E7%89%A9%E4%BB%8B%E7%B4%B9.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:21.859Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-d705dae69f",
+      "title": "第二型糖尿病用藥醫病共享決策",
+      "clinicName": "高雄醫學大學附設中和紀念醫院",
+      "category": "慢性病",
+      "summary": "高雄醫學大學附設中和紀念醫院 病歷號碼： 姓名： 出生年月日: 第 1/6 頁 制定日期：2019/02/15 第二次修訂日期：2023/12/28 我剛被診斷第二型糖尿病， 我該使用藥物來控制我的糖尿病嗎？ 糖尿病透過生活型態的調整或配合...",
+      "fullContent": "高雄醫學大學附設中和紀念醫院 病歷號碼： 姓名： 出生年月日: 第 1/6 頁 制定日期：2019/02/15 第二次修訂日期：2023/12/28 我剛被診斷第二型糖尿病， 我該使用藥物來控制我的糖尿病嗎？ 糖尿病透過生活型態的調整或配合藥物的使用，可以有效控制血糖並減少因高 血糖造成的併發症。當醫師診斷您有糖尿病，您可以思考要著手遵循飲食控制及規 律運動等生活型態改變來控制血糖，或合併藥物使用。接下來這份醫病共享決策輔 助工具，可以幫助您了解不同方法的優缺點，您可以思考自己在意的是對生活型態 改變的執行信心、或對使用藥物有顧慮，與您的醫師共同討論， 選出最適合您的治 療方式，幫助您一起面對糖尿病。 初次診斷為第 2 型糖尿病的病人 身體中，胰島素會將血液中葡萄糖帶進人體細胞利用，當胰島素分泌不足或作 用不明顯，葡萄糖就進不到細胞內，而 被擋在血管中導致血糖超過正常。第2 型糖尿病患者，身體雖然可以分泌胰島 素，但所分泌的量可能不夠，或是身體 無法好好利用所分泌的胰島素。長期高 血 糖 帶 來 的 影 響 包 括 周 邊 血 管 併 發 症、小血管併發症(眼睛、腎臟損傷)、 中風和心臟疾病的風險會上升，死亡率 也會跟著上升[1]。然而，糖尿病雖無法 根治，但可以透過飲食與運動之生活型 態調整，搭配醫師給予口服降血糖藥或 疾病介紹： 適用對象 / 適用狀況： 前 言： 決策題目： 醫病共享決策輔助評估表 -- 1 of 6 -- 第 2/6 頁 制定日期：2019/02/15 第二次修訂日期：2023/12/28 胰島素注射等合適的治療，使血糖獲得良好的控制，延緩病程惡化，並預防合併症 發生，維持良好生活品質。糖化血色素(HbA1c)是血糖進入紅血球，和紅血球中血 紅素結合形成，一般紅血球壽命是120天，因此檢測糖化血色素可以知道2~3個月內 平均血糖的狀況。在開始進入醫療選項介紹前，您知道自己最近一次檢驗的糖化血 色素數值是多少嗎 ? 請您依照自己的糖化血色素對照下面的表格，來知道自己的平均血糖值[2]： 糖尿病病人糖化血色素控制的目標值依病人狀況而定，一般而言是 7%以下， 不管採用何種治療方式控制血糖，您都要開始進行生活型態的調整，以下我們提供 了幾個方式提供您思考選擇。 1.生活型態改變，暫不使用藥物： 生活型態改變需要您優先著重在飲食控制及規律運動的調整；在飲食控制方 面，需要學習含醣食物（五穀根莖、水果、奶類）的合適攝取量，可以諮詢營養師 或醫療團隊提供個人化的建議；規律運動可以執行中等強度的有氧運動，建議每週 至少 150 分鐘，不要連續兩天不運動，除了有氧運動外，一週能安排 1-3 次阻力及 伸展運動，效益會更好。 2.改變生活型態，並使用藥物： 糖尿病患者飲食控制及規律運動之生活型態調整是最重要的，但您也可考慮合 併使用藥物，醫師會依您的血糖狀況與您討論藥物使用。藥物包括下列： (1)口服藥物：有許多不同類別的口服糖尿病藥物可協助控制血糖，這些藥物藉著不 同的作用方式，包括減少肝臟將肝醣轉換成葡萄糖、促進胰島素分 泌、增加胰島素敏感度、藉著讓碳水化合物的消化 / 吸收變慢或加強 血糖自我調整來控制血糖[2]。口服藥物大部分需配合飲食，有些要在 飯前使用，有些要在飯後使用；醫師開立藥物時會依您的情況做適當 調整。 (2)腸泌素：是一種注射型之腸道荷爾蒙，在高血糖時會促進胰島素分泌，並抑制昇 醫療選項介紹： -- 2 of 6 -- 第 3/6 頁 制定日期：2019/02/15 第二次修訂日期：2023/12/28 糖素的分泌，來達到調降血糖的作用。但腸泌素的治療，目前健保只給 付在第一線藥物治療效果不佳的病人，若作為第一線用藥須自費。 (3)胰島素：是藉著直接注射胰島素，使葡萄糖能進入細胞內作用，並能減少肝臟將 肝醣轉換成葡萄糖進入血液，因而降低血糖。早期糖尿病病人使用胰島 素，可以保護胰島細胞，對血糖的控制比口服藥物好，併發心血管疾病 引起的死亡率也較低，但使用時須注意可能有低血糖風險或可能有體重 上升的副作用。 □ 我想先調整生活型態，暫不使用藥物，依約定期程，或最遲三個月後回診追蹤。 □ 改變生活型態並使用藥物治療 □ 我還不能決定 選項 考量 改變生活型態 改變生活型態並使用藥物 需遵守飲食控制及規律運動 使用口服藥物 腸泌素治療 胰島素治療 要 做 的 事 1. 學習控制含醣食物的攝 取量。 2. 必須每星期規律的運動 3. 可能會有高血糖未能妥 善下降，須注意血糖值 1. 配 合 醫 師 指 示於飯前或/ 和飯後服藥 2. 視藥物種類 ，注意低血糖 風險。 3. 需 規 律 監 測 血糖。 1. 學習皮下注 射技巧。 2. 需規律監測 血糖。 3. 學習皮下注 射技巧。 4. 低血糖風險 較高，需增 加血糖監測 頻次。 5. 需規律監測 血糖。 步驟一：治療選擇 在此，請透過以下四個步驟來幫助您做決定： 您目前比較想要選擇的方式是： -- 3 of 6 -- 第 4/6 頁 制定日期：2019/02/15 第二次修訂日期：2023/12/28 選項 考量 改變生活型態 改變生活型態並使用藥物 需遵守飲食控制及規律運動 使用口服藥物 腸泌素治療 胰島素治療 用/藥 藥 物 次 劑 數 型 無 口服 / 一天可能數次 針劑 / 每日或 每週一次 針劑 / 每日一次至 四次 優 點 1. 無低血糖風險 2. 配合營養師進行飲食調 整，糖化血色素可降低 0.5-2%[2]。 3. 規律運動六個月可有效 的 使糖化血色素降低 0.59% [4]。 1. 口服，用藥 較方便。 2. 平均約可降 低 0.5-2% 之糖化血色 素 ( 依 藥 物定 )[3]。 1. 有 助 於 體 重 控制。 2. 平 均 約 可 降 低 0.5-1.0% 之 糖 化 血 色 素 [3]。 1. 血 糖 控 制 效 果較佳。 2. 平 均 約 可 降 低 1.0-3.5% 之 糖 化 血 色 素 [3]。 缺 點 1. 調整生活型態對血糖控制 效果因人而異，有可能因 無法達到血糖控制目標， 造成高血糖惡化。 對 重 度 肝 腎 能 不良的病人， 需 考 慮 不 良 影 響，能選擇藥物 種類較 為侷限 1. 需要學習自 我皮下注射 技巧。 2. 2. 健保列為後 3. 線用藥，通 4. 常至少三個 5. 月後才可依 6. 照規範處方 7. ，使用於初始 8. 診療需自費 1. 需要學習自 我皮下注射 技巧。 2. 需配合較密 集的血糖監 測頻率，以 適時調整治 療模式。 副 作 用 無 3. 各類藥物都可 能有短暫副作 用，例如腸胃 道、泌尿生殖 器感染、水腫 等。雖然發生 4. 注意短暫腸胃 道副作用，可 能發生短暫的 噁心及嘔吐不 適。 1. 較容易有低 血糖發生。 2. 體重可能會 增加。 -- 4 of 6 -- 第 5/6 頁 制定日期：2019/02/15 第二次修訂日期：2023/12/28 選項 考量 改變生活型態 改變生活型態並使用藥物 需遵守飲食控制及規律運動 使用口服藥物 腸泌素治療 胰島素治療 機率較低，仍 有適應過程與 注意事項。 請圈選下列考量項目，1 分代表對您完全不同意，5 分代表對您非常同意 考量項目 完全 不同意 非常 同意 我擔心我無法嚴格調整生活型態 1 2 3 4 5 擔心不使用藥物治療，血糖會愈來 愈高 1 2 3 4 5 擔心使用胰島素家人會覺得我的 疾病很嚴重 1 2 3 4 5 擔心不會使用皮下注射針劑 1 2 3 4 5 擔心藥物的副作用 1 2 3 4 5 其他 1 2 3 4 5 ( 以下問題若有任一項”我不確定”，請洽醫護人員再次說明 ) 認知問題 對 不對 不確定 1. 糖化血色素 10%，代表血糖控制得非常好？ 2. 降血糖用藥僅有口服藥可以選擇？ 3. 長期血糖控制不良，不會對身體其他器官造 成影響？ 4. 降血糖藥物可以讓我不用控制飲食，血糖也 步驟三：您對醫療選項的認知有多少？ 步驟二：偏好考量 -- 5 of 6 -- 第 6/6 頁 制定日期：2019/02/15 第二次修訂日期：2023/12/28 可以控制得很好  我已經確認治療方式，我決定選擇：（下列擇一） □我想先從生活型態調整，暫不使用藥物，依約定期程，或最遲三個月後回診 追蹤。 □改變生活型態並使用藥物治療  我目前還無法決定： （下列可複選） □我想要再與我的主治醫師討論我的決定。 □我想要再與其他人（包含配偶、家人、朋友或第二意見提供者…）討論我的 決定。 □對於以上治療方式，我想要再瞭解更多，我的問題有：  本次醫病共享決策討論的過程的滿意度為何？ 非常不滿意 非常滿意 1 2 3 4 5 瞭解更多資訊及資源： ●高醫體系 SDM 平台，網址： ●糖尿病衛教協會衛教資訊網 http://www.tade.org.tw/hei/ ●中華民國糖尿病學會 http://www.endo-dm.org.tw/dia/ 完成以上評估後，您可以 及攜帶此份結果與您的主治醫師討論。 步驟四：您現在確認好醫療方式了嗎？ -- 6 of 6 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.kmuh.org.tw/Web/KMUHDept/Portals/sdm/0100-0160-4%20%2C.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-22",
+      "crawledAt": "2026-05-22T08:36:22.583Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
     }
   ]
 }

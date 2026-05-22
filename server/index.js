@@ -6,6 +6,7 @@ import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 import { chromium } from "playwright";
 import * as cheerio from "cheerio";
+import { PDFParse } from "pdf-parse";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -17,6 +18,7 @@ const oauthStates = new Map();
 const isProduction = process.env.NODE_ENV === "production";
 
 const knownArticleTitles = {
+  "https://www.hc.mmh.org.tw/know_health_view.php?docid=834": "高血壓(Hypertension)",
   "https://www.mmh.org.tw/know_health_view.php?docid=895": "高血壓病患健康出遊去",
   "https://www.mmh.org.tw/child/know_health_view.php?docid=154": "年輕化的第 2 型糖尿病",
   "https://www.mmh.org.tw/child/know_health_view.php?docid=50": "兒童體循環高血壓",
@@ -24,6 +26,9 @@ const knownArticleTitles = {
   "https://www.mmh.org.tw/know_health_view.php?docid=900": "留學體檢與疫苗注意事項",
   "https://health.ntuh.gov.tw/health/new/6487.html": "淺談高血壓藥物",
   "https://health.ntuh.gov.tw/health/new/6260.html": "預防腦中風",
+  "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no166/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B9%8B%E6%96%B0%E5%88%86%E9%A1%9E.pdf": "糖尿病之新分類",
+  "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no170/%E7%B3%96%E5%B0%BF%E7%97%85%E8%97%A5%E7%89%A9%E4%BB%8B%E7%B4%B9.pdf": "糖尿病藥物介紹",
+  "https://www.kmuh.org.tw/Web/KMUHDept/Portals/sdm/0100-0160-4%20%2C.pdf": "第二型糖尿病用藥醫病共享決策",
   "https://www.femh.org.tw/magazine/viewmag?ID=10883": "年長者不容忽視的三高危害",
 };
 
@@ -195,7 +200,12 @@ function pickTitle($, clinicName, url = "") {
       .get()
       .filter((item) => item && !/亞東院訊|我要發問|最新院訊|歷年院訊/.test(item));
     const topicHeading = headings.find((item) => /三高|高血糖|高血脂|糖尿病|高血壓|血壓|衛教|疫苗|照護/.test(item));
-    if (topicHeading) return topicHeading;
+    if (topicHeading || headings[0]) return topicHeading || headings[0];
+  }
+
+  if (url.includes("mercy.org.tw")) {
+    const titleMatch = pageText.match(/標\s*題\s+(.+?)\s+張貼日期/);
+    if (titleMatch?.[1]) return normalizeText(titleMatch[1]);
   }
 
   const candidates = [
@@ -401,10 +411,29 @@ function isZhangrenArticlePage(url) {
   return /zhangrenclinic\.com\.tw\/content-\d+\.html$/i.test(url);
 }
 
+function isStmEducationListPage(url) {
+  return /stm\.org\.tw\/diabetes\/education(?:\.aspx)?\?Typeid=/i.test(url);
+}
+
+function isPdfUrl(url) {
+  return /\.pdf(?:$|\?)/i.test(url);
+}
+
 function discoverArticleTargets({ html, url }) {
+  const $ = cheerio.load(html);
+
+  if (isStmEducationListPage(url)) {
+    const targets = new Map();
+    $('a[href$=".pdf"], a[href*=".pdf?"]').each((_, link) => {
+      const href = absoluteUrl($(link).attr("href"), url);
+      const title = normalizeText($(link).text());
+      if (href && title && !targets.has(href)) targets.set(href, { url: href, title });
+    });
+    return [...targets.values()];
+  }
+
   if (!isZhangrenListPage(url)) return [{ url }];
 
-  const $ = cheerio.load(html);
   const targets = new Map();
 
   $(".news_lists").each((_, card) => {
@@ -427,6 +456,44 @@ function discoverArticleTargets({ html, url }) {
   });
 
   return [...targets.values()];
+}
+
+async function extractPdfArticle({ url, clinicName, title: targetTitle = "" }) {
+  const parser = new PDFParse({ url });
+  try {
+    const result = await parser.getText();
+    const rawText = normalizeText(result.text || "");
+    const title =
+      knownArticleTitles[url] ||
+      cleanTitleCandidate(targetTitle, clinicName) ||
+      cleanTitleCandidate(rawText.split(/\n/).find((line) => normalizeText(line).length >= 3) || "", clinicName) ||
+      clinicName;
+    const cleaned = cleanupArticleText(rawText, title);
+    if (isLowValueArticle({ title, content: cleaned, url })) {
+      throw new Error("略過非完整衛教文章或列表頁。");
+    }
+    const category = classifyArticle(title, cleaned, url);
+    const keywords = keywordize(`${title} ${cleaned.slice(0, 1200)}`);
+    const sourceHash = crypto.createHash("sha1").update(url).digest("hex").slice(0, 10);
+
+    return {
+      id: `crawl-${sourceHash}`,
+      title,
+      clinicName,
+      category,
+      summary: createSummary(cleaned),
+      fullContent: cleaned,
+      keywords,
+      imageUrl: imageForCategory(category, `${title} ${cleaned}`),
+      sourceUrl: url,
+      sourceType: "crawled",
+      publishedAt: new Date().toISOString().slice(0, 10),
+      crawledAt: new Date().toISOString(),
+      excerpt: "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。",
+    };
+  } finally {
+    await parser.destroy();
+  }
 }
 
 function pickPageImage($, url, category, articleText = "", preferredImageUrl = "") {
@@ -802,13 +869,18 @@ app.post("/api/admin/crawl", authRequired, adminRequired, async (req, res) => {
 
   for (const target of uniqueTargets) {
     try {
-      const html = target.html || (await fetchHtml(target.url, mode === "browser"));
-      const article = extractArticle({
-        html,
-        url: target.url,
-        clinicName: source.clinicName,
-        imageUrl: target.imageUrl,
-      });
+      const article = isPdfUrl(target.url)
+        ? await extractPdfArticle({
+            url: target.url,
+            clinicName: source.clinicName,
+            title: target.title,
+          })
+        : extractArticle({
+            html: target.html || (await fetchHtml(target.url, mode === "browser")),
+            url: target.url,
+            clinicName: source.clinicName,
+            imageUrl: target.imageUrl,
+          });
       const existingIndex = nextArticles.findIndex((item) => item.sourceUrl === article.sourceUrl);
       if (existingIndex >= 0) {
         nextArticles[existingIndex] = { ...nextArticles[existingIndex], ...article };
@@ -817,7 +889,9 @@ app.post("/api/admin/crawl", authRequired, adminRequired, async (req, res) => {
       }
       run.found += 1;
     } catch (error) {
-      run.errors.push(`${target.url}: ${error.message}`);
+      if (!String(error.message || "").includes("略過非完整衛教文章或列表頁")) {
+        run.errors.push(`${target.url}: ${error.message}`);
+      }
     }
   }
 
