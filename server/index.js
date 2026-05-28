@@ -53,6 +53,56 @@ const fallbackImages = {
     "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
 };
 
+const fallbackImagePools = {
+  chronic: [
+    "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=900&q=80",
+  ],
+  surgery: [
+    "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1551190822-a9333d879b1f?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=900&q=80",
+  ],
+  vaccine: [
+    "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&w=900&q=80",
+  ],
+  heart: [
+    "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1628595351029-c2bf17511435?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&q=80",
+  ],
+  diabetes: [
+    "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&w=900&q=80",
+  ],
+  clinic: [
+    "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=900&q=80",
+    "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=900&q=80",
+  ],
+};
+
+function stableImageIndex(seed, length) {
+  const hash = crypto.createHash("sha1").update(seed).digest();
+  return hash.readUInt32BE(0) % length;
+}
+
+function pickFallbackImage(poolName, seed) {
+  const pool = fallbackImagePools[poolName] || fallbackImagePools.clinic;
+  return pool[stableImageIndex(seed, pool.length)];
+}
+
 const app = express();
 app.set("trust proxy", 1);
 app.use(cors());
@@ -363,6 +413,16 @@ function cleanupArticleText(text, title) {
 }
 
 function imageForCategory(category, text = "") {
+  const seed = `${category} ${text}`;
+  if (/疫苗|接種|流感|帶狀皰疹|vaccine/i.test(seed)) return pickFallbackImage("vaccine", seed);
+  if (/外科|傷口|手術|處置|導管|節律器|消融|surgery/i.test(seed)) return pickFallbackImage("surgery", seed);
+  if (/高血壓|血壓|心臟|冠狀|心血管|心衰竭|心房|血脂|腎臟|hypertension|heart/i.test(seed)) {
+    return pickFallbackImage("heart", seed);
+  }
+  if (/糖尿病|血糖|胰島素|糖化|低血糖|高血糖|diabetes/i.test(seed)) return pickFallbackImage("diabetes", seed);
+  if (/慢性病|痛風|失眠|代謝|甲狀腺|肥胖|飲食|營養/i.test(seed)) return pickFallbackImage("chronic", seed);
+  if (/綜合診療|診療項目|門診|醫院|診所|clinic/i.test(seed)) return pickFallbackImage("clinic", seed);
+
   if (category === "疫苗") return fallbackImages.vaccine;
   if (category === "外科") return fallbackImages.surgery;
   if (category === "綜合診療") return fallbackImages.clinic;
@@ -529,7 +589,7 @@ function pickPageImage($, url, category, articleText = "", preferredImageUrl = "
   if (category !== "一般衛教") return topicImage;
 
   const badImagePattern =
-    /logo|qrcode|qrserver|top[_-]?up|call|phone|tel|carousel|alldept|回首頁|facebook|instagram|icon|sprite|banner|NTUH_HRC|6456_1|57320002-01/i;
+    /logo|qrcode|qrserver|top[_-]?up|call|phone|tel|carousel|alldept|facebook|instagram|line|share_btn|icon|sprite|banner|NTUH_HRC|6456_1|57320002-01/i;
   const candidates = [
     ...$('meta[property="og:image"], meta[name="twitter:image"]')
       .map((_, element) => $(element).attr("content"))
