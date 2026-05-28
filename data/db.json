@@ -24,7 +24,6 @@
       "baseUrl": "https://www.zhangrenclinic.com.tw/",
       "urls": [
         "https://www.zhangrenclinic.com.tw/zhesuo.html",
-        "https://www.zhangrenclinic.com.tw/",
         "https://www.zhangrenclinic.com.tw/projects.html",
         "https://www.zhangrenclinic.com.tw/contents-1.html",
         "https://www.zhangrenclinic.com.tw/contents-3.html",
@@ -41,7 +40,15 @@
         "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5516",
         "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=7175",
         "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4869",
-        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6218"
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6218",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5455",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4863",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5003",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4859",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5014",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6500",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4806",
+        "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6287"
       ],
       "enabled": true
     },
@@ -56,7 +63,9 @@
         "https://health.ntuh.gov.tw/health/new/6469.html",
         "https://health.ntuh.gov.tw/health/new/5941.html",
         "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no166/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B9%8B%E6%96%B0%E5%88%86%E9%A1%9E.pdf",
-        "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no170/%E7%B3%96%E5%B0%BF%E7%97%85%E8%97%A5%E7%89%A9%E4%BB%8B%E7%B4%B9.pdf"
+        "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no170/%E7%B3%96%E5%B0%BF%E7%97%85%E8%97%A5%E7%89%A9%E4%BB%8B%E7%B4%B9.pdf",
+        "https://health.ntuh.gov.tw/health/forms/01_%E7%B3%96%E5%B0%BF%E7%97%85%E6%87%89%E6%9C%89%E7%9A%84%E8%AA%8D%E8%AD%98.pdf",
+        "https://health.ntuh.gov.tw/health/new/6280.pdf"
       ],
       "enabled": true
     },
@@ -71,7 +80,12 @@
         "https://www.mmh.org.tw/child/know_health_view.php?docid=154",
         "https://www.mmh.org.tw/child/know_health_view.php?docid=50",
         "https://www.mmh.org.tw/know_health_view.php?docid=1404",
-        "https://www.hc.mmh.org.tw/know_health_view.php?docid=834"
+        "https://www.hc.mmh.org.tw/know_health_view.php?docid=834",
+        "https://www.mmh.org.tw/know_health_view.php?docid=184",
+        "https://www.mmh.org.tw/know_health_view.php?docid=1102",
+        "https://www.mmh.org.tw/upload/doc/56/%E9%AB%98%E8%A1%80%E5%A3%93%E8%97%A5%E7%89%A9%E6%B2%BB%E7%99%82%E9%A0%88%E7%9F%A5%28201508%29.pdf",
+        "https://www.mmh.org.tw/upload/health/%E5%BF%83%E8%87%9F%E5%86%A0%E7%8B%80%E5%8B%95%E8%84%88%E7%96%BE%E7%97%85%E8%87%AA%E6%88%91%E7%85%A7%E8%AD%B7%E8%A1%9B%E6%95%99%E6%89%8B%E5%86%8A.pdf",
+        "https://www.mmh.org.tw/upload/health/F1-%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E9%A3%B2%E9%A3%9F%E5%8E%9F%E5%89%871110909.pdf"
       ],
       "enabled": true
     },
@@ -87,7 +101,13 @@
         "https://www.mercy.org.tw/?aid=521&iid=4&page_name=detail&pid=0",
         "https://www.mercy.org.tw/?aid=521&iid=347&page_name=detail",
         "https://www.mercy.org.tw/?aid=521&iid=298&page_name=detail&pid=0",
-        "https://www.mercy.org.tw/?aid=521&iid=47&page_name=detail&pid=0"
+        "https://www.mercy.org.tw/?aid=521&iid=47&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=249&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=59&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=246&page_name=detail",
+        "https://www.mercy.org.tw/?aid=521&iid=274&page_name=detail",
+        "https://www.mercy.org.tw/?aid=521&iid=315&page_name=detail&pid=0",
+        "https://www.mercy.org.tw/?aid=521&iid=159&page_name=detail&pid=0"
       ],
       "enabled": true
     },
@@ -110,9 +130,8 @@
       "clinicName": "奇美醫院",
       "baseUrl": "https://www.chimei.org.tw/",
       "urls": [
-        "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360005.html",
-        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320002.html",
-        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320108.html"
+        "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/7320.html",
+        "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/7360.html"
       ],
       "enabled": true
     },
@@ -136,7 +155,8 @@
         "https://www.femh.org.tw/magazine/viewmag?ID=10883",
         "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11810",
         "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11946",
-        "https://www.femh.org.tw/magazine/viewmag.aspx?ID=7643"
+        "https://www.femh.org.tw/magazine/viewmag.aspx?ID=7643",
+        "https://www.femh.org.tw/HEPUnload/20250127142846.pdf"
       ],
       "enabled": true
     }
@@ -1165,6 +1185,76 @@
       "found": 2,
       "errors": [],
       "finishedAt": "2026-05-22T08:36:22.584Z"
+    },
+    {
+      "id": "run-1779973417009",
+      "sourceId": "src-cmuh",
+      "mode": "http",
+      "startedAt": "2026-05-28T13:03:37.009Z",
+      "status": "completed",
+      "found": 12,
+      "errors": [],
+      "finishedAt": "2026-05-28T13:03:39.673Z"
+    },
+    {
+      "id": "run-1779973419701",
+      "sourceId": "src-ntuh",
+      "mode": "http",
+      "startedAt": "2026-05-28T13:03:39.701Z",
+      "status": "completed",
+      "found": 9,
+      "errors": [],
+      "finishedAt": "2026-05-28T13:03:41.319Z"
+    },
+    {
+      "id": "run-1779973421345",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-28T13:03:41.345Z",
+      "status": "completed",
+      "found": 12,
+      "errors": [],
+      "finishedAt": "2026-05-28T13:03:42.947Z"
+    },
+    {
+      "id": "run-1779973422970",
+      "sourceId": "src-mercy",
+      "mode": "http",
+      "startedAt": "2026-05-28T13:03:42.970Z",
+      "status": "completed",
+      "found": 14,
+      "errors": [],
+      "finishedAt": "2026-05-28T13:03:44.516Z"
+    },
+    {
+      "id": "run-1779973424544",
+      "sourceId": "src-chimei",
+      "mode": "http",
+      "startedAt": "2026-05-28T13:03:44.544Z",
+      "status": "completed",
+      "found": 37,
+      "errors": [],
+      "finishedAt": "2026-05-28T13:03:46.639Z"
+    },
+    {
+      "id": "run-1779973427141",
+      "sourceId": "src-femh",
+      "mode": "http",
+      "startedAt": "2026-05-28T13:03:47.141Z",
+      "status": "completed",
+      "found": 7,
+      "errors": [],
+      "finishedAt": "2026-05-28T13:03:48.829Z"
+    },
+    {
+      "id": "run-1779973662663",
+      "sourceId": "src-mackay",
+      "mode": "http",
+      "startedAt": "2026-05-28T13:07:42.663Z",
+      "status": "completed",
+      "found": 12,
+      "errors": [],
+      "finishedAt": "2026-05-28T13:07:44.735Z"
     }
   ],
   "articles": [
@@ -1189,29 +1279,6 @@
       "sourceType": "crawled",
       "publishedAt": "2026-05-22",
       "crawledAt": "2026-05-22T08:12:00.012Z",
-      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
-    },
-    {
-      "id": "crawl-b74eedf5cc",
-      "title": "彰仁外科家醫科診所",
-      "clinicName": "彰仁外科家醫科診所",
-      "category": "慢性病",
-      "summary": "*可左右滑動查看門診時間* 週一 週二 週三 週四 週五 週六 週日 上午 08:30-12:00 V V V V V V 休 下午 14:30-18:00 V V V V V V 休 晚上 19:00-21:00 V V V V V V ...",
-      "fullContent": "*可左右滑動查看門診時間* 週一 週二 週三 週四 週五 週六 週日 上午 08:30-12:00 V V V V V V 休 下午 14:30-18:00 V V V V V V 休 晚上 19:00-21:00 V V V V V V 休 ※停診公告請於臉書專頁查詢※ 地址：台中市沙鹿區大同街65號 電話：04-26622902 本網站依據(醫療機構網際網路資訊管理辦法)規定：禁止任何網際網路服務業者轉錄其網路資訊之內容供人點閱。但以網路搜尋或超連結方式，進入醫療機構之網址(域)直接點閱者，不在此限。 沙鹿甲溝炎 · 梧棲外傷換藥、龍井外傷換藥 · 沙鹿糖尿病診所、高血壓診所、失眠診所 · 沙鹿腸胃炎專治 · 沙鹿疼痛治療",
-      "keywords": [
-        "糖尿病",
-        "高血壓",
-        "失眠",
-        "外傷",
-        "換藥",
-        "甲溝炎",
-        "腸胃炎"
-      ],
-      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
-      "sourceUrl": "https://www.zhangrenclinic.com.tw/",
-      "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:12:00.016Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1261,8 +1328,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5516",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:03.167Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.549Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1278,8 +1345,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=7175",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:03.218Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.561Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1295,8 +1362,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/6456.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:21.520Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.850Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1304,16 +1371,16 @@
       "title": "一般外科",
       "clinicName": "馬偕紀念醫院",
       "category": "一般衛教",
-      "summary": "衛教資訊 更新日期：2020-04-01 1322 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部...",
-      "fullContent": "衛教資訊 更新日期：2020-04-01 1322 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部創傷 腹膜透析 減重手術 常見疾病介紹-(二)乳房外科 乳癌診療之原則與新趨勢 乳癌治療之原則 乳癌診斷之新趨 乳癌治療之新趨勢 如何選擇取得細胞或組織的方法以診斷乳癌 乳癌手術治療 乳癌的理學檢查與工具 荷爾蒙與乳癌 常見疾病介紹-(三)甲狀腺疾病 甲狀腺手術常見問題 甲狀腺疾病的手術治療 甲狀腺機能亢進手術 常見疾病介紹-(四)周邊血管 何謂靜脈區張 雷射手術(LASER)治療",
+      "summary": "衛教資訊 更新日期：2020-04-01 1328 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部...",
+      "fullContent": "衛教資訊 更新日期：2020-04-01 1328 SHARE TAGS 常見疾病介紹-(一)胃腸肝膽 ※胃腸道疾病及腫瘤 認識胃癌 胃癌的診斷與治療 胃術後症候群 胃的基本介紹 膽囊疾病 肝臟疾病及腫瘤 腹腔鏡疝氣手術 ※疝氣 疝氣 腹部創傷 腹膜透析 減重手術 常見疾病介紹-(二)乳房外科 乳癌診療之原則與新趨勢 乳癌治療之原則 乳癌診斷之新趨 乳癌治療之新趨勢 如何選擇取得細胞或組織的方法以診斷乳癌 乳癌手術治療 乳癌的理學檢查與工具 荷爾蒙與乳癌 常見疾病介紹-(三)甲狀腺疾病 甲狀腺手術常見問題 甲狀腺疾病的手術治療 甲狀腺機能亢進手術 常見疾病介紹-(四)周邊血管 何謂靜脈區張 雷射手術(LASER)治療",
       "keywords": [
         "減重"
       ],
       "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=133",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:04.046Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.498Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1327,8 +1394,8 @@
       "imageUrl": "https://www.mmh.org.tw/gi/images/index_01.jpg",
       "sourceUrl": "https://www.mmh.org.tw/gi/index4_2_2.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:04.050Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.500Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1347,8 +1414,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=334&page_name=detail&pid=0",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.114Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.486Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1366,8 +1433,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360005.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.575Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.706Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1384,8 +1451,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320002.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.584Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.884Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1402,8 +1469,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.kmuh.org.tw/www/kmcj/data/11412/11.htm",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:22.175Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.735Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1421,8 +1488,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=3812",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:08.110Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:48.604Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1439,8 +1506,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag?ID=11185",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:08.121Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:48.610Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1456,8 +1523,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=895",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:04.056Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.503Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1465,8 +1532,8 @@
       "title": "年輕化的第 2 型糖尿病",
       "clinicName": "馬偕紀念醫院",
       "category": "慢性病",
-      "summary": "2023-05-17 20026 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然...",
-      "fullContent": "2023-05-17 20026 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然而近年來世界上許多國家的醫師都發現，第 2 型糖尿病的病例有越來越年輕化的趨勢，亞洲地區的發生率更高於歐美。過去一般大眾對糖尿病的刻板印象總覺得是年紀大的人才會得的 病，年輕人不會有這種病。然而隨著生活型態的變化，飲食越來越精緻而豐盛，運動的時間常被看電視、打線上遊戲取代，肥胖的年輕人越來越多，第 2 型糖尿病的發病年齡也越來越年輕，甚至連青少年都有可能發生！近年來在門診看到有些因為學校尿液篩檢有尿糖而來檢查的孩子，他們和第 1 型糖尿病的孩子顯然不太相同，第 1 個不同是體型壯碩肥胖，第 2 個不同是脖子後側的皮膚特別黑且紋路特別深，像一條帶狀一直延伸到脖子兩側，是典型的「黑棘皮症」。「黑棘皮症」常出現在頸部，也會出現在腋下、鼠蹊部，更嚴重的人肘、膝關節彎曲側都有。曾經有位母親還幫孩子使用「去角質」的美容產品，但是還是去不掉。事實上，「黑棘皮症」是體內過多的胰島素刺激局部皮膚的黑色素沉積造成的，並不是洗不乾淨或是曬黑的。為什麼體內會有過多的胰島素呢？那是因為當我們越來越胖，身上的脂肪組織越來越多，就會增高胰島素的阻抗性。初期可以維持血糖在正常值，但是久而久之胰島細胞不勝負荷，血糖就會升高，第 2 型糖尿病就悄悄發生了。 為什麼形容第 2 型糖尿病是「悄悄發生」呢？許多第 2 型糖尿病人在知道自己有糖尿病之 前，已經有一段時間吃完大餐或甜食之後會比較多尿且口渴，但是除此之外沒有任何嚴重的病 痛。過去我們照顧第 1 型糖尿病童的經驗告訴我們，糖尿病五年以上有可能發生微小血管病變， 要開始做視網膜的檢查；但是有些成人的第 2 型糖尿病人卻是在診斷的同時已經有視網膜的病變 了，這暗示了我們第 2 型糖尿病很可能已經悄悄發生很長一段時間了！ 台灣的青少年第 2 型糖尿病人多不多呢？根據 1992 年到 1996 年的全國 6-18 歲學童尿液篩檢 發現，第 2 型糖尿病佔了新診斷的糖尿病的 54.2%，相關因子包括高膽固醇、高血壓和第 2 型糖 尿病家族史。根據這次報告推算學童第 2 型糖尿病發生率是十萬分之 6.5，高於第 1 型糖尿病的發生率(十萬分之 1.5)。這些孩子的症狀不顯著，他們初期空腹血糖正常，飯後會有短暫時間高血 糖，會多尿多渴， 但不容易出現像第 1 型糖尿病童那樣危急的酮酸症，因此很多孩子在做檢查之前完全不知道自己有糖尿病。如前所述，肥胖是這群孩子的共同點。 根據美國糖尿病學會的建議，年齡十歲以上或是已進入青春期，體重過重，加上有兩項高危險因子的孩子應該做血糖檢察。高危險因子有哪些呢？第 2 型糖尿病家族史，種族(美國原住民和亞裔、太平洋島裔和非洲裔)，胰島素的阻抗性症狀(黑棘皮症、高血脂、高血壓、多囊泡卵巢症)。大家可以發現，我們亞洲人就已經有一項危險因子了。 馬偕醫院曾針對 22 位第 2 型糖尿病孩童(平均年齡 11.7 歲)，237 位肥胖孩童(平均年齡 11.6 歲) 以及 42 個對照組健康孩童(平均年齡 12.1 歲)進行身體檢查，研究結果發現第 2 型糖尿病組 18 % 過重，68%肥胖，64%有黑棘皮症。第 2 型糖尿病組比對照組有較高的胰島素阻抗性、較高的血 脂肪。第 2 型糖尿病組和肥胖組的血液生化值除了前者血糖較高，其他項目無差異。由此研究結果可以發現，肥胖對孩子真的不是福。即使血糖尚未達到糖尿病的診斷，肥胖的孩子已經比一般孩子的胰島素阻抗性高、血脂肪高。此外，肥胖兒童容易發生脂肪肝，潛藏了將來發生肝硬化的風險。高尿酸和痛風也不再是成年人的專利，肥胖的青少年也有機會發生。 青少年第 2 型糖尿病如何治療呢？基本原則是飲食、運動和藥物同步進行。有些孩子一開始 就像第 1 型糖尿病一樣發生酮酸中毒，需要注射胰島素。同樣是第 2 型糖尿病，但每個人的體質不同，當孩子使用口服降血糖藥物一段時間效果不彰時，應該開始注射胰島素。積極減重對控制第 2 型糖尿病非常重要，需要家人和同儕一起幫助、鼓勵他們。雖然他們即使血糖很高，仍不容易發生酮酸症，但是這樣表現溫和的疾病特色，反而是最危險的陷阱！最近韓國、澳洲和紐西蘭所發表的長期追蹤報告發現，發病 5-10 年後，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人出 現微小血管病變的比例更高。日本發表的一個報告指出，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人 30 年後發生腎病變的比例更高，其中少數個案在接近 30 歲時已需洗腎。為什麼看似溫 和的第 2 型糖尿病反而對身體傷害更嚴重呢？分析其原因就在於症狀溫和，所以這群孩子容易在治療一段時間之後失去耐性，不再定期追蹤。糖尿病是體質加上環境因素造成的慢性疾病，如果好好治療，仍然可以長壽又健康，值得大家一起來努力。",
+      "summary": "2023-05-17 20125 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然...",
+      "fullContent": "2023-05-17 20125 TAGS 一直以來，糖尿病被認為是一種中老年人的疾病。如果發生在兒童和青少年，九成以上是第 1 型糖尿病。(第 1 型糖尿病好發於兒童和青少年，是因為自體免疫破壞了調控血糖的胰島細胞，須以胰島素治療。) 然而近年來世界上許多國家的醫師都發現，第 2 型糖尿病的病例有越來越年輕化的趨勢，亞洲地區的發生率更高於歐美。過去一般大眾對糖尿病的刻板印象總覺得是年紀大的人才會得的 病，年輕人不會有這種病。然而隨著生活型態的變化，飲食越來越精緻而豐盛，運動的時間常被看電視、打線上遊戲取代，肥胖的年輕人越來越多，第 2 型糖尿病的發病年齡也越來越年輕，甚至連青少年都有可能發生！近年來在門診看到有些因為學校尿液篩檢有尿糖而來檢查的孩子，他們和第 1 型糖尿病的孩子顯然不太相同，第 1 個不同是體型壯碩肥胖，第 2 個不同是脖子後側的皮膚特別黑且紋路特別深，像一條帶狀一直延伸到脖子兩側，是典型的「黑棘皮症」。「黑棘皮症」常出現在頸部，也會出現在腋下、鼠蹊部，更嚴重的人肘、膝關節彎曲側都有。曾經有位母親還幫孩子使用「去角質」的美容產品，但是還是去不掉。事實上，「黑棘皮症」是體內過多的胰島素刺激局部皮膚的黑色素沉積造成的，並不是洗不乾淨或是曬黑的。為什麼體內會有過多的胰島素呢？那是因為當我們越來越胖，身上的脂肪組織越來越多，就會增高胰島素的阻抗性。初期可以維持血糖在正常值，但是久而久之胰島細胞不勝負荷，血糖就會升高，第 2 型糖尿病就悄悄發生了。 為什麼形容第 2 型糖尿病是「悄悄發生」呢？許多第 2 型糖尿病人在知道自己有糖尿病之 前，已經有一段時間吃完大餐或甜食之後會比較多尿且口渴，但是除此之外沒有任何嚴重的病 痛。過去我們照顧第 1 型糖尿病童的經驗告訴我們，糖尿病五年以上有可能發生微小血管病變， 要開始做視網膜的檢查；但是有些成人的第 2 型糖尿病人卻是在診斷的同時已經有視網膜的病變 了，這暗示了我們第 2 型糖尿病很可能已經悄悄發生很長一段時間了！ 台灣的青少年第 2 型糖尿病人多不多呢？根據 1992 年到 1996 年的全國 6-18 歲學童尿液篩檢 發現，第 2 型糖尿病佔了新診斷的糖尿病的 54.2%，相關因子包括高膽固醇、高血壓和第 2 型糖 尿病家族史。根據這次報告推算學童第 2 型糖尿病發生率是十萬分之 6.5，高於第 1 型糖尿病的發生率(十萬分之 1.5)。這些孩子的症狀不顯著，他們初期空腹血糖正常，飯後會有短暫時間高血 糖，會多尿多渴， 但不容易出現像第 1 型糖尿病童那樣危急的酮酸症，因此很多孩子在做檢查之前完全不知道自己有糖尿病。如前所述，肥胖是這群孩子的共同點。 根據美國糖尿病學會的建議，年齡十歲以上或是已進入青春期，體重過重，加上有兩項高危險因子的孩子應該做血糖檢察。高危險因子有哪些呢？第 2 型糖尿病家族史，種族(美國原住民和亞裔、太平洋島裔和非洲裔)，胰島素的阻抗性症狀(黑棘皮症、高血脂、高血壓、多囊泡卵巢症)。大家可以發現，我們亞洲人就已經有一項危險因子了。 馬偕醫院曾針對 22 位第 2 型糖尿病孩童(平均年齡 11.7 歲)，237 位肥胖孩童(平均年齡 11.6 歲) 以及 42 個對照組健康孩童(平均年齡 12.1 歲)進行身體檢查，研究結果發現第 2 型糖尿病組 18 % 過重，68%肥胖，64%有黑棘皮症。第 2 型糖尿病組比對照組有較高的胰島素阻抗性、較高的血 脂肪。第 2 型糖尿病組和肥胖組的血液生化值除了前者血糖較高，其他項目無差異。由此研究結果可以發現，肥胖對孩子真的不是福。即使血糖尚未達到糖尿病的診斷，肥胖的孩子已經比一般孩子的胰島素阻抗性高、血脂肪高。此外，肥胖兒童容易發生脂肪肝，潛藏了將來發生肝硬化的風險。高尿酸和痛風也不再是成年人的專利，肥胖的青少年也有機會發生。 青少年第 2 型糖尿病如何治療呢？基本原則是飲食、運動和藥物同步進行。有些孩子一開始 就像第 1 型糖尿病一樣發生酮酸中毒，需要注射胰島素。同樣是第 2 型糖尿病，但每個人的體質不同，當孩子使用口服降血糖藥物一段時間效果不彰時，應該開始注射胰島素。積極減重對控制第 2 型糖尿病非常重要，需要家人和同儕一起幫助、鼓勵他們。雖然他們即使血糖很高，仍不容易發生酮酸症，但是這樣表現溫和的疾病特色，反而是最危險的陷阱！最近韓國、澳洲和紐西蘭所發表的長期追蹤報告發現，發病 5-10 年後，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人出 現微小血管病變的比例更高。日本發表的一個報告指出，青少年發病的第 2 型糖尿病人比第 1 型糖尿病人 30 年後發生腎病變的比例更高，其中少數個案在接近 30 歲時已需洗腎。為什麼看似溫 和的第 2 型糖尿病反而對身體傷害更嚴重呢？分析其原因就在於症狀溫和，所以這群孩子容易在治療一段時間之後失去耐性，不再定期追蹤。糖尿病是體質加上環境因素造成的慢性疾病，如果好好治療，仍然可以長壽又健康，值得大家一起來努力。",
       "keywords": [
         "糖尿病",
         "高血壓"
@@ -1474,8 +1541,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/child/know_health_view.php?docid=154",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:04.068Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.510Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1483,8 +1550,8 @@
       "title": "兒童體循環高血壓",
       "clinicName": "馬偕紀念醫院",
       "category": "慢性病",
-      "summary": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 86172 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著...",
-      "fullContent": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 86172 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著國人飲食西化，高油高鹽的食物充斥，有愈來愈多的學童有肥胖問題，因此兒童高血壓的比率也逐年上升。近年各國學齡兒童高血壓之盛行率約為1-3.5％，血壓偏高(舊的說法是高血壓前期盛行率約在2.2-3.5%)。在特定族群：像是早產兒、肥胖的小朋友（obesity 4-14%, over weight 11-23%）、睡眠呼吸中止症候群患者（3.6-14%）、慢性腎臟疾病的病友（50%）和糖尿病童（T1DM 4-16% ; T2DM 12-31%），他們的盛行率也都比較高。 Q2. 兒童高血壓會有哪些症狀呢？ 除非高血壓危象或是危急型高血壓，兒童高血壓多半沒有症狀，常常是學校篩檢，或者到醫院因為某些需要檢測血壓才發現，在較大的兒童比較常聽到可能相關的症狀有頭暈、頭痛、視力模糊、厭食嘔吐等，嚴重時可能造成癲癇發作、腎衰竭、高血壓腦病變及心血管問題。因此，目前美國兒科醫學會的治療指引建議，超過三歲的兒童就醫時建議至少每年量測一次血壓。 Q3. 兒童高血壓的定義？如何診斷？ 兒童沒辦法和成人用統一標準，必須根據性別、年齡和身高做校正。未滿13歲，根據美國兒童醫學會2017年治療準則：兒童時期高血壓的定義，以血壓（收縮壓或舒張壓）位於同年齡層及身高群正常血壓曲線介於90個與95個百分位數之間者，為血壓增加患者，超過95個百分位數時為第一期高血壓，超過（95個百分位數 + 12毫米汞柱）時為第二期高血壓。超過13歲則按照成人標準，收縮壓大於130毫米汞柱或舒張壓大於80毫米汞柱就算第一期高血壓。兒童要診斷高血壓，不能依賴家中血壓測量值，而是要在兒科門診至少有三次不同時間，且心平氣和的狀態下測量到高血壓才能診斷。不過小朋友只要曾經有測到血壓偏高，就有再測量必要，因為血壓偏高的兒童，將來有很大的機會成為真正高血壓患者。 正常的血壓，隨著性別、年齡以及身高(長)不同而有所差異表 1.不同年齡層的正常血壓值 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 新生兒 80 46 7-8 歲 102 56 6 月-1 歲 89 60 8-9 歲 105 57 1 歲 96 66 9-10 歲 107 57 2 歲 99 64 10-11 歲 111 58 3 歲 100 67 11-12 歲 113 59 4 歲 99 65 12-13 歲 115 59 5-6 歲 94 55 13-14 歲 118 60 6-7 歲 100 56 Q4. 如何測量兒童的血壓？ 測量血壓時，要注意測量的方式，尤其是加壓帶（壓脈帶）的大小，需要根據小朋友的體型做挑選，加壓帶充氣及放氣之速率和受測者當時之情緒等狀況，因為這些都會影響到血壓的測量數值。正統的測量血壓以水銀血壓計為主，選擇適合的加壓帶，但較小的嬰幼兒可利用都卜勒超音波或振動描記器等方式，來測量血壓。適合的加壓帶以能覆蓋上臂的2/3為原則。測量前受測者應安靜休息十至廿分鐘；先快速打氣加壓到脈搏消失後，再加壓上升30度，然後以每秒下降2-3度的速度放氣減壓，才可得到一個較標準的測量。如果血壓超過90百分位，應該要改用水銀血壓計合併聽診器的操作來測量。除了前面描述，建議三歲起一年量一次血壓之外，對於高危險族群（肥胖、腎臟疾病、糖尿病、主動脈弓狹窄、長期使用血壓可能增加的藥物患者）每次門診建議都量血壓。如果小於三歲而患有先天性心臟病、反覆泌尿道感染、尿路結構異常、器官移植或骨髓移植患者、癌症病童、神經纖維瘤、結節性硬化症、鐮刀型紅血球等、低體重或＜32週早產兒(曾經放置臍靜脈管路)、顱內壓增高患者，也是建議每次看診都要量血壓。 Q5. 兒童高血壓的成因？ 常因為是心輸出量的增加及周邊血管阻力的上升造成。高血壓可區分為原發性、繼發性。原發性高血壓（又稱作本態性高血壓）常指不明原因（可能相關的因素有很多，包括年齡、肥胖、高血糖症、高尿酸症、遺傳、食鹽、藥物、環境和發育）造成，成人期的高血壓多為原發性高血壓，高血壓的家族史常常很強烈，兒童6歲以下原發性高血壓的機會較低，但6歲以上的兒童青少年，近年因為飲食西化、肥胖的關係，有日益增加的趨勢。而繼發生高血壓的原因則相當多，例如例如腎臟、心臟血管、內分泌等系統出問題。過去教科書都說腎臟疾病相關高血壓在兒童佔七成，心血管佔一成，原發性只有0.5%，但最近根據健保資料庫的分析，台灣18歲以下診斷高血壓的分類看起來，原發性高血壓佔比已經超過繼發性高血壓。以目前資料來看，年紀越輕的高血壓（六歲以下）或是高血壓嚴重程度越大的病童，為次發性的機會比較高，所以如果不到六歲就被發現有血壓問題，醫師端會比較積極的做詳細的檢查。反之如果高血壓年紀較大，肥胖，有很強的家族高血壓病史，原發性的機會大增，除非身體診察有特殊發現，不然需要做一大堆檢查的機會較低。 原發性高血壓：在幼兒少見。常可以依血清中 Renin 的活性來分類。在不同種族間造成因素也可能不同。在黑人中，常因周邊血管阻力上升。而在白人，則是心輸量增加。 繼發性高血壓：在兒童稍為常見。形成的原因隨年齡不同而異。在新生兒方面，常因高位的臍動脈導管及腎動脈阻塞造成。在患有繼發性高血壓的病童中約有 70－80％有腎臟的疾病，另外有 25－50％的病童有泌尿道感染的病史。因此腎臟的疾病常造成病童的高血壓的重要原因之一。 Q6. 評估 目前高血壓病童的評估： ＊All patients: 尿液分析、抽血（電解質、尿素氮、腎功能、空腹或非空腹血脂肪檢查）、小於六歲、腎功能異常、尿液分析異常者安排腎臟超音波 ＊肥胖兒童（BMI > 95百分位）：加驗醣化血色素（HbA1C）、肝功能（AST, ALT）、空腹血脂肪檢測 ＊依照病史調整之檢查項目：空腹血糖、促甲狀腺素（TSH）、藥物毒物篩檢、睡眠檢查（睡眠呼吸中止）、CBC Q7. 高血壓帶來的問題 兒童期高血壓的病童，成年後也容易是高血壓的患者，長期不論是缺血性心臟疾病、心衰竭、腦血管疾病、血管壁硬化、以及長期死亡率都會增加。因此我們需要評估兒童高血壓是否對身體器官已經造成影響，會需要評估是否出現蛋白尿、高血壓視網膜病變、左心室肥大、頸動脈內層中曾增厚以及血管硬化，其中左心室肥大是器官收傷害最明顯的證據，在想要使用藥物的時候就應該做心臟超音波評估左心室的狀況，之後每半年至一年定期複診。 Q8. 治療 兒童高血壓所帶來的身體器官影響，如果好好控制血壓是常常是可逆的。所有的病人一定要做的：治療性的生活習慣改變（包括飲食、規律的有氧運動以及好的睡眠習慣）、以家庭為基礎的介入治療、避免刺激血壓升高的藥物使用 ＊飲食：DASH (dietary approaches to stop hypertension) diet – 大量蔬果、低脂乳製品、全穀類、魚、家禽、豆類、堅果類、瘦肉(紅肉)、少糖、少鹽 ＊限鹽：增加鹽分的攝取會使各年齡層的血壓上升；目前建議：4-8 歲的兒童一天的鈉攝取在每天1.2g (3 克鹽)，超過8歲兒童鈉攝取一天不要超過1.5g (5 克鹽)，如果需要的話可以轉介營養師做飲食指導跟諮詢 ＊減重：肥胖相關的高血壓迫切需要，減重可以使血壓下降，也可以改善血壓對鹽分的敏感性，還可以減少其他心血管疾病風險（如高血脂、胰島素抗性） ＊規律運動：在成人規律運動對於預防甚至治療高血壓有重要腳色，而在兒童身上，建議每週3-5天中至高強度的有氧運動，每次至少要30-60分鐘（持之以恆平均可以讓血壓下降6.6 mmHg），不過任何形式的運動（有氧、無氧、混合都還是對血壓的控制有幫助）。越能控制身材、身形、越能夠減緩血壓的上升． ＊藥物治療：有症狀、次發性高血壓、第二期高血壓、器官已經有損傷、糖尿病、慢性腎臟疾病、生活型態調整超過半年仍沒有效果。 ＊治療目標：希望血壓＜90個百分位 or < 130/80 mmHg（慢性腎臟病、糖尿病之病童）（器官已經出現影響的個案，例如左心室肥大的的情況）（青少年長期還是希望血壓能控制在＜130/80 mmHg） 常見高血壓治療藥物 Drug Mechanism of action Dosage range Route Duration Vasodilator Hydralazine Relax arteriolar smooth muscle 0.4-0.8 mg/kg/dose IV 2-4hr 0.5-2 mg/kg increase to max 200 mg/24 hr PO 6-8hr Diazoxide Relax smooth muscle 2-5 mg/kg/dose，max 100mg IV 6-24hr Nitroprusside Dilatation of arterioles and venules 0.5-0.8 ug/kg/min IV with infusion Minoxidil Arteriolar dilatation 0.2-0.1 mg/kg/24hr， max 50 mg/24 hr PO 12-24 hr Adrenergic Blockade Phentolamine a -Receptor blockade 0.1 mg/kg/dose，max 5mg IV 1hr Phenoxybenzamine a -Receptor blockade 2-5 mg/24 hr PO 6-12hr Prazosin a -Receptor blockade 1 mg initial dose，may increase to 15 mg/24 hr PO 8-12hr Propranolol b -Receptor blockade Reduces renin release 0.025-0.1mg/kg/dose 0.25-1.0 mg/kg/dose IV PO 6-8hr Labetalol a -b blockade titrate 0.2-2 mg/kg/dose (base on adult dose) 100-400 mg (adult) IV PO with infusion 12 hr Sympatholytic agents a -Methyldopa Decrease sympathetic tone 10 mg/kg/24 hr and increase PO 6-8hr Clonidine 2-a Agonist in CNS 3-5 ug/kg/dose PO 6-8hr Renin-angiotensin Captopril Converting enzyme inhibition of angiotensin II synthesis 0.1-0.3 mg/kg/dose increase to max 2 mg/kg/dose PO 8hr Enalaprilat Same as captopril 0.005-0.010 mg/kg/dose IV 8hr Calcium channel Nifedipine Calcium channel blocker 0.2-0.5 mg/kg，max 10-20mg PO repeat Q30-60 min Verapamil Calcium channel blocker 120-240 mg/kg(adult) PO 12-24 hr Diuretic agents Hydrochlorothiazide Diuresis 1-2 mg/kg/24 hr PO 12-24 hr Furosemide Diuresis 1 mg/kg/dose IV 4-6 hr 2 mg/kg/dose PO 4-6 hr 肺心症（Cor pulmonale） 肺實質或血管的變化，造成右心室肥大或心臟衰竭，叫做肺心症，大多生於大人，小孩子較少見。急性肺心症可因亞急性細菌性心內膜的栓塞所引起，亞急性肺心症可因新生兒的玻璃膜症 （hyalinemembrane disease）所引起，慢性肺心症可因上呼呼道阻塞，慢性支氣管炎（chronic bronchitis），支氣管擴張（bronchiectasis），肺結核， 慢性氣喘等慢性肺疾所引起，治療須找出潛在的原因，加以治療。",
+      "summary": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 86520 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著...",
+      "fullContent": "2023-04-25 陳銘仁醫師；葉樹人醫師 ; 洪偉力醫師 86520 掛號： TAGS 兒童高血壓 馬偕兒童心臟科 Q1. 高血壓不是老人病？兒童也會高血壓？常見嗎？ 高血壓不再只是老人的專利，其實，兒童也可能有高血壓的風險。尤其是隨著國人飲食西化，高油高鹽的食物充斥，有愈來愈多的學童有肥胖問題，因此兒童高血壓的比率也逐年上升。近年各國學齡兒童高血壓之盛行率約為1-3.5％，血壓偏高(舊的說法是高血壓前期盛行率約在2.2-3.5%)。在特定族群：像是早產兒、肥胖的小朋友（obesity 4-14%, over weight 11-23%）、睡眠呼吸中止症候群患者（3.6-14%）、慢性腎臟疾病的病友（50%）和糖尿病童（T1DM 4-16% ; T2DM 12-31%），他們的盛行率也都比較高。 Q2. 兒童高血壓會有哪些症狀呢？ 除非高血壓危象或是危急型高血壓，兒童高血壓多半沒有症狀，常常是學校篩檢，或者到醫院因為某些需要檢測血壓才發現，在較大的兒童比較常聽到可能相關的症狀有頭暈、頭痛、視力模糊、厭食嘔吐等，嚴重時可能造成癲癇發作、腎衰竭、高血壓腦病變及心血管問題。因此，目前美國兒科醫學會的治療指引建議，超過三歲的兒童就醫時建議至少每年量測一次血壓。 Q3. 兒童高血壓的定義？如何診斷？ 兒童沒辦法和成人用統一標準，必須根據性別、年齡和身高做校正。未滿13歲，根據美國兒童醫學會2017年治療準則：兒童時期高血壓的定義，以血壓（收縮壓或舒張壓）位於同年齡層及身高群正常血壓曲線介於90個與95個百分位數之間者，為血壓增加患者，超過95個百分位數時為第一期高血壓，超過（95個百分位數 + 12毫米汞柱）時為第二期高血壓。超過13歲則按照成人標準，收縮壓大於130毫米汞柱或舒張壓大於80毫米汞柱就算第一期高血壓。兒童要診斷高血壓，不能依賴家中血壓測量值，而是要在兒科門診至少有三次不同時間，且心平氣和的狀態下測量到高血壓才能診斷。不過小朋友只要曾經有測到血壓偏高，就有再測量必要，因為血壓偏高的兒童，將來有很大的機會成為真正高血壓患者。 正常的血壓，隨著性別、年齡以及身高(長)不同而有所差異表 1.不同年齡層的正常血壓值 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 年齡 收縮血壓 (mmHg) 舒張血壓 (mmHg) 新生兒 80 46 7-8 歲 102 56 6 月-1 歲 89 60 8-9 歲 105 57 1 歲 96 66 9-10 歲 107 57 2 歲 99 64 10-11 歲 111 58 3 歲 100 67 11-12 歲 113 59 4 歲 99 65 12-13 歲 115 59 5-6 歲 94 55 13-14 歲 118 60 6-7 歲 100 56 Q4. 如何測量兒童的血壓？ 測量血壓時，要注意測量的方式，尤其是加壓帶（壓脈帶）的大小，需要根據小朋友的體型做挑選，加壓帶充氣及放氣之速率和受測者當時之情緒等狀況，因為這些都會影響到血壓的測量數值。正統的測量血壓以水銀血壓計為主，選擇適合的加壓帶，但較小的嬰幼兒可利用都卜勒超音波或振動描記器等方式，來測量血壓。適合的加壓帶以能覆蓋上臂的2/3為原則。測量前受測者應安靜休息十至廿分鐘；先快速打氣加壓到脈搏消失後，再加壓上升30度，然後以每秒下降2-3度的速度放氣減壓，才可得到一個較標準的測量。如果血壓超過90百分位，應該要改用水銀血壓計合併聽診器的操作來測量。除了前面描述，建議三歲起一年量一次血壓之外，對於高危險族群（肥胖、腎臟疾病、糖尿病、主動脈弓狹窄、長期使用血壓可能增加的藥物患者）每次門診建議都量血壓。如果小於三歲而患有先天性心臟病、反覆泌尿道感染、尿路結構異常、器官移植或骨髓移植患者、癌症病童、神經纖維瘤、結節性硬化症、鐮刀型紅血球等、低體重或＜32週早產兒(曾經放置臍靜脈管路)、顱內壓增高患者，也是建議每次看診都要量血壓。 Q5. 兒童高血壓的成因？ 常因為是心輸出量的增加及周邊血管阻力的上升造成。高血壓可區分為原發性、繼發性。原發性高血壓（又稱作本態性高血壓）常指不明原因（可能相關的因素有很多，包括年齡、肥胖、高血糖症、高尿酸症、遺傳、食鹽、藥物、環境和發育）造成，成人期的高血壓多為原發性高血壓，高血壓的家族史常常很強烈，兒童6歲以下原發性高血壓的機會較低，但6歲以上的兒童青少年，近年因為飲食西化、肥胖的關係，有日益增加的趨勢。而繼發生高血壓的原因則相當多，例如例如腎臟、心臟血管、內分泌等系統出問題。過去教科書都說腎臟疾病相關高血壓在兒童佔七成，心血管佔一成，原發性只有0.5%，但最近根據健保資料庫的分析，台灣18歲以下診斷高血壓的分類看起來，原發性高血壓佔比已經超過繼發性高血壓。以目前資料來看，年紀越輕的高血壓（六歲以下）或是高血壓嚴重程度越大的病童，為次發性的機會比較高，所以如果不到六歲就被發現有血壓問題，醫師端會比較積極的做詳細的檢查。反之如果高血壓年紀較大，肥胖，有很強的家族高血壓病史，原發性的機會大增，除非身體診察有特殊發現，不然需要做一大堆檢查的機會較低。 原發性高血壓：在幼兒少見。常可以依血清中 Renin 的活性來分類。在不同種族間造成因素也可能不同。在黑人中，常因周邊血管阻力上升。而在白人，則是心輸量增加。 繼發性高血壓：在兒童稍為常見。形成的原因隨年齡不同而異。在新生兒方面，常因高位的臍動脈導管及腎動脈阻塞造成。在患有繼發性高血壓的病童中約有 70－80％有腎臟的疾病，另外有 25－50％的病童有泌尿道感染的病史。因此腎臟的疾病常造成病童的高血壓的重要原因之一。 Q6. 評估 目前高血壓病童的評估： ＊All patients: 尿液分析、抽血（電解質、尿素氮、腎功能、空腹或非空腹血脂肪檢查）、小於六歲、腎功能異常、尿液分析異常者安排腎臟超音波 ＊肥胖兒童（BMI > 95百分位）：加驗醣化血色素（HbA1C）、肝功能（AST, ALT）、空腹血脂肪檢測 ＊依照病史調整之檢查項目：空腹血糖、促甲狀腺素（TSH）、藥物毒物篩檢、睡眠檢查（睡眠呼吸中止）、CBC Q7. 高血壓帶來的問題 兒童期高血壓的病童，成年後也容易是高血壓的患者，長期不論是缺血性心臟疾病、心衰竭、腦血管疾病、血管壁硬化、以及長期死亡率都會增加。因此我們需要評估兒童高血壓是否對身體器官已經造成影響，會需要評估是否出現蛋白尿、高血壓視網膜病變、左心室肥大、頸動脈內層中曾增厚以及血管硬化，其中左心室肥大是器官收傷害最明顯的證據，在想要使用藥物的時候就應該做心臟超音波評估左心室的狀況，之後每半年至一年定期複診。 Q8. 治療 兒童高血壓所帶來的身體器官影響，如果好好控制血壓是常常是可逆的。所有的病人一定要做的：治療性的生活習慣改變（包括飲食、規律的有氧運動以及好的睡眠習慣）、以家庭為基礎的介入治療、避免刺激血壓升高的藥物使用 ＊飲食：DASH (dietary approaches to stop hypertension) diet – 大量蔬果、低脂乳製品、全穀類、魚、家禽、豆類、堅果類、瘦肉(紅肉)、少糖、少鹽 ＊限鹽：增加鹽分的攝取會使各年齡層的血壓上升；目前建議：4-8 歲的兒童一天的鈉攝取在每天1.2g (3 克鹽)，超過8歲兒童鈉攝取一天不要超過1.5g (5 克鹽)，如果需要的話可以轉介營養師做飲食指導跟諮詢 ＊減重：肥胖相關的高血壓迫切需要，減重可以使血壓下降，也可以改善血壓對鹽分的敏感性，還可以減少其他心血管疾病風險（如高血脂、胰島素抗性） ＊規律運動：在成人規律運動對於預防甚至治療高血壓有重要腳色，而在兒童身上，建議每週3-5天中至高強度的有氧運動，每次至少要30-60分鐘（持之以恆平均可以讓血壓下降6.6 mmHg），不過任何形式的運動（有氧、無氧、混合都還是對血壓的控制有幫助）。越能控制身材、身形、越能夠減緩血壓的上升． ＊藥物治療：有症狀、次發性高血壓、第二期高血壓、器官已經有損傷、糖尿病、慢性腎臟疾病、生活型態調整超過半年仍沒有效果。 ＊治療目標：希望血壓＜90個百分位 or < 130/80 mmHg（慢性腎臟病、糖尿病之病童）（器官已經出現影響的個案，例如左心室肥大的的情況）（青少年長期還是希望血壓能控制在＜130/80 mmHg） 常見高血壓治療藥物 Drug Mechanism of action Dosage range Route Duration Vasodilator Hydralazine Relax arteriolar smooth muscle 0.4-0.8 mg/kg/dose IV 2-4hr 0.5-2 mg/kg increase to max 200 mg/24 hr PO 6-8hr Diazoxide Relax smooth muscle 2-5 mg/kg/dose，max 100mg IV 6-24hr Nitroprusside Dilatation of arterioles and venules 0.5-0.8 ug/kg/min IV with infusion Minoxidil Arteriolar dilatation 0.2-0.1 mg/kg/24hr， max 50 mg/24 hr PO 12-24 hr Adrenergic Blockade Phentolamine a -Receptor blockade 0.1 mg/kg/dose，max 5mg IV 1hr Phenoxybenzamine a -Receptor blockade 2-5 mg/24 hr PO 6-12hr Prazosin a -Receptor blockade 1 mg initial dose，may increase to 15 mg/24 hr PO 8-12hr Propranolol b -Receptor blockade Reduces renin release 0.025-0.1mg/kg/dose 0.25-1.0 mg/kg/dose IV PO 6-8hr Labetalol a -b blockade titrate 0.2-2 mg/kg/dose (base on adult dose) 100-400 mg (adult) IV PO with infusion 12 hr Sympatholytic agents a -Methyldopa Decrease sympathetic tone 10 mg/kg/24 hr and increase PO 6-8hr Clonidine 2-a Agonist in CNS 3-5 ug/kg/dose PO 6-8hr Renin-angiotensin Captopril Converting enzyme inhibition of angiotensin II synthesis 0.1-0.3 mg/kg/dose increase to max 2 mg/kg/dose PO 8hr Enalaprilat Same as captopril 0.005-0.010 mg/kg/dose IV 8hr Calcium channel Nifedipine Calcium channel blocker 0.2-0.5 mg/kg，max 10-20mg PO repeat Q30-60 min Verapamil Calcium channel blocker 120-240 mg/kg(adult) PO 12-24 hr Diuretic agents Hydrochlorothiazide Diuresis 1-2 mg/kg/24 hr PO 12-24 hr Furosemide Diuresis 1 mg/kg/dose IV 4-6 hr 2 mg/kg/dose PO 4-6 hr 肺心症（Cor pulmonale） 肺實質或血管的變化，造成右心室肥大或心臟衰竭，叫做肺心症，大多生於大人，小孩子較少見。急性肺心症可因亞急性細菌性心內膜的栓塞所引起，亞急性肺心症可因新生兒的玻璃膜症 （hyalinemembrane disease）所引起，慢性肺心症可因上呼呼道阻塞，慢性支氣管炎（chronic bronchitis），支氣管擴張（bronchiectasis），肺結核， 慢性氣喘等慢性肺疾所引起，治療須找出潛在的原因，加以治療。",
       "keywords": [
         "糖尿病",
         "高血壓"
@@ -1492,8 +1559,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/child/know_health_view.php?docid=50",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:04.081Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.516Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1511,8 +1578,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4869",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:03.235Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.573Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1531,8 +1598,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/6487.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:21.522Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.851Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1551,8 +1618,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/6260.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:21.523Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.852Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1571,8 +1638,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=1404",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:04.088Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.521Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -1591,8 +1658,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag?ID=10883",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:08.127Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:48.614Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2079,8 +2146,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6218",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:03.253Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.584Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2096,8 +2163,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/6469.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:21.524Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.852Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2115,8 +2182,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/new/5941.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:21.527Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.853Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2124,8 +2191,8 @@
       "title": "高血壓(Hypertension)",
       "clinicName": "馬偕紀念醫院",
       "category": "慢性病",
-      "summary": "2023-08-25 1067 SHARE TAGS 高血壓是心臟血管疾病最主要的危險因子之一。根據國外的研究報告，血壓愈高，並持續愈久，得到中風、心肌梗塞、心臟衰竭、及腎臟病等的機會愈高。所謂預防勝於治療，患者必須嚴格控制其血壓。 每個人...",
-      "fullContent": "2023-08-25 1067 SHARE TAGS 高血壓是心臟血管疾病最主要的危險因子之一。根據國外的研究報告，血壓愈高，並持續愈久，得到中風、心肌梗塞、心臟衰竭、及腎臟病等的機會愈高。所謂預防勝於治療，患者必須嚴格控制其血壓。 每個人的血壓不盡相同。根據最新的高血壓定義( The seventh report of the joint national committee on prevention, detection, evaluation, and treatment of high blood pressure)，連續二次以上的門診，平均(二次以上)舒張壓大於90mm Hg 或收縮壓(三次以上)大於140mm Hg.，便可診斷為高血壓。但事實上，這種定義是武斷的。有些人的血壓，可能本來就比較高或較低。 依照原因分類，高血壓又可分為原發性(primary)及次發性(secondary)。所謂原發性高血壓，是目前醫學還沒有找到確切引起這類高血壓的原因。百分之九十以上的高血壓，皆為原發性。然而，有一些因子，會使我們的血壓升高。這包括肥胖、大量酒精攝取、高鹽分攝取、老化、慣坐的生活、壓力、低鉀及低鈣攝取等。次發性高血壓主要是由腎臟病、腎臟血管疾病、腫瘤等引起。 治療上，病人應遵照醫師的指示，調整飲食及生活習慣、多運動、保持標準體重、及定期服用藥物等。此外，病患必須同時治療和中風、心肌梗塞等有關的疾病與習慣，如戒煙、控制血糖及血脂肪等。初期目標，血壓須控制在140/90mmHg 以內。糖尿病及腎功能不全患者，則在130/85mmHg 以內。最終目標為120/80mmHg。當然，如果患者沒有辦法忍受太低的血壓，則不能勉強。 在用藥方面，醫師會根據病人的情況，選擇不同的藥物。有些藥物可以同時治療心臟衰竭、攝護腺肥大、或尿蛋白等。服藥期間，醫師再依據病人的血壓及副作用的出現等情況，調整用藥。病人遇到任何問題，可以與醫師討論，應避免擅自停藥。 如果血壓控制得當，合併症出現的機率，便會大大降低。 ~如需轉載本篇文章或有任何疑問，請洽馬偕紀念醫院心臟內科。",
+      "summary": "2023-08-25 1074 SHARE TAGS 高血壓是心臟血管疾病最主要的危險因子之一。根據國外的研究報告，血壓愈高，並持續愈久，得到中風、心肌梗塞、心臟衰竭、及腎臟病等的機會愈高。所謂預防勝於治療，患者必須嚴格控制其血壓。 每個人...",
+      "fullContent": "2023-08-25 1074 SHARE TAGS 高血壓是心臟血管疾病最主要的危險因子之一。根據國外的研究報告，血壓愈高，並持續愈久，得到中風、心肌梗塞、心臟衰竭、及腎臟病等的機會愈高。所謂預防勝於治療，患者必須嚴格控制其血壓。 每個人的血壓不盡相同。根據最新的高血壓定義( The seventh report of the joint national committee on prevention, detection, evaluation, and treatment of high blood pressure)，連續二次以上的門診，平均(二次以上)舒張壓大於90mm Hg 或收縮壓(三次以上)大於140mm Hg.，便可診斷為高血壓。但事實上，這種定義是武斷的。有些人的血壓，可能本來就比較高或較低。 依照原因分類，高血壓又可分為原發性(primary)及次發性(secondary)。所謂原發性高血壓，是目前醫學還沒有找到確切引起這類高血壓的原因。百分之九十以上的高血壓，皆為原發性。然而，有一些因子，會使我們的血壓升高。這包括肥胖、大量酒精攝取、高鹽分攝取、老化、慣坐的生活、壓力、低鉀及低鈣攝取等。次發性高血壓主要是由腎臟病、腎臟血管疾病、腫瘤等引起。 治療上，病人應遵照醫師的指示，調整飲食及生活習慣、多運動、保持標準體重、及定期服用藥物等。此外，病患必須同時治療和中風、心肌梗塞等有關的疾病與習慣，如戒煙、控制血糖及血脂肪等。初期目標，血壓須控制在140/90mmHg 以內。糖尿病及腎功能不全患者，則在130/85mmHg 以內。最終目標為120/80mmHg。當然，如果患者沒有辦法忍受太低的血壓，則不能勉強。 在用藥方面，醫師會根據病人的情況，選擇不同的藥物。有些藥物可以同時治療心臟衰竭、攝護腺肥大、或尿蛋白等。服藥期間，醫師再依據病人的血壓及副作用的出現等情況，調整用藥。病人遇到任何問題，可以與醫師討論，應避免擅自停藥。 如果血壓控制得當，合併症出現的機率，便會大大降低。 ~如需轉載本篇文章或有任何疑問，請洽馬偕紀念醫院心臟內科。",
       "keywords": [
         "糖尿病",
         "高血壓"
@@ -2133,8 +2200,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.hc.mmh.org.tw/know_health_view.php?docid=834",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:04.095Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.523Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2151,8 +2218,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=358&page_name=detail",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.119Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.490Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2168,8 +2235,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=168&page_name=detail&pid=0",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.124Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.492Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2185,8 +2252,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=331&page_name=detail&pid=0",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.126Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.494Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2203,8 +2270,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=4&page_name=detail&pid=0",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.133Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.496Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2222,8 +2289,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=347&page_name=detail",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.136Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.498Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2237,8 +2304,8 @@
       "imageUrl": "https://www.mercy.org.tw/images/share_btn/line.png",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=298&page_name=detail&pid=0",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.142Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.500Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2254,8 +2321,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=47&page_name=detail&pid=0",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.145Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.502Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2272,8 +2339,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320108.html",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:06.586Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.436Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2291,8 +2358,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11810",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:08.137Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:48.618Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2311,8 +2378,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=11946",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:08.146Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:48.623Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -2331,8 +2398,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=7643",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:20:08.152Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:48.627Z",
       "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
     },
     {
@@ -3085,8 +3152,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no166/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B9%8B%E6%96%B0%E5%88%86%E9%A1%9E.pdf",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:21.701Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:40.033Z",
       "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
     },
     {
@@ -3102,8 +3169,8 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no170/%E7%B3%96%E5%B0%BF%E7%97%85%E8%97%A5%E7%89%A9%E4%BB%8B%E7%B4%B9.pdf",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:21.859Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:40.173Z",
       "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
     },
     {
@@ -3119,8 +3186,981 @@
       "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
       "sourceUrl": "https://www.kmuh.org.tw/Web/KMUHDept/Portals/sdm/0100-0160-4%20%2C.pdf",
       "sourceType": "crawled",
-      "publishedAt": "2026-05-22",
-      "crawledAt": "2026-05-22T08:36:22.583Z",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:47.094Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-1ba0f7494c",
+      "title": "急診—高血壓病人之注意事項",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2025/12/9 根據世界衛生組織的規定，收縮壓經常高於 140 mmHg或者舒張壓經常高於 90 mmHg，就是高血壓。一旦罹患高血壓則必須定期檢查和每天按時服藥，以防止腦中風、心臟肥大、心臟衰竭或腎衰竭等併發症發生。 主要症狀：頭暈、...",
+      "fullContent": "2025/12/9 根據世界衛生組織的規定，收縮壓經常高於 140 mmHg或者舒張壓經常高於 90 mmHg，就是高血壓。一旦罹患高血壓則必須定期檢查和每天按時服藥，以防止腦中風、心臟肥大、心臟衰竭或腎衰竭等併發症發生。 主要症狀：頭暈、失眠、頭痛、耳鳴、重聽、頸肩部僵硬等。且應注意下列幾點： 依照醫生指示，每天按時服藥，即使沒有不舒服的感覺也不可以擅自停藥，以免血壓控制不穩定。 依照醫生指示，每天按時服藥，即使沒有不舒服的感覺也不可以擅自停藥，以免血壓控制不穩定。 保持適當體重，防止體重過重，增加心臟負荷。 理想體重 ( 公斤 ) ＝ 22 ×身高2( 公尺2 ) ± 10 % 內 保持每天適宜運動或散步習慣，不但對身體有益，還可以鬆弛緊張的精神。 戒菸。 注意飲食，避免吃高膽固醇及太鹹的食物，如醃製食物、罐頭、動物內臟。 保持大便通暢，預防便秘，多吃蔬菜、水果及海藻類食物。 生活作息規律，培養正常嗜好，保持情緒穩定。尤其不能生氣或過度興奮。 服藥前後半小時盡量勿做運動。 避免用太冷、太熱的水洗澡或浸浴、泡溫泉。 離院後若有任何問題，歡迎使⽤急診24⼩時諮詢服務",
+      "keywords": [
+        "高血壓",
+        "失眠"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5455",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.597Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-13186df1dc",
+      "title": "認識高血壓",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2025/4/8 根據2022台灣心臟學會高血壓照護指引的規定，收縮壓經常高於130mmHg或舒張壓經常高於80mmHg，就是高血壓。一旦罹患高血壓則必須定期檢查和每天按時服藥，以防止腦中風、心肌梗塞、心肌肥大、心衰竭或腎衰竭等併發症發生。...",
+      "fullContent": "2025/4/8 根據2022台灣心臟學會高血壓照護指引的規定，收縮壓經常高於130mmHg或舒張壓經常高於80mmHg，就是高血壓。一旦罹患高血壓則必須定期檢查和每天按時服藥，以防止腦中風、心肌梗塞、心肌肥大、心衰竭或腎衰竭等併發症發生。 原發性高血壓：佔所有高血壓之 90 ~ 95 %，找不出特定致病的原因，可能是多重因素，包括：1) 遺傳基因；2) 環境因素，如長期壓力、緊張；3) 飲食習慣，如高鈉、高脂肪飲食； 4) 肥胖；5) 抽菸。 續發性高血壓：是可找出特殊病因之高血壓。 症狀 高血壓早期通常沒有任何症狀，這正是它被稱為「沉默殺手」的原因——病人往往在沒有自覺症狀的情況下已經產生器官傷害（如左心室肥厚、血管硬化）。 極少數病人在血壓極高時（如 > 180/120 mmHg）可能出現劇烈頭痛、頭暈、噁心、嘔吐、視力模糊、鼻出血等症狀，這通常為高血壓急症或次急症的表現，若出現應立即就醫。 正因為高血壓常無症狀，18 歲以上成人應至少每年量血壓一次；已罹患高血壓者應建立規律居家血壓量測習慣，切勿僅靠「感覺」判斷血壓是否控制良好。 高血壓病人注意事項 需按時服藥：遵照醫師處方服藥，不可根據自己感覺血壓高或低來增減藥物。 早、晚測量血壓並記錄。 量血壓注意事項 測量前休息至少 5 分鐘。測量時血壓計與心臟同高度。測量時不可說話。 選擇適當寬度與長度之壓脈帶。壓脈帶環繞鬆緊度，以仍可放入 2 根手指較適中。 兩次測量應間隔 5 分鐘以上。 飲食的限制 採低鹽飲食，宜禁食高鈉食物，例如乳酪、燻雞、香腸、肉醬、醬菜、罐頭食品等。 少攝取飽和性脂肪及高膽固醇食物，例如豬油、內臟、牡蠣、蛋黃。 避免攝取含糖飲料（包括含糖手搖飲、含糖碳酸飲料、果汁飲料等）。 咖啡與茶適量飲用（每日 3-4 杯以下）與高血壓發生並無明顯相關，部分研究甚至顯示有助降低心血管死亡率。若個人因咖啡因出現心悸、失眠者，可減量或避免。避免一次大量飲用濃咖啡或能量飲料。 適當的運動 一個規律、適當的運動計畫是有益的，例如每天散步30~60分鐘，是非常好的運動。 鼓勵從事有興趣的消遣活動，但不可感受到壓力，如種花、養鳥。 平常應避免提重物或高處取物，因為閉氣用力血壓會升高。 日常生活保健 冬天應適當保暖，外出時應戴帽子、手套。 不要用太冷或太熱的水洗澡或浸泡太久，一般以 40 ℃ 最安全。 戒菸：因菸中含有的尼古丁會使血管收縮，使末稍阻力增加，血壓升高，產生心肌缺氣 ( 心絞痛 ) 的症狀。 減少壓力，保持情緒平穩。 每天睡眠充足，生活規律。 保持大便通暢，預防便秘；多吃蔬菜、水果。 控制理想體重。 定期返院追蹤治療 參考資料 Wang, T. D., Chiang, C. E., Chao, T. H., Cheng, H. M., Wu, Y. W., Wu, Y. J., Lin, Y. H., Chen, M. Y., Ueng, K. C., Chang, W. T., Lee, Y. H., Wang, Y. C., Chu, P. H., Chao, T. F., Kao, H. L., Hou, C. J., & Lin, T. H. (2022). 2022 Guidelines of the Taiwan Society of Cardiology and the Taiwan Hypertension Society for the Management of Hypertension. Acta Cardiologica Sinica, 38(3), 225–325. https://doi.org/10.6515/ACS.202205_38(3).20220321A",
+      "keywords": [
+        "高血壓",
+        "失眠"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4863",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.608Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-6987702232",
+      "title": "肝陽上亢（高血壓）的預防保健",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2026/1/13 高血壓控制標準 ( 18 歲以上) 血壓 120 / 80 毫米汞柱為正常平均血壓。 血壓若介於 130 ~ 139 / 85 ~ 89 毫米汞柱為可疑性高血壓。 血壓若大於 140 / 90 毫米汞柱即稱之為高血壓。 ...",
+      "fullContent": "2026/1/13 高血壓控制標準 ( 18 歲以上) 血壓 120 / 80 毫米汞柱為正常平均血壓。 血壓若介於 130 ~ 139 / 85 ~ 89 毫米汞柱為可疑性高血壓。 血壓若大於 140 / 90 毫米汞柱即稱之為高血壓。 高血壓的分類 原發性高血壓：原因不明，可能與家族遺傳有關，佔 90 %。 續發性高血壓：是某些疾病的一部份表現，可以是暫時性或永久性，在高血壓病人中佔 10 %。如疾病治癒，血壓便不再增高。 高血壓的症狀 頭痛、頭昏、視力減弱、模糊、記憶力衰退、失眠、呼吸急促、耳鳴、重聽、頸部酸痛、心悸、噁心。 高血壓易產生的併發症 腦：血壓增高，會導致血管壁受損，甚至使血管硬化、破裂或形成栓塞而引起中風。 心臟：增加心臟的負荷，引起心絞痛、心律不整、心肌梗塞而導致死亡。 腎臟：易引起腎臟動脈硬化、腎萎縮、腎機能不全、尿毒症。 高血壓的預防與控制 高血壓病人應每天測量血壓，宜定期接受健康檢查。 茶、咖啡應少喝。減少抽菸、喝酒以免刺激血壓上升。 進行適量及持續性的運動可改善全身血液循環及心臟功能。 預防便秘，保持大便通暢。 避免用太冷或太熱的水洗澡。 保持理想體重，控制食量，肥胖者宜減輕體重。 定時定量服藥。 保持足夠的睡眠，身心保持放鬆。 飲食方面注意事項 避免進食富含膽固醇的食物，例如：內臟（如腦、肝、心、腰子）、蟹黃、魚卵、蝦卵、奶酪、奶油、起士。 飲食以低鹽食物為主，少食含鈉量高但不易被人察覺的食品，如麵線、油麵、甜鹹蜜餞、甜鹹餅乾、滷製、醃製、燻製的食品（如火腿、香腸、燻雞）。 應選用植物油，如橄欖油、葵花子油，並禁食動物性油：牛油、豬油、雞皮等。 烹調可多採用白醋、檸檬、蘋果、鳳梨、代替鹽、味精等調味品。 高血壓病的治療原則以補腎陰潛肝陽為主，食膳也應體現這一原則，即宜清淡養陰之品，膳食注意高蛋白、低脂肪、低鹽、多維生素。 食療 涼拌芹菜：取芹菜 50 ~ 150 克，洗淨，切成小段，用開水燙一下撩起，加適量調味料，拌勻食用。能平肝瀉火。 拌海蜇：取海蜇皮 50 ~ 150 克，洗淨切絲，涼開水沖洗，加調味品適量，拌勻食用。可滋補肝腎、益陰潛陽、軟堅散結。 海參甜羹：取海參 30 克，冰糖適量，同煮至爛，空腹食用。可補肝益陰。 拌菠菜：取新鮮菠菜 100 克，洗淨，沸水中燙一下撩起，冷卻後以麻油拌食。能滋肝潤燥、養血補血。 黑木耳加銀耳羹： 每次取黑木耳和銀耳各 5 克，加冰糖適量，同煮至爛，睡前服用。能補肝養陰，滋潤肺脾。 玉米粥：每次取玉米 100 克，洗淨加水適量，煮成稠稀粥。能調養脾胃。玉米富含不飽和脂肪酸，可為心血管病人的長期主食，具有拮抗動脈硬化的作用。 參考資料 Bloch, M. J. (2022, November). Patient Education: High Blood Pressure, Diet, and Weight (Beyond the Basics). UpToDate. https://www.uptodate.com/contents/high-blood-pressure-diet-and-weight-beyond-the-basics",
+      "keywords": [
+        "高血壓",
+        "失眠"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5003",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.618Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-6efa47ba94",
+      "title": "認識高脂血症",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2025/4/14 高脂血症是指血液中的膽固醇、三酸甘油酯過高。膽固醇濃度過高時，容易發生動脈粥狀硬化，增加罹患冠狀動脈疾病的機率；三酸甘油酯濃度大於 500 mg/dl時，容易引起急性胰臟炎；而血液中的高密度脂蛋白膽固醇較多時，反而可以減...",
+      "fullContent": "2025/4/14 高脂血症是指血液中的膽固醇、三酸甘油酯過高。膽固醇濃度過高時，容易發生動脈粥狀硬化，增加罹患冠狀動脈疾病的機率；三酸甘油酯濃度大於 500 mg/dl時，容易引起急性胰臟炎；而血液中的高密度脂蛋白膽固醇較多時，反而可以減少血管硬化及冠狀動脈心臟病的發生。 何謂膽固醇？ 膽固醇為細胞膜的主要組成之一，亦是合成性激素、腎上腺皮質荷爾蒙、維生素 D 及膽酸之前趨物質，但因為容易沉積在血管壁上，所以會造成血管硬化。 膽固醇的二大來源： 身體內的肝臟細胞可自行合成膽固醇來維持身體正常機能。例如：利用膽固醇製造荷爾蒙及維生素 D。 食物中攝取。主要為動物性食品，例如：蛋黃、全脂奶、肥肉、動物油、內臟類、海鮮類食品。 何謂三酸甘油酯？ 三酸甘油酯主要是生理能量的來源，大量攝取脂肪或醣類及飲酒均會使體內三酸甘油酯的濃度增加。過多的三酸甘油酯會堆積在肝臟內形成脂肪肝，也可能引起急性胰臟炎。 成人膽固醇及三酸甘油酯濃度 mg/dl ( 毫克/百毫升 ) 種類 理想濃度 邊際高危險濃度 高危險濃度 總膽固醇(非禁食) 240 mg/dl 三酸甘油酯 (禁食12小時) 400 mg/dl 低密度膽固醇 (禁食12小時) 160 mg/dl 高密度膽固醇 (禁食12小時) 男＞40 mg/dl 女＞50 mg/dl 男＜40 mg/dl 女＜50 mg/dl 日常保健 維持理想體重，若體重超過理想值的 10 ％ 時，應慢慢減重。 養成規律的運動習慣。 1 週至少 3 次，每次至少 30 分鐘。例如：快走、游泳、爬山、跳舞等。 適當調整生活型態，如：戒菸酒，以減少心血管疾病的發生率。 高膽固醇血症飲食原則 每天均衡攝取六大類食物，包括奶全榖雜糧類、蔬菜類、豆魚蛋肉類、乳品類、水果類、油脂與堅果種子類。 食物應多選擇：脫脂、低脂奶；魚類（不含腹部及魚皮）；雞、鴨、鵝（去皮）；牛、羊、豬的瘦肉部分。 避免吃膽固醇含量高的食物。例如：內臟類 ( 腦、肝、腰子 )、卵類（蟹黃、魚蝦卵）、帶殼海產類（牡礪、文蛤、鮑魚）、章魚、魷魚等。 控制油脂攝取量，盡量避免食用油炸、油煎或油酥的食物。如：炸雞、泡麵、燒餅、油條、可頌、酥皮麵包等。烹調應多採用清蒸、水煮涼拌、清燉白切、燒烤、燙滷等方式。 蛋黃以每週 2 ~ 3 個為宜，包含烘焙食品及蛋類菜餚，如：蛋糕、蛋塔及蕃茄炒蛋、菜脯蛋、蛋花湯等。 選擇好油來烹調食物。如：橄欖油、芥花油、葵花油、花生油等。 避免使用以下油脂：豬油、牛油、雞油、奶油、酥油、椰子油、棕櫚油。因為以上油脂皆會使體內低密度脂蛋白（LDL）膽固醇增加。 多吃富含水溶性纖維的食物有助於降低體內膽固醇濃度。如：各類蔬果、糙米、全麥製品、蒟蒻、仙草、愛玉及各種洋菜凍。 肉類滷或燉湯時，應於冷藏後將上層浮油去除，再加熱食用。 高脂加工食品亦潛藏高量膽固醇。例如：奶昔、香腸、熱狗、奶油蛋糕、巧克力等。 高三酸甘油酯血症飲食原則 控制熱量的攝取，以達到並維持理想體重。 多食用多醣類，如：五穀根莖類（糙米、胚芽米）；避免加糖的食物及飲料，如：各種甜食、糕餅點心、蜂蜜、汽水、果汁、冰淇淋、巧克力等。 在適量的魚肉類中，多選擇富含 ω-3 脂肪酸的深海魚類， 如：秋刀魚、鮭魚、白鯧。 其他原則與高膽固醇血症之飲食原則相同。 參考資料 丁予安、何橈通、宋育民、李寧遠、胡漢華、祝年豐、常敏之、許惠恒、章樂綺、陸仁安、郭婕、彭巧珍、潘文涵、鄭啟源、蕭明熙(2013)．高血脂防治手冊(修訂版)．行政院衛生署國民健康局。 中華民國血脂及動脈硬化學會(2016年12月16日)．血脂相關指引．2009年「台灣血脂異常防治共識-血脂異常預防及診療臨床指引」(下)。https://www.tas.org.tw/index.php?action=news-detail&id=5 衛生福利部國民健康署(2022年4月15日)．「脂」要控好，讓「心」快活．血脂數據知多少?好壞膽固醇有規範。https://www.mohw.gov.tw/cp-16-68141-1.html 吳建遠、周燕玉、李惠蘭、薛曉筑、許珉華、陳思寧、陳紫含、蔣雇弘、楊絮斐(2022)．代謝症候群防治計畫照護流程與指導手冊．衛生福利部國民健康署。https://health99.hpa.gov.tw/material/7448",
+      "keywords": [
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4859",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.630Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-79214d6c0d",
+      "title": "中醫高血脂症的預防與保健",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2026/1/13 何謂高血脂症？ 血中脂肪物質如膽固醇、三酸甘油脂及血脂蛋白代謝異常的疾病群。 高血脂之發生率及併發症 高血脂症是由於血中脂肪物質過高所產生的疾病，它是造成動脈粥狀硬化及心臟病發生的一個重要危險因子。每100人中約有一個發...",
+      "fullContent": "2026/1/13 何謂高血脂症？ 血中脂肪物質如膽固醇、三酸甘油脂及血脂蛋白代謝異常的疾病群。 高血脂之發生率及併發症 高血脂症是由於血中脂肪物質過高所產生的疾病，它是造成動脈粥狀硬化及心臟病發生的一個重要危險因子。每100人中約有一個發生此症，男性高於女性 (糖尿病病人除外)。 造成血脂異常的因素 遺傳 ( 如家族遺傳性高血脂症 ) 疾病因素 (如糖尿病、肥胖症、庫欣氏症候群、腎病症候群、甲狀腺低能症) 飲食因素 體重過重 年齡及性別 ( 男性＞ 45 歲、女性＞ 55 歲 ) 飲酒過量 服用某些藥物如利尿劑、女性荷爾蒙、避孕藥、類固醇等 如何維持正常血脂？ 飲食控制原則 每天均衡攝食六大類食物，包括奶類、五穀根莖類、蔬菜、水果、魚肉、豆類及油脂類。 在均衡飲食中避免吃膽固醇含量高的食物，例如內臟（腦、肝、腰子等）、蟹黃、蝦卵、魚卵、牡蠣（蚵仔）、蝦、 鮑魚、章魚、魷魚、沙丁魚、蛋黃。食用魚類時，可選用富含 ω - 3 脂肪酸的魚類，如秋刀魚、鮭魚、日本鯖魚、鰻魚（ 糯鰻、白鰻 ）、白鯧魚。 控制油脂攝取量，烹調宜多採用清蒸、水煮、涼拌、燒、烤、燉、滷等方式，禁食油炸、油煎或油酥的食物、以及豬皮、雞皮、鴨皮、魚皮等。 炒菜宜多選用植物油例如花生油、苦茶油、橄欖油，少用動物油如豬油、牛油、奶油、肥肉等。 常選用富纖維質的食物，如各種綠葉蔬菜、糙米、胚芽米、全麥麵包。 儘量不喝酒，如須飲酒應以少量為宜。 避免加糖的食物及飲料，如各種甜食、糕餅點心、蜂蜜、汽水、可樂、果汁、冰淇淋、巧克力等。 適當調整生活型態，例如戒菸、適度運動以及壓力調適，避免情緒緊張。 控制體重 體重過重者應減輕體重至標準體重。 標準體重 ( 公斤 )＝ 22×身高( 公尺 )平方 若超過標準體重 10 ％ 則應減重。 經常運動 適當的運動可增加熱量的消耗，減少血脂的儲積，運動方式可依自己的情況及環境而定，可選擇慢跑、體操、太極拳、氣功、游泳、爬山、騎自行車及健身器等，每週至少三次每次最少 30 分鐘，最好稍微流汗更佳！ 只要病人能持之以恆，保持一定強度的運動量，一定能達到預防及治療高血脂、降低冠心病等心腦血管疾病的患病率。 中醫茶飲 山楂菊花茶：山楂 10 克、杭菊花 3 ~ 5 朵泡茶。 山楂窈窕茶：本院製劑由中醫師處方開立。 參考資料 Rosenson, R. S. (2022, November). Patient Education: High Cholesterol and Lipid Treatment Options (Beyond the Basics). UpToDate. https://www.uptodate.com/contents/high-cholesterol-and-lipid-treatment-options-beyond-the-basics",
+      "keywords": [
+        "糖尿病",
+        "高血脂",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=5014",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.641Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-8e81075bf7",
+      "title": "Avoid Hypertension 遠離高血壓",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2025/4/8 According to the statistics released by the Health Department, the population of hypertension in Taiwan reaches...",
+      "fullContent": "2025/4/8 According to the statistics released by the Health Department, the population of hypertension in Taiwan reaches as high as 4.3 million people and researches reveal that the risks for patients of hypertension to heart disease, stroke and kidney disease are 1.9, 2.8 and 1.7 times higher than that of the healthy people, if their blood pressure stays fluctuated and cannot be well controlled. Hence, hypertension has become the disease which the publics should not overlook. To help the publics to get well control of blood pressure, the Health Department provided reminders of 7 steps to the publics. Three Less and Two More for Diet The principles of diet with less oil, less sugar, less salt more vegetables, and more fruits are highly recommended. Diet with five different fruits/vegetables and increased fiber intake is also encouraged. Drink water instead of sweetened beverages and the attempt to cut down snacks, midnight snacks, or desserts are also beneficial to blood pressure and sugar control. Regular Exercises Regular and persistent exercise for at least 30 minutes per day, 5~7 days per week is also helpful for better blood pressure control. Exercise in fragments of time such as walking to work or home, getting upstairs/downstairs, or doing housework is also helpful to achieve the exercise amount goal. Avoid high intensity exercise, if hypertension was not under control (systolic blood pressure > 160 mmHg). Smoke Cessation The advantage of smoke cessation can be observed on the first day of cessation. Smokers will experience lower blood pressure while the heartbeat slows down to normal range in just 20 minutes after smoke cessation. Nicotine and monoxide concentration will be halved in 8 hours of smoke cessation while the oxygen concentration returns to the normal value. Within 2 weeks to 3 months of smoke cessation, the risk of getting heart diseases starts to decline while pulmonary function also improves. Within one year after smoke cessation, the likelihood of suffering coronary artery disease are also reduced by half while the risk of stroke could be reduced to the level of nonsmokers in 5 years after smoke cessation. Weight Control Weight loss will effectively lower blood pressure. The Health Department constantly promotes healthy weight control plans to teach the publics with healthy lifestyle in “smart eating, happy exercise and weighing daily.” Call the 0800-367-100 (Lose weight by exercise) healthy weight management consultation hotline, and nutritionists and exercise professionals will be available to provide consulting services for free, from Monday to Saturday, 09:00A.M. to 21:00P.M. Cut Down on Drinking Alcohol will make the blood pressure unstable and people with hypertension should control drinking. Male should not drink more than 2 alcoholic equivalent per day (drinks/day) and female should not drink more than 1 alcoholic equivalent (each alcoholic equivalent is 15 grams, approximately equal to 360ml of beer, 120 ~ 150 ml of red wine, and 30 ~ 40 ml of Brandy or other spirits). Avoid binge drinking. Regular Drug Administration Patients already having hypertension shall seek for medical treatment and take drugs regularly. Irregular drug administration may cause blood pressure to rise sharply. Check Blood Pressure Regularly Checking blood pressure regularly is the basis to early discovery and control of hypertension. The Health Department calls for people aged 18 years or old to check blood pressure at least once a year and they should consult with a physician if the blood pressure exceeds 140/90 mmHg in the hospital, or exceeds 130/80 mmHg at home. Patients of hypertension receiving treatment now should check and record blood pressure systematically, which will not only help the medical staff with understanding the blood pressure control condition of the patients but also shows the changes of lifestyle and control by hypertension drugs. Reference Wang TD, Chiang CE, Chao TH, et al. 2022 Guidelines of the Taiwan Society of Cardiology and the Taiwan Hypertension Society for the Management of Hypertension. Acta Cardiol Sin. 2022;38(3):225-325. doi:10.6515/ACS.202205_38(3).20220321A Mancia G, Kreutz R, Brunström M, et al. 2023 ESH Guidelines for the management of arterial hypertension The Task Force for the management of arterial hypertension of the European Society of Hypertension: Endorsed by the International Society of Hypertension (ISH) and the European Renal Association (ERA). J Hypertens. 2023;41(12):1874-2071. doi:10.1097/HJH.0000000000003480",
+      "keywords": [
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6500",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.654Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-a5e26a4540",
+      "title": "高脂血症飲食",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2026/3/26 高脂血症是指血液中的膽固醇、三酸甘油酯高於理想控制目標。 不論是單一或合併的血脂異常，都是造成動脈粥狀硬化的危險因子，增加罹患冠狀動脈心臟疾病及腦中風的機率。 成人血脂濃度（毫克/百毫升） 理想濃度 邊際高危險濃度 高危...",
+      "fullContent": "2026/3/26 高脂血症是指血液中的膽固醇、三酸甘油酯高於理想控制目標。 不論是單一或合併的血脂異常，都是造成動脈粥狀硬化的危險因子，增加罹患冠狀動脈心臟疾病及腦中風的機率。 成人血脂濃度（毫克/百毫升） 理想濃度 邊際高危險濃度 高危險濃度 總膽固醇（非禁食） 低於 200 200 ─ 239 大或等於 240 低密度脂蛋白膽固醇 （禁食12小時） 低於 130 130 ─ 149 大或等於 150 三酸甘油酯 （禁食12小時） 小於 150 150 ─ 200 大於 200 高膽固醇血症 當血液中的總膽固醇或低密度脂蛋白膽固醇濃度高於理想血脂目標值，即為高膽固醇血症。 高膽固醇血症飲食原則 維持理想體重。理想體重 ( 公斤 ) = 22 × 身高( 公尺 )平方 ，若體重超過理想值的 10 ％ 時，應慢慢減重。 每天均衡攝取六大類食物，包括：乳品類、全穀雜糧類、蔬菜類、水果類、豆魚蛋肉類及油脂與堅果種子類。 避免吃膽固醇含量高的食物，例如：內臟 ( 腦、肝、腰子、腸、心等 ) 、蟹黃、蝦膏、魚卵、烏魚子、牡蠣 (蚵仔)、蛋黃、魚頭、魚皮、魚肚、臘肉、肉鬆、培根、肥肉、肥皮等。 烹調宜多採用清蒸、水煮、涼拌、燒、烤、燉、滷等方式可減少烹調用油量，避免油炸、油煎或油酥的食物、肥肉及豬皮、雞皮、鴨皮、魚皮等。 炒菜宜多選用植物油，例如：花生油、菜籽油、橄欖油、苦茶油、葡萄籽油；少用動物油，如：豬油、牛油、奶油、肥肉等。 建議多攝取富含纖維質的食物，如：各種蔬菜、未加工的全榖雜糧類或的乾豆類 (可用乾豆類替代部分主食，如以黃豆、紅豆或綠豆加入糙米或胚芽米一起煮食)。 避免飲酒及含酒精飲料。 養成良好的生活型態，例如：戒菸、適度運動以及壓力調適。 高三酸甘油酯血症 血中三酸甘油酯濃度會隨著飲食攝取的油脂種類、含量改變。 當禁食 12 小時後，血中三酸甘油酯的濃度仍高於理想控制目標值，即稱為高三酸甘油酯血症。 高三酸甘油酯血症常見於肥胖、飲酒過量或不良的飲食習慣，是冠狀動脈心臟疾病的高危險因子，同時也會引起脂肪肝及胰臟炎。 高三酸甘油酯血症飲食原則 維持理想體重可降低血液中三酸甘油酯濃度。 避免精製糖添加的食物及飲品，如各種甜食、糕餅點心、蜂蜜、汽水、可樂、果汁、冰淇淋、巧克力等。 建議飲食中的醣類應選擇複合性醣類食物，如全穀雜糧類 ( 糙米、胚芽米、地瓜、南瓜等)。 適量選用富含 ω-3 脂肪酸的魚類，如：秋刀魚、鮭魚、日本花鯖魚、鮪魚。 避免飲酒及含酒精飲料。 其他請參考高膽固醇血症飲食原則。 參考資料 衛生福利部國健署（2003，12月）．高血脂防治手冊。",
+      "keywords": [
+        "高血脂",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=4806",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.663Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-1264c4a972",
+      "title": "Dietary Principles of Hyperlipidemia 高脂血症飲食",
+      "clinicName": "中國醫藥大學附設醫院",
+      "category": "慢性病",
+      "summary": "2026/3/26 What is hyperlipidemias? Hyperlipidemia results from increased level of cholesterol and/or triglyceride in the...",
+      "fullContent": "2026/3/26 What is hyperlipidemias? Hyperlipidemia results from increased level of cholesterol and/or triglyceride in the blood. Hypercholesterolemia and hypertriglyceridemia are the most common causes for atherosclerosis which will enhance the risk of coronary heart disease and strokes. Cholesterol levels for adults Items Total cholesterol LDL-Cholesterol acceptable ＜200mg/dl ＜130 mg/dl borderline 200~239mg/dl 130~159 mg/dl high ≧239mg/dl ≧160mg/dl Hypercholesterolemia When the total cholesterol concentration or low-density lipoprotein-cholesterol concentration in the blood is higher than the ideal blood lipid target value, it is considered hypercholesterolemia. Dietary Principles for Hypercholesterolemia Maintain ideal body weight: The formula is [body high2(m) ×22] (Maintain in ±10 % ) A balanced intake of six types of food every day, including: dairy products, whole grains, vegetables, fruits, beans, fish, eggs, meat, oils, nuts and seeds. Avoid eating foods with high cholesterol content, such as: internal organs (brain, liver, kidneys, intestines, heart, etc.), crab roe, shrimp paste, fish eggs, mullet roe, oysters (oysters), egg yolks, fish heads, fish skin, fish belly, Bacon, pork floss, bacon, fatty meat, fatty skin, etc. Use liquid vegetable oils (such as peanut oil, rapeseed oil, olive oil, bitter tea oil, grape seed oil) in place of animal oils.(such as lard, butter, butter, fat, etc) Intake fiber-rich food like different kinds of vegetables, brown rice, whole wheat bread, and unprocessed beans. Limit alcohol intake. Develop a good lifestyle, such as smoking cessation, moderate exercise and stress adjustment. Hypertriglyceridemia The concentration of triglycerides in the blood changes with the type and content of fats and oils ingested in the diet. After 12 hours of fasting, the blood triglyceride concentration is still higher than the ideal control target value, which is called hypertriglyceridemia. This disease often co-exist with attributions like obesity and overdrinking that could also cause coronary heart disease, and fatty liver and pancreatitis. Triglycerides for adults Items TG levels in blood acceptable ＜150mg/dl borderline 150~200 mg/dl high ＞200 mg/dl Dietary principles for hypertriglyceridemia Maintain ideal body weight. Good weight control evidently reduces TG (Triglyceride) level in the blood. Choose whole grains containing soluble fiber food like cereals, and avoid food with refined sugar. (e.g. dessert, honey, coke, ice cream, chocolate) Consume fish rich in ω-3 fatty acid.such as saury, salmon, Japanese mackerel, and tuna. Avoid drinking alcohol and alcoholic beverages. For others, please refer to the principles of hypercholesterolemia diet. Food choice Type of food Food you can eat Food not to eat dairy product Nonfat dairy products And other products Ice cream, butter whole cereals Rice, noodle, brown rice, and sweet potato Different kinds of dessert, Fried bread stick vegetables Dark vegetable none fruits All kinds of fresh fruits preserved fruit meat Fish, chicken, duck, pork, beef, and lean meats Fat meat, ham, sausage Brain, heart, liver, and kidney fat Plant oil, peanuts oil, and soy bean oil Lard, butter, others Tea, juice sugar free jelly Chocolate, snacks Reference 衛生福利部國健署（2003，12月）．高血脂防治手冊。",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/HealthEdus/Detail?no=6287",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:39.673Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-d52aaf89d4",
+      "title": "糖尿病應有的認識",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "; , , ; , , ; , ; Health Resources Center, National Taiwan University Hospital 08:0017:00 10002 022356-2114 -- 1 of 2 --...",
+      "fullContent": "; , , ; , , ; , ; Health Resources Center, National Taiwan University Hospital 08:0017:00 10002 022356-2114 -- 1 of 2 -- 6.5% 126mg/dL 2 200 mg/dL 80-130 80-160 (02)23562376 (02)23894625 2026. 04 4-6% 70-100mg/dL -- 2 of 2 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/forms/01_%E7%B3%96%E5%B0%BF%E7%97%85%E6%87%89%E6%9C%89%E7%9A%84%E8%AA%8D%E8%AD%98.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:40.344Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-ff7e05acbf",
+      "title": "心臟衰竭護心衛教手冊",
+      "clinicName": "台大醫院健康教育中心",
+      "category": "慢性病",
+      "summary": "NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第0頁 -- 1 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第1頁 目錄 一 、 何 謂 心 衰 竭 … … … … … … … … … … … … … … …...",
+      "fullContent": "NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第0頁 -- 1 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第1頁 目錄 一 、 何 謂 心 衰 竭 … … … … … … … … … … … … … … … … … 2 (一)心衰竭分級 NYHA ................................................. 3 (二)心衰竭的症狀 .................................................... 4 (三)心衰竭的檢查 .................................................... 5 二、心衰竭的非藥品治療 .............................................. 5 (一) 自我飲食控制： ................................................. 5 (二) 控制水分 ....................................................... 6 (三) 控制體重 ....................................................... 6 (四) 戒菸、戒毒、節制飲酒 ........................................... 7 (五) 氧氣輔助治療 ................................................... 7 三、控制共病症 ...................................................... 7 四、心衰竭介入性治療 ................................................ 8 五、安寧緩和醫療 .................................................... 9 六、遠距照護服務 .................................................... 9 七、營養師教您如何護心 ............................................. 10 (一)護心低鹽飲食原則 ............................................... 14 (二)護心低鈉外食選擇……………………………………………16 (三)顧心護腎低鉀飲食……………………………………………19 (四)顧心護腎低磷飲食……………………………………………20 (五)自我水腫評估 / 水份控制 ......................................... 21 (六)特殊營養品的選擇……………………………………………24 (七)低鈉料理食譜示範影片………………………………………25 八、心衰竭的藥品治療 ............................................... 26 (一)乙型阻斷劑 ..................................................... 29 (二)血管收縮素轉化酶抑制劑（ACEI）/血管收縮素第二型受體阻斷劑 ...... 32 (三)血管收縮素受體拮抗劑-中性溶酶抑制劑（ARNI） .................... 37 (四)礦物皮質酮受體拮抗劑（MRA） .................................... 39 (五)SGLT2 抑制劑.................................................... 41 (六)心臟節律抑制劑 ................................................. 44 (七)水溶性鳥苷酸環化酶刺激劑(sGC)………………………………48 九、心衰竭的心臟復健活動 ........................................... 53 十、職能治療教您如何維持生活品質.................................... 56 十一、心衰竭的自我照護 ............................................. 58 十二、 「三力一管」鍛鍊心能力，保健心血管 ............................. 59 十三、心衰竭社會福利簡介............................................ 64 十四、心衰竭知識補給站 ............................................. 67 十五、心衰竭電子化自我管理資源...................................... 68 (一)臺大全心健康 APP ............................................... 68 十六、心衰竭衛教門診 ............................................... 68 十七、自我健康紀錄 .................................................. 69 參考資料 ......................................................... 76 -- 2 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第2頁 一、心衰竭是什麼： 心衰竭俗稱「心臟無力」，一般泛指類似抽水馬達泵浦運轉效率變差的概念， 導致無法提供全身器官足夠的血液循環，有時是不可逆轉的慢性、漸進性疾病。隨 著社會高齡化，心衰竭在全世界的發病率逐年上升，在台灣，推估有 36 萬人罹患心 衰竭。由於初期症狀不易識別，往往低估嚴重程度，若未加以控制，容易急性發作 導致需反覆住院治療，五年死亡率高達 50%，並不亞於癌症，因此心衰竭不容忽視。 隨著醫療的進展，近年來更有舒張性心衰竭議題，但無論是何種診斷，都需配合醫 療指示及治療，積極控制三高等慢性病、規律服用藥物、改善生活方式、落實自我 照護管理，做好疾病自我管理，方可與心衰竭和平共存。 二、心衰竭的原因： 心衰竭常起源於各種心臟結構或功能問題，常見的主要原因如冠狀動脈心臟 病、心肌梗塞、心臟瓣膜疾病、心律不整、高血壓、心肌病變、遺傳基因等。若是 懷疑為遺傳性心臟病，以歐美治療指引建議，病人應該接受基因檢測釐清病因，另 外病人的家屬(血親：父母、兄弟姐妹和小孩)也要一同進行臨床篩檢和基因檢測。 許多危險因子如年齡、高血壓、糖尿病、高血脂、肥胖、菸害、毒害也會 與心臟疾病共同造成心衰竭。有些病人則是因藥物毒性、生理狀態改變(如：懷 孕)、甲狀腺功能亢進、慢性貧血、慢性肺病、慢性腎臟病也會間接造成心衰竭。 何謂心衰竭? -- 3 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第3頁 第一級：身體活動不受限，身體活動 不會引起心悸、呼吸困難或心絞 痛。 第二級：活動輕度受限，可日常活動 （爬樓梯一層），劇烈運動會喘、呼吸 困難、心悸或心絞痛。 第三級：輕微的活動也會喘、疲倦、 心悸或心絞痛，但休息時會緩 解。 第四級：任何身體活動都會呼吸困難， 甚至躺床或坐著不動也會喘、心悸或 心絞痛。 心衰竭分級 NYHA -- 4 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第4頁 1.呼吸困難：肺內液體增加，占了空氣的 容積。故在運動或工作時會呼吸困難， 嚴重時躺在床上也會呼吸困難。 2.端坐呼吸：呼吸困難較嚴重的階段。 肺內液體佔據氣體交換的容積，加上 躺平會使下肢血液回流到心臟及肺的 量增加，而加重呼吸困難。 躺平就更喘 乾脆坐著睡 3. 心跳過快、心律不整：因心臟無力， 使每次心跳打出心臟的血液太少，造成 增加心跳次數甚至心律不整。 4.咳嗽：大量的液體積聚在肺，使肺黏 膜受刺激所致；可能乾咳，也可能咳 出大量帶泡沫及血絲的稀水痰。 5.疲倦、活動耐力不足、虛弱：組織氧合 功能不良，造成進行活動後特別虛弱。 6.水腫：以手指壓迫皮膚會產生暫時性 凹陷，也可能會發生肝腫大、腹水、 肺水腫及肋膜積水等。 心衰竭的症狀 -- 5 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第5頁 7.夜尿多：由於心輸量及腎血流減少，故 白天尿量減少，而夜間臥床睡眠時，使 腎血流增加，相對尿量增加。 8.焦慮、不安、頭暈、不易入睡：慢性 心衰竭者因腦部灌流不足，易躁動不 安、混亂、注意力或記憶力減退。 包括驗血、X 光、心電圖、心臟超音波、心導管及心血管攝影、電腦斷層或磁 振造影、核子醫學攝影、運動心肺功能、6 分鐘行走測試等，醫師將依病況安排。 一、自我飲食控制：控制飲食之中的鹽分（鈉）及水分的攝取，並採少量多餐、易消 化、營養成分佳的軟質食物。因天然食材約含 360 至 800 毫克的鈉（相當 1 至 2 公克鹽），所以每日建議鹽勿超過 5 公克（相當於 2000 毫克的鈉），不只鹽有鈉， 市售加工調味料大多含有鈉，如：味精、醬油、調味料、各式醬料、罐頭及醃製 食品，宜減量或避免食用。在飲食中最容易不知不覺中被吃下肚的鹽常會藏在燉 品、肉湯、菜湯等湯汁中，還有麵包、吐司、洋芋片、加工蔬果汁、爆米花等都 含有鈉，依據食品標準局建議每 100 克食品含鈉 600 毫克以上，屬於「高鹽」食 物，請見食品外包裝上的「營養標示」 ，心友應禁止食用高鹽食物，特別是醃漬 品、臘肉等；心衰竭病人應採低鹽飲食，每 100 克食品含鈉 200 毫克以下的屬低 鹽食物。請攝取適量蔬菜、高纖維食物，保持大便通暢，避免便秘、閉氣用力。 市售低鈉鹽為高鉀，宜諮詢醫師、營養師建議，高鉀不適用於腎臟功能不良 心衰竭的檢查 心衰竭的非藥品治療 -- 6 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第6頁 者。合併腎臟衰竭須注意，依照臨床症狀可能需要低鈉、低磷、低鉀飲食。因鉀 離子易溶在湯水中，故煮菜的湯汁、滷肉的鹵水、精力湯等都高鉀；青菜切小塊 後以熱水汆燙就可減少鉀。因腎功能不佳時不能排除楊桃的神經毒，應避免食用 楊桃。詳細請見「營養師教您如何護心」或諮詢營養師。 資料來源：消費者委員會 https：//www.consumer.org.hk/ws_chi/news/press/471/condiments-sauces.html 二、控制水分： 控制水分 1000 毫升至 1500 毫升／天（可能須依照您的醫師建議、 病況調整），水分攝取須平均分散在一天裡，所有食物及液體都含有水分；乾飯及 菜、肉：含水 50%；高含水食物，如：水果、稀飯、湯麵、豆花、布丁、愛玉：含 水 80%；記錄個人一天的食量，例如: 莊爺爺吃一碗飯、一塊乾煎雞排、清炒高麗菜、原味蒸蛋，聖女番茄 10 顆。 這餐攝取水量為： 飯一碗 ”200 公克”含有 50%水分 = 含水 100 毫升 雞排與清炒高麗菜 “200 公克”含有 50%水分 = 含水 100 毫升 原味蒸蛋 ”40 公克”含有 80%水分 = 含水 32 毫升 小番茄 ”120 公克”含有 80%水分 = 含水 96 毫升 共含水 328 毫升 莊爺爺限水 1500 毫升／天，以莊爺食量一餐共含水 328 毫升，粗估一天三餐共含 水 984 毫升，除了食物含水外，莊爺額外喝的液體(水)勿超過 516 毫升／天。 三、控制體重：維持理想體重，如果體重過重，應控制三餐的飲食及熱量，並而吃飽 -- 7 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第7頁 飯後不可立刻工作或運動，應稍微休息 30 分鐘再做有氧運動。 我的身高： 公分= 公尺 我的現在體重： 公斤 BMI 身體質量指數= 體重（公斤） 身高（公尺）×身高（公尺） 算算看： BMI（ ）= 體重（ ） 身高（ ）×（ ） （BMI）身體質量指數（kg/m2 ） 體重過輕 BMI ＜ 18.5 正常範圍 18.5≦BMI＜24 異常範圍 過重 24≦BMI＜27 輕度肥胖 27≦BMI＜30 中度肥胖 30≦BMI＜35 重度肥胖 BMI≧35 四、戒菸、戒毒、節制飲酒：戒毒、戒菸減少毒性物質傷害心血管，菸草中的尼古 丁會影響神經系統，導致吸菸者血壓上升，造成高血壓；而自由基與過氧化物等 會增加血小板凝集、引發血栓、動脈硬化，甚至心肌梗塞，家醫科門診可以幫助 您成功戒菸。避免過量酗酒將加重心臟負擔，適量飲酒是指一天內不超過 10 公 克純酒精含量(250 酒精含量為 5%的啤酒或 30 毫升酒精含量為 40%的高粱)。 五、氧氣治療：嚴重呼吸困難須及早就醫治療，於醫師建議下，可藉由用吸氧氣來減 輕呼吸喘的不舒適感，若長期需要使用氧氣，可租或購買氧氣筒或製氧機，建議 搭配指尖血氧偵測機（oximeter）使用，領有身心障礙手冊者，若合乎政府單位 規定可申請補助。 一、高血壓：改採『得舒飲食』，依醫囑服藥，適量運動，每天記錄血壓。 二、高血脂：飲食少油炸、避免肥肉、只吃瘦肉不吃皮，適量運動，依醫囑服藥。 三、糖尿病：控制糖及醣類（碳水化合物）吃的總量，適量運動，依醫囑服藥，每 天記錄血糖。 四、腎功能不全：依臨床症狀執行低鈉、低鉀、低鏻、限水飲食，避免水腫，每天 記錄體重、尿量。 五、風濕免疫疾病：避免中、草藥、未經醫師許可的保健品，依醫囑服藥。 控制共病症 -- 8 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第8頁 一、心導管介入性治療：部分的冠狀動脈阻塞或狹窄，可以用心導管進行氣球擴張 或是支架放置治療，手術後仍需要定期返診、長期服藥減少再次阻塞的機率。 二、心律不整電燒 / 整流：需經過專業醫師評估特定的心律不整除了藥物治療以 外，尚可考慮燒灼術、電擊整流或是立體定位電氣燒灼術，若為長期心房顫動 (atrial fibrillation)者，則需要長期服用抗凝血劑預防血栓形成。 三、體內心臟節律器（PPM）：發生嚴重的心跳過慢者，經醫師評估建議您裝置體內 心臟節律器，幫助您在心跳過慢時，節律器以細微電流刺激心臟搏動。 四、體內去顫器（ICD） ：發生嚴重的心室心律不整者，經醫師評估建議您裝置體內 去顫器，幫助您在突發嚴重的心室心律不整時，及時去顫，讓您有能力尋求幫 助、就醫。若心友裝置體內去顫器（ICD）於一周內被電擊兩次以上則需立即至 急診就醫。 五、體內心臟再同步化治療（CRT）：當心電圖出現明顯左束支傳導阻滯，經醫師評 估適合裝置 CRT，需先申請健保事前審查。CRT 係藉由增加左心室、右心室，兩 側收縮的協調性，期能增加心臟收縮力。 六、外科手術介入：心臟外科醫師將依照您個人心臟疾病的狀況評估，外科手術介 入可用於改善因心臟結構異常所造成的心衰竭，例如：冠狀動脈繞道手術、心臟 瓣膜修補 / 置換術、肥厚心室整型術等。 七、機械輔助循環：心衰竭嚴重惡化時，心友可能需要藉由機械輔助循環維持生命 （例如：主動脈內氣球幫浦、心室輔助器、葉克膜等…） 。 八、心臟移植：心衰竭末期，經醫師評估病況已達需要心臟移植者，則需接受相關 事前檢查，合乎適應症者則可列為心臟移植等候者，等候大德捐贈合適的心臟。 本院設有『菁心社』心臟移植病友團體，是換心人溫馨的大家庭。 心衰竭介入性治療 / 裝置植入 -- 9 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第9頁 一、安寧緩和醫療：末期心衰竭，治癒性醫療尚有其極限，您可以有不同選擇，包 含安寧共照、安寧病房以及安寧居家，安寧緩和醫療可協助您緩解症狀、關心情 緒，協助您在終點前的這段路，較自在、輕鬆，「活著，是最好的禮物；善終， 是最美的祝福。」 二、預立醫療照護諮商：罹患心衰竭者，若希望及早訂立 自己的醫療決策，避免家人在自己重病時會難以決策， 依照病人自主權利法，您可以到輔助暨整合醫學中心進 行『預立醫療照護諮商』(Advance Care Planning, ACP)來『預立醫療決定』 ，輔助暨整合醫學中心預約專線 (02) 2312-3456 轉分機 266986、266987。 一、由專業個案管理師提供 24 小時遠距生理數值監控及個別化的衛教諮詢與醫療轉 介服務，能協助處理陣發性或突發性狀況，使病友於居家仍可獲得健康諮詢與持 續照護，並減少病友疾病復發或嚴重併發症之產生，以提升健康照護品質及減少 醫療資源的消耗。 二、服務內容 (一)遠距生理量測 (二)心律調節器居家監測 (三)遠距持續性照護 (四)遠距即時辦門診 (五)緊急護理諮詢 安寧緩和醫療 遠距照護服務 臺大醫院東址南棟 1 樓 洽詢專線:02-2356-2872 傳真號碼:02-2356-2885 mail:telehealth@ntuh.gov.tw 三、申辦條件與費用 (一)須為本院複診之病友，初診可聯繫中心協 助辦理掛號相關事項。 (二)依病友個別需求採客製化服務，各項資費 詳洽本中心。 (三)請於上班時間致電中心洽詢及預約，將有 專人服務。 -- 10 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第10頁 一、 熱量需求計算：良好的營養狀況有助於心衰竭患者維持病況， 因此適當的攝取身體所需要的熱量及營養素能保護患者心臟及維 持較佳的健康狀況。 您的體重：______公斤 x_____（每天活動量因子）=_______大卡（每天熱量需求） 活動量因子： (大卡/公斤) 活動型態 體重過輕者 體重正常者 體重過重或肥胖者 輕度工作 35 大卡 30 大卡 20－25 大卡 中度工作 40 大卡 35 大卡 30 大卡 重度工作 45 大卡 40 大卡 35 大卡 活動型態 活動種類 輕度工作 大部分從事靜態或坐著的工作。 例如：家庭主婦、靜態的上班族、售貨員 中度工作 從事機械操作、接待或家事等站立活動較多的工作。 例如：褓母、護理師、服務生 重度工作 從事農耕、漁業、建築等的重度使用體力之工作。 例如：運動員、搬家工人 二、 均衡飲食之規劃 1.各級熱量之食物分配份數表 熱量(大卡) 1200 1350 1500 1650 1800 1950 2100 2250 2400 低脂奶類 1 1 1 1 1 1 1 1 1 蔬菜類 3 3 3 3 3 3 3 3 3 水果類 2 2 2 2 2 2 2 2 2 全穀根莖類 6 6 8 10 11 12 13 15 16 豆魚肉蛋類 4 5 5 5 6 7 8 8 9 油脂與堅果 種子類 4 4 5 5 5 6 6 7 7 營養師教您如何護心 心衰竭飲食原則影片 -- 11 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第11頁 熱量(大卡) 1200 1350 1500 1650 1800 1950 2100 2250 2400 低脂奶類 - - - - - - - - - 蔬菜類 3 3 3 3 3 3 3 3 3 水果類 2 2 2 2 2 2 2 2 2 全穀根莖類 7 8 9 11 12 13 14 16 17 豆魚肉蛋類 4 5 6 6 7 8 9 9 10 油脂與堅果 種子類 5 5 5 6 6 6 6 7 7 ＊表內數字為份數（Exchange），每份之食物量請參見食物代換手冊。 ＊豆魚肉蛋類，主要提供蛋白質需求，需依設計之攝取，以免造成蛋白質缺乏。腎功能不佳者， 蛋白質攝取量則要另行調整 2.簡易食物代換表 全榖根莖類 1 份 2 份 3 份 4 份 冬粉、米苔目、 米粉、稀飯 1/2 碗 1 碗 1+1/2 碗 2 碗 飯、地瓜、芋頭、 馬鈴薯、紅豆、綠豆 1/4 碗 1/2 碗 3/4 碗 1 碗 麵條 1/2 碗 1 碗 1+1/2 碗 2 碗 饅頭 1/3 個 2/3 個 1 個 1+1/3 個 山東饅頭 1/6 個 1/3 個 1/2 個 2/3 個 薄片吐司 1 片 (25 公克) 2 片 3 片 4 片 厚片吐司 1/2 片 (50 公克) 1 片 1+1/2 片 2 片 小餐包 1 個 2 個 3 個 4 個 蘿蔔糕 (小) 1 片 2 片 3 片 4 片 蘇打餅 3 片 6 片 9 片 12 片 麥片 3 湯匙 6 湯匙 9 湯匙 12 湯匙 麥粉 4 湯匙 8 湯匙 12 湯匙 16 湯匙 餃子皮 3 張 6 張 9 張 12 張 餛飩皮 (小) 7 張 14 張 21 張 28 張 小湯圓 10 粒 20 粒 30 粒 40 粒 -- 12 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第12頁 3.各類食物份量代換表 1 份 奶類 1 份 豆魚肉蛋類 1 份 水果類 1 份油脂與 堅果種子類 1 份 蔬菜類 全脂 =1 杯鮮奶 (240 毫升) =4 湯匙奶粉 =2 片起司 低/脫脂 =1 杯鮮奶 (240 毫升) =3 湯匙奶粉 =1 兩豬/雞/ 魚/牛肉/烏 賊/小管/墨 魚/蝦/蟹 =1 個蛋 =1 杯豆漿 (260 毫升) =1 塊豆腐(80 克) =1 個素雞(40 克) =2 塊五香豆 干 =2 湯匙魚/肉 絲 =2 湯匙肉鬆 =1 個網球/棒球大 小 =1 平碗切塊水果 =1 個橘子/柳丁/蘋 果(小)/桃子/水蜜 桃/台灣芭樂(小)/ 土芒果/加州李 =1 片西瓜 (連皮半片) =1/2 根香蕉 =1/3 個木瓜(中) =1/3 個泰國芭樂 =3/4 個葡萄柚 =1+1/2 個奇異果 =2 個蓮霧 =6 個枇杷 =9 個櫻桃/荔枝 =13 個葡萄 =16 個草莓(小) =1 茶匙沙拉油/ 麻油/花生油/奶 油/玉米油/豬油/ 牛油/瑪琪琳/蛋 黃醬 =2 茶匙法/義式 沙拉/芝麻 =1 湯匙南瓜子/ 瓜子/鮮奶油 =1 片培根 =2 粒核桃仁 =5 粒杏仁/腰果 =10 粒開心果 =100 克生菜 =半碗煮熟 蔬菜 4.您的每日飲食計畫 總熱量：____________大卡，蛋白質：____________公克 日期：____________ 熱量(大卡) 總份數 早餐 早點 午餐 午點 晚餐 晚點 低脂奶類 蔬菜類 水果類 全穀根莖類 豆魚肉蛋類 油脂與堅果 種子類 -- 13 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第13頁 5.食慾不佳時之營養補充建議 當食慾下降及進食量減少時，建議以少量多餐的方式進食。另外，可考慮補 充適當的「濃縮營養品」，補足攝取的不足。 配方 攝取量 6.其他維生素、礦物質如有缺乏情形，要依醫師、營養師建議另外補充。 國健署減鹽秘笈 臺大醫院營養諮詢 資料來源:新竹縣政府衛生局 http://www.hcshb.gov.tw/ -- 14 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第14頁 鈉離子在人體中主要負責調控體內水分的平衡。過多的「鈉」離子會使身體水 份累積、高血壓、肺積水、增加心臟的負荷。鈉離子廣泛存在於食物中，是鹽、味 精、蕃茄醬、豆瓣醬、味噌、咖哩、干貝醬等調味料的主要成分之一。 一、 低鈉飲食選擇與烹飪技巧 1.低鈉飲食原則（1 公克鹽=400 毫克鈉）：建議心衰竭心友每日限鹽 5 公克（2000 毫克鈉），依照病況調整，嚴重水腫時可能需限鹽低於 3 公克（1200 毫克鈉） 。 2.選擇天然食材，以新鮮食物本身的原味為主，避免加工、罐頭及醃製、滷製食 品，烹調時添加的調味料用量逐漸減少，用量至少減為原本的一半。 3.忌鈉含量高的加工食品，如：泡麵、麵線、油麵、蘇打餅干、蜜餞、香腸等。 4.多善用天然食材的香氣調味，如：蔥、薑、蒜、五香、八角、肉桂、花椒、芹 菜、香菜、迷迭香、帕西里、羅勒、山蘿蔔、月桂葉、鼠尾草、百里香、西洋 香料、檸檬、百香果、鳳梨等調味，增加食物可口性。 5.減少鈉含量高的調味料使用，如：鹽、醬油、味精、味噌、咖哩塊、蕃茄醬、 豆瓣醬、辣椒醬、XO 醬、烏醋、日本調味醋等。 6.市售薄鹽醬油、低鈉鹽、健康美味鹽等，多數是以「鉀」取代「鈉」，心衰竭且 腎臟功能不良者不宜食用。 7.減少外食或學習外食減鹽技巧。 8. 購買前，仔細閱讀包裝食品上標示的「鈉」含量，選擇鈉含量低的食品。 護心低鹽飲食原則 低鈉飲食原則影片 -- 15 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第15頁 各類調味品與食鹽鈉含量的換算表 1公克鹽 （400 毫克鈉） = 1又1/5茶匙醬油 = 1 茶匙味精 = 1 茶匙烏醋 = 2.5茶匙蕃茄醬 = 4.4茶匙甜辣醬 = 6 毫升醬油 = 3 公克味精 = 5 毫升烏醋 = 12 毫升蕃茄醬 = 22 毫升甜辣醬 大約1/2茶匙鹽 3公克鹽 （1200 毫克鈉） = 3又3/5茶匙醬油 = 3茶匙味精 = 3 茶匙烏醋 = 7.5茶匙蕃茄醬 = 13.2茶匙甜辣醬 = 18 毫升醬油 = 9 公克味精 = 15 毫升烏醋 = 36 毫升蕃茄醬 = 66 毫升甜辣醬 1茶匙鹽 5公克食鹽 （2000 毫克鈉） 也就是心友一整天的鹽量上限 = 6 茶匙醬油 = 5 茶匙味精 = 5 茶匙烏醋 = 14 茶匙番茄醬 = 22茶匙甜辣醬 = 30 毫升醬油 = 25 公克味精 = 25 毫升烏醋 = 70 毫升蕃茄醬 = 110 毫升甜辣醬 1 湯匙 =15 毫升 =15 公克 =15 毫升 1/2 湯匙 =7.5 毫升 =7.5 公克 =7.5 毫升 1 茶匙 = 5 毫升 = 5 公克 = 5 毫升 1/2 茶匙 =2.5 毫升 =2.5 公克 =2.5 毫升 1/4 茶匙 =1.25 毫升 =1.25 公克 =1.25 毫升 -- 16 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第16頁 常見調味料中每 5 公克的鈉含量(毫克) 低鈉 0~50 毫克 (可用) 50~100 毫克 (酌量使用) 100~150 毫克 (盡量少用) >150 毫克高鈉 (避免使用) 蔥、薑、蒜、白糖、 白醋、五香、肉桂、 甘草粉、白胡椒粉、 黑胡椒粉、咖哩粉、 花椒粉、辣椒粉、香 蒜、八角、杏仁露、 山葵粉、蘑菇、油蔥 酥、純米醋、高粱 醋、枸杞 烏醋、蒸肉 粉、芥末醬、 糖醋醬、番茄 醬、海苔醬 烤肉醬、沙茶、 牛排醬、壺底 油、素食烏醋 小蘇打粉、味精、高鮮 味精、美極鮮味精、鮮 雞精、大骨汁、醬油、 低鹽醬油、黑豆蔭油、 蝦油、醬油膏、蠔油、 味增、咖哩塊、豆瓣 醬、辣椒醬、干貝醬、 XO 醬、酸黃瓜醬、辣豆 瓣醬、蠔油 資料來源：減鹽秘笈手冊，衛生福利部國民健康署編制 http://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1160 依據一般人的飲食習慣，一餐飲食組合包含：主食類、主菜肉類、半葷素 類、蔬菜類、小菜類、湯品、甜點、飲料等，這些餐點一餐吃下來，依國人飲食習 慣通常超過相當於 4 至 5 公克的鹽（1 公克鹽=400 毫克鈉） ，而心衰竭心友一天建 議的鹽攝取量 5 公克，因此需謹慎選擇飲食，加強認知，增進低鈉飲食技巧，非常 重要。 護心低鈉外食選擇 外食低鈉 要領 1. 吃原型原味，蒸煮菜色少鹽醬 2. 炒麵炒飯不要選，吃湯麵不喝湯 3. 桌上鹽醬都不沾，肉汁燴汁也不吃 4. 鹹味湯品與小菜，不點選也不喝 5. 總量管制，營養夠即可，多食必多鹽 外食減鈉技巧影片 -- 17 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第17頁 類 低鈉 高鈉(避免食 用) 認知與飲食技巧 五 穀 米 飯 類 白飯、五穀 飯、煮玉米、 烤地瓜 炒飯、燴飯、滷 肉飯、粽子、醬 烤玉米 1 碗炒飯（200 公克）含鹽 2 至 3 公克 *避免加鹽與醬油烹煮的飯類 *吃飯不額外再淋滷肉汁 *燴飯，燴飯醬汁不全拌入飯 麵 食 低鹽湯底煮的 湯麵且少喝湯 養生饅頭 低鈉吐司麵包 炒麵、涼麵、麵 線羹、肉羹麵、 義大利麵、日式 拉麵、紅燒牛肉 麵、榨菜肉絲麵 水餃、鍋貼、肉 包 泡麵 鹹麵包、法國麵 包、吐司 湯麵的湯，含鹽 0.5 至 1 公克/100 毫 升.，一碗麵約 200 至 500 毫升.的 湯，等於有 1 至 5 公克鹽。 泡麵一份約 5 公克鹽 麵包或吐司兩片約 1 至 2 公克鹽 *點選 ”湯麵” 但是不喝湯 *吃泡麵不喝湯 *吃炒麵前，準備熱水涮洗過再吃 *選水煮水餃，不再沾醬油，可沾薑醋 汁 *養生饅頭（南瓜、芋頭、堅果…） *注意鈉量營養標示 主 菜 肉 魚 類 薑汁魚湯、清 蒸魚、紅棗燉 雞、仙草雞、 低鹽番茄牛肉 湯 紅燒肉、三杯 雞、豆瓣燒魚、 鹽酥雞、廣式燒 臘肉、蔥燒鯽 魚、火腿片、鹽 烤魚、生魚片 （沾醬油）、白斬 雞（沾醬油） 、火 鍋肉（沾沙茶醬 料）、烤鴨（沾甜 麵醬） 乾燒的主菜一般鹽分，一人份的量含 1 至 2 公克鹽。 *這類屬富含蛋白質食物，每餐只需要 四指大小的份量，外食宴會供應量通 常超出甚多，只吃適量，其它打包， 回家下一餐煮開水涮過再吃。 *選擇清蒸、煮湯，運用香草類、蔬果 及紅棗等湯底之菜色 *少沾桌上胡椒鹽、醬油 半 葷 素 類 糖醋涼拌、水 果入菜 醬爆雞丁、黑胡 椒西芹炒牛柳、 客家小炒、韭菜 炒鱔魚、蝦仁炒 半葷素拌炒菜色，一般一人份含鹽約 0.5 至 1 公克，如肉絲先經醬料醃或炒 時在加醬汁，鹽份都較高；做成勾芡 會吃進更多鹽分。 *半葷素類如醬料過多過鹹，應少吃。 -- 18 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第18頁 類 低鈉 高鈉(避免食 用) 認知與飲食技巧 蛋、麻婆豆腐、 蟹黃粉絲煲 *現場可用茶涮洗再吃。 蔬 菜 煮湯的青菜、 少鹽炒的青菜 雪裡紅、鹹蛋苦 瓜、紅燒冬瓜、 乾扁四季豆 一般炒青菜一人份含鹽 0.5 至 1 公 克。 *青菜雖是多吃保健康，但是如加鹽炒 過，多吃則會多進鹽。只有無鹽青菜 可多吃。 湯 品 特製無鹽蔬果 肉、柴魚等的 高湯 西式洋蔥濃湯、 味噌湯、蟹肉海 鮮羹、佛跳牆、 煲湯鍋 甜不辣、加工火 鍋料 除甜湯外，所有湯品皆含鹽，喝愈多 鹽攝取愈多。 湯品中的加工魚漿類加工食品含高量 鈉。 *心衰竭心友同時需要限鹽及限水，因 此，湯品避免選食為最佳策略。 *宴會打包帶回家，大量水煮涮洗，加 蔬菜，吃料不喝湯。 小 菜 、 點 心 無鹽糖醋或檸 檬口味小菜、 甜煮芋頭、糖 蜜蓮藕、蜜地 瓜 茶凍、甜麻糬 醃製醬瓜類、鹽 炒花生、滷豆干 海帶、蒜醬蜆、 皮蛋豆腐、芝麻 小魚干、梅汁番 茄、蜜餞類 咖哩餃、蘿蔔絲 餅 小菜一般口味重，鹽分高，一般酸甜 辣而忽略鹽分含量。 *小菜、鹹點心，少吃為宜 飲 料 白開水、水果 汁 某些番茄汁、運 動飲料 注意看包裝標示 速 食 、 小 吃 甜品 比薩、漢堡、熱 狗潛艇堡、肉 圓、甜不辣、蚵 仔煎、蔥油餅、 蛋餅、蘿蔔糕 少量且少吃為宜，尤其少加醬料，如 番茄醬、醬油膏等。 -- 19 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第19頁 一、 鉀是維持細胞與肌肉組織功能的重要電解質，腎臟功能差時將減少體內鉀的排 除，每份食物含鉀量高於 200 毫克為高鉀食物，若鉀過高，將 影響到全身肌肉組織，嚴重將造成心律不整。 飲食減鉀小技巧： (1) 蔬菜切小片熱水汆燙，再以油炒或油拌。 (2) 避免菜湯、精力湯、生菜、生魚片，不喝濃縮湯汁（例如：肉湯、果汁），或 者魚、肉、雞湯拌飯。 (3) 少沾醬料，例如：辣醬、番茄醬、甜麵醬。 (4) 勿吃低鈉鹽、美味鹽、無鹽醬油：這些產品是用鉀取代鹽分中的鈉，所以含鉀 量高，易造成血鉀過高。 (5) 若尿量大於 1000 毫升/天，且鉀離子正常的心友，則無需限鉀。 第一組 0-100 毫克/份 第二組 100-200 毫克/份 第三組 200-300 毫克/份 第四組 ＞300 毫克/份 全 穀 根 莖 薏仁 20 克 蓮子(乾重)25 克 栗子(淨重)25 克 甘藷 60 克 芋頭 55 克 菱角 65 克 玉米 80 克 山藥 80 克 馬鈴薯 95 克 蓮藕 100 克 南瓜 90 克 蔬 菜 類 ( 每 份 皆 為 100 克 ) 胡瓜 木耳 葫蘆瓜 蒲瓜 絲瓜 蘿蔔 洋蔥 甜椒 綠豆芽 花胡瓜 高麗菜 包心白菜 山東白菜 澎湖絲瓜 苦瓜 玉米筍 筊白筍 黃秋葵 洋菇 芥藍 蘆筍 蕃茄 茄子 香菇 蠔菇 油菜 胡蘿蔔 綠竹筍 紫甘藍 青江菜 龍鬚菜 小白菜 花椰菜 油菜 美國芹菜 黃豆芽 芥菜 牛蒡 麻竹筍 紅鳳菜 萵苣葉 川七 莧菜 菠菜 荸齊 芋莖 茼蒿 韭菜 芹菜 草菇 空心菜 紅莧菜 白鳳菜 黑甜菜 青花菜 甘薯葉 苜蓿芽 金針菇 柳松菇 猴頭菇 顧心護腎低鉀飲食 限鉀飲食影片 -- 20 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第20頁 第一組 0-100 毫克/份 第二組 100-200 毫克/份 第三組 200-300 毫克/份 第四組 ＞300 毫克/份 水 果 類 鳳梨 105 克 紅西瓜 175 克 櫻桃 80 克 荔枝 90 克 柳丁 135 克 柿餅 30 克 黑棗 25 克 紅棗 25 克 蓮霧 160 克 巨峰葡萄 90 克 蘋果 110 克 葡萄乾 20 克 西洋梨 105 克 黃皮葡萄柚 165 克 土芒果 105 克 愛文芒果 130 克 香蕉 65 克 榴槤 45 克 玫瑰桃 115 克 棗子 120 克 釋迦 55 克 白柚 155 克 龍眼 85 克 龍眼乾 20 克 泰國芭樂 155 克 酪梨 200 克 草莓 160 克 木瓜 150 克 美濃瓜 170 克 哈密瓜 220 克 奇異果 110 克 聖女蕃茄 225 克 紅寶石葡萄柚 170 克 資料來源：National kidney fundation、衛生福利部食品藥物管理署，台灣地區食品營養成分資料庫。 台灣地區常見高含磷蔬菜和水果（請減少食用） 奶類 奶粉、羊奶片、乳酪、養樂多、優格 蛋類 鴨蛋黃、鹹蛋黃、雞蛋黃、鵪鶉鐵蛋 豆類 紅豆、綠豆、蠶豆、豌豆、黃豆、豆皮、黑豆 魚 類 鮑魚、吻仔魚、鱈魚丸、魷魚圈 肉 類 豬腦、豬心、牛肝、豬肝、雞肝、火腿、香腸、鵝肉、肉鬆 主食類 小米、玉米、糙米、大麥、小麥、全麥麵包、皇帝豆 蔬菜類 蘑菇、鹹菜干、香菇、柳松菇、草菇、蔭瓜、金針 水果類 葡萄乾、黑棗、龍眼乾、椰子粉 其 他 肉類加工品(貢丸)、健康醋、酵母粉、大豆卵磷脂、花粉、健素糖 顧心護腎低磷飲食 -- 21 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第21頁 一、腎功能衰退者因為腎臟無法適當移除過多的磷，使鈣磷無法平衡，易造成副甲 狀腺機能亢進、骨骼病變、皮膚搔癢等併發症，故需控制磷。 飲食少磷技巧：選用新鮮肉類、不淋肉湯、少喝大骨湯。 控制水份攝取： （每日總水量=食物中含水量+總液體量） 體內過多的水份易增加心臟的負荷，過多的水份可能會出現水腫或呼吸急促等 症狀，因此請遵循醫囑控制每日水分攝取。一般來說，水份攝取建議每日低於 1000 至 1500 毫升，除了飲用水、飲料及室溫下呈現液態的食物之外，高含水量的食物 也應減少攝取。當身體出現水份累積的問題時，例如：水腫、體重迅速增加、呼吸 急促等症狀，更需嚴格控制「鹽」與「水份」的攝取量，然後觀察 1 至 2 天體重是 否下降。若無改善，應儘速就醫。 簡易手指加壓之凹陷水腫評估 來源: Hogan, M (2007) Medical 至 Surgical Nursing (2nd ed.). Salt Lake City: Prentice Hall. http://www.med-health.net/Edema-Grading.html 1+ 2++ 3+++ 4++++ 輕度水腫 中度水腫 重度水腫 嚴重水腫 按壓 2 毫米深 按壓 4 毫米深 持續數秒後回彈 按壓 6 毫米深 10 至 12 秒後回彈 按壓>8 毫米 持續>20 秒後回彈 一、 水分控制技巧： 1.每日起床排尿後用餐前用固定一檯體重計量體重，逐日記錄體重。 自我水腫評估 / 水份控制 低磷飲食影片 -- 22 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第22頁 2.秤量固體食物重量。 3.選擇固定容器盛裝每日固體食物以外飲水量。 4.配合低鈉飲食。 5.避免攝取過多湯汁、飲料等。注意飲食中隱藏的水分，如：稀飯、豆花等。 二、 飲食水份含量： 1.液體包含任何室溫是流質狀的東西，如水、冰、湯、冰淇淋、果凍...等。不 同的食物含有不同的水份含量，在水量控制的狀況下攝取到足夠的熱量與營養 素是非常重要的。要如何估算每天飲食中攝取多少水份？ 2.秤量每日攝取的食物重量，並記錄在「每日自我水分攝取與水腫評估紀錄表」 3.每日攝取食物重量（不包含水果、湯及高含水食物）×0.5=飲食中攝取的水量 ※ 高含水量食物：食物中含有許多隱藏的水份，部分的食物有較高的含水 量，這類食物中平均含水量約為 80%，攝取時要注意，避免過量攝取。 高含水食物分類 高含水食品名稱 平均含水量 其他食品 湯（有料） 生鮮豆腐 高含水量食物 平均含水量 80% （每 100 公克含 80 毫升水） 蒸蛋 冰淇淋 布丁、果凍 愛玉 水果類 瓜類水果 楊桃 水梨 草莓 李子 三、 解渴小技巧： 1.用開水漱口，再將水吐出。 2.可以口含冰塊，也可以用少許檸檬汁加水做成冰塊。 （需注意：冰塊仍然屬於水份，仍需算入水分攝取，應避免攝取過多冰塊） 3.咀嚼清涼口香糖或喉糖、涼糖(糖尿病病友要選擇不含糖的產品)。 4.以護唇膏嘴唇保濕。 5.保持口腔清潔，定時刷牙，並且使用漱口水漱口。 6.勿用含鈉口含錠，如：八仙果、仙楂、山楂果、陳皮…等。 水分控制影片 -- 23 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第23頁 四、 飲食及水分控制定量工具： 1.體重計 2.食物磅秤 3.有刻度的水杯 4.量杯量尿量 每日自我水分攝取與水腫評估紀錄表 目標乾體重：___________kg，每日水份限制量：____________________ 日 期 體 重 早餐 重量 （A） 午餐 重量 （B） 晚餐 重量 （C） 高水含 食物＊ （D） 液體 攝取 量 （E） 水份攝取量 G=（A+B+C）×0.5+ D×0.8 + E 尿量 （F） 水 腫 2/3 88 kg 100g x0.5 200g x0.5 300g x0.5 100g x0.8 210mL 590=(100+200+300) x0.5+100x0.8+210 200 mL □是 □否 □是 □否 □是 □否 □是 □否 □是 □否 □是 □否 □是 □否 ＊高水含量食物：水果、布丁、豆花、愛玉、仙草、麵、含料湯品等 -- 24 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第24頁 心衰竭病人常因期望增進健康或體能而使用營養補充劑，如：魚油、Q10 等。 然而，這些營養補充劑多數未得到實證醫學之成效確認，多食不一定達到功效，且 有可能因為藥品與食物的交互作用而影響健康。 使用營養補充劑前需要注意以下原則： 一、 儘量由日常食物中獲得足夠的營養素 二、 有藥品與食物交互作用者，建議使用前先諮詢本院藥師或醫師。 三、 先檢測或營養評估，具缺乏風險者使用補充劑才有優點；無缺乏者不建議使用。 四、 使用前請先諮詢醫師及營養師的意見。 類別 食物來源 注意事項 Omega-3 不飽和脂肪酸 EPA DHA Fish oil 建議 鯰魚 /鮭魚（紅鮭）/鯡魚 鱈魚/沙丁魚/秋刀魚 *避免食用大型深海魚 *無法從食物獲得時，若使用 此類補充劑，則劑量宜＜1 公 克/天 Coenzyme Q10 輔酶 Q10 牛心/豬心/雞肝 大豆油/玉米油/初榨橄欖油 肉類/魚/堅果 *使用 Q10 補充品應與醫療團 隊討論 Folic Acid 葉酸 牛肝/酵母 菠菜/蘆筍/抱子甘藍/深綠蔬菜 *使用抗凝血要物者要注意深 綠蔬菜食用量（每餐穩定攝 取量） Cobalamin Vit.B12 維生素 B12 動物性食物-肉/蛋/奶類/魚貝 類 紫菜/海藻 *主要存在於動物性食品 *素食者可適量補充錠劑 Vitamin D 維生素 D 強化牛奶/魚（鮭魚/沙丁魚）/ 奶油/蛋黃/肝 *每天清晨或黃昏時，露出手 腳曬日光浴 10 至 15 分鐘 Iron 鐵 肉類（紅肉/牛肉/羊/豬肉） 蛋類/動物內臟 腐竹/黑豆/ 黑木耳/芝麻 *缺鐵貧血者，需由醫師建議 補充劑量，請詢問您的心臟 科醫師 Thiamin Vit.B1 維生素 B1 糙米/胚芽米/麥片/全麥製品 豆類/酵母 主要針對有水腫者，因為利 尿劑的使用，容易有缺乏的 問題可依醫師建議劑量補充 有缺乏者，補充才有意義 特殊營養品的選擇 -- 25 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第25頁 類別 食物來源 注意事項 Se 硒 肉類/內臟類/魚貝類/海產 蘆筍/綠花椰/玉米/小麥/黃豆 臺大醫院營養師精心設計各式健康料理，您可以試著依照影片示範，跟營 養師一起做出好吃無負擔的健康菜色。 菜色 每人份鈉含量 營養師 影片連結 懶人電鍋料理- 低鈉西班牙燉飯 鈉 220 毫克 =鹽 0.55 公克 萬聖節低鈉料理- 南瓜雞肉蔬菜咖哩麵 鈉 616 毫克 =鹽 1.54 公克 低鈉電鍋料理- 松子青醬雞肉通心麵 鈉 616 毫克 =鹽 1.54 公克 500 卡低熱量 低鹽高纖健康餐盤 鈉 48 毫克 =鹽 0.1 公克 低鈉料理食譜示範影片 -- 26 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第26頁 心衰竭長期治療藥品表 藥品 主要作用 副作用 乙型 阻斷劑 控制過快的心跳並降低血壓，減 輕心臟的工作負荷，可改善且預 防心臟衰竭的症狀惡化。 改變姿勢時頭暈、手腳冰冷、疲倦、 頭痛、噁心、腹瀉、呼吸困難、體重 突然上升、手腳腫脹、胸悶、胸痛、 持續心跳過慢或不規則。 ACEI / ARB 血管收縮素轉化酶抑制劑 / 血管 收縮素第二型受體阻斷劑：此兩 種藥皆可降低血壓，減少心臟的 工作負荷。 改變姿勢時頭暈、呼吸困難、臉部、 舌頭或咽喉腫脹、嚴重腹痛、尿量減 少、發燒、乾咳、腹瀉、頭痛、疲 倦。 ARNI 血管收縮素受體阻斷劑-中性溶酶 抑制劑：降低血壓，減少心臟的 工作負荷。可改善與預防心臟衰 竭的症狀惡化。 改變姿勢時頭暈、呼吸困難、臉部、 舌頭或咽喉腫脹、嚴重腹痛、尿量減 少、發燒、心跳不規律、嚴重噁心嘔 吐、末梢神經麻木、四肢無力。 MRA 礦物皮質酮受體拮抗劑：保鉀利 尿劑；減少心臟的工作負荷並有 利尿作用。 心跳不規律、嚴重噁心、嘔吐、末梢 神經麻木、四肢無力時、乳房腫脹或 疼痛、毛髮增生、聲音低沉、月經不 順、盜汗。 SGLT2 抑制劑 抑制腎臟近曲小管的 SGLT2 而促 進糖分經尿液排除以控制血糖； 也能利尿、減少鈉離子的再吸收 及增加鈉排除，減少心臟的前後 負荷。 低血糖症狀、脫水、酮酸血症、生殖 泌尿感染(排尿疼痛、異常分泌物 等)、低血壓、血脂異常、骨折、下 肢紅腫疼痛或潰瘍。 心臟節 律抑制 降低心跳，減低心臟的工作負 荷。 改變姿勢時頭暈、心跳低、光幻視、 視線模糊。 毛地黃 增強心臟收縮力與降低心跳，可 改善心臟衰竭的症狀。 頭昏、倦怠、嚴重噁心、嘔吐、腹 瀉、視覺改變 （黃色視覺）、心跳不 規律、心跳過低、暈眩。 利尿劑 增加排尿、幫助多餘的水分排 出，以降低心臟的工作負荷。 頭痛、呼吸異常、嚴重口乾、噁心、 嘔吐、腹瀉、肌肉抽筋或聽力異常。 sGC 調節心臟收縮、血管張力及心臟 重塑，降低心臟衰竭再住院率。 血壓過低、暈眩、貧血、噁心。 心衰竭的藥品治療 -- 27 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第27頁 ✽如不清楚服用藥品名稱，可見藥袋標示或詢問藥師、主治醫師或營養師。 食物與藥品交互作用表（可能因年度招標變更廠牌） 類 藥品商品名（英文） 食品 注意事項 心 律 調 節 劑 臟得樂（Cordarone） 脈泰克（Multaq） 葡萄柚汁、柚子 避免使用： 易增加藥品副作用 康立來（Coralan） 葡萄柚汁、柚子 避免使用： 易增加藥品副作用 降 血 壓 藥 脈優（Norvasc） 壓達能（Atanaal） 恆脈循（Nifedipine） 利壓（Zanidip） 葡萄柚汁、柚子 避免使用： 易增加藥品副作用 降 血 壓 藥 伊抒婷（Isoptin） 心舒平（Isoptin SR） 葡萄柚汁、柚子 避免使用： 易增加藥品副作用 酒 藥品會抑制酒精代謝並增 強對中樞神經的抑制作用 可迅（Doxaben） 定脈平（Hytrin） 酒 避免大量飲酒： 易增加藥品副作用 利 尿 劑 來適泄（Lasix） 必得寧（Busix） 人參 避免使用： 會降低利尿效果 伸舒康（Samsca） 葡萄柚汁、柚子 避免使用： 易增加藥品副作用 降 血 脂 藥 立普妥（Lipitor） 葡萄柚汁、柚子 避免使用： 易增加藥品副作用 冠脂妥（Crestor） 立普妥（Lipitor） 益脂可（Lescol XL） 美百樂鎮（Mevalotin） 力清之（Livalo） 燕麥製品 至少間隔 2 至 4 小時： 避免影響藥品吸收而影響 療效 抗 凝 血 劑 可化凝（Cofarin） 可化凝與許多食品維生素 K 含量較高的食物 (如：深綠色蔬菜、肝臟等)有交互作用，請固 定每天吃的總量，並避免使用蔓越莓、諾麗果 汁、人蔘、丹蔘、黨蔘、甘菊茶、蜂王乳、魚 油、大蒜精、生薑粉等，避免影響藥物效果， 詳細食物表請向藥師索取藥品衛教單張。 -- 28 of 77 -- NTUH 臺大醫院心臟衰竭中心-心衰竭護心衛教手冊 第28頁 (一) 藥品選擇： 為了達到治療目標，醫師會根據心友的個別疾病情況，依序或同時給予多種藥 品治療。藥品的選擇及服用的劑量，每位心友可能不盡相同，請依照醫師指示服 用，",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://health.ntuh.gov.tw/health/new/6280.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:41.318Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-d09b435e6d",
+      "title": "高危險妊娠症學科",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": "選單 介紹特色團隊消息衛教相關連結活動 妊娠高血壓及子癲前症 更新日期：2020-04-01 128336 SHARE TAGS 妊娠高血壓 社會不斷進步，產科醫療也不斷進步，為了達到最高目標，使產婦的身體受到最小的傷害，而生下一個健康且優...",
+      "fullContent": "選單 介紹特色團隊消息衛教相關連結活動 妊娠高血壓及子癲前症 更新日期：2020-04-01 128336 SHARE TAGS 妊娠高血壓 社會不斷進步，產科醫療也不斷進步，為了達到最高目標，使產婦的身體受到最小的傷害，而生下一個健康且優良的後代，是我們醫護人員最大的希望，然而妊娠高血壓約佔懷孕之百分之七，是最常見的孕期疾病，它對於孕婦和胎兒潛在危險性極大，故早期診斷，控制血壓，與選擇適當的時機產出胎兒與胎盤，是我們應當瞭解與認識的。 何謂妊娠高血壓？ 是指孕婦過去不曾有過高血壓的病史，而此次因為懷孕而引起高血壓症狀。在妊娠中血壓的收縮壓高於140mmHg或舒張壓高於90mmHg，或妊娠後期之血壓比早期收縮壓升高30mmHg或舒張壓升高15mmHg即是。不過血壓的確是需要至少兩次間隔六小時以上的測量為準。 事實上，與妊娠有關的高血壓可分成三個大類： 1.純粹由於妊娠造成的血壓升高，這些產婦的高血壓絕大多數是在懷孕二十週後才發生，血壓大於140/90mmhg，又可分為三類： a. 妊娠高血壓：只有血壓升高，沒有合併蛋白尿、水腫，生產後就回復正常。 b. 子癲前症：除了高血壓之外，還合併了蛋白尿或水腫。 c. 子癲症：子癲前症合併有抽筋發作時稱之。 2.原本懷孕前就有高血壓，在懷孕後產生了血壓更高，併有蛋白尿或水腫的現象，根據統計，慢性高血壓的病人懷孕，有20%會產生這種現象。 3.慢性高血壓：在懷孕20週前發生高血壓，同時未合併蛋白尿或水腫的現象。 那些產婦比較容易發生呢？ 常見的有初產婦、曾發生過妊娠高血壓、多胞胎、葡萄胎、孕婦本身已有高血壓、糖尿病或腎臟疾病，胎兒水腫、羊水過多、紅斑性狼瘡等等。 子癲前症會有哪些常出現的症狀呢？ 常見之症狀有，全身水腫、噁心、嘔吐、頭痛、視力模糊、頸部僵硬、小便量減少、體重過度增加(每週增加4~5公斤)、上腹部疼痛、尿液中含蛋白大於2+或二十四小時累積超過5克。肝功能異常、血小板下降、腎功能指數異常、肺水腫。如果有發生痙攣則診斷為子癲症。另外，嚴重的情況會使眼內壓上升造成視網膜剝離，不過會因血壓的下降而慢慢恢復，此外還會有因中樞神經系統的變化而產生頭痛及痙攣。持續性頭痛的部位通常是前額及枕骨處，其原因是腦血管痙攣而引起的。 如何治療？ 孕婦自行監測血壓是必要的，可每天早晚各量一次並做記錄，並注意胎動。每一～二週做一次產檢，有異常時就應提早就診，儘量保持情緒的穩定即可。醫師會視病情給予控制血壓的藥物，對於嚴重需住院且合併子癲前症的孕婦，醫師除給予口服降低血壓藥物外，也會給予硫酸鎂以預防痙攣的發生，不過血中鎂濃度必須維持一定治療水平，太低無效，太高又怕產生副作用，因此要經常抽血以測鎂離子濃度，以及注意孕婦深部肌腱反射，呼吸速率，及排尿量，亦可避免不必要的副作用。 治療妊娠高血壓，子癲前症，子癲症的最好方法就是生產，因此醫師會依據臨床症狀選擇適當的時機生產，胎兒肺部成熟後，或者產婦血壓控制不良，胎兒出現生長遲滯，臍帶或胎兒血流出現異常，都是需要生產的時機。 可以選擇自然分娩嗎? 生產方式，是可採用自然生產的，除非是胎頭骨盆不對稱或前胎剖腹生產，產程遲滯，胎位不正以及胎兒窘迫，才須剖腹生產。 對寶寶的影響大不大? 由於血管收縮的影響，以致於胎兒在子宮內所獲得的營養便不足，營養不足相對於胎兒出生體重會降低。而孕婦發生血壓上升的時間愈早，對胎兒的影響也就愈嚴重。另外常會有早產的發生，主要是因為胎兒在子宮內的生長狀況不佳，長期處於不利的生長環境中，胎兒容易出現窘迫徵兆，以致於產科醫生會考慮提早娩出。另一個主要因素是因為母體高血壓無法用藥物適當的控制，為免得孕婦發生子癲症，所以便提前娩出胎兒。而由於胎盤著床於子宮內膜的不順利，使得胎盤功能不佳，本來就是妊娠高血壓的特點，所以胎盤早期剝離的發生比例便會增高，因此在懷孕的過程都要特別注意。",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=184",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.528Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-842205a272",
+      "title": "淡水社區醫學中心",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": "選單 介紹特色歷史主任團隊 消息 健康服務站據點及服務時段 衛教 馬偕醫生到我家系列健康日專區志工教育訓練衛教單張專區 榮譽學術相關連結精彩 活動聯絡我們 衛教單張專區 更新日期：2023-05-08 12355 SHARE TAGS 內科...",
+      "fullContent": "選單 介紹特色歷史主任團隊 消息 健康服務站據點及服務時段 衛教 馬偕醫生到我家系列健康日專區志工教育訓練衛教單張專區 榮譽學術相關連結精彩 活動聯絡我們 衛教單張專區 更新日期：2023-05-08 12355 SHARE TAGS 內科保健衛教單張區 健康生活衛教單張區 B肝護理指導 C肝護理指導 下肢靜脈曲張護理指導 水腫護理指導 代謝症候群護理指導 四癌篩檢護理指導 失眠護理指導 用藥安全居家護理指導 低血糖護理指導 肝硬化護理指導 足底筋膜炎護理指導 泌尿道感染護理指導 肺炎護理指導 便秘護理指導 冠狀動脈心臟病護理指導 紅斑性狼瘡護理指導 胃食道逆流護理指導 氣喘護理指導 消化性潰瘍護理指導 缺鐵性貧血日常生活須知 骨質疏鬆護理指導 高血脂護理指導 高血壓護理指導 乾燥症護理指導 帶狀疱疹護理指導 梅尼爾氏症候群護理指導 深呼吸咳嗽運動護理指導 痔瘡護理指導 富貴手護理指導 痛風護理指導 發燒護理指導 硝基甘油藥片護理指導 脹氣食物護理指導 脹氣護理指導 腦中風護理指導 腹瀉護理指導 預防膀胱炎護理指導 慢性阻塞性肺疾病護理指導 廢棄藥品回收6步驟護理指導 糖尿病護理指導 膽結石護理指導 顏面神經麻痺護理指導 椎間盤突出日常保健護理指導 戒酒護理指導 戒菸護理指導 戒檳護理指導 呼吸道衛生與咳嗽禮節護理指導 肥胖走健康來護理指導 洗手護理指導(成人版) 預防寒流傷害 預防熱傷害 遠離酒癮護理指導 遠離菸害護理指導 健康飲食衛教單張區 牙齒保健衛教單張區 銀髮族衛教單張區 體適能衛教單張區 低普林飲食護理指導 均衡飲食護理指導 高膽固醇血症飲食指導 牙周病護理指導 貝氏刷牙法護理指導 活動假牙配戴及清潔護理指導 失智症10大警訊 長者預防衰弱護理指導 預防失智症 銀髮族飲食指導 女性簡易體適能運動檢測標準值 平衡訓練運動指導 肌力與肌耐力運動指導 男性簡易體適能運動檢測標準值 柔軟度訓練運動指導 健康體能護理指導 運動護理指導 體適能檢測七步驟 兒童保健衛教單張區 兒童預防接種護理指導 洗手護理指導(兒童版) 更新日期：2023.05.08",
+      "keywords": [
+        "代謝症候群",
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "失眠",
+        "發燒",
+        "痛風"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=1102",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.534Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-35de75c517",
+      "title": "高血壓藥物治療須知",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": "您有任何疑問請向醫師或藥師詢問， 我們將竭誠為您服務 馬偕紀念醫院藥劑部 104.08 高 血 壓 藥 物 治 療 須 知  日常生活的管理有助於血壓的控制，以下 是您可以做到的抗高血壓對策： 1. 維持標準體重 2. 戒除煙酒 3. 規...",
+      "fullContent": "您有任何疑問請向醫師或藥師詢問， 我們將竭誠為您服務 馬偕紀念醫院藥劑部 104.08 高 血 壓 藥 物 治 療 須 知  日常生活的管理有助於血壓的控制，以下 是您可以做到的抗高血壓對策： 1. 維持標準體重 2. 戒除煙酒 3. 規律的運動 4. 適當的食物攝取；儘可能少鹽、少油，多 攝取蔬菜、水果等高纖維飲食 5. 充足的睡眠與休息 6. 避免壓力，保持心情愉快 -- 1 of 2 -- 高 血 壓 藥 物 治 療 須 知 依 世 界 衛 生 組 織 的 界 定 標 準 ， 收 縮 壓 高 於 140 mmHg，舒 張 壓 高 於 90mmHg 以 上，即 為 高 血 壓。 高 血 壓 是 一 種 隱 形 殺 手 ， 往 往 無 任 何 症 狀 或 只 有 輕 微 症 狀 而 另 人 失 去 警 覺 。 但 為 了 預 防 疾 病 的 惡 化 或 嚴 重 併 發 症 的 產 生 ， 一 旦 經 醫 師 指 示 需 服 用 藥 物 治 療 高 血 壓 ， 請 耐 心 配 合 指 示 服 藥 ， 以 下 是 藥 師 對 您 的 叮 嚀 : 1. 定 期 地 測 量 並 記 錄 血 壓 。 2. 與 您 的 醫 師 充 分 討 論 治 療 高 血 壓 的 方 法 與 目 標 。 3. 請 遵 照 醫 師 指 示 服 藥，切 勿 自 行 停 藥 或 增 減 劑 量 ， 以 免 造 成 血 壓 忽 然 升 高 或 降 低 。 4. 如 果 您 有 任 何 其 他 的 疾 病，請 事 先 告 知 您 的 醫 師；服 藥 期 間 如 原 有 的 疾 病 起 了 變 化，應 告 知 您 的 醫 師 。 尤 其 是 氣 喘 、 糖 尿 病 、 痛 風 、 高 血 脂 、 心 臟 疾 病 以 及 腎 臟 衰 竭 等 疾 病 。 5. 服 用 降 血 壓 藥 物 前 ， 如 果 正 在 服 用 其 他 藥 物 ， 請 告 知 您 的 醫 師；服 藥 期 間，除 非 與 醫 師 充 分 討 論，切 勿 自 行 服 用 成 藥 或 中 藥，因 為 許 多 藥 物 會 影 響 降 血 壓 藥 物 的 效 用 。 6. 服 藥 期 間，如 果 您 有 任 何 不 舒 服 應 隨 時 與 您 的 醫 師 討 論，例 如 頭 暈、頭 痛、無 力 感、臉 潮 紅 、 咳 嗽、水 腫 或 性 能 力 減 退 時，以 便 釐 清 是 否 為 藥 物 所 引 起 的 副 作 用 。 7. 如 果 忘 了 服 藥 時，應 在 想 起 來 時 盡 快 服 用；但 若 已 接 近 下 次 服 藥 時 間 時，則 不 要 補 吃，只 要 服 用 一 次 劑 量 即 可 ， 千 萬 不 要 服 用 雙 倍 劑 量 。 8. 除 了 服 用 藥 物 控 制 血 壓，也 應 配 合 生 活 型 態 的 改 變 以 達 到 良 好 的 血 壓 控 制，如 減 輕 體 重、戒 菸、 戒 酒 、 減 少 鹽 的 攝 取 、 放 鬆 心 情 以 及 減 少 壓 力 等 。 -- 2 of 2 --",
+      "keywords": [
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/upload/doc/56/%E9%AB%98%E8%A1%80%E5%A3%93%E8%97%A5%E7%89%A9%E6%B2%BB%E7%99%82%E9%A0%88%E7%9F%A5%28201508%29.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:43.810Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-516ebb01ef",
+      "title": "心臟冠狀動脈疾病自我照護衛教手冊",
+      "clinicName": "馬偕紀念醫院",
+      "category": "一般衛教",
+      "summary": "心臟冠狀動脈疾病 自我照護衛教手冊 心臟血管中心 2022 年 05 月 12 日 -- 1 of 30 -- 手冊目的 在台灣統計國人十大死因排名中心臟疾病為國人 十大死因第二位(癌症第一)。若無接受適當治療十年 內死亡率由 61.7% ...",
+      "fullContent": "心臟冠狀動脈疾病 自我照護衛教手冊 心臟血管中心 2022 年 05 月 12 日 -- 1 of 30 -- 手冊目的 在台灣統計國人十大死因排名中心臟疾病為國人 十大死因第二位(癌症第一)。若無接受適當治療十年 內死亡率由 61.7% 躍升為 86.7%，2020 年就有 20,457 人死於此疾病，其中以冠狀動脈心臟病的人佔 最多數，主要死亡原因為急性心肌梗塞，高死亡率或 反覆再住院率，造成病人的生活品質極大的影響，不 論對家庭、社會、國家而言，也帶來龐大的經濟負荷。 經由衛教手冊，讓病人了解冠狀動脈心臟病的症狀 及導因、出院後的生活照護注意事項及心臟復健的重 要性，增加自我管理的能力，進而減少疾病復發率及 再入院率，提升生活品質。 -- 2 of 30 -- 我的基本資料 姓 名： 年 齡： 歲 身 高： 公分 出院日期( 年 月 日)體重： 公斤 醫師評估之理想體重： 公斤 我的個案管理師： 我的個管師",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/upload/health/%E5%BF%83%E8%87%9F%E5%86%A0%E7%8B%80%E5%8B%95%E8%84%88%E7%96%BE%E7%97%85%E8%87%AA%E6%88%91%E7%85%A7%E8%AD%B7%E8%A1%9B%E6%95%99%E6%89%8B%E5%86%8A.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:44.444Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-4365dc1ee1",
+      "title": "高血脂是甚麼?",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "✎心臟內科 涂念騫 醫師 「我不胖、又不老，為甚麼血脂會高 ?」32歲的李小姐被自己的驗血報告嚇傻了眼。其實，像李小姐一樣，正值花樣年華，卻被冠上高血脂症，實在大有人在。那麼，血脂到底是甚麼?說起來的確有點兒複雜。 現在，就讓我們來談談血脂...",
+      "fullContent": "✎心臟內科 涂念騫 醫師 「我不胖、又不老，為甚麼血脂會高 ?」32歲的李小姐被自己的驗血報告嚇傻了眼。其實，像李小姐一樣，正值花樣年華，卻被冠上高血脂症，實在大有人在。那麼，血脂到底是甚麼?說起來的確有點兒複雜。 現在，就讓我們來談談血脂這個東西。 一般體檢之血脂測定， 可分為四項: (1) 三酸甘油脂： 指油脂類或澱粉類，被胃腸吸收分解後，所釋出的一種脂類，在正常值範圍下， 它是身體能量之貯藏及保暖作用，是個好幫手，但若高出正常值，可淪為阻塞血管之壞傢伙。 (2) 低密度膽固醇： 俗稱〝壞膽固醇〞，因其在血管內會被氧化，之後被巨核細胞所吞噬，最後造成血小板堆積，形成血栓，導致血管堵塞。要防範這個〝壞蛋〞的加害，其理想值應為少於100 mg/dl以下。 (3) 高密度膽固醇： 俗稱〝好膽固醇〞，因其可以增加壞膽固醇由血液中帶回肝臟代謝分解，降低血液中之壞膽固醇，從而減少血管阻塞之發生. 要得到這個〝好人〞之保護，其理想值男性應在 50mg/dl 以上， 女性應在 60 mg/dl以上。 (4) 總膽固醇： 是指低密度膽固醇加上高密度膽固醇再加上 1/5 三酸甘油脂之總和。 造成高血脂的原因很多，而生活及飲食習慣佔一重要因素，諸如抽菸、喝酒、高脂飲食、糖尿病、肥胖、缺乏運動…等。 此外，家族基因性遺傳，亦為常見之原因。如李小姐既年輕又不胖，卻有高血脂的狀況，的確是令患者難以接受。 面對高血脂症， 除了服用降血脂藥外， 個人的配合也是非常的重要。不抽菸、 不酗酒、避免高脂飲食、減重、控制血糖，而最重要的是持久性之運動。 運動可以有效的提昇高密度膽固醇，而使低密度膽固醇下降的好幫手。 同時，每三到六個月定期驗血追蹤，以確保血脂在控制範圍之內，從而享受〝 無脂一身輕 〞的健康生活。",
+      "keywords": [
+        "糖尿病",
+        "高血脂",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=249&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.505Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-7dad02c577",
+      "title": "內科衛教單張-高血壓",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": ".pdf。檔案大小：656 KB，下載次數：43。 更新日期：2022-02-12 回瀏覽頁 開啟網站導覽 認識仁慈 醫院介紹 仁慈願景 大事紀要 電子病歷推動 公開資訊 醫療團隊 臨床單位 醫事輔助 社區照護 長照專區 長照2.0據點 失...",
+      "fullContent": ".pdf。檔案大小：656 KB，下載次數：43。 更新日期：2022-02-12 回瀏覽頁 開啟網站導覽 認識仁慈 醫院介紹 仁慈願景 大事紀要 電子病歷推動 公開資訊 醫療團隊 臨床單位 醫事輔助 社區照護 長照專區 長照2.0據點 失智症照顧服務 居家式長照機構 社區式長照機構 住宿式長照機構 其他長期照護服務 牧靈關懷 訊息公告 認識院牧部 服務項目 活動花絮 心靈加油站 人才招募 教育研究 圖書館 醫學教育委員會 教育學術活動 醫學資源連結 捐款系統 快速連結 醫師介紹 Covid-19專區 數位學習",
+      "keywords": [
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=59&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.508Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-daab1832d5",
+      "title": "帶狀皰疹疫苗介紹",
+      "clinicName": "仁慈醫院",
+      "category": "疫苗",
+      "summary": "✎家醫科 薛詩韻 醫師 什麼是帶狀皰疹？ 它是一種常見的、痛苦的皮膚病。是一種因為水痘-帶狀皰疹病毒在曾患水痘的人身上恢復活動而引起的疼痛性皮疹。由於一系列因素，包括年齡增長、藥物、疾病或壓力，病毒可以被重新激活。據估計，大約五分之一的水痘...",
+      "fullContent": "✎家醫科 薛詩韻 醫師 什麼是帶狀皰疹？ 它是一種常見的、痛苦的皮膚病。是一種因為水痘-帶狀皰疹病毒在曾患水痘的人身上恢復活動而引起的疼痛性皮疹。由於一系列因素，包括年齡增長、藥物、疾病或壓力，病毒可以被重新激活。據估計，大約五分之一的水痘患者會繼續發展為帶狀皰疹。起初皮膚會有灼熱感，隨後會出現非常疼痛的水泡，之後會破裂並結痂，然後才癒合。通常只有身體一側的範圍會受到影響，通常是胸部，但有時是頭部、面部和眼睛。有些人在最初的皮疹癒合後仍會持續數年感到疼痛。在1000名70歲以上的人當中，大約有1人可能因帶狀皰疹而致命。 什麼是帶狀皰疹疫苗? 它可以預防帶狀皰疹。帶狀皰疹疫苗是一種名為Zostavax的活疫苗，含有弱化形式的水痘-帶狀皰疹病毒，已獲得台灣衛福部批准使用。免疫系統較弱的人不能接種活疫苗。 誰應該接種帶狀皰疹疫苗？ 如果您的年齡在50至79歲之間，就有資格接種帶狀皰疹疫苗。不向80歲或80歲以上的人提供帶狀皰疹疫苗，因為它在這個年齡層似乎不太有效。如果您曾患帶狀皰疹，也可以接種這疫苗。它會提高您的免疫力，抵禦進一步的帶狀皰疹攻擊。帶狀皰疹痊癒後需要等待長達1年才能接種疫苗。 我怎樣才能接種帶狀皰疹疫苗？ 您可以在本院的家庭醫學科門診自費購買並接種帶狀皰疹疫苗。它以1劑的形式處方，費用為5000元。一些私人保險公司可能會支付疫苗的費用；請向您的提供商查詢。 帶狀皰疹疫苗有什麼好處？ 帶狀皰疹疫苗是預防帶狀皰疹的最佳方法。研究已證明這疫苗可將患帶狀皰疹的風險降低50%。對於接種疫苗後仍然感染帶狀皰疹的人，疫苗可以減輕疼痛 (包括患帶狀皰疹後持續的疼痛)，病程也會縮短。 接種疫苗後可能出現哪些反應？ 帶狀皰疹疫苗非常安全。對疫苗的常見反應包括頭痛以及接種疫苗處的肌肉酸痛、發紅和腫脹。也可能會出現瘙癢和皮疹。",
+      "keywords": [
+        "疫苗",
+        "帶狀皰疹"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=246&page_name=detail",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.510Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-206de0d370",
+      "title": "間歇掃描型連續血糖監測臨床應用",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "✎新陳代謝科 粘美娜 糖尿病衛教師 隨著醫療科技的進步，除了使用傳統型血糖機檢測血糖值外，2022年底國內引進間歇掃描型連續血糖監測儀，越來越多的糖尿病人開始使用。運用連續血糖監測(Continuous glucosemonitoring,...",
+      "fullContent": "✎新陳代謝科 粘美娜 糖尿病衛教師 隨著醫療科技的進步，除了使用傳統型血糖機檢測血糖值外，2022年底國內引進間歇掃描型連續血糖監測儀，越來越多的糖尿病人開始使用。運用連續血糖監測(Continuous glucosemonitoring, CGM )已成為評估糖尿病治療有效性和安全性的重要工具。連續血糖監測目前包括即時型連續血糖監測及間歇型連續血糖監測。筆者目前協助過多位糖尿病人配戴isCGM，發現個案購買後不敢自行配戴，衛教師需協助病人配戴傳感器於手臂上並衛教指導。配戴族群中有妊娠糖尿病母親、第一型糖尿病患者、第二型糖尿病個案找不出造成高低血糖原因?半夜低血糖不自覺、工作忙碌三餐不定時血糖管控不佳族群、本身想了解自身血糖與飲食變化關係...等。目前各大醫療用品店:維康、杏一皆有販售。 分享一位印象深刻個案，一位暱稱「QC先生」品管工程師第二型糖尿病患，糖尿病已11年病史，父親有糖尿病，個案對糖尿病控制自我要求嚴謹積極，糖尿病治療方式以一天注射四次胰島素積極控制血糖，每次回診總是很認真跟醫師討論分析三個月來血糖數據高低原因，這10年來糖化血色素控制在7.1%~7.5%，目前未發生過任何大小血管併發症，在今年2月糖化血色素飆高到9.5%，飯前血糖195mg/dl，個案覺得生活作息、飲食都沒有特殊改變，想找出血糖升高原因，醫師建議可考慮使用CGM連續血糖監測感應器，個案自費買了亞培推出輔理善瞬感2(FreeStyle Libre2)掃描式葡萄糖監測系統，跑來衛教室找我，請我幫忙傳感器的衛教指導。個案回門診回饋使用心得，發現吃麵包後飯後血糖會高到200mg/dl以上，有運動的時候血糖呈現緩慢上升，而且比指尖血糖檢測值低於30mg/dl，發現凌晨三點及下午容易發生低血糖，血糖值在53~65mg/dl。 間歇掃描型連續血糖監測改變糖尿病的照護模式，透過isCGM可以幫助病人瞭解飲食、藥物及活動對血糖的影響。 說明 FreeStyle Libre2的貼放部位限定在上臂的外後方皮膚平坦的部位，避開疤痕、痣、妊娠紋、腫瘤。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=274&page_name=detail",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.512Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-cab37c29fd",
+      "title": "連續血糖監測(CGM)簡介?",
+      "clinicName": "仁慈醫院",
+      "category": "慢性病",
+      "summary": "✎新陳代謝科 糖尿病衛教師 粘美娜 台灣罹患糖尿病的人口約有230萬，罹患年齡年輕化趨勢，隨著醫療科技的進步，血糖自我管理工具，除了使用熟悉傳統型血糖機檢測指尖血糖值外，2022年底國內引進間歇掃描型連續血糖監測儀，越來越多的糖尿病人開始使...",
+      "fullContent": "✎新陳代謝科 糖尿病衛教師 粘美娜 台灣罹患糖尿病的人口約有230萬，罹患年齡年輕化趨勢，隨著醫療科技的進步，血糖自我管理工具，除了使用熟悉傳統型血糖機檢測指尖血糖值外，2022年底國內引進間歇掃描型連續血糖監測儀，越來越多的糖尿病人開始使用。 連續血糖監測包括即時型連續血糖監測及間歇型連續血糖監測。目前醫療用品店，如:維康、杏一販售的是間歇型連續血糖監測，病人能在家自行安裝使用，自己掌握血糖與生活飲食活動壓力間的變化，更能找出對症下藥的好方法來控制好血糖。目前市面上有兩種: 亞培FreeStyle Libre2、瑞特安活iFree CGM。 我可以使用嗎?通常連續血糖監測儀適合以下的人:糖尿病、經常性高血糖低血糖、妊娠糖尿病者、對控糖有個人想法者。 分享一位裝置FreeStyle Libre2監測14天血糖數據的李先生，60歲，已退休，糖尿病10年以上，降血糖藥物服用三種。最近才轉至本院門診追蹤血糖。113/9/6糖化血色素7.2%，個案主訴:「想裝CGM來了解一下血糖變化，想請衛教師幫忙!」。衛教師協助將個案雲端血糖資料傳輸至醫療端，衛教師隨時可以瞭解觀看到個案每天血糖變化。意外發現糖化血色素背後隱藏的秘密:個案葡萄糖波動曲線(AGP)早上到中午有一段高血糖爬升波段、中午到下午18:00維持高點伴隨一些低點。每日葡萄糖曲線變化大，早餐後~下午四點血糖都維持202-250mg/dl左右、吃蔥油餅餐後血糖可高達300mg/dl、吃油飯餐後2小時可高達349mg/dl、假日血糖波動相較平常日平穩。 運用連續血糖監測(Continuous glucosemonitoring, CGM )已成為評估糖尿病治療有效性和安全性的重要工具。間歇掃描型連續血糖監測改變糖尿病的照護模式，透過isCGM可以幫助病人瞭解飲食、藥物及活動對血糖的影響。 說明 連續血糖監測(CGM) 連續血糖監測(CGM)",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=315&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.514Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-9f79c95d3f",
+      "title": "防蛇上身----帶狀皰疹疫苗",
+      "clinicName": "仁慈醫院",
+      "category": "疫苗",
+      "summary": "沈里彥 藥師 帶狀皰疹俗稱皮蛇或蛇纏腰，中醫稱為纏腰火龍、纏腰火丹。是由水痘帶狀皰疹病毒（Varicella zoster virus）引起的急性炎症性皮膚病。凡是得過水痘的人，都可得到水痘的免疫，也就是不會再得到水痘。但是卻都有機會得到帶...",
+      "fullContent": "沈里彥 藥師 帶狀皰疹俗稱皮蛇或蛇纏腰，中醫稱為纏腰火龍、纏腰火丹。是由水痘帶狀皰疹病毒（Varicella zoster virus）引起的急性炎症性皮膚病。凡是得過水痘的人，都可得到水痘的免疫，也就是不會再得到水痘。但是卻都有機會得到帶狀皰疹。因為病毒並未被免疫系統消滅，而是潛伏在感覺神經節中，靜待宿主抵抗力下降，免疫力不佳時再度活化復發，而顯現出帶狀皰疹的症狀。帶狀皰疹不會互相傳染，但是可以使沒有水痘免疫力的人感染水痘。 雖然得過水痘的人，都是帶狀皰疹的潛在人選。但是其好發族群則為中老年人，而且年紀越大發生率越高，50歲以上的台灣人，每年約有1%的機率罹患帶狀皰疹，超過85歲，更是每2人就有一人曾得帶狀皰疹。 由於病毒潛伏在神經節，所以病發時其部位多在身體單側而延神經走向。症狀常出現一排或一片水泡，且在水泡出現前48至72小時，患者就已在患部感到疼痛，其中最好發的部位是胸椎到腰椎的神經。由於先感到疼痛，故常被誤認為腰部挫傷之類的症狀。而其最為困擾的也就是神經痛，這種痛有時甚至延續好幾年以上！讓患者痛不欲生。根據美國文獻，因為疾病疼痛而鬧自殺，帶狀皰疹後神經痛排第3名！ 目前接種帶狀皰疹疫苗，是預防帶狀皰疹的最佳方法。帶狀?疹疫苗在2006 年獲美國食品和藥物管理局准許上市，而且也於102 年10 月取得台灣食品藥物管理署審核通過上市。它是一種活性減毒株疫苗，病毒株與水痘疫苗相同（活性減毒Oka/Merck株水痘帶狀?疹病毒的冷凍乾燥製劑），但其效價較水痘疫苗高出14 倍以上。商品名為 Zostavax（伏帶疹），疫苗可降低病毒恢復活性的機會。 美國針對60 歲（含）以上的長者進行三年追蹤研究結果顯示，施打帶狀?疹疫苗的人較沒有施打者，罹患帶狀?疹的機率減少51％，即使打了疫苗仍罹患帶狀?疹，其發生神經痛的比率也約可減少67％，且疼痛的程度減少61％。另一項對50 ～ 59 歲者研究顯示，接受注射者發生帶狀?疹機率可減少70％。帶狀?疹疫苗無論過去是否有水痘病史或體內是否有病毒抗體，50 至79 歲符合適應症的成人均可施打，以皮下注射一劑即可，2 到4 週後產生抗體。 疫苗可能之副作用：神經性系統疾患：頭痛。全身性症狀與注射部位反應：紅斑、疼痛、腫脹、搔癢、血腫、溫熱感或硬結。肌肉骨骼系統：四肢疼痛。 禁忌症：對此疫苗的任何成分產生過敏反應。對新黴素（Neomycin）產生過敏反應。急性與慢性白血病、淋巴瘤、其他會侵犯骨髓或淋巴系統的疾病、AIDS 所引起的免疫功能不全。正在接受化療、電療或使用影響免疫的藥物，例如長期服用大劑量類固醇。未經治療的活動性肺結核。懷孕。",
+      "keywords": [
+        "疫苗",
+        "帶狀皰疹"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1612277795421-9bc7706a4a34?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mercy.org.tw/?aid=521&iid=159&page_name=detail&pid=0",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.516Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-3664e11226",
+      "title": "認識心臟衰竭及居家注意事項",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "心臟衰竭臨床徵象 「心臟衰竭」是指在一群病狀下，心臟因心肌受損或是負荷過度導致功能受損，心臟無法輸出足夠的血量來滿足身體各器官代謝所需，且形成心肌肥大或心臟擴大，靜脈血液回流不順。一般來說，除了年長的人（大於65歲）為高危險群外，心臟衰竭還...",
+      "fullContent": "心臟衰竭臨床徵象 「心臟衰竭」是指在一群病狀下，心臟因心肌受損或是負荷過度導致功能受損，心臟無法輸出足夠的血量來滿足身體各器官代謝所需，且形成心肌肥大或心臟擴大，靜脈血液回流不順。一般來說，除了年長的人（大於65歲）為高危險群外，心臟衰竭還最常發生在下列這些人身上： 心臟病因：高血壓心臟病、冠狀動脈疾病、心肌梗塞、心肌病變、心肌發炎、心臟瓣膜疾病、先天性心臟病、心律不整⋯等。 非心臟病因：肥胖、糖尿病及控制差者、高膽固醇、病毒感染、酒精或藥物濫用、甲狀腺疾病、腎病變、嚴重肺部疾病⋯等。 常見症狀包括：呼吸困難、容易喘、腳踝、腹部腫脹、心悸、疲倦、食慾不振、夜間頻繁咳嗽或呼吸困難⋯等。 心臟衰竭的衛教 依醫師指示服藥及定期門診追蹤，不可自行調整劑量、次數或停藥。 控制體重：每日監測體重，若兩天增加2公斤以上，需增加利尿劑的劑量，或是聯絡個案管理師或回門診請醫生調整藥物。 若出現心臟衰竭惡化之現象，如：胸痛、胸悶、頭暈、腳腫，應提早回診與醫師討論。 限制水分及塩份：一天1000∼1500毫升（包含一般水分及飲食中的水分），以免增加心臟負擔。鹽分的攝取一天不要超過3∼5公克，避免罐頭、醃漬食品、醬油製品（包含滷味）等。 心臟衰竭病人為避免過多的熱量造成心臟負擔，故在飲食上要有所限制，飲食應依每人每日所需熱量設計均衡飲食，飲食搭配應包含蔬菜、水果、全榖、豆類、堅果種子及低脂乳製品等，進行食物分配及建議份量，食慾差時以少量多餐方式進食。 每年定期施打肺炎及流感疫苗，減少出入公共場所，可減低心臟衰竭急性惡化之發生率。 規律運動及減重計畫，以漸進方式恢復心肺功能，可增加心肺功能，減輕症狀，提高心臟衰竭病人之生活品質。 居家運動注意事項： 建議初期返院進行心肺運動評估，以確保運動安全性。 運動目標需先和醫師討論。 在運動前後需作15分鐘暖身及拉筋運動。 以有氧運動為主。 應在進食至少90分鐘後才進行。 慢慢增加運動量。 保持愉快的運動心情。 要達到療效，運動需達到每次最少20~30分鐘，每週 。 若運動時有明顯不適，如呼吸困難、胸痛、頭暈等症狀，應停止運動。 每日監測評估表 日期 體重(早) 血壓/心跳(早) 血壓/心跳(晚) 飲食+水總量/(日) 排尿總量/(日) 水腫(O/X) 運動(O/X) / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "疫苗",
+        "流感",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320005.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.918Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-51bc2b2a8a",
+      "title": "乳癌化療後如何預防心臟毒性產生",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "甚麼是化療造成的心毒性？ 近年來化學與標靶藥物快速的進展改善了癌症治療的效果，並提高了病人的預後。但是腫瘤病人接受抗癌治療時，除了藥物的療效，腫瘤的反應以及藥物造成的立即性副作用（如：發燒、嘔吐或血球的變化），化療對心臟的諸多不良反應卻長期...",
+      "fullContent": "甚麼是化療造成的心毒性？ 近年來化學與標靶藥物快速的進展改善了癌症治療的效果，並提高了病人的預後。但是腫瘤病人接受抗癌治療時，除了藥物的療效，腫瘤的反應以及藥物造成的立即性副作用（如：發燒、嘔吐或血球的變化），化療對心臟的諸多不良反應卻長期被忽略，事實上致命的嚴重心臟併發症是存在的。因此腫瘤心臟學(Cardio-Oncology)目前正受到世界普遍性重視，如果能夠早期診斷這些因癌症治療而產生的心臟毒性，就有機會即時提供治療，大幅改善病人生活品質。 發生率大約有多高？ 根據過往的研究報告指出，一般乳癌最常用的艾黴素（Doxorubicin，俗稱小紅莓）若累積劑量超過500 mg/m2 則發生心毒性的機率可達11–31 %，其中98%的病人會於接受治療後的第一年發生，但症狀往往不明顯而被忽略。此外，越來越多標靶或賀爾蒙藥物，如：賀癌平(Herceptin)，細胞週期素激酶（CDK 4/6 抑制劑）也被發現可能造成心毒性或心律不整，5-氟尿嘧啶(5-FU)則和心絞痛相關。 會有那些症狀？ 除了心衰竭相關症狀，如：呼吸易喘、端坐呼吸、下肢水腫、夜間咳嗽、活動力下降等，治療造成的心毒性也可能造成冠狀動脈疾病，新發生之高血壓或是繼發之高血壓開始不易控制，以及靜脈血栓等相關併發症。此外，心律不整也是需要注意的相關症狀。 該如何自我監測？ 平時注意是否出現水腫或幾天內體重增加好幾公斤的情況。除了自主覺得呼吸喘，若平時爬三層樓梯都還覺得游刃有餘，近期爬一兩層就覺得上氣不接下氣，就可能是活動力下降的症狀。此外，心悸或是心跳有“漏拍”的情況或許是心律不整的表現。若平時有高血壓的病人也應該每天測量血壓。 該如何預防？ 若是有上述症狀，請及早告知照顧您的醫護人員。此外，應該於治療前以如心臟超音波等方式評估心肺功能，並依據此制定治療計畫，選擇最適合的藥物和劑量。更重要的是定期追蹤心臟功能，早期診斷心毒性。 該如何治療？ 若是發生了心毒性，第一時間心臟科醫師將回報給腫瘤科醫師，以根據此調整治療計畫，此外，一些心衰竭治療藥物（如：乙型阻斷劑或血管張力素轉化酶抑制劑）等，也可以考慮適時給予。 抗癌護心，不要懼怕 奇美護心團隊自民國103年，已經累積八年經驗，照顧過超過500位病人，相較於過往傳統治療顯著降低心臟功能衰退及心衰竭風險。發生心毒性的病人也在良好的照護下，皆恢復原本的心臟功能，甚至可以持續後續抗癌治療。本團隊也兩次獲得SNQ國家品質標章肯定，未來也希望服務更多病人，持續抗癌護心，不要懼怕！ 說明",
+      "keywords": [
+        "高血壓",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320006.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.952Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-36c2c17aff",
+      "title": "心房顫動疾病及治療簡介",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "何謂心房顫動 心臟裡的心房（大部分是左心房）因退化或疾病失去正常的節律，以快速而不規律的跳動，其跳動的速度可以達到每分鐘350~600下，我們稱之為「心房顫動」。心房顫動（Atrial Fibrillation, AF）是最常見的心律不整，...",
+      "fullContent": "何謂心房顫動 心臟裡的心房（大部分是左心房）因退化或疾病失去正常的節律，以快速而不規律的跳動，其跳動的速度可以達到每分鐘350~600下，我們稱之為「心房顫動」。心房顫動（Atrial Fibrillation, AF）是最常見的心律不整，區分為：陣發性（paroxysmal）、持續性（persistent）、長期持續性（long-standing persistent）、永久性（permanent）。 常見的症狀 常見的症狀有心悸、胸悶、呼吸喘、頭暈或無力，可能也會無症狀，因為心房顫動發作時，心房是無效的收縮，造成心臟血液會流動不佳，導致容易形成血栓，一旦血栓打到腦部，就會造成腦中風，所以，心房顫動的病患其中風機率是正常人的3-5倍，其死亡率是正常人的2倍。另外，心房顫動與心臟衰竭共病的比例相當高，尤其在重症心臟衰竭患者中可高達約50%，所以心房顫動可能加重心臟衰竭的情形。 治療重點 控制心律：即恢復正常竇性心律，是心房顫動治療的最佳結果，早期積極的控制心律有助於改善長期整體死亡率及心臟衰竭的控制，若不能恢復正常竇性心律，改以使用適當藥物減緩心跳速率，可以緩減相關症狀。 控制共病與危險因子：重視共病與危險因子的整合管理，包括體重、血壓、糖尿病、心臟衰竭、睡眠呼吸中止症與生活型態調整，才能長期改善預後。 預防血栓形成和中風可能性：根據個人中風的風險分數，給予口服抗凝血藥物，降低長期中風或是栓塞風險。 中風的風險分數計算 (CHA2DS2-VASc score) 臨床狀況 分數 心臟衰竭 1 高血壓 1 年齡 ≥ 75歲 2 糖尿病 1 中風病史 2 血管疾病史（例如心血管疾病及周邊血管疾病） 1 年齡於65歲及未滿75歲之間 1 ★總分1分以上則需考慮使用，2分以上則需建議使用口服抗凝血藥物預防長期中風風險。 如何控制心律或心跳速度 藥物控制：目前常見的抗心律不整藥物有臟得樂（Amiodarone）、心利正（Propafenone）、律博克（Flecainide）、脈泰克（Dronedarone）、等，其副作用及缺乏長期療效是最大的缺點，長期約50%以上的再發生率。 電氣整流術：藉由體外電流的刺激治療心房顫動，恢復正常心跳，但日後仍需使用抗心律不整藥物來控制心律，且容易復發，長期約50%以上的再發生率。 心導管電氣燒灼手術：配合三維（3D）立體定位系統，利用的電燒導管進行電燒手術，可以中斷異常電位通路並恢復正常心臟節律，執行手術醫師會根據您臨床的需要來決定您的電燒範圍與位置，在大多數情況下，被電燒的區域為肺靜脈周圍地區，來隔離大部分心房顫動來源，目前心導管電氣燒灼手術的發展分為熱能燒灼、冷凝球囊或是脈衝電場消融術方式，醫師會根據您臨床的需要來做您的電燒方式的相關建議，對於陣發性心房顫動病患的長期治癒率約達80%以上，在慢性（發作大於一年以上）心房顫動病患，可能需經過2至 燒灼術後，長期的療效可達70-85 %以上，但需承擔相關手術風險。 何謂心房顫動的心導管電氣燒灼手術 心導管電氣燒灼手術是近年來發展治療心律不整的方法，經由心臟電氣生理學檢查證實心律不整的機轉後，可將電流經由電極導管到病灶進行燒灼，以下簡介執行心導管電氣燒灼手術的過程： 手術時，您會被送至心導管檢查室，在一個裝有X光設備的檢查床上，同時接上各種監測的儀器。 進行（鋇劑）食道攝影後，接著進行全身麻醉或是精準麻醉。 在導管要置入處（兩側鼠蹊部）進行消毒，再以相關導鞘血管（動脈或靜脈），接著才將導管置入，以進行電氣生理學檢查。 電氣生理學檢查及三維 (3D) 立體定位繪圖後，確定心律不整的訊號來源後，就可以使用電極導管進行電燒手術，進行心房顫動來源處隔離電燒。 若電燒手術無法將心房顫動回復至正常心律，則會在手術中執行電氣整流術。 手術後進行傷口止血，恢復麻醉及清醒後，並送往恢復室或心臟內科病房觀察。 住院時間約需3-4天。 手術相關禁忌症及可能併發症 禁忌症 經食道心臟超音波顯示心臟內有血栓者，或是慢性疾病或有其他急性疾病不穩定者，或是其他狀況醫師認為不適合者。 可能併發症 穿刺處血管需手術併發症（1.5%） 心包膜填塞（1.3%） 肺靜脈狹窄（0.3%） 心血管栓塞事件（0.2%），如：腦中風。 死亡（0.15%） 橫膈神經受損（0.1-0.3%） 心房食道廔管（0.04%）",
+      "keywords": [
+        "糖尿病",
+        "高血壓"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320007.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:44.999Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-93dc9a0db1",
+      "title": "攝護腺癌使用荷爾蒙治療對心血管疾病的影響",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "前言 根據衛生福利部統計110年國人十大死因前2名為惡性腫瘤(癌症)與心臟疾病，其中攝護腺癌為惡性腫瘤十大死因第5名。攝護腺癌是男性常見的惡性腫瘤，多發生在50歲以上的男性，年齡越大發生率越高，而這些年長者在治療攝護腺癌之前，可能有一部分患...",
+      "fullContent": "前言 根據衛生福利部統計110年國人十大死因前2名為惡性腫瘤(癌症)與心臟疾病，其中攝護腺癌為惡性腫瘤十大死因第5名。攝護腺癌是男性常見的惡性腫瘤，多發生在50歲以上的男性，年齡越大發生率越高，而這些年長者在治療攝護腺癌之前，可能有一部分患者原先就有心血管疾病，故在治療攝護腺癌之外，心血管疾病相對也要注意。 荷爾蒙治療 男性荷爾蒙會刺激攝護腺癌的生長，故常見的治療藥物為雄激素剝奪療法(androgen deprivation therapy；ADT)，又稱荷爾蒙治療，去除男性荷爾蒙，抑制癌細胞生長，緩解症狀並延長生存期。而傳統荷爾蒙治療或新一代口服荷爾蒙治療，都有引起骨質疏鬆、肌肉萎縮、血糖血脂增加、體重增加等副作用之風險，因此開始使用荷爾蒙治療前應該對患者的心血管疾病風險進行基礎評估，並且1年後追蹤。治療過程除了生活方式的建議，應考慮早期開始監測高血壓、高血糖和高血脂，並由醫師根據心血管風險評估是否使用預防性藥物。 抗癌護心，不再懼怕 奇美護心團隊自民國103年成立，照顧超過500位病人，除了與病人間建立良好互動外，希望攝護腺癌的病人在護心團隊照護下可以及早發現心臟功能衰退的狀況，並且持續追蹤。團隊也獲得SNQ國家品質標章肯定，期許未來服務更多病人，讓奇美護心團隊共同守護您的健康!",
+      "keywords": [
+        "高血壓",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/57320008.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.036Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-2dc0414908",
+      "title": "認識糖尿病前期",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "什麼是糖尿病前期 分泌胰島素的能力變差、胰島素阻抗增加、腸泌素分泌減少以及其他因素，造成血糖值超過正常標準，但未到達診斷糖尿病標準。 通常沒有症狀，但經過一段時間會漸漸惡化，甚至轉變為糖尿病。 因血液內糖分過高，全身血管都開始慢慢地受到影響...",
+      "fullContent": "什麼是糖尿病前期 分泌胰島素的能力變差、胰島素阻抗增加、腸泌素分泌減少以及其他因素，造成血糖值超過正常標準，但未到達診斷糖尿病標準。 通常沒有症狀，但經過一段時間會漸漸惡化，甚至轉變為糖尿病。 因血液內糖分過高，全身血管都開始慢慢地受到影響，包括大血管、小血管及神經系統病變，例如：心臟病、腦中風、下肢動脈阻塞、腎臟衰竭、白內障、視網膜病變、黃斑病變甚至失明、手腳麻木，所以必須開始重視與追蹤。 正常 糖尿病前期 糖尿病 空腹血糖(mg/dl) ＜100 100-125 ≧126 糖化血色素(％) ＜5.7 5.7-6.4 ≧6.5 糖尿病前期的自我照顧 控制體重 糖尿病伴隨肥胖，易導致脂肪肝、高血壓、高血脂。 減重5%可改善抽血數據，減重10%可改善心肺功能。 均衡飲食 參考國民健康署-我的餐盤https://youtu.be/tCGLwR9NbFo 參考國民健康署-我的餐盤Qr-code 少吃紅肉和加工肉品，少喝含糖飲料。 多吃蔬菜；適量攝取大豆、白肉、堅果、全穀類、水果。 諮詢營養師。 規律運動 有氧運動可減少胰島素抗阻性，肌力運動則可以增加肌肉對葡萄糖的攝取，幫助降低血液中的葡萄糖濃度。 每週至少 ，每次30分鐘以上，散步、騎腳踏車、爬山等。 定期追蹤血糖變化 每年檢查 空腹血糖或糖化血色素。 由醫師評估是否罹患「糖尿病」或開始藥物治療。",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320009.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.076Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-5dd1d29577",
+      "title": "裝置心臟節律器病人居家注意事項",
+      "clinicName": "奇美醫院",
+      "category": "外科",
+      "summary": "特殊注意事項 返家後要測量脈搏，瞭解所設定的心跳速率，若有出現下列情況時，應立即返院就醫： 二個月內有出現心跳次數比設定心跳數低或心跳不規則時。 節律器使用超過6年後，心跳次數低於設定心跳數的90%時。 感覺呼吸困難、心悸、短暫眩暈、胸痛、...",
+      "fullContent": "特殊注意事項 返家後要測量脈搏，瞭解所設定的心跳速率，若有出現下列情況時，應立即返院就醫： 二個月內有出現心跳次數比設定心跳數低或心跳不規則時。 節律器使用超過6年後，心跳次數低於設定心跳數的90%時。 感覺呼吸困難、心悸、短暫眩暈、胸痛、長期疲倦時。 若有出現下列症狀時，如：發燒、節律器植入部位紅、腫、熱、痛或有分泌物等情形應立即返院就醫。 活動、運動注意事項 術後兩週內，患側手臂可依醫師指示前後微幅擺動，但不可抬高過肩（可用三角巾固定)。 術後一個月後可恢復如性生活、開車、文書等工作。 手術後六週內，避免抬舉大於2.5公斤之重物，以防節律器移位。 若患側手臂有須長期且頻繁使力者，應須經醫師允許才可工作。 傷口照護 隨時保持傷口乾燥，若傷口弄濕請儘速擦乾，以避免感染。 每天洗澡後，以優碘消毒傷口並觀察傷口是否有感染症狀，至傷口完全癒合。 日常生活注意事項 一般家電用品（如：電視、無線電話、吹風機、電扇、微波爐等）均可使用。 可以使用行動電話，但避免將手機接近心臟節律器的地方，盡量用另一側耳朵接聽。（保持30公分以上距離）。 須遠離核能發電廠及高壓電塔。 若有需要做核磁共振（MRI）檢查時，應事先告知醫師。 在您身上需隨時攜帶識別卡，若需搭乘飛機時，更需主動拿出識別卡告知工作人員。",
+      "keywords": [
+        "傷口",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320101.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.114Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-cdb26fd5f3",
+      "title": "冠狀動脈心臟病",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "。 原因 年老、高膽固醇、抽菸、糖尿病、高血壓、肥胖、缺乏運動、家族遺傳。 典型心臟病發作有那些症狀 胸口不適：最常發生胸口的狀況就是前胸中心不舒服，可能持續數分鐘或一陣一陣的。好像有顆大石頭壓住胸口一樣，悶悶的。 上半身不適：有可能發生在...",
+      "fullContent": "。 原因 年老、高膽固醇、抽菸、糖尿病、高血壓、肥胖、缺乏運動、家族遺傳。 典型心臟病發作有那些症狀 胸口不適：最常發生胸口的狀況就是前胸中心不舒服，可能持續數分鐘或一陣一陣的。好像有顆大石頭壓住胸口一樣，悶悶的。 上半身不適：有可能發生在單側或雙側的手臂不舒服或者是背部、頸部、下顎部或者是胃部不舒服。 喘：通常喘的症狀經常伴隨胸口不舒服的時候發生，但也有可能在胸口不舒服之前先發作。 其他症狀：包括冒冷汗、感覺噁心，或頭暈等。 如何確立診斷 臨床上常會做些檢查，如：心電圖、抽血、心臟超音波、運動心電圖、負荷式超音波、核子醫學心肌掃描、多切面電腦斷層血管攝影及心導管檢查，來了解心臟的病變。 飲食原則 少吃醣類食品、飲料。 少吃太鹹或醃製的食物。 減少攝取高膽固醇飲食。 少吃油炸食物，如炸薯條、炸雞。 減少飽和脂肪的攝取，如：奶油、冰淇淋、牛油製品，盡量以植物油代替動物油。 減少動物內臟類的攝取，如：肝、腦、心。 減少海產類食物的攝取，如蝦、蟹、魚卵、小卷等。 多吃蔬菜、水果。 日常生活注意事項 控制高血壓、糖尿病、高血脂。 禁止吸菸。 控制體重。 減輕壓力，藉著娛樂、消遣，保持愉快的心情。 適當的運動。 結論 心臟病發作時，雖然不見得每次都是生死關頭，但是一定會影響生活品質，脫離活躍、健康的生活，心臟缺氧，每一分鐘都可能造成永久且無法回復的傷害。事實上，許多心臟病發作的病人，再經由治療及調適後，不但能重回工作，活得更好、享受運動、嗜好、社交及家庭生活，也更能珍惜其重生以後的日子。",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "高血脂"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320102.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.155Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-c341ebdfe0",
+      "title": "心臟電氣檢查及燒灼術後注意事項",
+      "clinicName": "奇美醫院",
+      "category": "外科",
+      "summary": "傷口護理 衛教病人出院二天後傷口才可碰水，且撕下傷口紗布即可。 衛教病人檢查後二星期內勿提重物，以免傷口滲血。 如傷口有血腫情形，應告知多臥床休息，待回診時告知醫師檢視傷口變化。 若傷口處有紅、腫、熱、痛或發燒情形請立即回診。 飲食注意事項...",
+      "fullContent": "傷口護理 衛教病人出院二天後傷口才可碰水，且撕下傷口紗布即可。 衛教病人檢查後二星期內勿提重物，以免傷口滲血。 如傷口有血腫情形，應告知多臥床休息，待回診時告知醫師檢視傷口變化。 若傷口處有紅、腫、熱、痛或發燒情形請立即回診。 飲食注意事項 少喝酒、少攝取咖啡因、戒菸、避免刺激性食物。 運動注意事項 若行導管燒灼術，則一個月內勿劇烈運動，一個月後與常人運動無異。 平常保持規律運動，一周2~ ，每次30分鐘，運動前暖身運動5分鐘，運動後冷卻運動5分鐘。運動內容如：散步、慢跑、游泳、有氧舞蹈、騎腳踏車等有氧運動。 特殊注意事項 生育年齡女性若有計劃生育，應於檢查後六個月才可懷孕，以免檢查過程中的Ｘ光線造成胎兒異常。 若發生呼吸短促、心悸感、胸痛、出汗、暈厥等症狀，請立即返院求診。 回診日期 依醫師指示按時回診。",
+      "keywords": [
+        "傷口",
+        "發燒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320103.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.194Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-ad9aed233e",
+      "title": "冠狀動脈心臟病與心導管檢查及治療後居家注意事項",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "所謂冠狀動脈心臟病 起因於脂肪形成之斑塊堆積在血管中，使冠狀動脈變窄，造成血液流通不易，導致冠狀動脈心臟病。 導致原因 高膽固醇、抽菸、糖尿病、高血壓、肥胖、缺乏運動、家族遺傳。 發作時症狀 胸口不適： 前胸壓迫性胸痛，可能持續數分鐘或一陣...",
+      "fullContent": "所謂冠狀動脈心臟病 起因於脂肪形成之斑塊堆積在血管中，使冠狀動脈變窄，造成血液流通不易，導致冠狀動脈心臟病。 導致原因 高膽固醇、抽菸、糖尿病、高血壓、肥胖、缺乏運動、家族遺傳。 發作時症狀 胸口不適： 前胸壓迫性胸痛，可能持續數分鐘或一陣一陣的。好像是有顆大石頭壓住胸口一樣，氣悶悶的感覺。 上半身不適： 胸痛偶伴隨單側或雙側的手臂不舒服，背部、頸部、下顎部或者是上腹不適。 喘： 通常喘的症狀經常伴隨胸口不舒服的時候發生，但也有可能在胸口不舒服之前先發作。 其他症狀： 包括冒冷汗、臉色蒼白、感覺噁心或頭暈等。 確立診斷方式如下 非侵入性之檢查包括：心電圖、抽血、心臟超音波、運動心電圖、核子醫學心肌掃描、256切電腦斷層、3T磁振造影、負荷式心臟超音波心臟圖。若非侵入性檢查結果高度懷疑為冠狀動脈阻塞，則進一步會行心導管檢查來確定冠狀動脈阻塞程度，再依病情需要進行冠狀動脈擴張術治療。 心導管檢查或冠狀動脈擴張術治療後 傷口護理 傷口在手腕處者： 出院後兩天內，於洗澡時保持傷口乾燥及清潔，出院兩天後可撕除紗布，不需再塗抹任何藥物。如有紅、腫、熱、痛或出血情形，請立即返院檢查。 術後一週內避免手腕出力及提重物，以免傷口出血，若手部膚色變白或變冰冷，請立即返院檢查。 傷口在腹股溝處者： 同上。 術後二週內避免頻繁彎曲大腿或膝關節過度屈曲的活動（如：爬樓梯、騎腳踏車、跳躍、提重物），以免傷口出血及皮下血腫。 藥物使用注意事項 用藥原則：務必瞭解常規服藥之重要性，藥物應確實按照指示服用，絕對不可自行調整劑量、次數或停藥，以防疾病急性發作或惡化。 服藥注意事項： 若有服用如Bokey、Tapal、Plavix、Ticlid、Brilinta、Efient、Coumadin、Pradaxa、Xarelto、Eliquis、Lixiana等抗凝血劑時，需注意有無出血情形，如解黑便、牙齦出血、皮膚碰撞易瘀血、血尿，應立即返院就醫。 若有舌下含服救心藥即硝酸甘油脂（NTG），應注意下列事項： 藥物須避光防潮，打開瓶蓋取藥後，應立刻關緊。 含服此藥時，舌下應會有麻木、刺痛或灼熱感，若無此現象時，應檢視藥瓶上之有效期限，查看藥物是否已過期。 若藥物已開封，開封後有效期限為6個月；未開封則參考藥瓶上的有效期限，若藥物已超過期限，應請醫師再開立一瓶。 含服時需坐著或躺著休息，以免頭暈而發生危險。 胸悶、胸痛未改善時，可舌下含服一顆，如症狀仍未改善，應立即至急診求診。 不可和威而剛之類的壯陽藥合併使用。 血管支架放置後注意事項： 避免使用銀杏、紅麴等健康食品。 置放塗藥支架者需依醫囑按時服用抗血小板劑（如：阿斯匹靈、保栓通、百無凝、抑凝安），以預防血栓形成，此藥物偶有白血球下降及容易出血的副作用。在此期間如需接受侵入性的檢查或治療，如拔牙，會流血之手術和胃鏡、大腸鏡等，請先告知醫師目前有服用此藥，以避免出血不止。 活動、運動注意事項 可採有氧運動，如：散步、慢跑、游泳、騎腳踏車、跳有氧舞蹈，每星期可至少三次，每次30分鐘。 勿在吃飯前後半小時內運動；運動前5～10分鐘須先作暖身運動，運動後5～10分鐘作冷卻運動。 當運動或用力工作時有胸部不適情形，應立刻停止，並於坐椅上休息。 外出運動時，依醫師指示隨身攜帶救心藥物。 為維護運動安全，建議可至本院復健部心肺復健門診，尋求運動處方相關諮詢。 恢復性生活之建議：(根據2012年美國心臟學會) 在中低強度活動下無症狀之冠狀動脈疾病(例：可以上下爬二層樓梯而沒有呼吸喘或胸部不適)之病人可進行正常的性生活。 心肌梗塞後的病人，若沒有產生嚴重的併發症，建議於一星期後可進行性生活。 在冠狀動脈介入手術後，如血管介入之注射處無併發症(如：紅腫)，約數天後可進行性生活。 冠狀動脈繞道手術之病人應在6～8週且傷口有良好癒合後方可進行性生活。 非冠狀動脈之心臟外科手術應在6～8週後且傷口有良好癒合後方可進行性生活。 針對沒有完成完全冠狀動脈血管再重建之病人，可利用壓力測試來評估病人之心肌缺血情形。 在不穩定及嚴重心絞痛之病人，應於藥物使用穩定後，方可考慮進行性生活。 飲食注意事項 三餐均衡，勿暴飲暴食。 避免高膽固醇食物，如：內臟類、蛋黃、魚卵、蟹黃等；膽固醇每日總攝取量應低於300毫克（每日肉類攝取5兩左右，則膽固醇攝取量在200毫克以下）；魚類及豆類之飽和脂肪含量少，可考慮取代肉類做為蛋白質來源。 限制飽和脂肪攝量，飽和脂肪多存於下列食物中：動物性食品如肥肉、全脂奶、奶油、豬油、牛油、肉類外皮；植物性食品：如烤酥油、椰子油、椰子、棕櫚油。 避免高油飲食，如：肥肉、各種肉類之外皮、香腸、豬腸、牛腩、培根、蛋餅、起司、奶油、肉湯、沙拉醬及油煎、油炸、油酥的食物。避免高油點心，如：腰果、花生、瓜子、蛋糕、西點、中式糕餅、巧克力、冰淇淋。烹調方法可用清燉、清蒸、水煮、涼拌、滷、紅燒、燙、烤等方法，以減少用油量；烹調用油宜選擇較不飽和的油，如：大豆沙拉油、玉米油、葵花籽油、紅花籽油、米油、花生油、蔬菜油、橄欖油。 避免高鹽飲食，如：加鹽或醃燻的食品（香腸、臘肉、火腿、肉鬆、鹹魚、滷味等）及罐頭類食品（建議每天攝取少於6克之鹽份）。 限制甜食攝取：如果汁、汽水、糖果、糕餅、巧克力及任何加糖食品攝取，以避免體內血脂肪增加。 含可溶性纖維之食物如：各類水果、豆類、燕麥片、洋菜、木耳、海帶、紫菜、菇類、莢豆類等對降低膽固醇有明顯效果；不溶性纖維，如青菜、全穀類對於預防便秘，大腸、直腸癌等有助益。 富含維他命Ｃ食物如：蕃茄、檸檬、柳丁、柑橘類、蕃石榴等；富含維他命Ｅ食物如：地瓜、南瓜，可抗氧化並防止膽固醇破壞血管細胞，應增加攝取量。 男性每天攝取酒精量應少於30公克（每天不超過：啤酒700㏄，紅酒240㏄，威士忌或白蘭地75㏄）；女性每天攝取酒精量應少於20公克（每天不超過：啤酒470㏄，紅酒160㏄，威士忌或白蘭地50㏄）。 日常生活注意事項 禁止吸菸，包括二手菸。 控制血壓在正常範圍以內（140/90mmHg以下），如有冠狀動脈心臟病者，收縮壓需控制在120mmHg以下。 維持標準體重：（營養師提供之算式） 男：（身高－80）×0.7加減10％ 女：（身高－70）×0.6加減10％ 控制腰圍男性90cm內，女性80cm內。 避免緊張及壓力。 睡眠要充足。 您若同時患有糖尿病，應注意血糖的控制，避免再度增加血管硬化及阻塞的危險。 特殊注意事項 有以下情形出現時，應立即返院就診： 有出血情形（如：血便、牙齦出血、皮膚碰撞易瘀血，血尿等）。 胸痛且有含服救心藥（NTG）無效時。 傷口有紅、腫、熱、痛或血腫時。 門診追蹤 通常出院後一星期內返院複診，之後依醫師指示回院追蹤。",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320105.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.240Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-3a850ede57",
+      "title": "高血壓居家照護",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "高血壓之分類 分類 收縮壓(mmHg) 舒張壓(mmHg) 正常血壓 ＜120 ＜80 正常偏高 ＜130 ＜80 第一期高血壓 130-149 80-89 第二期高血壓 140-159 90-99 第三期高血壓 ≧180 ≧110 高血壓...",
+      "fullContent": "高血壓之分類 分類 收縮壓(mmHg) 舒張壓(mmHg) 正常血壓 ＜120 ＜80 正常偏高 ＜130 ＜80 第一期高血壓 130-149 80-89 第二期高血壓 140-159 90-99 第三期高血壓 ≧180 ≧110 高血壓之併發症 高血壓為國人近年來十大死亡原因之一，是心臟冠狀動脈疾病與腦血管病變最重要的危險因素之一。當長期處於高血壓狀態下，容易造成臟器損傷之併發症，包括：心臟肥厚、心臟衰竭、冠狀動脈硬化、腦中風、主動脈瘤、腎血管疾病、視網膜異常及失明等。所以若患有高血壓或高血壓前期，都必須要好好控制血壓。 高血壓之日常照護事項 定期找固定的醫師追蹤，必須按照醫師指示服藥，不可自行增減藥量或停藥。 自我測量血壓，最好每天早、晚測量，而且記錄下來。 生活療法已經證實對高血壓的控制有明顯幫助，其內容包括：減鈉、節制飲酒、減重、戒菸、飲食控制、運動。 飲食控制：必須乎合均衡飲食及三少二多原則：少調味品、少加工食品，低油脂，多蔬果、多高纖。 運動方式：應選用緩和且持續的有氧運動，如快走，健身操，慢跑，游泳，騎腳踏車，爬樓梯，爬山。 運動頻率：每週三次，每次30分鐘。若沒有運動習慣的人可從運動15分鐘開始，慢慢增加到30分鐘。最好漸漸養成每天運動的習慣。 應避免太激烈的運動。 面對慢性疾病所引起的心理壓力會慢慢累積，建議保持情緒平穩，不要太過激動；生活作息要規律，早睡早起。",
+      "keywords": [
+        "高血壓",
+        "減重"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320106.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.297Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-d35983ebbb",
+      "title": "認識心導管檢查",
+      "clinicName": "奇美醫院",
+      "category": "外科",
+      "summary": "何謂心導管檢查 心導管檢查是將一條細長且柔軟，約一百至一百五十公分的管子以打針的方式從鼠蹊部或前臂的動脈或靜脈插入，向前推至心臟部位藉以獲得血流動力，氧氣資料或血管攝影以評估心臟血管病變及構造異常。全部過程約需１～２小時。 為何要做心導管檢...",
+      "fullContent": "何謂心導管檢查 心導管檢查是將一條細長且柔軟，約一百至一百五十公分的管子以打針的方式從鼠蹊部或前臂的動脈或靜脈插入，向前推至心臟部位藉以獲得血流動力，氧氣資料或血管攝影以評估心臟血管病變及構造異常。全部過程約需１～２小時。 為何要做心導管檢查 醫師建議病人做心導管檢查，往往意謂病人患有嚴重的心臟血管疾病，必須藉助心導管檢查以提供更精確、更詳細的心臟血管資料，而這些資料是其他非侵襲性檢查所無法提供的，這些資料可讓醫師為病人做正確的診斷和選擇最適當的治療方法。 心臟內有四個腔室和四個瓣膜；血液從身體各處→右心房→右心室→肺動脈→肺→肺靜脈→左心房→左心室→主動脈→身體各處；其中任何一處發生問題，都可能讓病人不適，甚至有生命危險。 心臟的外面有冠狀動脈提供血液氧氣以供心臟使用，如果冠狀動脈發生狹窄（即所謂狹心症、冠心症、心絞痛、心肌梗塞等），病人會有胸痛、心臟衰竭、心律不整、甚至猝死。冠狀動脈依其位置分為左主冠狀動脈，它再分成左前降支、左迴旋支兩條血管。另外有右冠狀動脈負責右側心臟及左心室的下後壁。（醫師若再告訴您三條冠狀動脈皆有問題，意謂左前降支、左迴旋支和右冠狀動脈皆有堵塞）。 心導管檢查注意事項 由於做心導管檢查意謂病人心臟有問題，本身即有生命危險的可能，其過程有極少的可能發生合併症：心律不整、肺水腫、猝死、動脈栓塞、藥物過敏、傷口血腫等。然而在您的配合與醫護人員的悉心照顧下，可使檢查順利完成且盡量減少這些合併症的發生。 檢查前準備 經由醫師解釋後填寫同意書。 手術側手腕或兩側鼠蹊部剃毛以免接觸傷口引起發炎。 心導管前４～６小時禁食及禁止喝任何飲料（可喝少許水以服藥）。 若對X光顯影劑有過敏體質者，請務必告知醫師或護理人員。 檢查開始前，請先排空膀胱。 靜脈點滴，一則補充體液，另一方面可在導管進行時，作為緊急藥物靜脈注射的途徑。 心導管檢查過程 心導管室位於奇美醫院第二醫療大樓3樓、柳營奇美醫院二樓D區。 由家屬陪同病人推床至心導管室，病人會被移至心導管檢查檯上。 檢查中，在無菌區以無菌方式進行，並有全程心電圖，血壓及透視螢幕監測。 檢查中因為常需要您的配合，我們僅施以局部麻醉，在進行當中若有任何不適的感覺，請馬上告訴醫護人員。 平日應注意下列幾點 戒菸 控制血壓、血糖 保持標準體重 減少脂肪、膽固醇攝取 適當的運動 避免緊張壓力 規則服藥 結論 心導管檢查在心臟內科病房中是常見的檢查，但對大部份的病人來說都會有害怕的心理，而醫護人員將會以專業的知識與技能來幫助您順利完成檢查，最後祝各位身體健康。",
+      "keywords": [
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320107.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.353Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-af42887e89",
+      "title": "心律不整導管消融手術",
+      "clinicName": "奇美醫院",
+      "category": "外科",
+      "summary": "心律不整 心律不整是指心臟跳動的節奏異常，可能過快、過慢或不規則，嚴重時會引發心悸、頭暈、胸悶、甚至昏厥，對生活品質與健康造成影響。常見的心律不整類型包括心房顫動、陣發性心室上頻脈、心室早期收縮、心室頻脈等。隨著醫療科技進步，導管消融已成為...",
+      "fullContent": "心律不整 心律不整是指心臟跳動的節奏異常，可能過快、過慢或不規則，嚴重時會引發心悸、頭暈、胸悶、甚至昏厥，對生活品質與健康造成影響。常見的心律不整類型包括心房顫動、陣發性心室上頻脈、心室早期收縮、心室頻脈等。隨著醫療科技進步，導管消融已成為許多心律不整患者的重要選擇。 導管消融手術方式 導管消融（catheter ablation）是一種微創手術，醫師會在大腿根部或頸部血管穿刺，細長的導管經由血管送入心臟，配合影像導引與電生理監測，定位產生心律不整的異常電氣路徑，精準執行治療消除異常組織，使心臟恢復正常節律。手術過程可在局部麻醉或全身麻醉下進行，醫師會根據心律不整的種類及手術複雜度選擇適合的麻醉方式。 導管消融的適應症 常見適應症包括： 心房顫動（atrial Fibrillation） 陣發性心室上心搏頻脈（paroxysmal supraventricular tachycardia）： 房室結迴旋頻脈（atrioventricular nodal reentry tachycardia） 沃爾夫－巴金森－懷特氏症候群（WPW syndrome） 心房頻脈（atrial tachycardia） 心房撲動（atrial flutter） 心室早期收縮（premature ventricular complex） 心室頻脈（ventricular tachycardia） 導管消融的優點 根本治療：能直接消除異常電氣路徑，患者可達到治癒效果，減少復發。 降低藥物依賴：成功消融後，多數患者可減少或停用抗心律不整藥物。 提升生活品質：減少心悸、頭暈等症狀，恢復正常生活。 微創：手術傷口小，恢復期短，住院時間通常僅需1-3天。 導管消融的併發症與風險 雖然導管消融屬於微創手術，整體安全性高，但仍有潛在併發症，包括： 穿刺部位出血或血腫。 心包膜積液或心臟穿孔。 心律不整加劇或產生新的心律不整。 血栓形成及中風風險。 醫療團隊會在術前評估風險，並於術後密切觀察，降低併發症發生率。據統計，併發症發生率低於千分之五。 3D立體定位在導管消融的應用 傳統導管消融多依賴X光輔助，但現今的3D立體定位技術（3D Mapping）可建立心臟的三維立體影像，協助醫師精準導航導管位置及定位異常電氣路徑。其優點包括： 精準定位：更清楚辨識異常組織位置，提升消融成功率。 減少X光暴露：降低患者接受輻射的風險。 縮短手術時間：提升手術效率及安全性。 複雜病灶利器：對於結構異常或複雜心律不整特別有幫助。 射頻電燒 射頻電燒（Radiofrequency Ablation, RFA）是利用高頻電流產生熱能，將異常心臟組織加熱至約50-55°C，造成組織壞死，阻斷異常電氣傳導。特色與優點： 應用最廣、技術成熟，臨床經驗豐富。 消融範圍可控，適用於多數心律不整類型。 應用：幾乎適用於所有種類的心律不整。 冷凍消融 冷凍消融（Cryoablation）是利用導管將異常組織冷卻至-30°C至-60°C，造成細胞壞死，阻斷異常電氣傳導。特色與優點： 冷卻至-30°C之過程，細胞受損為可逆性，可避免破壞心臟重要傳導路徑。 有「凍結」定位效果，方便醫師確認位置。 應用：心房顫動肺靜脈隔離，陣發性心室上心搏頻脈。 脈衝場消融 脈衝場消融（Pulsed Field Ablation, PFA）利用高壓脈衝電流在極短時間內產生電場，使細胞膜產生「穿孔」，導致細胞死亡。特色與優點： 選擇性高，主要針對心臟組織，較不傷及附近血管、食道及神經。 消融速度快，手術時間縮短。 併發症風險較低，安全性提升。 應用：目前仍以心房顫動為主。 導管消融手術後注意事項 術後一週內，勿太勞累、勿搬重物。 少數病人術後胸部會有灼熱感或偶爾心悸，多半在2∼3週內消失。 病人在術後，可能會有“心律不整要發作但發作不起來”之感覺，此感覺是身體對於以往心律不整之記憶。一般而言，此感覺多半在術後一個月內消失。 結語 導管消融是治療心律不整重要且有效的選項。3D立體定位技術大幅提升手術精準度與安全性。射頻電燒、冷凍消融及脈衝場消融各有特色與適應症，選擇時需考量個人病情、心律不整類型、醫療團隊經驗等多項因素。建議患者、家屬與醫師充分討論，選擇最適合的治療方式，早日恢復健康。",
+      "keywords": [
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7320/A7320110.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.516Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-ae9526d2f8",
+      "title": "皮下注射部位圖",
+      "clinicName": "奇美醫院",
+      "category": "一般衛教",
+      "summary": "注射部位 手臂：上臂外側中1/3段。 腹部：病人一手握拳蓋住肚臍，另一手掌置於拳頭旁，注射在手掌寬的距離內。 大腿：大腿前外側上1/3段（避開腹股溝）。 臀部：臀部外側上1/4。 手臂 腹部 大腿 臀部 注意事項 每一個區域注射8個部位再輪...",
+      "fullContent": "注射部位 手臂：上臂外側中1/3段。 腹部：病人一手握拳蓋住肚臍，另一手掌置於拳頭旁，注射在手掌寬的距離內。 大腿：大腿前外側上1/3段（避開腹股溝）。 臀部：臀部外側上1/4。 手臂 腹部 大腿 臀部 注意事項 每一個區域注射8個部位再輪換至下一個區域(例A→B)；注射點之間距離約一個手指寬。 自己施打者，以腹部（C~F）和大腿（G~H）為主。 協助施打者，則手臂、腹部、大腿和臀部皆可施打(A~J)。",
+      "keywords": [],
+      "imageUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/assets/images/7360/A7360001-01.png",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360001.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.561Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-0643c6ec00",
+      "title": "糖尿病衛教之瓶裝胰島素抽取技術及注射（以清澈型胰島素為例）",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "一、瓶裝胰島素抽取技術 用肥皂將雙手徹底洗乾淨後擦乾。 以75％酒精棉消毒瓶口。 拿掉針筒下方白色柄蓋。 將橙色針蓋拔開。 將針筒內的白色拉柄往下拉，抽取所需劑量相等的空氣（抽空氣）。 將針筒垂直插入藥瓶，注入空氣。 藥瓶倒過來拿好，將針筒...",
+      "fullContent": "一、瓶裝胰島素抽取技術 用肥皂將雙手徹底洗乾淨後擦乾。 以75％酒精棉消毒瓶口。 拿掉針筒下方白色柄蓋。 將橙色針蓋拔開。 將針筒內的白色拉柄往下拉，抽取所需劑量相等的空氣（抽空氣）。 將針筒垂直插入藥瓶，注入空氣。 藥瓶倒過來拿好，將針筒內的白色拉柄往下輕拉，抽取所需的劑量。 檢查針筒內是否有氣泡，若有可用手指輕彈針筒，或將已抽出的胰島素全部打回藥瓶，重抽一次。 再次檢查劑量無誤時，請先將針蓋蓋好針頭，將針筒平放，準備注射。 ※若是抽取混濁型胰島素，先將藥品平放掌中，雙手來回輕搓至少 使藥劑均勻混合後，再接續進行第2個步驟。 二、空針注射技術：以腹部為例 病人一手握拳蓋住肚臍，另一手掌置於拳頭旁，注射在手掌寬的距離內。 酒精棉採環狀由內往外消毒注射部位，待酒精乾才可注射。 一手先以兩手指捏起注射部位，另一手持針筒將針頭朝下與皮膚成90度插入。 繼續維持捏起的部位，持針筒的手按下推桿，慢慢將藥物全部注入。 等待至5～10秒，拔出針頭，另一手放開注射部位，再以酒精棉按壓注射部位。 三、注意事項 隨身攜帶方糖、飲料，在低血糖發作時立即食用。 隨身攜帶糖尿病卡。 部位輪換可在同一部位內；可減少每日吸收之差異；注射點之間距離約一手指的寬度。 不要注射在即將激烈運動的部位，例如打球就不要注射在手臂或大腿。 若皮膚有結硬塊請勿在此部位注射，會影響藥物吸收。 注射過程中",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360002.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.620Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-1c79ac6af6",
+      "title": "自我監測血糖的操作步驟",
+      "clinicName": "奇美醫院",
+      "category": "皮膚病",
+      "summary": "備物：血糖機、採血筆、採血針、血糖試紙、酒精棉片 洗手 將採血針裝置於採血筆 依手指皮膚厚度調整深淺刻度，刻度的數字小，皮膚扎得較薄；數字較大，皮膚扎得較深 將採血之手指搓揉幾秒 用酒精棉片消毒手指 等酒精完全揮發後，將採血筆靠近手指尖並對...",
+      "fullContent": "備物：血糖機、採血筆、採血針、血糖試紙、酒精棉片 洗手 將採血針裝置於採血筆 依手指皮膚厚度調整深淺刻度，刻度的數字小，皮膚扎得較薄；數字較大，皮膚扎得較深 將採血之手指搓揉幾秒 用酒精棉片消毒手指 等酒精完全揮發後，將採血筆靠近手指尖並對準後刺入，擠出約米大的血滴 將血糖試紙插入血糖機，試紙的凹槽對準手指上的血滴，試紙會自動吸滿血後，等待出現血糖數字結果",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360003.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.663Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-f5846b34b2",
+      "title": "甲狀腺結節微創消融術前注意事項（甲狀腺消融、射頻消融、微波消融）",
+      "clinicName": "奇美醫院",
+      "category": "一般衛教",
+      "summary": "By 內分泌新陳代謝科 | May 2026 奇美醫院內分泌新陳代謝科提供甲狀腺結節微創消融治療，包括射頻消融與微波消融。如果您即將接受甲狀腺結節微創消融手術，請於手術前詳閱本頁說明，並依醫療團隊指示完成相關準備。本文整理術前注意事項、報到...",
+      "fullContent": "By 內分泌新陳代謝科 | May 2026 奇美醫院內分泌新陳代謝科提供甲狀腺結節微創消融治療，包括射頻消融與微波消融。如果您即將接受甲狀腺結節微創消融手術，請於手術前詳閱本頁說明，並依醫療團隊指示完成相關準備。本文整理術前注意事項、報到方式、飲食與用藥安排、個人準備、術後觀察及常見問題，協助手術順利進行並有助於術後恢復。 一、報到時間與地點 請於手術時間前 30 分鐘完成報到。 報到地點：台南市永康區中華路 901 號，第二醫療大樓 2 樓檢查室櫃檯。建議由家屬陪同前來。 檢查室櫃檯",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/57360006.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.751Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-876420c644",
+      "title": "糖化血色素",
+      "clinicName": "奇美醫院",
+      "category": "一般衛教",
+      "summary": "，就可以降低約33~37%的微小血管(如眼底病變、腎臟病變)或12~16%大血管併發症(如心肌梗塞、中風)的發生或惡化。 ～諮詢電話～ │奇美醫院│電話：(06)281-2811轉53964、53984 │柳營奇美│電話：(06)622-6...",
+      "fullContent": "，就可以降低約33~37%的微小血管(如眼底病變、腎臟病變)或12~16%大血管併發症(如心肌梗塞、中風)的發生或惡化。 ～諮詢電話～ │奇美醫院│電話：(06)281-2811轉53964、53984 │柳營奇美│電話：(06)622-6999轉73517 │佳里奇美│電話：(06)726-3333轉33267 │奇美醫院│電話：(06)281-2811轉53964、53984 │柳營奇美│電話：(06)622-6999轉73517 │佳里奇美│電話：(06)726-3333轉33267",
+      "keywords": [],
+      "imageUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/assets/images/7360/A7360101-01.png",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360101.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.794Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-46adccdffc",
+      "title": "甲狀腺機能亢進症",
+      "clinicName": "奇美醫院",
+      "category": "一般衛教",
+      "summary": "由於甲狀腺荷爾蒙已經過多，所以減少攝取含碘食物是較理想的輔助治療方法。含碘較多的食物包括：海產類、海藻類（海帶、紫菜等）最好少吃。 2.刺激性食物 由於甲狀腺機能亢進病人的交感神經活性增加，容易心悸緊張。因此含有咖啡因的飲料：咖啡或茶宜少喝...",
+      "fullContent": "由於甲狀腺荷爾蒙已經過多，所以減少攝取含碘食物是較理想的輔助治療方法。含碘較多的食物包括：海產類、海藻類（海帶、紫菜等）最好少吃。 2.刺激性食物 由於甲狀腺機能亢進病人的交感神經活性增加，容易心悸緊張。因此含有咖啡因的飲料：咖啡或茶宜少喝；另外菸酒等刺激性食物應依醫囑囑附進食或避免。 ～諮詢電話～ │奇美醫院│電話：(06)281-2811轉53923 │柳營奇美│電話：(06)622-6999轉73515 │佳里奇美│電話：(06)726-3333轉33905 │奇美醫院│電話：(06)281-2811轉53923 │柳營奇美│電話：(06)622-6999轉73515 │佳里奇美│電話：(06)726-3333轉33905",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360102.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.837Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-1f18e98a08",
+      "title": "糖尿病衛教之認識糖尿病",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "什麼是糖尿病 病因 老化。 遺傳因子。 肥胖。 壓力。 懷孕。 藥物。 營養不均。 診斷方式 正常 糖尿病前症候群 糖尿病 1.隨機血糖值 多吃、多喝、多尿、體重減輕的症狀，並隨機血糖值200g/dl 2.空腹血糖值 70-99 mg/dl...",
+      "fullContent": "什麼是糖尿病 病因 老化。 遺傳因子。 肥胖。 壓力。 懷孕。 藥物。 營養不均。 診斷方式 正常 糖尿病前症候群 糖尿病 1.隨機血糖值 多吃、多喝、多尿、體重減輕的症狀，並隨機血糖值200g/dl 2.空腹血糖值 70-99 mg/dl 100-125 mg/dl ≧126 mg/dl 3.糖化血色素 ＜5.7 % 5.7 %-6.4 % ≧ 6.5 % 4.口服葡萄糖耐受試驗，第二小時血糖值 ＜140 mg/dl 140-199 mg/dl ≧ 200 mg/dl 備註 上述糖尿病診斷：1出現一次超標即可診斷，2、3、4重複兩次超標或其中出現兩項超標也可診斷。 隨機血糖值的是不分空腹或飯後隨時所測得之血糖。 空腹血糖值是空腹8小時所測得之血糖。 口服葡萄糖耐受試驗，需空腹8小時以上，先抽空腹血液，喝完75公克糖水後，分別在30分、60分、90分、120分抽血。 症狀 三多(多吃、多喝、多尿) 體重減輕 視力模糊 疲倦 陰部搔癢 傷口不易癒合 糖尿病的型態 1.第1型糖尿病 胰臟無法分泌胰島素，需終身施打胰島素，好發30歲前。 2.第2型糖尿病 胰臟分泌的胰島素不足或功能欠佳所致，肥胖、中老年居多。 3.妊娠型糖尿病 在懷孕時新診斷的糖尿病。 4.其他類型 如藥物、胰臟疾病、營養失調等引起。 控制的方式 糖尿病的治療目標 血糖 糖化血色素(HbA1c) ＜7.0%（需個別化考量） 飯前血糖 80~130 mg/dl 飯後2小時血糖 80-160 mg/dl 血壓 建議 ＜130/80 mmHg 血脂肪(首要目標) 低密度脂蛋白膽固醇(LDL-C) ＜100 mg/dl＜70 mg/dl（如有心血管疾病） 血脂肪(次要目標) 總膽固醇(TCH) ＜160 mg/dl 高密度脂蛋白膽固醇(HDL-C) ＞40 mg/dl（男）＞50 mg/dl（女） 三酸甘油酯(Triglyceride) ＜150 mg/dl 生活型態改變 戒菸 強烈建議 運動 中等強度有氧運動，建議每週＞150分鐘，較中等強度稍強的體能活動，建議每週至少3日，每日至少20分鐘。 身體質量指數(BMI) 18.5～24 Kg/m 2 腰圍 ＜90 cm （男）＜ 80 cm （女） 參考2022第2型糖尿病臨床照護指引，中華民國糖尿病學會出版",
+      "keywords": [
+        "糖尿病",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360105.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.893Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-3058dd100a",
+      "title": "糖尿病衛教之飲食原則",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "飲食控制的重要性 糖尿病人飲食控制相當重要，配合營養師指導，病人可藉由飲食控制達到一定的成效。 建議 每餐定時定量，不任意增減。 維持標準體重。 炒菜多用單元不飽和脂肪酸（花生油、芥花油、橄欖油）。 烹調多採用清蒸、水煮、涼拌、烤等方式。 ...",
+      "fullContent": "飲食控制的重要性 糖尿病人飲食控制相當重要，配合營養師指導，病人可藉由飲食控制達到一定的成效。 建議 每餐定時定量，不任意增減。 維持標準體重。 炒菜多用單元不飽和脂肪酸（花生油、芥花油、橄欖油）。 烹調多採用清蒸、水煮、涼拌、烤等方式。 多選用含纖維質的食物，例如：未加工蔬菜，可延緩血糖上升。 適量攝取水果。 避免 油炸、油煎、油酥、豬皮、雞皮、鴨皮、魚皮等食物。 太鹹的飲食、含精緻糖類的食物。 使用糖醋、勾芡、紅燒、宮保醬等烹調方式。 飲酒。 太過頻繁的赴宴。 注意食用分量 地瓜、馬鈴薯、芋頭、玉米、山藥、皇帝豆、紅豆、綠豆、南瓜、蘿蔔糕、麵包、湯圓、甜不辣等食物屬於澱粉類。 中式點心（如：鹹麵包、咖哩餃、雞捲）、節慶應景食品（如：肉粽、月餅、紅龜粿、年糕）皆屬高熱量食品。 冬粉、太白粉、番薯粉、粉條、粉圓、西谷米因屬於低蛋白應少吃，但糖尿病腎病變病人可選擇作為主食來源。 *可與營養師討論食用量 體位計算 某些肥胖病人，如能減輕體重至標準範圍，其血糖可獲得改善 年齡 身體質量指數（BMI, kg/m2） 腰圍（公分） 體重過輕 BMI＜18.5 正常範圍 18.5≦BMI＜24 異常範圍 體重過重24≦BMI＜27 男性：≧90公分 女性：≧80公分 輕度肥胖27≦BMI＜30 中度肥胖30≦BMI＜35 重度肥胖BMI≧35",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360106.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.935Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-7a58e39304",
+      "title": "糖尿病衛教之快樂做運動",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "運動的好處 促進血液循環、增加肌肉彈性。 降低血中膽固醇及三酸甘油酯。 加強胰島素的作用，降低血糖。 減輕體重。 減少糖尿病用藥劑量。 降低血壓。 增加心肺耐力。 運動原則 注射藥物的部位應遠離運動之肌肉群，如此可防止低血糖。 規律運動，運...",
+      "fullContent": "運動的好處 促進血液循環、增加肌肉彈性。 降低血中膽固醇及三酸甘油酯。 加強胰島素的作用，降低血糖。 減輕體重。 減少糖尿病用藥劑量。 降低血壓。 增加心肺耐力。 運動原則 注射藥物的部位應遠離運動之肌肉群，如此可防止低血糖。 規律運動，運動前後各測血糖一次，做為調整胰島素劑量及補充食物的依據。 運動時應攜帶方糖，若發生低血糖時可以馬上食用。 運動時須穿著襪子及適當護墊的鞋子，可以保暖、吸汗且減少磨擦，避免足部受傷。 天氣太熱、太冷或身體不適，應避免外出運動。 最好需有同伴一起運動並配帶糖尿病識別卡。 運動禁忌 剛注射完胰島素或正值胰島素作用高峰期 酮酸血症發生 血糖值＜80或＞300 睡覺前 感到虛弱、疼痛、呼吸急促時 空腹 運動的次數及適當時間 運動次數及時間 餐後1小時才開始。 每週150分鐘中度身體活動。 運動相隔不超過兩日。 每週2~ 阻力運動。 暖身運動 運動前暖身5~10分鐘。 緩和運動 運動後緩和5~10分鐘。 運動的強度 運動的強度以運動後仍可說話，但不能唱歌為參考標準。 心跳增加的程度達到最大心跳率的70%~85%。（220－年齡＝最大心跳率）",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360107.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:45.993Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-b949b16f5a",
+      "title": "糖尿病衛教之注射藥物治療",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "胰島素注射 胰島素是由胰臟分泌，幫助我們食物中的葡萄糖能夠順利進入身體細胞提供能量。由於胰島素會被胃酸破壞，因此胰島素必須藉由注射方式投藥，不能口服。第1型糖尿病人需注射胰島素，及第2型糖尿病人當對口服降血糖藥物失去療效時或在急性疾病期、懷...",
+      "fullContent": "胰島素注射 胰島素是由胰臟分泌，幫助我們食物中的葡萄糖能夠順利進入身體細胞提供能量。由於胰島素會被胃酸破壞，因此胰島素必須藉由注射方式投藥，不能口服。第1型糖尿病人需注射胰島素，及第2型糖尿病人當對口服降血糖藥物失去療效時或在急性疾病期、懷孕、手術時，就可能需要注射胰島素來改善血糖。 一、常用注射器 胰島素空針：依注射劑量不同可選擇30、50、100單位，最好不要重複使用。（圖1） 拋棄式筆型胰島素：已將胰島素置入筆型注射容器中。只須裝上針頭再轉動按扭即可注射，攜帶方便。（圖2） 胰島素幫浦：模擬正常胰臟功能分泌胰島素，24小時持續釋放人體所需的基礎量，再配合餐點用量所需或高血糖來追加需施打劑量，可達到精準血糖管理。（圖3） 圖1 圖2 圖3 二、胰島素種類及作用時間 種類 外觀 開始作用時間(時) 高峰時間(小時) 作用持續時間(小時) 注射時間 胰島素保存-未拆封 胰島素保存-使用中 速效(拋棄式) NovoRapid（諾和瑞） 筆型清澈 10-20分鐘 1-3 3-5 飯前5-15分 冰箱冷藏(2-8℃) 室溫＜30℃28天 短效Actrapid HM （愛速基因人體胰島素） 瓶裝清澈 ＜30分鐘 1.5-3.5 7-8 飯前30分 冰箱冷藏(2-8℃) 室溫＜25℃，42天，室溫＜30℃，28天 中長效Insulatard HM （因速來達胰島素） 瓶裝混濁 1.5小時 4-12 24 飯前30-45分 冰箱冷藏(2-8℃) 室溫＜25℃，42天，室溫＜30℃，28天 速效+中長效(拋棄式) NovoMix 30（諾和密斯30） 筆型混濁 10-20分鐘 1-4雙重尖峰時間 14-24 飯前5-15分 冰箱冷藏(2-8℃) 室溫＜30℃，28天 速效+中長效(拋棄式) Humalog Mix50（優泌樂筆） 筆型混濁 ＜15分鐘 30-70分鐘雙重尖峰時間 15 飯前5-15分 冰箱冷藏(2-8℃) 室溫＜30℃，28天 速效+超長效（拋棄式） Ryzodeg （諾胰得） 筆型清澈 14分鐘 72分鐘 42 飯前5-15分 冰箱冷藏(2-8℃) 室溫＜30℃，28天 長效(拋棄式) Lantus（蘭德仕） 筆型清澈 2-4小時 - 20-24 依醫囑給予 冰箱冷藏(2-8℃) 室溫＜30℃，28天 長效(拋棄式) Toujeo（糖德仕） 6小時 - 36 冰箱冷藏(2-8℃) 室溫＜30℃，42天 長效(拋棄式) Levemir（瑞和密爾） 1小時 6-8 24 冰箱冷藏(2-8℃) 室溫＜30℃，42天 長效(拋棄式) Tresiba(諾胰保) 1小時 9-12 42 冰箱冷藏(2-8℃) 室溫＜30℃，56天 三、胰島素藥物之注意事項 旅行時胰島素不可放置於身上的衣服口袋及車內前後置物箱或飛機行李艙中。 使用前先檢查胰島素有無過期、變色、雜質、結霜或其它變化，若有應停止使用。 四、胰島素藥物使用注意事項 隨身攜帶方糖、飲料，在低血糖發作時立即食用。 隨身攜帶糖尿病卡。 部位輪換可在同一部位內；可減少每日吸收之差異；注射點之間距離約一手指的寬度。 不要注射在即將激烈運動的部位，例如：打球就不要注射在手臂或大腿。 若皮膚有結硬塊請勿在此部位注射，會影響藥物吸收。 注射過程中",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360108.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.050Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-a253d4be6e",
+      "title": "糖尿病衛教之低血糖症",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "低血糖的定義 引起低血糖的原因 藥物過量 飲食過少、不均衡 運動過量未補充食物 身體不適如腹瀉、嘔吐 低血糖的症狀 輕微症狀 飢餓 發抖 冒冷汗 心跳快 四肢無力 頭暈 嘴唇發麻 嚴重症狀 抽筋 意識不清、昏迷 發生低血糖時之處置 低血糖的...",
+      "fullContent": "低血糖的定義 引起低血糖的原因 藥物過量 飲食過少、不均衡 運動過量未補充食物 身體不適如腹瀉、嘔吐 低血糖的症狀 輕微症狀 飢餓 發抖 冒冷汗 心跳快 四肢無力 頭暈 嘴唇發麻 嚴重症狀 抽筋 意識不清、昏迷 發生低血糖時之處置 低血糖的預防 記住自己的低血糖症狀，以便儘快處理。 注射胰島素或口服降血糖藥時劑量要準確，且在使用後按時進食。 進食三餐需要定時定量。 運動前、後須先測量血糖，若是太低（120mg／dl以下）可吃些點心補充熱量。 生病時，如果食慾差，藥物劑量需做調整，請與您的醫師或衛教師連絡。 外出時應該隨身攜帶糖果、餅乾以備低血糖時食用。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360109.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.095Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-ea3ca619fb",
+      "title": "糖尿病衛教之高血糖急症",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "高血糖的種類 酮酸中毒：胰島素分泌不足時，醣類無法被有效利用產生能量，使身體需要利用脂肪作為能量的來源，脂肪代謝不完全形成酮體，造成『酮酸中毒』：第1型糖尿病人多以此表現。 血糖濃度高於250 mg/dl。 血中出現酮體 >3.0 mmol...",
+      "fullContent": "高血糖的種類 酮酸中毒：胰島素分泌不足時，醣類無法被有效利用產生能量，使身體需要利用脂肪作為能量的來源，脂肪代謝不完全形成酮體，造成『酮酸中毒』：第1型糖尿病人多以此表現。 血糖濃度高於250 mg/dl。 血中出現酮體 >3.0 mmol/L。 血液酸鹼度偏酸：PH值低於7.30，血清碳酸氫鹽低於18mmol/L。 高血糖高滲透壓症侯群：第2型糖尿病人多以此表現。 血糖濃度高於600 mg/dl。 血中滲透壓超過320 mOsm/Kg。 無酮體。 引起高血糖的原因 未按時服用藥物 飲食過多、不均衡 未運動 合併其他疾病，如：感染、手術、外傷、中風、心肌梗塞及精神壓力等 高血糖症狀 酮酸中毒者易噁心、嘔吐 酮酸中毒者易腹痛 酮酸中毒者易呼吸喘且帶有水果酸味 口渴 多尿 體重減輕 皮膚脫水乾燥 眼框凹陷 心跳加快 高血糖高滲透壓非酮酸中毒者呼吸慢而深 姿勢性低血壓 不同程度的神智不清 高血糖症之預防 按時用藥 遵守飲食計畫 每天測血糖，出現「HI」立刻就醫 每天做適當運動 按時回診 對於高血糖症狀提高警覺 高血糖發生時的處理 第1型糖尿病病人居家應備有尿酮試紙，當感覺身體不適及血糖大於250mg/dl時，立即檢測尿酮試紙，如：有2+或3+反應，按照醫療人員教導處置，處置 無效，應立即就醫。 血糖機數值出現「Hi」時，代表血糖已經超出血糖機可檢測的範圍，可能大於500 或600 mg/dl以上，應立即做下列處理： 多休息 多喝白開水 立即就醫",
+      "keywords": [
+        "糖尿病",
+        "外傷"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360110.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.153Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-7c1331e16b",
+      "title": "糖尿病衛教之慢性併發症",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "糖尿病雖然是無法根治之慢性疾病，但仍可藉由飲食、運動、藥物來管理血糖。若血糖未經妥善的管理與治療就會引起大血管、眼睛、腎臟、神經、糖尿病足等併發症。 常見的併發症 部位 併發症 大血管 高血壓、腦中風、心肌梗塞 眼睛 白內障、青光眼、視網膜...",
+      "fullContent": "糖尿病雖然是無法根治之慢性疾病，但仍可藉由飲食、運動、藥物來管理血糖。若血糖未經妥善的管理與治療就會引起大血管、眼睛、腎臟、神經、糖尿病足等併發症。 常見的併發症 部位 併發症 大血管 高血壓、腦中風、心肌梗塞 眼睛 白內障、青光眼、視網膜病變、眼神經痲痺、視力模糊、複視 腎臟 蛋白尿、高血壓、水腫、腎衰竭、尿毒症 神經 手腳發麻及刺痛、手腳肌肉萎縮無力、姿勢性低血壓、便秘、腹瀉、解尿不乾淨、陽萎 糖尿病足 足部變形、冰冷、感覺異常、容易感染、間歇性跛行、傷口癒合慢及容易感染、足部發黑、發紺及潰瘍 預防方法 按時用藥並管理好血糖及血壓 規律運動，並維持標準體重。 腎臟病變者採低鹽、低蛋白食物。 確實做好足部護理，預防受傷。 適量飲水，注意個人衛生，預防泌尿道感染。 戒菸、戒酒，保持正常生活作息。 體重、血壓及血糖經常監測。 糖尿病病人臨床監測表 檢驗檢查項目 建議頻率 眼睛：視力、眼底檢查 1年 口腔 1年 腎臟 肌酸酐、白蛋白尿 1年 微量白蛋白尿 3個月 足部：脈搏、單股纖維壓覺、頻率128Hz音叉震動感、跟腱反射、踝臂動脈收縮壓比值 1年 糖化血色素 3個月 血脂肪：總膽固醇、高密度脂蛋白膽固醇、低密度脂蛋白膽固醇、三酸甘油酯 1年 ※以上檢查若有異常者，請按醫師指示定期回診追蹤",
+      "keywords": [
+        "糖尿病",
+        "高血壓",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360111.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.204Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-3221106ff3",
+      "title": "糖尿病衛教之生病時怎麼辦？",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "當您的血糖控制不好時，體力變差，抵抗力會變弱，容易引起其他疾病，為避免出現嚴重的病情變化，在生病時需依照以下方法處理： 測血糖 三餐飯前及睡前或每4~6小時測試一次，直到不適症狀改善。 飲食治療原則 補充水分：每小時喝約240c.c.的白開...",
+      "fullContent": "當您的血糖控制不好時，體力變差，抵抗力會變弱，容易引起其他疾病，為避免出現嚴重的病情變化，在生病時需依照以下方法處理： 測血糖 三餐飯前及睡前或每4~6小時測試一次，直到不適症狀改善。 飲食治療原則 補充水分：每小時喝約240c.c.的白開水，以防脫水，如有心衰竭病人及腎功能不全病人需依照醫師指示補充。 胃口差時，盡量維持正常飲食，以少量多餐方式進食。 若無法按照飲食計劃進食時，應補充醣類，以每1~2小時攝取含15公克醣類的食物，或每3~4小時攝取50公克醣類的食物，以預防低血糖的產生。 藥物治療原則 需持續用藥，不可任意停藥。但若是胃口不佳、嘔吐、腹瀉，可以詢問醫師做藥物劑量調整。 咳嗽藥水儘可能使用不含糖份的，避免血糖上升。 有下列情況需就醫治療 血糖測試連續 大於300 mg/dl或低於60 mg/dl，並且合併意識不清。 小便中檢驗出中度（++）或重度（+++）酮體反應持續6小時以上。 呼吸困難、用力或急促呼吸。 意識狀態改變。 持續嘔吐或腹瀉。 無法進食甚至連水都不能喝。 體重急速下降。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360112.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.255Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-04dc2b2bec",
+      "title": "糖尿病衛教之血糖監測",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "定期的自我監測血糖可做為糖尿病藥物調整及食物控制的依據，良好的血糖控制可減少低血糖和酮酸中毒的發生，並可預防併發症的出現。 血糖監測 時間： 控制良好→每週至少 ，飯前或飯後2小時監測。 控制不好→每天3～ ，飯前或飯後2小時及睡前。 方法...",
+      "fullContent": "定期的自我監測血糖可做為糖尿病藥物調整及食物控制的依據，良好的血糖控制可減少低血糖和酮酸中毒的發生，並可預防併發症的出現。 血糖監測 時間： 控制良好→每週至少 ，飯前或飯後2小時監測。 控制不好→每天3～ ，飯前或飯後2小時及睡前。 方法：依個案的血糖機不同略有所差異。 備物：血糖機、採血筆、採血針、血糖試紙、酒精棉片 洗手 將採血針裝置於採血筆 依手指皮膚厚度調整深淺刻度 將採血之手指搓揉幾秒 用酒精棉片消毒手指 等酒精完全揮發後，將採血筆靠穩手指尖並對準後刺入，擠出約米大的血滴 將手指上的血滴對準血糖機試紙凹槽吸入，等待出現結果 連續性血糖監測 連續性血糖監測可監測糖尿病病人24小時動態血糖波動。它能監測病人血糖變化特點和趨勢，可做為診斷、劑量調整和病人臨床教育的有利工具。 注意事項 備物時： 需注意血糖試紙有無過期，取出試紙後應立即蓋上瓶蓋預防試紙受潮，開封後需註明開封日期。 應保持血糖機內外的清潔。 血糖機之電力不充足時應更換電池。 血糖機廠牌眾多，操作前需詳細閱讀血糖機使用注意事項。 血糖機上出現特殊符號之意義：Lo代表血糖值太低，Hi代表血糖值太高，機器已無法測得數值。 採血時： 採血部位消毒後須等酒精完全揮發乾燥後再進行採血。 採血量要足夠，如血量不夠時，勿硬擠採血部位，否則組織液跑出來會影響血糖值。 每次監測血糖後可紀錄監測日期、時間及血糖值，於回診時供醫師參考。 廢棄的採血針頭需以瓶罐收集，可於回診時交由醫療院所回收或交至貼有「居家廢棄藥物檢收站」標章的藥局處理。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360113.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.297Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-c72aa24475",
+      "title": "糖尿病衛教之足部照顧與傷口照護",
+      "clinicName": "奇美醫院",
+      "category": "外科",
+      "summary": "糖尿病病人的足部循環比較差，又因汗液含有葡萄糖，提供了細菌良好的生存環境，所以比較容易感染，若加上感覺遲鈍或疏忽，沒有注意皮膚傷口，而使小傷口產生潰瘍、感染及壞疽，不僅不易痊癒甚至造成敗血症，進而可能需要「截肢」，因此要特別注意足部照顧。 ...",
+      "fullContent": "糖尿病病人的足部循環比較差，又因汗液含有葡萄糖，提供了細菌良好的生存環境，所以比較容易感染，若加上感覺遲鈍或疏忽，沒有注意皮膚傷口，而使小傷口產生潰瘍、感染及壞疽，不僅不易痊癒甚至造成敗血症，進而可能需要「截肢」，因此要特別注意足部照顧。 檢查足部 每天一次，察看是否有紅腫、熱痛、變色、破皮、裂痕、膿包、水泡、雞眼、胼胝、厚繭等。 適當清洗足部 以手肘試水溫，用溫水及中性肥皂洗淨。注意腳趾間的皮膚清潔 之後用柔軟的毛巾適當地擦乾足部，尤其趾縫 塗抹不含酒精的乳液，防止足部皮膚過度乾裂，趾縫間較不通風，避免塗抹 足部的保護事宜 襪子應選擇吸汗、透氣、柔軟、棉質。 襪子應每天換洗，破損時不可再穿（可選淺色襪子，以便察覺有無傷口）。 不穿趾頭沒有包覆的鞋，如涼鞋、拖鞋、日式夾腳鞋等，可避免足底及趾縫受傷。 鞋子應選擇軟皮、合腳、低跟、前頭要寬（圓頭）。 不要每天穿同一雙鞋，要讓鞋子有12~24小時通風晾乾的時間；以平行方式綁鞋帶，避免足背受壓。 穿鞋須穿襪子以減少磨擦且可吸汗。 買鞋最好在黃昏時，新鞋第一天穿半小時，以後每天增加1小時適應；鞋長需比最長腳趾多2公分，不可太緊。 趾甲、雞眼或硬繭的處理： 雞眼或硬繭不可自行用化學藥物或剪刀、刀子去除，硬繭可先用溫熱的水或溫熱毛巾軟化後再用磨砂板處理。 趾甲不可修剪太短，要剪平直，修剪後應用銼刀銼平。 視力差時，請家人協助檢查足部及修剪趾甲。 循環及安全的維護 注意腳部保暖，冷時可穿毛襪睡 襪子鬆緊帶不可太緊 天冷時忌使用熱水袋及電毯、暖爐以免燙傷 不要翹腳，避免壓迫神經與血管 禁止抽菸及吸二手菸，影響血液循環 不要赤腳走路，避免受傷 穿鞋前檢查鞋內是否有異物，以免扎傷 晚上在家要開燈，以免跌倒 傷口照護及注意事項 避免使用紅藥水或紫藥水，會不易察看傷口發炎及感染的徵兆。 不要自行在傷口敷草藥、中藥粉，以免傷口惡化。 保持傷口清潔。 傷口必須依醫護人員指導的方式換藥，換藥過程有任何問題，可隨時回門診追蹤、詢問。 傷口周圍皮膚完整處，可用嬰兒油滋潤，以避免皮膚乾裂、破皮。 若出現下列情形，請立即就醫：傷口出現感染發炎症狀，如疼痛、紅、腫、熱感及膿性分泌物；皮膚有裂傷或潰瘍情形。",
+      "keywords": [
+        "糖尿病",
+        "換藥",
+        "傷口"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360114.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.355Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-42bdfbb164",
+      "title": "糖尿病衛教之旅遊",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "許多人因為有了糖尿病而放棄一些國內、國外旅遊機會，原因是害怕在外用餐不知如何選擇食物，認為出外打針吃藥很麻煩，甚至於施打胰島素時擔心別人異樣的眼光，因此旅遊意願不高。其實，只要在旅遊前做好準備，相信也是可以快樂地享受假期。 注意事項 為預防...",
+      "fullContent": "許多人因為有了糖尿病而放棄一些國內、國外旅遊機會，原因是害怕在外用餐不知如何選擇食物，認為出外打針吃藥很麻煩，甚至於施打胰島素時擔心別人異樣的眼光，因此旅遊意願不高。其實，只要在旅遊前做好準備，相信也是可以快樂地享受假期。 注意事項 為預防低血糖發生，要帶足夠點心、糖果（包）、餅乾，最好在預定吃飯前30分鐘就已找到用餐地點，萬一延遲，則每1小時須補充15公克碳水化合物，例如小餐包1個或蘇打餅乾3片。 隨身帶有糖尿病識別卡，寫明姓名、就診醫院、醫師、聯絡電話、緊急聯絡人、用藥情形，若真有突發狀況，同行人也可立即處理。（國外旅遊：識別卡要翻譯成當地語言）。 穿著舊鞋、襪並再多準備一份。 備暈車藥、感冒藥、止瀉藥（若嚴重不適要馬上找醫師）。 藥物依旅遊日準備2倍劑量，且由不同人攜帶以防藥物遺失或破損。 注意旅遊地衛生情形。 同行團員中最好有人知道您的狀況，可在危急時幫忙您。 帶血糖機、雙倍試紙、採血針及酒精棉片。 胰島素保存：不可放置車後行李箱、車前置物箱、飛機托運艙，您可以暫且用濕毛巾將胰島素包裹起，帶在隨身皮包中或自備冰桶存放。 國外旅遊時： 帶一份當地文字或英文的證明書，包括您目前身體狀況、用藥情形。 與營養師討論當地食物應如何選擇。 可買旅行醫療險。 可向航空公司訂糖尿病餐。 旅遊地點若有時差務必與醫師討論用藥情形。",
+      "keywords": [
+        "糖尿病",
+        "感冒"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360115.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.404Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-9c5160977b",
+      "title": "糖尿病衛教之食物代換表",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "乳品類 奶類1份＝鮮奶、保久奶、優酪乳1杯（240 毫升）＝全脂奶粉4湯匙（30公克）＝低脂奶粉3湯匙（25公克）＝脫脂奶粉2.5湯匙（20公克）＝乳酪（起司）2片\u0003（45公克）＝優格210公克 全脂：每份含蛋白質8公克，脂肪8公克，醣類有...",
+      "fullContent": "乳品類 奶類1份＝鮮奶、保久奶、優酪乳1杯（240 毫升）＝全脂奶粉4湯匙（30公克）＝低脂奶粉3湯匙（25公克）＝脫脂奶粉2.5湯匙（20公克）＝乳酪（起司）2片\u0003（45公克）＝優格210公克 全脂：每份含蛋白質8公克，脂肪8公克，醣類有12公克，熱量150大卡 名稱 份量 計量 全脂奶 1杯 240毫升 全脂奶粉 4湯匙 30公克 蒸發奶 1/2杯 120毫升 ＊起司片 2片 45公克 ＊乳酪絲 35公克 低脂：每份含蛋白質8公克，脂肪4公克，醣類有12公克，熱量120大卡 名稱 份量 計量 低脂奶 1杯 240毫升 低脂奶粉 3湯匙 25公克 優格（無糖） 3/4杯 210公克 優酪乳（無糖） 1杯 240毫升 脫脂：每份含蛋白質8公克，醣類有12公克，熱量80大卡 名稱 份量 計量 脫脂奶 1杯 240毫升 脫脂奶粉 2.5湯匙 20公克 醣類含量較其他乳製品為低。每份醣類含量(公克)：起司片 2.9、乳酪絲 2.1 全穀雜糧類 每份含蛋白質2公克，醣類15公克，熱量70大卡 全榖雜糧類1份＝1／4碗飯＝1／2碗稀飯＝1／2碗麵條（熟）＝1／2碗冬粉（米粉、米苔目）＝1片薄吐司＝1／2碗蕃薯（或馬鈴薯、芋頭、南瓜）＝3免洗湯匙麥片 全榖雜糧類2份＝1／2碗飯＝1碗稀飯＝1碗麵條（熟）＝1碗冬粉（米粉、米苔目＝2片薄吐司＝1碗蕃薯（或馬鈴薯、芋頭、南瓜） 全榖雜糧類4份＝飯7-8分滿＝2碗稀飯＝2碗麵條（熟）＝2碗冬粉（米粉、米苔目＝4片薄吐司＝2碗蕃薯（或馬鈴薯、芋頭、南瓜） 豆、魚、蛋、肉類 每份含蛋白質7公克，脂肪3-10公克，熱量55∼120大卡 豆、魚、蛋、肉類1份＝1兩豬肉、牛肉、雞肉、鴨肉、魚肉（約三指手指頭之寬度）＝4隻草蝦=1隻小管（小型）＝1顆蛋＝3湯匙肉鬆＝2湯匙肉絲＝5匙吻仔魚＝1杯豆漿（190c.c.、不加糖）＝半盒嫩豆腐＝傳統豆腐約2方格 蔬菜類 每份100公克（可食部分）含蛋白質1公克，醣類5公克，熱量25大卡 蔬菜類1份＝100公克未煮熟蔬菜類＝煮熟半碗 水果類 每份含醣類15公克，熱量60大卡 水果類1份＝1個柳丁（中）＝１個蘋果（小）＝香蕉（大）半根＝西瓜、木瓜、哈密瓜、芭樂、鳳梨、水梨約飯碗8分滿＝小蕃茄23顆（1碗）＝葡萄13粒（約飯碗半碗） 油脂與堅果種子類 每份含脂肪5公克，熱量45大卡 油脂類1份＝植物油1／3匙免洗湯匙＝植物性奶油1／3匙免洗湯匙＝開心果15粒＝瓜子1匙免洗湯匙",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360116.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.449Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-f2f9bc72b9",
+      "title": "糖尿病衛教之外食",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "飲食原則 便當、自助餐 火鍋 以辛香料取代沙茶、豆瓣醬等高油醬料。 以原型食物（如：蔬菜、豆腐），取代加工火鍋料（如：魚丸、貢丸、蛋餃）。 喝湯時避免湯面浮油。 常見火鍋料中芋頭、玉米、地瓜、蓮藕皆屬於澱粉類，須留意白飯攝取量。 湯頭選擇建...",
+      "fullContent": "飲食原則 便當、自助餐 火鍋 以辛香料取代沙茶、豆瓣醬等高油醬料。 以原型食物（如：蔬菜、豆腐），取代加工火鍋料（如：魚丸、貢丸、蛋餃）。 喝湯時避免湯面浮油。 常見火鍋料中芋頭、玉米、地瓜、蓮藕皆屬於澱粉類，須留意白飯攝取量。 湯頭選擇建議以清澈湯底為主（如：昆布鍋），取代高油湯頭（如：沙茶鍋、臭臭鍋、麻辣鍋）。 飲料 以純茶無糖為主，避免加料及酸飲。 以茶凍、寒天取代波霸珍珠、椰果。 鮮奶茶含有鮮奶及乳糖也會影響血糖，建議以中杯取代大杯。 茶飲添加糖，如：蜂蜜、黑糖、蔗糖皆會影響血糖。 超商食品 挑選時要留意食品營養標示 挑選蛋白質、膳食纖維高的食物。舉例：豆奶燕麥飲 避免脂肪及精緻糖高的食物。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360117.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.489Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-bf0e425397",
+      "title": "甲狀腺機能低下症",
+      "clinicName": "奇美醫院",
+      "category": "一般衛教",
+      "summary": "。 診斷方法 抽血測定TSH、free T4或其他核醫及影像學檢查可以確定診斷。 治療 甲狀腺激素替代治療；常用合成甲狀腺素(T4)。 老年病人用藥開始劑量要小，因劑量過大可引起嚴重副作用，請配合醫囑。 此藥物需要終身服用，請配合醫囑，每日...",
+      "fullContent": "。 診斷方法 抽血測定TSH、free T4或其他核醫及影像學檢查可以確定診斷。 治療 甲狀腺激素替代治療；常用合成甲狀腺素(T4)。 老年病人用藥開始劑量要小，因劑量過大可引起嚴重副作用，請配合醫囑。 此藥物需要終身服用，請配合醫囑，每日服藥，不要忘記。 ～諮詢電話～ │奇美醫院│電話：(06)281-2811轉53923 │柳營奇美│電話：(06)622-6999轉73515 │佳里奇美│電話：(06)726-3333轉33905 │奇美醫院│電話：(06)281-2811轉53923 │柳營奇美│電話：(06)622-6999轉73515 │佳里奇美│電話：(06)726-3333轉33905",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360119.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.547Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-f483bdb8dc",
+      "title": "筆型降血糖藥注射技術",
+      "clinicName": "奇美醫院",
+      "category": "皮膚病",
+      "summary": "筆型胰島素注射技術 選擇位置(以腹部為例)：病人一手握拳蓋住肚臍，另一手掌置於拳頭旁，注射在手掌寬的距離內。 酒精棉採環狀由內往外消毒注射部位5公分圓範圍，待酒精乾才可注射。 一手先以兩手指捏起注射部位，另一手持筆型針筒將針頭朝下與皮膚成9...",
+      "fullContent": "筆型胰島素注射技術 選擇位置(以腹部為例)：病人一手握拳蓋住肚臍，另一手掌置於拳頭旁，注射在手掌寬的距離內。 酒精棉採環狀由內往外消毒注射部位5公分圓範圍，待酒精乾才可注射。 一手先以兩手指捏起注射部位，另一手持筆型針筒將針頭朝下與皮膚成90度插入。 繼續維持捏起的部位，持筆型針筒的手以大拇指按下按鈕，等藥物全部注入後，再停留10-15秒，才將針頭拔出，另一手放開注射部位，再以酒精棉按壓注射部位。 ★使用不同長度針頭注射：是否需捏起皮膚及注射角度因人而異。請將注射過的胰島素針頭放置於空罐子（如保特瓶）並將瓶蓋拴緊，帶回醫院銷毀。",
+      "keywords": [],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360122.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.589Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-e4afc27407",
+      "title": "口服降血糖藥",
+      "clinicName": "奇美醫院",
+      "category": "慢性病",
+      "summary": "適用於第2型糖尿病的病人，凡飲食、運動控制，血糖仍控制不佳者均可使用。一般而言可分為以下幾種： 促胰島素分泌劑 1.磺醯尿素類 作 用：刺激胰臟分泌更多的胰島素。 服用方法：飯前15∼30分服用。 可能之不良反應：低血糖、腸胃不適。 藥物名...",
+      "fullContent": "適用於第2型糖尿病的病人，凡飲食、運動控制，血糖仍控制不佳者均可使用。一般而言可分為以下幾種： 促胰島素分泌劑 1.磺醯尿素類 作 用：刺激胰臟分泌更多的胰島素。 服用方法：飯前15∼30分服用。 可能之不良反應：低血糖、腸胃不適。 藥物名稱與外觀： Gliben（固利康） Amepiride（欣益糖） 2.非磺醯尿素類 作 用：刺激胰臟分泌更多的胰島素。 服用方法：飯前30分鐘內服用。 可能之不良反應：低血糖、腸胃不適。 藥物名稱與外觀： Supernide（速克糖） 雙胍類 作 用：抑制肝臟製造葡萄糖，促進胰島素的周邊作用。 服用方法：飯後服用。 可能之不良反應：腸胃不適、噁心、嘔吐。 藥物名稱與外觀： Metose（益糖定） 腸胃醣類消化酶抑制劑 作 用：抑制多醣或雙醣分解成單醣，減少單醣在小腸吸收 服用方法：與主餐第一口飯一起咀嚼服用。 可能之不良反應：腹脹、排氣及腹瀉。 藥物名稱與外觀： Glucobay（醣祿錠） 胰島素增敏劑 作 用：增加體內對胰島素的敏感性。 服用方法：飯前或飯後服用。 可能之不良反應：體重增加、水腫、頭痛。 藥物名稱與外觀： Pioglit（順醣錠） SGLT2抑制劑 作 用：降低腎臟對糖分再吸收作用，增加糖尿病人尿液中的排糖量。 服用方法：餐前或餐後服用 可能之不良反應： 恩排糖─血脂異常、尿路感染、暈眩、噁心。 福適佳─尿路黴菌感染、鼻咽炎、噁心。 可拿糖─泌尿道感染、低血糖、脫水、便秘。 藥物名稱與外觀： Jardiance（恩排糖） Forxiga（福適佳） CANAGLU（可拿糖） DPP-4抑制劑 作 用：提高血液循環中生理活性之腸泌素，從而增加胰島素分泌，達到改善血糖的作用。 服用方法：飯前或飯後服用。 可能之不良反應：低血糖、頭痛、暈眩、噁心、過敏、腹瀉。 藥物名稱與外觀： JANUVIA（佳糖維） Trajenta（糖漸平） Galvus（高糖優適） 釋多糖複方藥物 作 用：福適佳（SGLT2抑制劑）和雙胍類的複方劑，作用請參考此兩項作用。 服用方法：可於早上隨餐服用，或依醫囑指示使用，服用不可嚼碎或剝半，須整粒吞服。 可能之不良反應：泌尿道感染、便秘、頭痛、頭暈。 注意事項：會有類似錠狀柔軟含水物從糞便排除屬正常現象。若為腎病患者，請先告知醫師。 藥物名稱與外觀： Xigduo XR（釋多糖） 類升糖素胜肽-1(GLP-1)類似物 作 用：類升糖素胜肽-1(GLP-1)受體活性劑，促進胰島素釋放，抑制升糖素分泌，抑制食慾，達到降低血糖。 服用方法：空腹服用，且搭配少量水(≦120mL)，服藥後＞30分鐘後才可進食。 可能之不良反應：噁心、嘔吐、便秘、腹瀉、腹痛、低血糖。 注意事項：服藥期間需行避孕措施，漏掉一劑則應跳過，隔日再服用；請勿磨粉或剝半。 藥物名稱與外觀： Rybelsus（瑞倍適錠3mg） Rybelsus（瑞倍適錠7mg） Rybelsus（瑞倍適錠14mg） 愛糖降複方藥物 作 用：磺醯尿素類及雙胍類的複方劑，作用請參考此兩項作用。 服用方法：餐前或隨餐服用。 可能之不良反應：噁心、嘔吐、低血糖、腹瀉。 藥物名稱與外觀： Amamet（愛糖降） 捷糖穩複方藥物 作 用：佳糖維（DPP-4抑制劑）和雙胍類的複方劑，作用請參考此兩項作用。 服用方法：與食物併服 可能之不良反應：腸胃不適、噁心、嘔吐、頭痛。 藥物名稱與外觀： JANUMET（捷糖穩） 高糖優美複方藥物 作 用：高糖優適（DPP-4抑制劑）和雙胍類的複方劑，作用請參考此兩項作用 服用方法：隨餐服用。 可能之不良反應：低血糖、頭痛、眩暈、噁心。 藥物名稱與外觀： Galvus Met（高糖優美） 恩美糖複方藥物 作 用：恩排糖（SGLT2抑制劑）和雙胍類的複方劑，作用請參考此兩項作用。 服用方法：隨餐服⽤或依醫囑指示使用 可能之不良反應：血脂異常、尿路感染、暈眩、噁心…等。 注意事項：若為腎病患者，請先告知醫師。 藥物名稱與外觀： Jardiance DUO（恩美糖） 糖倍平複方藥物 作 用：糖漸平（DPP-4抑制劑）和雙胍類的複方劑，作用請參考此兩項作用。 服用方法：隨餐服用。 可能之不良反應：急性過敏、乳酸中毒 。 藥物名稱與外觀： Trajenta Duo（糖倍平） 糖順平複方藥物 作 用：糖漸平(DPP-4抑制劑)和恩排糖(SGLT2抑制劑)的複方劑，作用請參考此兩項作用。 服用方法：可與食物一起服用也可空腹服用。 可能之不良反應：泌尿道感染、低血糖、上呼吸道感染、鼻咽炎。 藥物名稱與外觀： Glyxambi（糖順平） 歐欣尼複方藥物 作 用：耐釋糖（Alogliptin）（DPP4-抑制劑）和胰島素增敏劑的複方劑，作用請參考此兩項作用 服用方法：服藥時間不受食物影響，請依醫師指示使用，服用藥品前再拆開鋁箔，避免藥品受潮。 可能之不良反應：水腫、低血糖、心臟不適、背痛、上呼吸道感染。 注意事項：若出現水腫、體重增加、呼吸急促、排尿問題、背痛、心臟不適或肝功能異常症狀，請就醫。 藥物名稱與外觀： Oseni（歐欣尼） 控糖穩複方藥物 作 用：昂格莎(DPP-4抑制劑)和福適佳(SGLT2抑制劑)的複方劑，作用請參考此兩項作用。 服用方法：早晨隨餐或空腹服用(不建議切半)。 可能之不良反應：尿路感染、排尿增加、血脂異常、頭痛。 藥物名稱與外觀： Qtern（控糖穩） 釋糖健複方藥物 作 用：佳糖維(DPP-4抑制劑)和穩適妥(SGLT2抑制劑)的複方劑，作用請參考此兩項作用。 服用方法：早晨隨餐或空腹服用。 可能之不良反應：泌尿道感染、頭痛、排尿增加、鼻咽炎、口渴、低血糖。 藥物名稱與外觀： Steglujan（釋糖健） 以上所有 來源：奇美醫院藥劑部 注意事項 病人須認識自己吃的降血糖藥。 依照醫師指示按時服藥，不可任意調整劑量或停藥。 服用口服降血糖藥物，若出現不適症狀，請回診時告知醫師，以利調整藥物。 遵從醫囑定期抽血及小便檢查。 測試飯前血糖時不要服用飯前降血糖藥物，等測試完畢準備進食前再服用。 若有檢查或治療需禁食，請停用降血糖藥物。 口服降血糖藥物期間如發生低血糖時（饑餓、發抖、冒冷汗），應立即服用120c.c.果汁或15公克糖，若症狀仍未改善，請馬上就醫。 飲酒會影響用藥結果，空腹飲酒容易導致低血糖。 口服降血糖藥物應儲存於陰涼處，並避免兒童拿取。 ※若有新藥上市，請至本院藥劑部藥物查詢網站：請點我。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.chimei.org.tw/main/cmh_department/59012/info/7360/A7360123.html",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:46.639Z",
+      "excerpt": "已抓取公開頁面文字與相關圖片並產生摘要。專題展示以摘要、圖片與來源連結呈現，完整內容請回原網站閱讀。"
+    },
+    {
+      "id": "crawl-d9fa4b399a",
+      "title": "糖尿病飲食",
+      "clinicName": "亞東紀念醫院",
+      "category": "慢性病",
+      "summary": "一 一 一 一. . . .定義 定義 定義 定義 本飲食以正常飲食為基礎，藉調整營養素的攝取量，以達到控制 代謝異常的目標。 二 二 二 二. . . .目的 目的 目的 目的 1. 配合病情提供均衡的營養。 2. 預防或延緩併發症的發生...",
+      "fullContent": "一 一 一 一. . . .定義 定義 定義 定義 本飲食以正常飲食為基礎，藉調整營養素的攝取量，以達到控制 代謝異常的目標。 二 二 二 二. . . .目的 目的 目的 目的 1. 配合病情提供均衡的營養。 2. 預防或延緩併發症的發生。 3. 控制血糖、血壓、血脂肪，使接近正常值。 三 三 三 三. . . .一般原則 一般原則 一般原則 一般原則 1. 切忌肥胖，維持理想體重。 2. 養成定時定量的飲食習慣，並依照營養師所建議的份量攝取。 3. 飲食清淡自然，減少鹽份的攝取。 4. 採用少油烹調法，如蒸、滷、燙等，少吃油煎炸酥物。 建議採植物性油脂如沙拉油、花生油、橄欖油、芥花油等。 5. 減少飽和脂肪酸的攝取，如:豬皮、雞皮、肥肉及豬油、椰子油、棕櫚油等。 6. 富含反式脂肪酸的油脂，如：奶油、瑪琪琳、烤酥油等及其製品 (糕餅類、小西點等)應盡量減少食用。 7. 若本身膽固醇高、曾有動脈血管栓塞、肥胖或脂肪肝者，建議雞蛋的 攝取應一天少於一顆蛋黃。 8. 依計劃選用富含纖維質的食物如蔬菜、水果、未加工豆類及全穀雜糧類。 9. 中西式點心、節慶食品及含糖類的食物應按營養師指導食用。 10.避免甜食及含糖飲料，嗜甜食者可依建議選用適合的「代糖」做甜味劑。 11.使用藥物的患者，延緩用餐時，應防止低血糖發生，若發生低血糖 (<70mg/dL)症狀，請立即食用 15 公克糖包或果汁、含糖飲料 120-150c.c 或 1 湯匙蜂蜜。 12.建議每週運動 150 分鐘中強度有氧身體活動，並請自我偵測，定期追蹤， 以做飲食調整。",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.femh.org.tw/HEPUnload/20250127142846.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:03:48.829Z",
+      "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
+    },
+    {
+      "id": "crawl-7c7fd68289",
+      "title": "糖尿病的飲食原則",
+      "clinicName": "馬偕紀念醫院",
+      "category": "慢性病",
+      "summary": " 遵循屬於您的飲食計劃  均衡飲食，切忌肥胖  多選擇富含纖維素的食物  少吃油炸、油酥等高油食物  避免攝食含高膽固醇的食物  飲食應清淡不可過鹹  儘量少吃富含精製糖類食品  儘量避免喝酒  全穀雜糧類(主食) 蔬菜...",
+      "fullContent": " 遵循屬於您的飲食計劃  均衡飲食，切忌肥胖  多選擇富含纖維素的食物  少吃油炸、油酥等高油食物  避免攝食含高膽固醇的食物  飲食應清淡不可過鹹  儘量少吃富含精製糖類食品  儘量避免喝酒  全穀雜糧類(主食) 蔬菜類  豆魚蛋肉類 水果類  奶品類  堅果種子及 油脂類 六大類食物 烹調方法： 【少油】  儘量多用 清蒸、水煮、涼拌、 烤、燒、燉、滷 【少鹽】  避免高鹽食品 加工或醃製食品  注意減少鈉攝食 鹽的使用 含鈉調味品  用某些食物提味 酸味─鳳梨、檸檬 糖醋─糖加 白醋 甘味─香菜、香菇 食物的攝取原則：  依生活作習定出三餐時間表  每餐吃固定的肉類和主食份數  早餐的牛奶和肉類可以互換  以蔬菜做為調整飽足感的食物  水果也應固定份量，建議於 正餐後吃，而不當做點心。 小心油脂！  總油脂量：包括食物中看不見的油  飽和脂肪：豬油、雞油、椰子油、雞皮、 豬皮、肥肉  高膽固醇：內臟、蛋黃等 應用代糖 取代一般的糖 蔗糖、果糖等  與營養師協商飲食份量  暸解自我飲食習慣與評估  養成定時定量的習慣  學習食物分類與代換 -- 2 of 2 --",
+      "keywords": [
+        "糖尿病"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1581595220892-b0739db3ba8c?auto=format&fit=crop&w=900&q=80",
+      "sourceUrl": "https://www.mmh.org.tw/upload/health/F1-%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E9%A3%B2%E9%A3%9F%E5%8E%9F%E5%89%871110909.pdf",
+      "sourceType": "crawled",
+      "publishedAt": "2026-05-28",
+      "crawledAt": "2026-05-28T13:07:44.735Z",
       "excerpt": "由公開 PDF 衛教單擷取文字後建立索引，保留原始來源方便回到院所網站查證。"
     }
   ]

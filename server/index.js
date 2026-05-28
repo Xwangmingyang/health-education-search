@@ -28,7 +28,13 @@ const knownArticleTitles = {
   "https://health.ntuh.gov.tw/health/new/6260.html": "預防腦中風",
   "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no166/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B9%8B%E6%96%B0%E5%88%86%E9%A1%9E.pdf": "糖尿病之新分類",
   "https://health.ntuh.gov.tw/health/NTUH_e_Net/NTUH_e_Net_no170/%E7%B3%96%E5%B0%BF%E7%97%85%E8%97%A5%E7%89%A9%E4%BB%8B%E7%B4%B9.pdf": "糖尿病藥物介紹",
+  "https://health.ntuh.gov.tw/health/forms/01_%E7%B3%96%E5%B0%BF%E7%97%85%E6%87%89%E6%9C%89%E7%9A%84%E8%AA%8D%E8%AD%98.pdf": "糖尿病應有的認識",
+  "https://health.ntuh.gov.tw/health/new/6280.pdf": "心臟衰竭護心衛教手冊",
   "https://www.kmuh.org.tw/Web/KMUHDept/Portals/sdm/0100-0160-4%20%2C.pdf": "第二型糖尿病用藥醫病共享決策",
+  "https://www.mmh.org.tw/upload/doc/56/%E9%AB%98%E8%A1%80%E5%A3%93%E8%97%A5%E7%89%A9%E6%B2%BB%E7%99%82%E9%A0%88%E7%9F%A5%28201508%29.pdf": "高血壓藥物治療須知",
+  "https://www.mmh.org.tw/upload/health/F1-%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E9%A3%B2%E9%A3%9F%E5%8E%9F%E5%89%871110909.pdf": "糖尿病的飲食原則",
+  "https://www.mmh.org.tw/upload/health/%E5%BF%83%E8%87%9F%E5%86%A0%E7%8B%80%E5%8B%95%E8%84%88%E7%96%BE%E7%97%85%E8%87%AA%E6%88%91%E7%85%A7%E8%AD%B7%E8%A1%9B%E6%95%99%E6%89%8B%E5%86%8A.pdf": "心臟冠狀動脈疾病自我照護衛教手冊",
+  "https://www.femh.org.tw/HEPUnload/20250127142846.pdf": "糖尿病飲食",
   "https://www.femh.org.tw/magazine/viewmag?ID=10883": "年長者不容忽視的三高危害",
 };
 
@@ -415,6 +421,10 @@ function isStmEducationListPage(url) {
   return /stm\.org\.tw\/diabetes\/education(?:\.aspx)?\?Typeid=/i.test(url);
 }
 
+function isChimeiEducationListPage(url) {
+  return /chimei\.org\.tw\/main\/cmh_department\/59012\/info\/(?:7320|7360)\/(?:7320|7360)\.html$/i.test(url);
+}
+
 function isPdfUrl(url) {
   return /\.pdf(?:$|\?)/i.test(url);
 }
@@ -428,6 +438,19 @@ function discoverArticleTargets({ html, url }) {
       const href = absoluteUrl($(link).attr("href"), url);
       const title = normalizeText($(link).text());
       if (href && title && !targets.has(href)) targets.set(href, { url: href, title });
+    });
+    return [...targets.values()];
+  }
+
+  if (isChimeiEducationListPage(url)) {
+    const targets = new Map();
+    $('a[href$=".html"]').each((_, link) => {
+      const href = absoluteUrl($(link).attr("href"), url);
+      const title = normalizeText($(link).text());
+      if (!href || href === url) return;
+      if (!/\/(?:7320|7360)\/(?:A\d{7}|\d{8})\.html$/i.test(href)) return;
+      if (title.length < 3) return;
+      targets.set(href, { url: href, title });
     });
     return [...targets.values()];
   }
@@ -846,6 +869,10 @@ app.post("/api/admin/crawl", authRequired, adminRequired, async (req, res) => {
   const crawlTargets = [];
   for (const url of source.urls) {
     try {
+      if (isPdfUrl(url)) {
+        crawlTargets.push({ url });
+        continue;
+      }
       const html = await fetchHtml(url, mode === "browser");
       const discoveredTargets = discoverArticleTargets({ html, url });
       if (discoveredTargets.length > 1 || discoveredTargets[0]?.url !== url) {
